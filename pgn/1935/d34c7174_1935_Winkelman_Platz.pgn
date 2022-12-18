@@ -1,0 +1,20 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Winkelman, B."]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d34c7174"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. c4 e6 2. d4 d5 3. Nf3 Nf6 4. Nc3 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. e3 Be7 8.
+Qc2 Nh5 9. Bxe7 Qxe7 10. Bd3 Nf4 11. O-O Nxd3 12. Qxd3 O-O 13. e4 dxe4 14. Nxe4
+Nf6 15. Ng3 Qb4 16. a3 Qa5 17. Rfe1 Be6 18. Re5 Qa4 19. Ng5 Qc4 20. Qb1 g6 21.
+Nf3 Bd5 22. b3 Qxb3 23. Qc1 Bxf3 24. gxf3 Rad8 25. Rb1 Qd3 26. Nf5 Qxf3 27. Qh6
+Qg4+ 28. Kh1 Nh5 29. Ne7+ Kh8 30. Rxb7 Nf4 31. Nxg6+ Qxg6 32. Qxf4 Rg8 33. Qg3
+Qc2 34. Qe3 Qd1+ 35. Qe1 Qf3# 0-1

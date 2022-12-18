@@ -1,0 +1,16 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Romano"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "5ae025cd"]
+[Epoch "Knight"]
+
+1. d4 e5 2. d5 Bc5 3. c4 Nf6 4. a3 Bxf2+ 5. Kxf2 Ne4+ 6. Ke3 f5 7. Nf3 d6
+8. Nc3 f4+ 9. Kxe4 Bf5+ 10. Kxf5 Qf6+ 11. Ke4 Qg6# 0-1
+

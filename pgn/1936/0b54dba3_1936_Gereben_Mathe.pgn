@@ -1,0 +1,19 @@
+[Event "Budapest-B"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Gereben, Erno"]
+[Black "Mathe, L."]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical"]
+[HashCode "0b54dba3"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Qc7 8.
+O-O d6 9. f4 Bd7 10. Qe1 Na5 11. Rd1 Nc4 12. Bc1 Rc8 13. Kh1 b5 14. Bxc4 Qxc4
+15. e5 b4 16. exf6 bxc3 17. fxg7 Bxg7 18. Nf5 Bf8 19. b3 Qc5 20. Ng3 Rg8 21. f5
+Be7 22. Ne4 Qe5 23. fxe6 fxe6 24. Bf4 Qg7 25. Bg3 d5 26. Rxd5 exd5 27. Nd6+ Kd8
+28. Rf7 Qg5 29. Rxe7 Qd2 30. Nf7# 1-0

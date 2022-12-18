@@ -1,0 +1,16 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1925.??.??"]
+[Round "8"]
+[White "Villegas, Benito"]
+[Black "Romano, V."]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "7513338d"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 d6 5. d4 Bf5 6. Qb3 Qc8 7. d5 Nb8 8. Nh4
+Bg6 9. Nxg6 hxg6 10. e4 Nbd7 11. Qc2 a5 12. g3 Nc5 13. Bg2 Be7 14. h4 1-0

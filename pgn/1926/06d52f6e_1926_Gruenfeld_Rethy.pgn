@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Gruenfeld, Ernst"]
+[Black "Rethy, Pal"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "06d52f6e"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. Be3 Bb4+ 7. Nc3 d6 8.
+Bd3 Bxc3+ 9. bxc3 O-O 10. Nf3 f5 11. O-O fxe4 12. Bxe4 Ne7 13. Ng5 h6 14. Bd5+
+Kh8 15. Nf7+ Rxf7 16. Bxf7 Nf5 17. Bd4 Nc6 18. Re1 Bd7 19. Bf2 Qf6 20. Qh5 Nce7
+21. Bd5 c6 22. Be4 d5 23. cxd5 cxd5 24. Bxf5 Nxf5 25. g4 Nd6 26. Bd4 1-0

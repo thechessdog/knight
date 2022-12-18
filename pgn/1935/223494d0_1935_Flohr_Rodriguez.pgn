@@ -1,0 +1,20 @@
+[Event "Leon simul"]
+[Site "Leon simul"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Rodriguez, Ruben Jorge"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "223494d0"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nc6 5. d4 exd4 6. cxd4 Bb6 7. Nc3 Bg4 8. Bb5
+Bxf3 9. Qxf3 Bxd4 10. e5 Ne7 11. Bd2 O-O 12. O-O-O dxe5 13. fxe5 Nxe5 14. Qxb7
+Rb8 15. Qe4 c5 16. Bf4 f6 17. Bxe5 fxe5 18. Bd3 Ng6 19. h4 Rf2 20. Bc2 c4 21.
+h5 Nf8 22. h6 Rxb2 23. Kxb2 Qb6+ 24. Kc1 Be3+ 25. Qxe3 Qxe3+ 26. Kb2 Qb6+ 27.
+Kc1 Qb4 28. Rh3 Qa3+ 29. Kb1 Rxg2 30. Rf1 e4 31. Nd5 Qc5 32. Bxe4 Rg1 33. Rf3
+Rxf1+ 34. Rxf1 gxh6 35. Kc2 Kg7 36. Nc3 Ne6 37. Bd5 Qd4 38. Rf3 Ng5 0-1

@@ -1,0 +1,17 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Yates, Frederick Dewhirst"]
+[Black "Marin y Llovet, Valentin"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "74e03a62"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ESP"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Qg4 O-O 8.
+Bd3 Nxc3 9. bxc3 c5 10. Nf3 c4 11. Bxh7+ 1-0

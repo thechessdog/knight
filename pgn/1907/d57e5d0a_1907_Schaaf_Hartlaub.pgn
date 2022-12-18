@@ -1,0 +1,17 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Schaaf"]
+[Black "Hartlaub, Carl"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "d57e5d0a"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Qe2 f5 5. d3 Nf6 6. Nd2 Bb4 7. dxe4 Nxe4 8.
+Qb5+ Kf7 9. Qxb4 Qh4+ 10. g3 Nxg3 11. Ngf3 Re8+ 12. Kd1 Nxh1 13. Be2 Nf2+ 14.
+Ke1 Nd3+ 15. Kd1 Qe1+ 16. Nxe1 Nf2# 0-1

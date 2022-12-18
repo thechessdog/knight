@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Zak, Uriel"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "430949e0"]
+[Epoch "Knight"]
+[WhiteID "2800640"]
+[WhiteCountry "ISR"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e4 Nc6 6. Bg5 Bxf2+ 7. Ke2 Nd4+ 8.
+Qxd4 Bxd4 9. Bxd8 Bxb2 0-1

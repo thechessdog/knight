@@ -1,0 +1,21 @@
+[Event "Zuerich m"]
+[Site "Zuerich"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "Johner, Hans"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical attack"]
+[HashCode "7769268d"]
+[Epoch "Knight"]
+[WhiteCountry "SWI"]
+[BlackCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. h4
+h5 9. Qd2 Nc6 10. f3 d5 11. Nxc6 bxc6 12. e5 Ne8 13. f4 f6 14. g4 Bxg4 15. Bxg4
+hxg4 16. h5 fxe5 17. hxg6 Qd6 18. fxe5 Qxe5 19. O-O-O Nd6 20. Bh6 Bxh6 21. Rxh6
+Qf4 22. Qxf4 Rxf4 23. Ne2 Rf6 24. Ng3 Rf3 25. Rg1 Rxg3 26. Rxg3 Nf5 27. Rh4
+Nxh4 28. Rxg4 Nf5 29. Ra4 a6 30. c4 Kg7 31. cxd5 cxd5 32. Kd2 Kxg6 33. b4 Nd6
+34. Ke2 Kf5 35. Ra5 Ke4 36. a4 Nb7 0-1

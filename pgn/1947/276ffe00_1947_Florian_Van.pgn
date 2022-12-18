@@ -1,0 +1,18 @@
+[Event "NED-CSR"]
+[Site "The Hague"]
+[Date "1947.??.??"]
+[Round "2"]
+[White "Florian, Jaromir"]
+[Black "Van Hamming"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[HashCode "276ffe00"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nf6 6. d4 Be7 7. Bd3 Bg4 8.
+h3 Bh5 9. Bf4 Nc6 10. g4 Bg6 11. Qe2 Nb4 12. Bxg6 hxg6 13. Qb5+ Qd7 14. Qxb4
+Nxg4 15. Qxb7 Rc8 16. O-O-O Nxf2 17. Rde1 O-O 18. Rh2 Qf5 19. Nd5 Rfe8 20. Rxe7
+c6 21. Rxe8+ Rxe8 22. Qxc6 Re2 23. Rxf2 1-0

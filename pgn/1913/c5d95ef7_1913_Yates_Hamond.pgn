@@ -1,0 +1,19 @@
+[Event "Cheltenham"]
+[Site "Cheltenham"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Yates, Frederick Dewhirst"]
+[Black "Hamond"]
+[Result "1-0"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "c5d95ef7"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Nd7 7. Be3 Nb6
+8. Qd2 Be6 9. b3 Nd5 10. c4 Nxe3 11. fxe3 Bh6 12. Bd3 Qd7 13. Qf2 Qc7 14. O-O
+O-O-O 15. Kh1 Kb8 16. b4 f5 17. Rab1 Rhg8 18. Rfc1 f4 19. e4 Rg4 20. Rc2 Rdg8
+21. Bf1 Bg5 22. b5 cxb5 23. d5 Bc8 24. cxb5 Qd6 25. b6 a6 26. Qd4 Bh6 27. Rbc1
+R4g6 28. Ne5 f3 29. Rxc8+ Rxc8 30. Rxc8+ Kxc8 31. Nxg6 fxg2+ 32. Bxg2 1-0

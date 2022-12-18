@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Füster, Géza"]
+[Black "Drucker"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "4c274195"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. Ne5 Bf5 5. a4 e6 6. Nc3 Bb4 7. Nxc4 Nf6 8. f3
+Nbd7 9. e4 Nxe4 10. fxe4 Qh4+ 11. Kd2 Qxe4 12. Nd6+ Bxd6 13. Nxe4 1-0

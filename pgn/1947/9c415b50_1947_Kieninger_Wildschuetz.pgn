@@ -1,0 +1,20 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Kieninger, Georg"]
+[Black "Wildschuetz"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "9c415b50"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nc3 Ne7 9. Be3 f5 10. Nxf5 Nxf5 11. exf5 Bxf5 12. O-O-O O-O 13. h3 Rae8 14.
+a3 a5 15. Rde1 b5 16. Bd2 b4 17. Nb1 Rb8 18. Re3 c5 19. b3 c4 20. bxc4 Bc5 21.
+Rf3 bxa3 22. Nxa3 Be4 23. Rxf8+ Rxf8 24. Nb5 Bxg2 25. Re1 c6 26. Re5 Bxf2 27.
+Nd6 Bd4 28. Re7 Rf1+ 29. Be1 h6 30. Kd2 a4 31. c3 Bc5 32. Re8+ Rf8 33. Rxf8+
+Kxf8 34. Nb7 Be7 35. h4 c5 36. Na5 Bd8 37. Bf2 Bxa5 38. Bxc5+ Kf7 0-1

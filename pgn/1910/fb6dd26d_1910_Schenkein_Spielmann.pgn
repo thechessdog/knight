@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Schenkein, J."]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "fb6dd26d"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 Ne7 7. d4 Ng6 8. Ng2
+Nc6 9. e3 h5 10. Bd3 h4 11. Bxg6 fxg6 12. Nxh4 Rxh4 13. gxh4 Qxh4+ 14. Kd2 Bf5
+15. a3 O-O-O 16. Kc3 Be5 17. b4 Nxd4 18. exd4 Rxd4 19. Nd2 Rd3+ 20. Kc4 g3+ 21.
+Kb5 Bd7+ 22. Ka5 Rd5+ 0-1

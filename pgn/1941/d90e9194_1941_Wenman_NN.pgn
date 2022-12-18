@@ -1,0 +1,15 @@
+[Event "Bristol"]
+[Site "Bristol"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Wenman, P."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "d90e9194"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 d6 5. dxe5 dxe5 6. Bxf7+ Ke7 7. Bd5 Nf6
+8. O-O Bg4 9. c4 Nd4 10. b3 c6 11. Nxe5 Bxd1 12. Ba3+ Ke8 13. Bf7# 1-0
+

@@ -1,0 +1,20 @@
+[Event "Kecskemet f II"]
+[Site "Kecskemet f II"]
+[Date "1927.07.01"]
+[Round "3"]
+[White "Berndtsson, Karl"]
+[Black "Takacs, Sandor"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "03cff2d0"]
+[Epoch "Knight"]
+[BlackID "791601"]
+[BlackCountry "HUN"]
+[WhiteCountry "SWE"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Be7 10. Be2 O-O 11. O-O f6 12. exf6 Bxf6 13. Qd2 Qe7 14. Rad1 Rad8
+15. c5 Nd5 16. Nxd5 exd5 17. b4 Rde8 18. Ne5 Nxe5 19. Rxf5 Ng6 20. Rf3 Bh4 21.
+Rdf1 Bg5 22. Rxf8+ Nxf8 23. Bxg5 Qxe2 24. Qf4 h5 25. Qf7+ Kh7 26. Bf6 1-0

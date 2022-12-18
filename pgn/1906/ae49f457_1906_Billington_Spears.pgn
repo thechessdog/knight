@@ -1,0 +1,17 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Billington"]
+[Black "Spears, Nicholas"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "ae49f457"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 bxc6 7. dxe5
+Nb7 8. Nd4 Be7 9. Nf5 Bf8 10. Re1 g6 11. Nd6+ cxd6 12. exd6+ Be7 13. Rxe7+
+Kf8 14. Bh6+ Kg8 15. Qd4 f6 16. Qc4# 1-0
+

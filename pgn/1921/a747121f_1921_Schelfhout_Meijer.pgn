@@ -1,0 +1,16 @@
+[Event "Nijmegen ch-NED"]
+[Site "Nijmegen ch-NED"]
+[Date "1921.01.01"]
+[Round "5"]
+[White "Schelfhout, Willem"]
+[Black "Meijer, Reurt"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov three knights game"]
+[HashCode "a747121f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Bb4 4. Bc4 d6 5. d3 Be6 6. Bb3 Nc6 7. O-O O-O 8. Ne2
+d5 9. Ng3 Qd7 10. c3 Ba5 11. Qe2 d4 12. Bxe6 Qxe6 13. c4 Ne7 14. a3 c5 15. Nh4
+Ne8 16. f4 exf4 17. Bxf4 Ng6 18. Nhf5 Bc7 19. Bxc7 Nxc7 20. Nh5 Ne8 21. Qd2 Rc8
+22. Nfxg7 1-0

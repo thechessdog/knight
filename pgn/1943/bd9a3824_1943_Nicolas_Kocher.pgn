@@ -1,0 +1,21 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Nicolas"]
+[Black "Kocher"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "bd9a3824"]
+[Epoch "Knight"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 a6 5. Bg5 Be7 6. e3 O-O 7. a3 dxc4 8.
+Bxc4 b5 9. Ba2 Nbd7 10. b4 Bb7 11. O-O a5 12. Nxb5 axb4 13. axb4 c6 14. Nc3
+Bxb4 15. Qb3 Qa5 16. Rfc1 c5 17. Bxf6 gxf6 18. dxc5 Nxc5 19. Qc2 f5 20. Nd4
+Rfc8 21. Nxf5 Ne4 22. Qe2 Qxf5 23. g4 Nxc3 24. Rxc3 Qe4 25. f3 Qxf3 26.
+Qxf3 Bxf3 27. Rxc8+ Rxc8 28. h3 Rc2 29. Bb1 Rb2 30. Bd3 Bc5 31. Re1 Bd6 32.
+Rb1 Bh2+ 33. Kf1 Bg2+ 34. Ke1 Bg3+ 35. Kd1 Rxb1+ 36. Bxb1 Bxh3 37. g5 Bh4
+0-1
+

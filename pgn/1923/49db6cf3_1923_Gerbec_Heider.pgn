@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Gerbec"]
+[Black "Heider"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[HashCode "49db6cf3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. d3 d6 6. c3 Nf6 7. Nbd2 O-O 8.
+Qe2 Re8 9. Nf1 b5 10. Bc2 d5 11. Bg5 Bb7 12. Ng3 h6 13. Bd2 dxe4 14. dxe4
+Bc5 15. Rd1 Qe7 16. Nf5 Qf8 17. N3h4 Ne7 18. O-O Bc8 19. g4 Ng6 20. Ng2 Nh7
+21. Kh1 Bb7 22. f3 Be7 23. h4 Bf6 24. Be3 Red8 25. b4 Rxd1 26. Rxd1 Rd8 27.
+Rg1 Rd7 28. Qf2 Nf4 29. Nxf4 exf4 30. Bxf4 Bxc3 31. g5 hxg5 32. hxg5 g6 33.
+Nh6+ Kh8 34. Qh2 Qg7 35. Ng4 Kg8 36. Bb3 Kf8 37. Rc1 Ke8 38. Ne5 Bxe5 39.
+Bxe5 Qg8 40. Rxc7 Rxc7 41. Bxc7 Nf8 42. Qd6 Nd7 43. Kg2 Qf8 44. Qf4 Qg7 45.
+Kg3 Qg8 46. Qe3 Ke7 47. Qd4 Bc8 48. Bd5 Qh7 49. Bc6 Qh1 50. Bd6+ Kd8 51.
+Kf2 Qh4+ 52. Bg3 Qh7 53. Qd6 Qh8 54. Qc7+ Ke7 55. Bd6+ Ke6 56. Bd5# 1-0
+

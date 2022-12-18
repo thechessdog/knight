@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Sapira, Emanuel"]
+[Black "Landau, Salo"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "501bc4b7"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O Bb7 9. e5 Bxc3 10. bxc3 Nd5 11. Qg4 g6 12. Rb1 Qc7 13. Ba3 c5 14. Rfe1 Nxc3
+15. Rb3 Qa5 16. Qc4 Nb5 17. Qxb5 Qxe1+ 18. Bf1 Bc6 19. Qxc5 Kd8 20. Qd6 Kc8 21.
+Bb4 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Stahlmann"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "30b009b5"]
+[Epoch "Knight"]
+[BlackID "3223167"]
+[BlackCountry "AUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. d4 Nxe4 8. Re1
+f5 9. Nbd2 Nxd2 10. Nxd2 e4 11. Nxe4 O-O 12. Bg5 Ne7 13. Ng3 Rf7 14. Qe2 Kf8
+15. Nxf5 1-0

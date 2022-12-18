@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1931.01.01"]
+[Round "10"]
+[White "Steiner, Herman"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "2ff15aaa"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. e4 c5 6. e5 Qd8 7. c3 Be7 8. Nbd2
+cxd4 9. Nxd4 Nc6 10. Nxc6 dxc6 11. Qg4 O-O 12. O-O-O Qa5 13. Qe4 Qxa2 14. Bd3
+g6 15. h4 Qd5 16. Qe3 Rd8 17. Nf3 Qa5 18. h5 g5 19. Qe4 Kf8 20. Qh7 Ke8 21.
+Qxh6 Rxd3 22. Rxd3 Qa1+ 23. Kc2 Qxh1 24. Qh8+ Bf8 25. Nxg5 Qxg2 26. Qf6 1-0

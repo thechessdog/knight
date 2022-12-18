@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Eisenberg, Louis R."]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Swiss variation"]
+[HashCode "09e8500f"]
+[Epoch "Knight"]
+[BlackCountry "ITA"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3 c5 5. exd5 exd5 6. dxc5 Bxc5 7. Nf3 O-O 8.
+O-O h6 9. h3 Nc6 10. Bf4 Bd6 11. Bxd6 Qxd6 12. Qd2 Be6 13. a3 Rad8 14. Rad1 Qc7
+15. Rfe1 Rfe8 16. b4 a6 17. Ne2 Ne4 18. Qf4 Qxf4 19. Nxf4 Nc3 20. Rd2 Bc8 21.
+Rxe8+ Rxe8 22. Bf1 Nb1 23. Rxd5 Nxa3 24. c3 Nb1 25. Rc5 Rd8 26. Bxa6 Nxb4 27.
+Bxb7 Bxb7 28. cxb4 Rd1+ 29. Kh2 Bxf3 30. gxf3 Rd4 31. Nd5 Nd2 32. b5 Rd3 33. b6
+Rb3 34. Rc7 Nxf3+ 35. Kg2 Nh4+ 36. Kf1 Nf5 37. b7 Kh7 38. Rd7 Kg6 39. Nc3 Kf6
+40. Ne4+ Ke5 41. Nd2 Rb4 42. Nc4+ Ke6 43. Rc7 Ne7 44. Na5 Rb1+ 45. Kg2 Kd6 46.
+Rxe7 Kxe7 47. b8=Q Rxb8 48. Nc6+ Kd6 49. Nxb8 g6 50. Kf3 f6 51. Kf4 f5 52. h4
+Ke6 53. f3 Kd6 54. Na6 Kc6 55. Ke5 1-0

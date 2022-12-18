@@ -1,0 +1,20 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Steiner, Endre"]
+[Black "Vukovic, Vladimir"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "89095a34"]
+[Epoch "Knight"]
+[BlackID "2606593"]
+[BlackCountry "CAN"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Nxe4 Bxg5 7. Nxg5 Qxg5 8.
+g3 c5 9. c3 cxd4 10. cxd4 Nc6 11. Rc1 O-O 12. f4 Qe7 13. Nf3 f6 14. Be2 fxe5
+15. fxe5 Qb4+ 16. Qd2 Bd7 17. Rc3 Be8 18. Rb3 Qxd2+ 19. Kxd2 Bh5 20. Rf1 Bxf3
+21. Rfxf3 Rxf3 22. Rxf3 Nxd4 23. Rc3 Nc6 24. Rb3 Rb8 25. Ba6 0-1

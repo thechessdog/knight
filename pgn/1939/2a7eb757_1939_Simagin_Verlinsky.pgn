@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Simagin, Vladimir"]
+[Black "Verlinsky, Boris"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "2a7eb757"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Nd7 5. Nc3 f5 6. Bd3 Qf6 7. Qc2 Nh6 8. b3 Bd6
+9. Bb2 b6 10. O-O-O Bb7 11. h3 Bc7 12. Kb1 Rc8 13. Qe2 O-O 14. Rc1 g6 15. Rc2
+Bd6 16. Rhc1 Qe7 17. cxd5 exd5 18. Ba6 Bxa6 19. Qxa6 Nb8 20. Qd3 Rce8 21. Ne5
+Nf7 22. f4 Nxe5 23. dxe5 Ba3 24. Nxd5 cxd5 25. Qxd5+ Kh8 26. Rc7 Qb4 27. Bxa3
+Qxa3 28. Qb7 0-1

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Allmendinger"]
+[Black "Meyering"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "552e9df9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 Nc5 11. Bc2 Bg4 12. h3 Bh5 13. Bf4 O-O 14. g4
+Bg6 15. Nd4 Nxd4 16. cxd4 Ne6 17. Be3 c5 18. Bb3 c4 19. Bc2 Bb4 20. Rf1 Qb6
+21. Bf5 Rfd8 22. h4 Nc7 23. h5 Bxf5 24. gxf5 Kh8 25. Kh1 Rg8 26. Rg1 Rad8
+27. a3 Bf8 28. Nd2 b4 29. a4 Qc6 30. h6 Qd7 31. Qg4 Ne8 32. Nf3 f6 33. e6
+Qc7 34. Nh4 Bd6 35. Qh5 gxh6 36. Bxh6 Bh2 37. Rxg8+ Kxg8 38. Nf3 1-0
+

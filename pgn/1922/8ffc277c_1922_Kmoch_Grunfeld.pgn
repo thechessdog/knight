@@ -1,0 +1,21 @@
+[Event "Wenen"]
+[Site "Wenen"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Kmoch, Hans"]
+[Black "Gruenfeld, Ernst"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Schlechter variation"]
+[HashCode "8ffc277c"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Nd5 Nf6 5. Bb5 Nxd5 6. exd5 e4 7. dxc6 dxc6
+8. Be2 exf3 9. Bxf3 O-O 10. O-O f5 11. d3 Bd6 12. Bd2 Qh4 13. g3 Qf6 14. Bc3
+Qh6 15. Re1 f4 16. Bg4 fxg3 17. fxg3 Rf2 18. Re8+ Bf8 19. Kxf2 Qxh2+ 20. Kf1
+Bxg4 21. Qxg4 Rxe8 22. Re1 Qh1+ 23. Kf2 Bc5+ 24. d4 Qh2+ 25. Kf3 Rf8+ 26. Ke3
+Bd6 27. Kd3 Qxg3+ 28. Qxg3 Bxg3 29. Re7 Bd6 30. Rd7 h5 31. d5 Rf7 32. dxc6 bxc6
+33. Rd8+ Kh7 0-1

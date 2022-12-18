@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Bischoff, J."]
+[Black "Estes, W."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[HashCode "d239677c"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c5 3. e4 Nc6 4. Nc3 cxd4 5. exd5 dxc3 6. dxc6 Qa5 7. b4 Qxb4
+8. Qd5 Be6 9. Qf3 O-O-O 10. cxb7+ 1-0
+

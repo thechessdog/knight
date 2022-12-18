@@ -1,0 +1,19 @@
+[Event "Coburg"]
+[Site "Coburg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Schallopp, Emil"]
+[Black "Fritz, Alexander"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "1e983008"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Nc3 Nxc3 10. bxc3 Bg4 11. h3 Bh5 12. Rb1 dxc4 13. Bxc4 Nd7 14. Be2 Re8
+15. Be3 Qc7 16. c4 Nf6 17. Rb3 Re7 18. Qc1 c5 19. Bd1 Ne4 20. d5 f5 21. Ne1 f4
+22. Bxh5 fxe3 23. Rxe3 Bh2+ 24. Kh1 Bf4 25. Bg4 Nxf2+ 0-1

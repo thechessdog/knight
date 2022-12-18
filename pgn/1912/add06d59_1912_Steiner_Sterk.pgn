@@ -1,0 +1,23 @@
+[Event "Temesvary"]
+[Site "Temesvary"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Steiner, Bruno"]
+[Black "Sterk, Karoly"]
+[Result "0-1"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "add06d59"]
+[Epoch "Knight"]
+[WhiteID "1602411"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 O-O 7. Qc2 c5 8. cxd5
+exd5 9. O-O-O Qa5 10. Bd3 h6 11. h4 cxd4 12. Nxd4 Nb6 13. g4 Bd7 14. Bf4 Rfc8
+15. Nb3 Qb4 16. a3 Rxc3 17. axb4 Rxc2+ 18. Bxc2 Nxg4 19. Rhg1 Kh8 20. f3 Nf2
+21. Rd2 Nh3 22. Rh1 Nxf4 23. exf4 Bxb4 24. Rd4 Be7 25. f5 Bf6 26. Rd2 Rc8 27.
+Kb1 Rc4 28. Bd3 Rb4 29. Nc5 Bc6 30. Be2 Bxh4 31. Nd3 Rd4 32. Rc2 Bf6 33. Rg1
+Rc4 34. Rxc4 dxc4 35. Nb4 Bd7 36. Bd1 Bxf5+ 37. Bc2 Be6 38. Be4 a5 39. Nc2 Na4
+40. Bxb7 Nxb2 41. Be4 Na4 0-1

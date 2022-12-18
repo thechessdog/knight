@@ -1,0 +1,18 @@
+[Event "New York ch-ACF"]
+[Site "New York ch-ACF"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Blumin, Boris"]
+[Black "Ulvestad, Olaf"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "8c7772a3"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "CAN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Nf3 Bb4+ 7. Nc3 Qe7 8.
+Bd3 Na6 9. O-O Bxc3 10. bxc3 d6 11. e5 dxe5 12. f5 Qc5+ 13. Kh1 Ne7 14. Ng5 Bd7
+15. f6 gxf6 16. Ne4 Qc6 17. Nxf6+ Kd8 18. Be4 Qd6 19. Ba3 1-0

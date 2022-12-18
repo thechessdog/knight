@@ -1,0 +1,20 @@
+[Event "Vienna Gambit"]
+[Site "Vienna"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Neumann, Augustin"]
+[Black "Loewy, Leopold Sr"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "b72ac26d"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Be2 Nc6 6. b4 Bb6 7. b5 Na5 8. d4
+Bxf3 9. Bxf3 exd4 10. cxd4 Qf6 11. Be3 Nc4 12. Bf2 Qxf4 13. O-O Ne7 14. Qd3 d5
+15. exd5 Nd6 16. Nc3 O-O 17. Rae1 Nef5 18. Ne4 Rae8 19. g3 Qh6 20. Nc5 Qg6 21.
+Bg2 Re7 22. a4 Rfe8 23. Rxe7 Rxe7 24. Re1 Rxe1+ 25. Bxe1 Qg5 26. Bd2 Qg4 27. a5
+Qd1+ 28. Bf1 Bxc5 29. dxc5 Ne8 30. Bf4 Qxd3 31. Bxd3 Nd4 32. Bc4 g5 33. Bxc7
+Nxc7 34. a6 bxa6 35. b6 Nxd5 36. Bxd5 axb6 37. cxb6 Nf3+ 38. Bxf3 1-0

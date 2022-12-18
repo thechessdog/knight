@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Chekhover, Vitaly"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "72161ded"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Nbd7 5. Bd3 Be7 6. O-O O-O 7. Nbd2 c5 8. c3
+Qc7 9. Qe2 e5 10. e4 dxe4 11. Nxe4 exd4 12. cxd4 b6 13. Nxf6+ Nxf6 14. Rfe1 Be6
+15. d5 Nxd5 16. Qe4 g6 17. Bxe7 Nxe7 18. Ng5 Bf5 19. Qh4 h5 20. Nh7 Kxh7 21.
+Rxe7 Qc8 22. Bc4 Kg7 23. Bd5 Rb8 24. Qf4 Qd8 25. Qe5+ Kh6 26. h4 f6 27. Qf4+ g5
+28. hxg5+ Kg6 29. Be4 fxg5 30. Re6+ 1-0

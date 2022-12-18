@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Stahlberg, Gideon"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "1f863654"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 a6 8. Ne5
+e6 9. g4 Bg6 10. h4 Qb6 11. Qb3 Qxb3 12. axb3 Nxe5 13. dxe5 Nd7 14. Rc1 h6 15.
+h5 Bh7 16. Na2 Nc5 17. b4 Nd3+ 18. Bxd3 Bxd3 19. Rc7 Bc4 20. Nc3 Rb8 21. Bg3
+Bxb4 22. Bh4 Bb5 23. Kd1 Bc6 24. Rh3 Ba5 25. Re7+ Kf8 26. Rf3 Be8 27. Rxe6 Bd7
+28. Rxf7+ Kxf7 29. Re7+ Kg8 30. Rxd7 Bxc3 31. bxc3 Kh7 32. f4 Rhg8 33. e6 b5
+34. f5 Rb6 35. Bf6 a5 36. Bd4 Ra6 37. f6 Rxe6 38. f7 Rc8 39. f8=Q Rxf8 40.
+Rxg7+ 1-0

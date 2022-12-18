@@ -1,0 +1,16 @@
+[Event "Oberhausen"]
+[Site "Oberhausen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Rittershaus, O."]
+[Black "Jung"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "3fdd2f4d"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Nc6 6. Bb5 Bg4 7. O-O Bb4
+8. Qe1 Bxc3 9. bxc3 Qe7 10. Nd4 Bd7 11. d3 Ng5 12. Qg3 Ne6 13. Nxe6 fxe6
+14. a4 g6 15. Bg5 Qc5+ 16. d4 Qb6 17. Qf4 Nd8 18. Bxd8 1-0
+

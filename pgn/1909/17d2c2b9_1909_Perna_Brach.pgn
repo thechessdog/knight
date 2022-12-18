@@ -1,0 +1,21 @@
+[Event "Brno m2"]
+[Site "Brno"]
+[Date "1909.??.??"]
+[Round "2"]
+[White "Perna, A."]
+[Black "Brach, Julius"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Moeller (Therkatz) attack"]
+[HashCode "17d2c2b9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3
+Nxe4 8. O-O Bxc3 9. d5 Bf6 10. Re1 O-O 11. Rxe4 Ne7 12. Bg5 Nf5 13. Bxf6
+gxf6 14. Rf4 d6 15. Qc2 Ne7 16. Rxf6 Ng6 17. Qc3 Re8 18. Bd3 Bd7 19. Ng5
+Re5 20. Rxf7 Qxg5 21. Rxd7 Nf4 22. g3 Rf8 23. Bf1 Qg4 24. Rxc7 Re2 25. Re1
+Rxf2 26. Rc4 Rf3 27. Qc2 Rxg3+ 28. hxg3 Qxg3+ 29. Kh1 Qxe1 30. Qc1 Qh4+ 31.
+Kg1 Qg3+ 32. Kh1 Qh4+ 33. Kg1 Qg3+ 34. Kh1 Nxd5 35. Re4 Qf2 36. Qg5+ Kh8
+37. Qxd5 Qxf1+ 38. Kh2 Rf2+ 39. Kg3 Qg1+ 0-1
+

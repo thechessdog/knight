@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "cbd5b78d"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. d4 Nxd4 7. Nxd4 exd4 8.
+e5 Nd5 9. Qg4 O-O 10. Bh6 g6 11. Bxf8 Bxf8 12. Bb3 Nb4 13. Qf3 Qe7 14. O-O Nc6
+15. Nd2 Nxe5 16. Qf4 c5 17. Rfe1 d6 18. Ne4 Qc7 19. Nf6+ Kh8 20. Ne8 Qd8 21.
+Rxe5 dxe5 22. Qxf7 1-0

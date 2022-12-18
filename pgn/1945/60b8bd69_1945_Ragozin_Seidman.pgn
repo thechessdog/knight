@@ -1,0 +1,23 @@
+[Event "USA-URS radio-m"]
+[Site "USA-URS radio"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Ragozin, Viacheslav"]
+[Black "Seidman, Herbert"]
+[Result "1-0"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "60b8bd69"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Bxc3+ 7. Nxc3 d5 8. Be2
+O-O 9. O-O Nbd7 10. b4 dxc4 11. Bb2 c5 12. Bxc4 Qe7 13. Qe2 Rfd8 14. Rfd1 cxb4
+15. axb4 Qxb4 16. Nb5 Rdc8 17. Bd3 Be4 18. Bxe4 Nxe4 19. Nxa7 Nc3 20. Bxc3 Rxc3
+21. Qf3 Rf8 22. Qb7 Nf6 23. Nc6 Qd6 24. Ne7+ Kh8 25. Ra8 Re8 26. Rxe8+ Nxe8 27.
+Nc8 Qa3 28. Qd7 Qf8 29. Qd8 g6 30. Nxb6 Kg7 31. Nd7 Qa3 32. h3 Rc1 33. Rxc1
+Qxc1+ 34. Kh2 Qc7+ 35. Qxc7 Nxc7 36. Kg3 f6 37. Kf3 Kf7 38. Nb6 Ke7 39. e4 Nb5
+40. Ke3 Nc3 41. Kd3 Nb5 42. f3 Nd6 43. Kc3 h5 44. Kb4 g5 45. Nc4 Nf7 46. Kc5 f5
+47. Kc6 fxe4 48. fxe4 g4 49. h4 1-0

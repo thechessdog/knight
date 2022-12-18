@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Lindhard, Jens"]
+[Black "Enevoldsen, Harald"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "f188404d"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 d6 7. Bg5 Qa5+ 8. c3
+Be6 9. Bd3 Nc6 10. O-O dxe5 11. Nxe5 Nxe5 12. dxe5 h6 13. Be3 c4 14. b4 Qa3 15.
+Bc2 b5 16. Qd4 Be7 17. Bc1 Qa6 18. a4 O-O 19. Be3 bxa4 20. Rxa4 Qb7 21. f4 f5
+22. Rxa7 Rxa7 23. Qxa7 Qxa7 24. Bxa7 Ra8 25. Bd4 Ra2 26. Rc1 g5 27. g4 gxf4 28.
+gxf5 Bg5 29. h4 Bxh4 30. fxe6 f3 31. Bc5 Bg5 32. e7 f2+ 33. Kf1 1-0

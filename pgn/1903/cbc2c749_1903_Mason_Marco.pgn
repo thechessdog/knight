@@ -1,0 +1,25 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "14"]
+[White "Mason, James"]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "cbc2c749"]
+[Epoch "Knight"]
+[WhiteCountry "IRE"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 d6 7. Bxc6+ bxc6 8.
+d4 exd4 9. Nxd4 Bd7 10. h3 O-O 11. f4 Qb8 12. Rb1 Qb7 13. Qf3 c5 14. Nde2 Bc6
+15. Ng3 Nxe4 16. Ncxe4 f5 17. Nxc5 Bxf3 18. Nxb7 Bxb7 19. Be3 Rae8 20. Bf2 g6
+21. Rfe1 Bf6 22. c3 Kf7 23. Rxe8 Rxe8 24. Rd1 Bc6 25. Nf1 Re2 26. Rd2 Bb5 27.
+Rxe2 Bxe2 28. Nd2 c5 29. g3 Ke6 30. Be3 Kd5 31. Kf2 Bd3 32. Kf3 a5 33. Bf2 a4
+34. Ke3 Bb5 35. a3 Bd8 36. Kf3 Bf6 37. Ke3 Ba6 38. Kf3 Kc6 39. Ke3 d5 40. Kf3
+d4 41. cxd4 cxd4 42. b3 axb3 43. Nxb3 Kd5 44. Nd2 Bb5 45. g4 Ba4 46. gxf5 gxf5
+47. Kg3 Be7 48. Be1 Bxa3 49. Kh4 Bc1 50. Kg5 Bxd2 51. Bxd2 Ke4 52. h4 Be8 53.
+Kh6 Bg6 54. h5 Be8 55. Kg5 Ba4 56. Ba5 Bd1 57. h6 Ba4 58. Bd2 Be8 59. Kh4 Kf3
+0-1

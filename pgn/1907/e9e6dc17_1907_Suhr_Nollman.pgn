@@ -1,0 +1,25 @@
+[Event "Montevideo tt"]
+[Site "Montevideo tt"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Suhr"]
+[Black "Nollman, Jorge"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "e9e6dc17"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Be3 Nf6 6. Bd3 Nc6 7. Ne2 O-O
+8. O-O Bg4 9. f3 Bh5 10. Bg5 Bxc3 11. bxc3 Qd6 12. Bf4 Qd7 13. Bg3 Bg6 14.
+Qd2 Ne7 15. Rfe1 c6 16. Nf4 Bxd3 17. Nxd3 Ng6 18. Nc5 Qc8 19. Re2 b6 20.
+Nd3 Re8 21. Rae1 Rxe2 22. Rxe2 c5 23. Ne5 Qa6 24. dxc5 bxc5 25. Nd3 Qxa2
+26. Nxc5 Qc4 27. Nb3 Rc8 28. Bf2 a6 29. Bd4 Qb5 30. Re1 Ne8 31. Ra1 Nd6 32.
+Ra5 Qb7 33. Qg5 Nb5 34. Nc5 Qc6 35. Rxa6 Qe8 36. Qd2 Nf4 37. Kf2 Nxd4 38.
+cxd4 Ne6 39. Nxe6 fxe6 40. Qe2 Rc6 41. Rxc6 Qxc6 42. g4 Kf7 43. Kg2 Qc3 44.
+Qf2 g5 45. h4 gxh4 46. Kh3 Qa1 47. Kxh4 Kg6 48. Kg3 Qc3 49. Qe2 Kf7 50. Qd3
+Qe1+ 51. Kg2 Qh4 52. Qe3 Qf6 53. Kg3 h6 54. Qf4 Qxf4+ 55. Kxf4 Kf6 56. Kg3
+Kg5 57. f4+ Kg6 58. Kh4 Kf6 59. Kh5 Kg7 60. g5 hxg5 61. fxg5 Kh7 62. g6+
+Kg7 63. Kg5 1-0
+

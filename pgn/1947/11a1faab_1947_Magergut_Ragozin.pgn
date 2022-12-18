@@ -1,0 +1,17 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Magergut, Alexander"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "11a1faab"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 5. Ng5 d5 6. exd5 Qe7+ 7. Kf1 Ne5 8.
+Qxd4 h6 9. Bb5+ c6 10. Bf4 hxg5 11. Bxe5 cxb5 12. Nc3 Rh4 13. d6 Qe6 14. f4
+Qc4+ 15. Qxc4 bxc4 16. Nb5 Kd7 17. Rd1 b6 18. fxg5 Ne4 19. g3 Rh5 20. h4 Nxg5
+21. g4 Rh6 22. Bf4 Rf6 0-1

@@ -1,0 +1,20 @@
+[Event "Regensburg"]
+[Site "Regensburg"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Blendinger"]
+[Black "Unzicker, Wolfgang"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Schlechter defence"]
+[HashCode "f64258a4"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Nxd4 9. Nxd4 exd4 10. axb5 Nc5 11. Qxd4 Be6 12. bxa6 Nxb3 13. Qa4+ Qd7 14. Qxb3
+Bd6 15. Qa4 c6 16. Be3 Qc7 17. h3 O-O 18. Qa5 Qe7 19. a7 c5 20. c3 g5 21. b4
+cxb4 22. cxb4 Bxb4 23. Qb6 h6 24. Ra4 Bd6 25. Nd2 Rfc8 26. Nf3 Qd7 27. Ra6 Bc7
+28. Qd4 Bd8 29. Qe5 Rc6 30. Rxc6 Qxc6 31. Rc1 Qe8 32. Qb8 Be7 33. Qxe8+ Rxe8
+34. Rb1 Bd6 35. Rb6 Bc7 36. Rc6 1-0

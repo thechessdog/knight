@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Isaacson"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "315bc5f5"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+
+1. f4 e6 2. e3 d5 3. Nf3 Nf6 4. b3 c5 5. Bb2 Nc6 6. Bb5 Nd7 7. O-O f6 8. d3 Qc7
+9. Nbd2 a6 10. Bxc6 bxc6 11. Nh4 g6 12. e4 Rg8 13. f5 e5 14. fxg6 hxg6 15. Nxg6
+Rxg6 16. Qh5 Kf7 17. Nf3 Kg7 18. Nh4 Rg5 19. Nf5+ Kg8 20. Qe8 Bb7 21. Qe6+ Kh8
+22. Rf3 Rh5 23. Rg3 Bh6 24. Qf7 1-0

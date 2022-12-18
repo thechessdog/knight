@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "McMurray"]
+[Black "Morton"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Nimzovich (Paulsen) variation"]
+[HashCode "264cb856"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 bxc6 7. Nxe5
+Re8 8. d4 Bxc3 9. bxc3 Nxe4 10. Re1 Nd6 11. Qg4 Qf6 12. Ba3 Rd8 13. Re3 Nf5
+14. Rf3 d5 15. Qh5 g6 16. Ng4 Qh8 17. Qg5 Be6 18. Rxf5 Bxf5 19. Nh6+ Kg7
+20. Nxf5+ Kg8 21. Be7 1-0
+

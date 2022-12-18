@@ -1,0 +1,30 @@
+[Event "London"]
+[Site "London"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Colle, Edgard"]
+[Black "Yates, Frederick Dewhirst"]
+[Result "1-0"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Capablanca variation"]
+[HashCode "1251c39a"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+[BlackCountry "ENG"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 O-O 8.
+O-O c5 9. Re1 cxd4 10. Nxd4 Bxg2 11. Kxg2 Nc6 12. N2f3 Ne4 13. Nxc6 dxc6 14.
+Qc2 f5 15. Rad1 Qe7 16. e3 e5 17. b3 Rae8 18. Re2 Qf7 19. Ng1 Re7 20. f3 Ng5
+21. Red2 Ne6 22. Rd6 f4 23. gxf4 exf4 24. e4 c5 25. Qf2 Nd4 26. Rd2 Re5 27. Ne2
+Qe7 28. Rd5 Rxe4 29. Nxd4 Rxd4 30. R5xd4 cxd4 31. Qxd4 Qg5+ 32. Kf1 Qh4 33. Rg2
+Qe7 34. Re2 Qh4 35. Qd5+ Kh8 36. Qf7 Qd8 37. Qxa7 Rf6 38. Rd2 Qg8 39. Qc7 Rf8
+40. Qxb6 h6 41. Qd6 Qf7 42. Qd7 Qf6 43. Qd4 Qf5 44. Qe4 Qh3+ 45. Kg1 Qh4 46.
+Rd5 Qf6 47. Re5 Qf7 48. Re7 Qh5 49. Re5 Qf7 50. c5 Rd8 51. c6 Qa7+ 52. Kf1 Qa6+
+53. Ke1 Qxa2 54. Re8+ Rxe8 55. Qxe8+ Kh7 56. Qe4+ Kh8 57. Qc4 Qa7 58. Qe4 Qa1+
+59. Kd2 Qb2+ 60. Qc2 Qd4+ 61. Qd3 Qb6 62. Qc3 Qf2+ 63. Kc1 Qf1+ 64. Kb2 Qe2+
+65. Qc2 Qe5+ 66. Kb1 Qe1+ 67. Qc1 Qb4 68. Kb2 Qd4+ 69. Qc3 Qf2+ 70. Qc2 Qd4+
+71. Kb1 Qg1+ 72. Qc1 Qb6 73. Qc4 Qg1+ 74. Kb2 Qf2+ 75. Ka3 Qa7+ 76. Kb4 Qb6+
+77. Qb5 Qd4+ 78. Ka5 Qa7+ 79. Qa6 Qc5+ 80. Ka4 Qd4+ 81. b4 Qd1+ 82. Kb5 Qd3+
+83. Kb6 Qe3+ 84. Kb7 Qxf3 85. Kb8 Qe4 86. c7 Qe5 87. Qb7 Kh7 88. Ka8 Qa1+ 89.
+Qa7 Qh1+ 90. Kb8 Qxh2 91. c8=Q f3+ 92. Qac7 1-0

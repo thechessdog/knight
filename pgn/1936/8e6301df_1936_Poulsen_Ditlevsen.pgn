@@ -1,0 +1,20 @@
+[Event "Herning"]
+[Site "Herning"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Poulsen, Harry"]
+[Black "Ditlevsen, D."]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "8e6301df"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Bg5 Nbd7 6. Nf3 Bxc3+ 7. bxc3 h6
+8. Bh4 c6 9. e3 Qc7 10. Bg3 Qd8 11. Bd3 dxc4 12. Bxc4 Nb6 13. Bd3 Nbd5 14.
+e4 Ne7 15. Ne5 Nh5 16. O-O O-O 17. Qe2 Nxg3 18. fxg3 f6 19. Ng4 f5 20. Ne5
+Qe8 21. exf5 exf5 22. g4 Ng6 23. gxf5 Nxe5 24. dxe5 Qe7 25. Qe4 Bd7 26. f6
+gxf6 27. Bc4+ Kh8 28. Qh4 Qg7 29. exf6 Qg5 30. Qd4 Rad8 31. f7+ Qg7 32. Rf6
+Bh3 33. Rxh6# 1-0
+

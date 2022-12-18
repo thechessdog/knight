@@ -1,0 +1,26 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Steiner, Endre"]
+[Black "Naegeli, Oskar"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "6713e160"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 e6 4. Ne2 Nf6 5. d4 cxd4 6. Nxd4 a6 7. O-O Qc7 8. c4
+Be7 9. Nc3 O-O 10. b3 d6 11. Bb2 Bd7 12. Kh1 Rfd8 13. Nce2 Rac8 14. Qd2 Nxd4
+15. Nxd4 Bc6 16. Nxc6 bxc6 17. Bc3 Rd7 18. Rac1 Ne8 19. Rfd1 Qb7 20. f4 Rdd8
+21. Qb2 Bf6 22. e5 dxe5 23. fxe5 Bg5 24. Rxd8 Rxd8 25. Rf1 Qb6 26. Qe2 Qc7 27.
+c5 Qb7 28. Qf3 Rc8 29. b4 g6 30. h4 Bd8 31. Rd1 Be7 32. Rd3 Ng7 33. Qd1 Nf5 34.
+Be4 Rc7 35. Bxf5 exf5 36. Rd8+ Kg7 37. e6+ f6 38. Rd3 Qb8 39. g4 fxg4 40. Rg3
+Qd8 41. Rd3 Qb8 42. Qxg4 Rc8 43. a4 Re8 44. Qe4 Rd8 45. Rd7 Rxd7 46. exd7 Bd8
+47. Bd2 Qg3 48. Qxc6 Bc7 49. Qg2 Qxh4+ 50. Kg1 Qd4+ 51. Kf1 Qxd7 52. c6 Qd3+
+53. Ke1 Bg3+ 54. Kd1 Bf4 55. b5 axb5 56. a5 Qb3+ 57. Kc1 Qc4+ 58. Kd1 Qb3+ 59.
+Kc1 Be5 60. Be1 Bf4+ 61. Bd2 Be5 62. Be1 Qa3+ 63. Kd1 Qa1+ 64. Ke2 Qa2+ 65. Kf1
+Qc4+ 66. Kg1 b4 67. a6 Qxa6 68. Qd5 Qc8 69. Bd2 b3 70. Bc1 Qg4+ 71. Kf1 Qf5+
+72. Ke2 Qg4+ 73. Kf1 Qh3+ 74. Kf2 b2 75. Bxb2 Bxb2 0-1

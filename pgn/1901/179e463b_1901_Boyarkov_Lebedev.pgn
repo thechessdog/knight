@@ -1,0 +1,23 @@
+[Event "RUS-ch02"]
+[Site "Moscow"]
+[Date "1901.??.??"]
+[Round "3"]
+[White "Boyarkov, V."]
+[Black "Lebedev, Sergey Fedorovich"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "179e463b"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 e5 4. e3 exd4 5. exd4 Nf6 6. Nc3 Bb4 7. Be2 Ne4
+8. Bd2 Nxd2 9. Qxd2 Be6 10. cxd5 Bxd5 11. O-O-O Ne7 12. Kb1 c6 13. Qc2 Qa5
+14. Nxd5 Nxd5 15. Bd3 O-O-O 16. Ne5 Qc7 17. Qa4 Kb8 18. Rc1 f6 19. Nf3 Qb6
+20. Ka1 Nf4 21. Bc4 Rhe8 22. a3 Bf8 23. g3 Ne2 24. Bxe2 Rxe2 25. Rc2 Re4
+26. h4 c5 27. dxc5 Qxb2+ 28. Kxb2 Rxa4 29. Rc3 Ra5 30. Rhc1 Rd5 31. Ne1
+Bxc5 32. Kb3 Rxa3+ 33. Kc4 Rxc3+ 34. Rxc3 Rd1 35. Nd3 Bb6 36. f4 Rg1 37.
+Nc1 Ba5 38. Rc2 Rxg3 39. Nb3 Bc7 40. Nc5 Bxf4 41. Kd5 b6 42. Nd7+ Kb7 43.
+Nf8 Be5 44. Nxh7 a5 45. Nf8 a4 46. Ne6 a3 47. Nd8+ Ka6 48. Nc6 Rc3 49. Rg2
+Rc5+ 0-1
+

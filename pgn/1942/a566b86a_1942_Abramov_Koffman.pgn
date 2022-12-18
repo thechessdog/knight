@@ -1,0 +1,22 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Abramov, Lev Yakovlevich"]
+[Black "Kofman, Rafael Moiseevich"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "a566b86a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. Re1 Be7 8.
+d4 exd4 9. Nxd4 Bd7 10. Nc3 O-O 11. Qf3 Ne8 12. Bf4 Rb8 13. b3 c5 14. Nde2 Bf6
+15. Rad1 Qc8 16. Nd5 Bd8 17. Qg3 Be6 18. Nec3 f6 19. Bc1 c6 20. Nf4 Bf7 21. h4
+Ba5 22. h5 Rb7 23. h6 g6 24. Bb2 Re7 25. Re3 Bc7 26. Qf3 Re5 27. Nce2 Rg5 28.
+c4 Be6 29. Nxe6 Qxe6 30. Nf4 Qd7 31. g3 d5 32. exd5 Bxf4 33. Qxf4 Qh3 34. Qe4
+Rh5 35. Qe6+ Qxe6 36. dxe6 Nc7 37. Rd7 Nxe6 38. Rxe6 Rxh6 39. Bxf6 g5 40. Rg7+
+Kh8 41. Rg6+ Rxf6 42. Rgxf6 1-0

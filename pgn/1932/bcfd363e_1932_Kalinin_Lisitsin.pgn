@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Kalinin"]
+[Black "Lisitsin, Georgy"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "bcfd363e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 b6 5. g3 Bb7 6. Bg2 O-O 7. Qb3 Bxc3+ 8.
+Qxc3 d6 9. O-O Nbd7 10. Bf4 Qe7 11. Rad1 Rfe8 12. Rfe1 Rab8 13. Bc1 Ne4 14. Qc2
+f5 15. b4 Ndf6 16. Bb2 Rf8 17. Rf1 Ng4 18. h3 Ngf6 19. Ne1 Qf7 20. Nd3 g5 21.
+c5 bxc5 22. bxc5 Bd5 23. Bc1 Qh5 24. Be3 f4 25. gxf4 g4 26. Kh2 Nc3 27. Qxc3
+Bxg2 28. Kxg2 Qxh3+ 29. Kg1 g3 30. fxg3 Qxg3+ 31. Kh1 Ng4 32. Rf2 Rf5 0-1

@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Loman, Rudolf"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "0c91a11d"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+O-O 9. Nbd2 Nd7 10. Nf1 b5 11. Bb3 Na5 12. h3 Nxb3 13. axb3 Be6 14. d4 f6 15.
+Ng3 g6 16. d5 Bf7 17. Be3 Be8 18. Qd2 f5 19. Bh6 Rf7 20. exf5 gxf5 21. Bg5 f4
+22. Ne4 Rg7 23. h4 Bh5 24. Nh2 Nf6 25. f3 Nxe4 26. Rxe4 Bxg5 27. hxg5 Qxg5 28.
+c4 Be8 29. c5 Bd7 30. b4 Kh8 31. Re2 Rag8 32. cxd6 cxd6 33. Kh1 Rg6 34. g4 fxg3
+35. Qxg5 Rxg5 36. Ng4 Bxg4 37. fxg4 Rxg4 38. Rxa6 R8g6 39. Rc2 Kg7 40. Rcc6 g2+
+41. Kg1 Rh4 0-1

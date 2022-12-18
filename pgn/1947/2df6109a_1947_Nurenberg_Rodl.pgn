@@ -1,0 +1,17 @@
+[Event "Riedenburg"]
+[Site "Riedenburg"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Nuernberg, Friedrich"]
+[Black "Roedl, Ludwig"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[HashCode "2df6109a"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 Ne4 6. Qc2 Nxc3 7. Qxc3 Be7 8.
+Bf4 Bf6 9. Qd2 d6 10. e3 Nd7 11. Be2 g5 12. Bg3 g4 13. Ng1 Bxg2 0-1

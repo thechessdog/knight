@@ -1,0 +1,22 @@
+[Event "Leningrad ch4-SU"]
+[Site "Leningrad ch4-SU"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "cbc9ec61"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. d4 O-O 6. Bd3 c5 7. O-O Nc6 8. Nbd2
+b6 9. Ne5 Qc7 10. a3 cxd4 11. Nxc6 Qxc6 12. exd4 Bb7 13. Re1 Qc7 14. Qf3 Bd6
+15. Qh3 a5 16. Nf3 Ba6 17. c4 a4 18. Ne5 axb3 19. Rac1 Qd8 20. cxd5 Bxd3 21.
+dxe6 Bc2 22. exf7+ Rxf7 23. Nxf7 Kxf7 24. Qe6+ Kf8 25. Ra1 Qd7 26. Qxd7 Nxd7
+27. Re6 Be7 28. Rae1 Bf6 29. g4 b5 30. f4 h6 31. Rd6 Ra7 32. Kg2 Rb7 33. Ree6
+Bd3 34. Re3 Bc4 35. Rg3 Be7 36. Rg6 Kf7 37. f5 Bf6 38. Re3 Nf8 39. Rxf6+ gxf6
+40. Kf2 Re7 41. Rxe7+ Kxe7 42. Ke3 Nd7 43. d5 Nb6 44. Bd4 Bxd5 0-1

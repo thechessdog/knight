@@ -1,0 +1,17 @@
+[Event "Baku ch"]
+[Site "Baku ch"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Makogonov, Vladimir"]
+[Black "Kasparian, Genrikh"]
+[Result "1-0"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "ca5a0cf1"]
+[Epoch "Knight"]
+[WhiteCountry "AZE"]
+[BlackCountry "ARM"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 f5 6. exf5 Bxf5 7. Bd3 Qf6 8. Nf3 h6
+9. Bxf5 Qxf5 10. Nh4 Qf6 11. Qg4 Nd7 12. Ng6 Rh7 13. f4 Ne7 14. Nxf8 Nxf8 15.
+O-O Qg6 16. Qe2 e4 17. f5 Nxf5 18. Qf2 1-0

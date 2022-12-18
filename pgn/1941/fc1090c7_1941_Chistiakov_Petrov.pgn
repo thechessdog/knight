@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Chistiakov, Alexander Nikolaevi"]
+[Black "Petrovs, Vladimirs"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "fc1090c7"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8. Be2
+Be7 9. O-O O-O 10. Nb3 b5 11. a3 Bd7 12. Rad1 Qb6 13. Bxf6 Bxf6 14. Qxd6 Rfc8
+15. Qc5 Qxc5 16. Nxc5 Be8 17. Nb3 Ne5 18. Rd6 Nc4 19. Bxc4 bxc4 20. Nd2 Rab8
+21. Rb1 Be5 22. Rxa6 Bxc3 23. bxc3 Rxb1+ 24. Nxb1 Rd8 25. Kf1 Rd1+ 26. Ke2 Rxb1
+27. Ra8 Kf8 28. Rc8 e5 29. a4 Ke7 30. Rxc4 Ra1 0-1

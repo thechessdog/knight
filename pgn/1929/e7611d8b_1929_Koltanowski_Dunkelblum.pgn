@@ -1,0 +1,19 @@
+[Event "Antwerp simul"]
+[Site "Antwerp simul"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Dunkelblum, P."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "e7611d8b"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bb4 12. c3 dxc3 13. bxc3 Ba5 14. g4
+Qg6 15. Nxe6 fxe6 16. f7+ Kxf7 17. Ng5+ Kg8 18. Rxe6 Qd3 19. Qe1 Rf8 20. Re8
+Qd7 21. Rxf8+ Kxf8 22. Ba3+ Ne7 23. Rd1 Qxg4+ 24. Kf1 Qxg5 25. Rd5 Qh4 26. Rh5
+Qf6 27. Rf5 1-0

@@ -1,0 +1,21 @@
+[Event "Warsaw-Lublin-Cracow"]
+[Site "Warsaw-Lublin-Cracow"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Kunerth"]
+[Black "Bogoljubov, Efim"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "071a2bf5"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bd7 8. d4
+O-O 9. Nbd2 exd4 10. cxd4 Re8 11. Bc2 Bg4 12. Nf1 Nd7 13. Be3 d5 14. e5 Nb6 15.
+h3 Be6 16. a3 Qd7 17. Qd3 g6 18. Ng3 f5 19. Ng5 Nd8 20. Bb3 c6 21. Rac1 Kg7 22.
+Nxe6+ Nxe6 23. Qd2 a5 24. Ne2 a4 25. Ba2 h5 26. Nf4 Rh8 27. Nxe6+ Qxe6 28. Bg5
+h4 29. Bf6+ Bxf6 30. exf6+ Qxf6 31. Qb4 Nc4 32. Bxc4 dxc4 33. Re7+ Kh6 34. Rxb7
+Rhd8 35. Rxc4 c5 36. Qd2+ g5 37. Rxc5 Ra6 38. Rcc7 Rh8 39. Rf7 Qc6 40. Rg7 f4
+41. Qd3 1-0

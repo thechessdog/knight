@@ -1,0 +1,20 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Důras, Oldřich"]
+[Black "Lowcki, Moishe Leopoldowicz"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "d610d342"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. e4 Nf6 5. exd5 Qxd5 6. Be3 Qxd1+ 7. Kxd1 Nd5
+8. Bd4 f6 9. Bc4 Nc6 10. c3 Nf4 11. Rg1 e5 12. Be3 a5 13. Nbd2 Ne6 14. Ne4 f5
+15. Nd6+ Bxd6 16. cxd6 f4 17. Bb6 e4 18. Nd2 Ne5 19. Bxe6 Bxe6 20. Nxe4 Nc4 21.
+Bc7 Nxb2+ 22. Kc2 Na4 23. Ng5 Bf5+ 24. Kb3 b5 25. Rad1 Kd7 26. Rd5 Bd3 27. Rxd3
+Nc5+ 28. Kc2 Nxd3 29. Kxd3 Rae8 30. Nf3 Re6 31. Nd4 Re5 32. Rb1 b4 33. c4 Rhe8
+34. Rc1 1-0

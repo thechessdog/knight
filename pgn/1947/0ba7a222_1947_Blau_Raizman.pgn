@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Blau, Max"]
+[Black "Raizman, Maurice"]
+[Result "1-0"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "0ba7a222"]
+[Epoch "Knight"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8.
+Nf5 d5 9. Bg5 dxe4 10. Bxf6 Qxd1+ 11. Kxd1 gxf6 12. fxe4 Nc6 13. c3 Rg8 14. g3
+O-O-O+ 15. Ke2 Ne7 16. Ne3 Bh6 17. Rf1 Rd6 18. Nd2 Bxe3 19. Kxe3 Rgd8 20. Rad1
+h5 21. Ke2 h4 22. Nc4 Rxd1 23. Rxd1 Rxd1 24. Kxd1 hxg3 25. hxg3 Kd7 26. Ke2 Ke6
+27. g4 b5 28. Ne3 Nc8 29. Nd5 Nd6 30. Kd3 Ne8 31. Ne3 Nd6 32. b3 Kd7 33. Nd5
+Ne8 34. c4 bxc4+ 35. Kxc4 Kc6 36. Kb4 a6 37. a4 Nd6 38. Nxf6 1-0

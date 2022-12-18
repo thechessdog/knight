@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Berman"]
+[Black "Bisguier, Arthur Bernard"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "99a89215"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bg4 8. Nd5
+Nd4 9. Bc4 Qd7 10. Bxf6 Bxf3 11. gxf3 Qh3 12. Ne7+ Kh8 13. Bxg7+ Kxg7 14. Nf5+
+Nxf5 15. exf5 Kh8 16. Kh1 Rg8 17. Rg1 Rxg1+ 18. Qxg1 Rg8 0-1

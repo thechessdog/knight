@@ -1,0 +1,21 @@
+[Event "Montevideo tt"]
+[Site "Montevideo tt"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Sanguinetti, Renato"]
+[Black "Olivera, Alfredo"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "5d089eea"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "URY"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 O-O 6. Bd2 Re8 7. a3 Bf8 8. e3
+d6 9. Bd3 e5 10. d5 Ne7 11. Ng5 g6 12. h4 Nf5 13. O-O-O Ng4 14. Rdf1 Bd7 15.
+Bxf5 Bxf5 16. e4 Bd7 17. f3 Nf6 18. g4 h5 19. gxh5 Nxh5 20. Rfg1 Bg7 21. Be3
+Qf6 22. Ne2 c6 23. Kb1 Rec8 24. Qd2 cxd5 25. cxd5 Bb5 26. Nc3 Bc4 27. Qf2 Nf4
+28. Rg4 b5 29. Nh3 a5 30. Nxf4 exf4 31. Rxf4 Qe5 32. Rg1 Bd3+ 33. Ka2 Rxc3 34.
+Rf5 Rc2 35. Rxe5 Rxf2 36. Bxf2 Bxe5 37. h5 Rc8 0-1

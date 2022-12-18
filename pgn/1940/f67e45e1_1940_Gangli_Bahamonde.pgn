@@ -1,0 +1,16 @@
+[Event "Cordoba tt"]
+[Site "Cordoba tt"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Gangli, J."]
+[Black "Bahamonde, Antonio"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "f67e45e1"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 O-O 6. Nf3 d5 7. Bd3 Qe7 8. O-O
+dxc4 9. Bxc4 e5 10. Ne2 Bd6 11. Bd2 e4 12. Ne1 Bxh2+ 13. Kh1 Bd6 14. f3 Ng4 15.
+Ng1 Qh4+ 16. Nh3 Qg3 0-1

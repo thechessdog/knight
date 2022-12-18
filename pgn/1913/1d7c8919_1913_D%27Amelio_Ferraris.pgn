@@ -1,0 +1,18 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1913.01.01"]
+[Round "6"]
+[White "D'Amelio, C."]
+[Black "Ferraris, E."]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spielmann variation"]
+[HashCode "1d7c8919"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 a6 5. Bxc6 dxc6 6. Nxe5 Nxe4 7. Nxe4 Qd4
+8. O-O Qxe5 9. d4 Qd5 10. Re1 Be6 11. Bg5 Qf5 12. Qd3 Qg6 13. Re3 h6 14. Bh4
+Qh5 15. Bg3 O-O-O 16. c4 Bf5 17. Qc3 Bxe4 18. Rxe4 Bd6 19. Bxd6 Rxd6 20. Rae1
+Qf5 21. Re5 Qg4 22. R5e4 Qg6 23. Qg3 Kb8 24. Qe3 Rdd8 25. b4 Qd6 26. Rb1 f5 27.
+Rf4 Rhe8 28. Qf3 g5 29. Rxf5 Qxd4 30. b5 g4 31. Qb3 Qe4 0-1

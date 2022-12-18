@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Regedzinski, Teodor"]
+[Black "Factor, Samuel"]
+[Result "1-0"]
+[ECO "A13"]
+[Opening "English opening"]
+[HashCode "3127ff98"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+
+1. c4 e6 2. g3 d5 3. b3 Nf6 4. Bb2 Bd6 5. Bg2 c6 6. Nf3 Nbd7 7. d4 Qe7 8. Nbd2
+e5 9. cxd5 Nxd5 10. O-O e4 11. Nxe4 Qxe4 12. Ne5 Qf5 13. e4 Qe6 14. exd5 cxd5
+15. Nxd7 Qxd7 16. Re1+ Kf8 17. Bxd5 Bb4 18. Qf3 Bxe1 19. Ba3+ Kg8 20. Rxe1 h5
+21. Re7 Qf5 22. Re8+ Kh7 23. Be4 1-0

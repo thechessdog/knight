@@ -1,0 +1,19 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Alonso, Juan"]
+[Black "Kocher"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Pollock variation"]
+[HashCode "e7cef3fd"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Qg4 O-O
+8. f4 f5 9. Qh3 a6 10. Bd3 c5 11. dxc5 Nxc5 12. O-O-O Bd7 13. g4 Nxd3+ 14.
+Rxd3 fxg4 15. Qxg4 Nc6 16. Nf3 Rac8 17. Rg1 Rc7 18. Ng5 h6 19. Rh3 hxg5 20.
+Qh5 Rf5 21. Qh8+ Kf7 22. Qh5+ Kf8 23. Qh8+ Kf7 24. Qh5+ g6 25. Qh7+ Kf8 26.
+Qh8+ Kf7 27. Rh7# 1-0
+

@@ -1,0 +1,21 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Thoenes"]
+[Black "Vatter, Hans-Joachim"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "1a5b16e4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. c3 O-O 8. O-O
+d5 9. Qe2 d4 10. h3 Bc5 11. Bg5 Be6 12. Nbd2 Re8 13. c4 b4 14. Ba4 Bd7 15. Nb3
+Bf8 16. Nh2 Nb8 17. Bxd7 Nbxd7 18. f4 c5 19. Ng4 Qc7 20. Bxf6 Nxf6 21. Nxf6+
+gxf6 22. Qg4+ Kh8 23. Qh4 Bg7 24. f5 Rg8 25. Rf3 Qd6 26. Qh5 Qf8 27. Kh1 Bh6
+28. Nxc5 Be3 29. Nb3 Rg5 30. Qh4 Qg7 31. g3 Rg8 32. Kg2 Bf4 33. g4 h5 34. Rxf4
+exf4 35. Nd2 Qh7 36. Rh1 hxg4 37. Qxh7+ Kxh7 38. hxg4+ Kg7 39. Kf3 Kf8 40. Rh4
+Ke7 41. Kxf4 R5g7 42. Nf3 Rd8 43. e5 fxe5+ 44. Nxe5 Rc8 45. g5 Rgg8 46. Rh7
+Rcf8 47. Ng6+ 1-0

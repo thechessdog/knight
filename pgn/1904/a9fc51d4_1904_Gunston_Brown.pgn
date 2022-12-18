@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "8"]
+[White "Gunston, William"]
+[Black "Brown, Fred"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "a9fc51d4"]
+[Epoch "Knight"]
+[BlackID "1800809"]
+[BlackCountry "WLS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. d4 exd4 6. e5 Ne4 7. Nxd4 O-O 8.
+Re1 Nxd4 9. Qxd4 d5 10. exd6 Nxd6 11. Bd3 Bf6 12. Qf4 Re8 13. Rd1 Be5 14. Qf3
+Qh4 15. h3 h5 16. g3 Qxh3 17. Bf1 Qg4 18. Bg2 Qg6 19. Re1 Bd7 20. Nc3 Bg4 21.
+Qd5 Bxc3 22. Rxe8+ Rxe8 23. bxc3 Re1+ 24. Kh2 Qxc2 25. Bb2 Rxa1 26. Bxa1 Qb1
+27. Qg5 Qxa1 28. Qd8+ Kh7 29. Qxc7 Qd1 30. c4 Bf3 31. Bxf3 Qxf3 32. Qxd6 Qxf2+
+33. Kh3 Qf5+ 34. Kg2 Qc2+ 35. Kf3 Qxc4 36. Qd2 b5 37. Kg2 b4 38. Qf2 a6 39. Qb2
+a5 40. Kh3 a4 41. Qf2 b3 42. axb3 Qxb3 43. Qf5+ g6 0-1

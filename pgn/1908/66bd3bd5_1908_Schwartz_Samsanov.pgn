@@ -1,0 +1,18 @@
+[Event "Heidelberg"]
+[Site "Heidelberg"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Schwartz, Gerhard"]
+[Black "Samsanov"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "66bd3bd5"]
+[Epoch "Knight"]
+[WhiteID "4649842"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 d6 6. Bc4 Nh6 7. O-O Be7 8. d4 f3
+9. gxf3 Nc6 10. fxg4 Nxg4 11. Bxf7+ Kf8 12. Qxg4 Bxg4 13. Ne6+ Bxe6 14. Bh6#
+1-0

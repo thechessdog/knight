@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Vaksberg"]
+[Black "Gusev, Y."]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "08c5e6b9"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 b6 7. O-O Bb7 8.
+d5 d6 9. Ne1 e6 10. Bg5 h6 11. Bf4 g5 12. Be3 exd5 13. exd5 Re8 14. Nc2 Ne4
+15. Nxe4 Rxe4 16. Bd3 Re8 17. f4 gxf4 18. Bxf4 Nd7 19. Bxh6 Bxh6 20. Qh5
+Ne5 21. Qxh6 Nxd3 22. Rxf7 1-0
+

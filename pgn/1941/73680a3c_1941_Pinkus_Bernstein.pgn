@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Pinkus, Albert Sidney"]
+[Black "Bernstein, Sidney Norman"]
+[Result "0-1"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, sharp line"]
+[HashCode "73680a3c"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8. a4
+b4 9. c3 Rb8 10. Bc4 d5 11. exd5 Nxd5 12. d3 Bf6 13. Qe4 Nde7 14. Nbd2 Bf5 15.
+Qe3 a5 16. Ne4 Ng6 17. g3 Be7 18. h4 h6 19. h5 Nh8 20. Nh2 Qc8 21. Qf3 Be6 22.
+g4 Bxc4 23. dxc4 f5 24. Ng3 e4 25. Qe2 bxc3 26. bxc3 f4 27. Nxe4 f3 28. Qd3 Ne5
+29. Qd5+ Nhf7 30. Ng3 Kh8 31. Nf5 Bf6 32. Be3 c6 33. Qe4 Qa6 34. Nxf3 Nxf3+ 35.
+Qxf3 Qxc4 36. Bd4 Bxd4 37. cxd4 Rb3 38. Rfc1 Qxc1+ 0-1

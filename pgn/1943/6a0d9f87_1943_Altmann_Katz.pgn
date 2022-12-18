@@ -1,0 +1,17 @@
+[Event "Syracuse"]
+[Site "Syracuse"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Altmann"]
+[Black "Katz"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "6a0d9f87"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Nc3 b5 8.
+Bd3 Bb7 9. Qe2 Nc6 10. Rd1 Qc7 11. dxc5 Bxc5 12. e4 Ng4 13. Rf1 Nd4 14. Qd1
+Nxf3+ 0-1
+

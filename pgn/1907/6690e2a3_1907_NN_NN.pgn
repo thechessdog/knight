@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1907.01.01"]
+[Round "1"]
+[White "NN Chess Club"]
+[Black "NN Chess Club"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit, Brentano defence"]
+[HashCode "6690e2a3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O d5 6. Bxd5 gxf3 7. Qxf3 Nf6
+8. Qxf4 Be7 9. Bxf7+ Kxf7 10. e5 Rf8 11. exf6 Bxf6 12. Nc3 Kg8 13. Qg3+ Kh8
+14. d4 Rg8 15. Qf3 Bxd4+ 16. Kh1 Bd7 17. Bd2 Bc6 18. Ne4 Nd7 19. Bc3 Bg7
+20. Rae1 Nc5 0-1
+

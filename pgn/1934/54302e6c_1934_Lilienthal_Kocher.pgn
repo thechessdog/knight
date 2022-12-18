@@ -1,0 +1,17 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Kocher"]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "54302e6c"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 Nc6 5. e4 Nf6 6. Nc3 Bg4 7. d5 Bxf3 8.
+gxf3 Ne5 9. f4 Ng6 10. f5 Ne5 11. f4 Ned7 12. e5 Ng8 13. e6 Nb6 14. Qh5 g6 15.
+Bb5+ c6 16. dxc6 gxh5 17. cxb7+ Nd7 18. exd7+ Qxd7 19. bxa8=Q# 1-0

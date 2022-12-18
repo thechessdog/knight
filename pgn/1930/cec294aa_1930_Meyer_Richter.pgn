@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Meyer, E."]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "cec294aa"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 Nxe4 7. Qxh7 Rf8 8.
+Bd2 Bxc3 9. Bxc3 Qf6 10. f3 Rh8 11. Qxh8+ Qxh8 12. fxe4 Qh4+ 13. Kd2 Qf4+ 0-1

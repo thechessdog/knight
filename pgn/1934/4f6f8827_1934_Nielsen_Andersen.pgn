@@ -1,0 +1,19 @@
+[Event "Vejle"]
+[Site "Vejle"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Nielsen, Julius"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "4f6f8827"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 c5 6. c3 Nc6 7. O-O Qc7 8. Qe2
+Be7 9. b3 O-O 10. Bb2 d5 11. Rac1 e5 12. e4 dxe4 13. Nxe4 Rad8 14. Nxf6+ Bxf6
+15. d5 Rxd5 16. c4 Rxd3 17. Qxd3 e4 18. Qxe4 Bxb2 19. Ng5 g6 20. Qh4 h5 21. f4
+Bxc1 22. Rxc1 Nd4 0-1

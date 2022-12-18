@@ -1,0 +1,21 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Tsvetkov, Alexander Kristov"]
+[Black "Sokolsky, Alexey"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "4bcb2553"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+[WhiteCountry "BGR"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 c5 6. d4 Nc6 7. Be3 Nd5 8.
+Be2 e6 9. O-O Be7 10. Bc1 O-O 11. dxc5 Bxc5 12. c4 Nf6 13. Qc2 h6 14. Bd2 Qe7
+15. a3 a5 16. Bc3 Rd8 17. h3 b6 18. Rad1 Bb7 19. Rxd8+ Rxd8 20. Rd1 Rxd1+ 21.
+Qxd1 Qc7 22. Bxf6 Qxg3 23. Bd4 Bxd4 24. Nxd4 Qg5 25. Nf3 Qe7 26. Qb3 Qc5 27.
+Qe3 Qxe3 28. fxe3 Kf8 29. Kf2 Ke7 30. Ke1 f5 31. Kd2 e5 32. Kc3 g5 33. b4 axb4+
+34. axb4 Kd6 1/2-1/2

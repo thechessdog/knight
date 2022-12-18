@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Schelfhout, William"]
+[Black "Beffie"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "638e0c94"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2
+O-O-O 8. Nc3 Qh5 9. O-O Nf6 10. h3 Bxf3 11. Bxf3 Qg6 12. Be3 Be7 13. Bxc6
+bxc6 14. Qa4 Nd5 15. Qa6+ Kb8 16. Na4 Nb4 17. Qa5 Rd5 18. Nc5 Bxc5 19. dxc5
+Nd3 20. Rab1 Ne5 21. b4 Nc4 22. Qa6 Nxe3 23. fxe3 Rd2 24. g4 Qe4 0-1
+

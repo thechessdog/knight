@@ -1,0 +1,21 @@
+[Event "Cologne-B3"]
+[Site "Cologne"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Thoenes"]
+[Black "Villaret"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "4789dc0f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bb3 d6 8. O-O
+Bg4 9. Rd1 O-O 10. d4 exd4 11. cxd4 Na5 12. Bc2 Bh5 13. e5 Ne8 14. Nc3 Bg6 15.
+Ne4 d5 16. Neg5 Qc8 17. Nh4 Bxc2 18. Qxc2 Bxg5 19. Bxg5 f6 20. Bd2 Nc4 21. Bb4
+Rf7 22. b3 Nb6 23. Nf5 Qe6 24. Re1 Kh8 25. Ng3 f5 26. f4 Rc8 27. Rac1 c6 28.
+Nh1 Nd7 29. Nf2 g6 30. Nh3 h6 31. Qf2 Rh7 32. Qh4 Kg8 33. Rc3 Kh8 34. Rg3 Kg8
+35. Qh5 Kf7 36. Qxh6 Rxh6 37. Ng5+ Kg8 38. Nxe6 Ng7 39. Ng5 Nh5 40. Rf3 Kg7 41.
+Rc1 Rhh8 42. h3 Kg8 43. g4 Ng7 44. Kg2 Ne8 45. Rfc3 Nb8 46. Rc5 Rc7 47. Kg3 Re7
+48. Rxc6 Nxc6 49. Rxc6 Rc7 50. Rxg6+ Rg7 51. Rxa6 Rxg5 1-0

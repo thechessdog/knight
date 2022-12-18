@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rather"]
+[Black "Gresser, Gisela"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "26e9d6e2"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. Nxd5 Qxd5 7. d4
+Be7 8. Bxf4 Qe4+ 9. Be2 Qxf4 10. O-O O-O 0-1
+

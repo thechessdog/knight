@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Marchand"]
+[Black "Adams, Weaver Warren"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "965b166c"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 a5 6. g3 Be6 7. b3 Bc5 8. Bg2
+Nge7 9. O-O Ng6 10. Bb2 Ngxe5 11. Nxe5 Nxe5 12. e3 Bg4 13. f3 dxe3 14. Qe2
+Nxf3+ 15. Kh1 Nxh2 16. Qc2 Nxf1 17. Qe4+ Qe7 18. Qxg4 e2 19. Nd2 f5 20. Qh5+ g6
+21. Qh6 Nxg3+ 22. Kh2 Nh5 23. Ne4 Qh4+ 24. Bh3 fxe4 25. Be5 Rf8 0-1

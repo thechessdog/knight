@@ -1,0 +1,15 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Nasarovsky"]
+[Black "Goncharov"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "521ea615"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. Ng5 Nh6 7. Qh5 Ne5
+8. Bb3 Bg4 9. Qh4 Qf6 10. f4 Be2 11. Re1 d3+ 12. Kh1 Neg4 0-1
+

@@ -1,0 +1,28 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "a6565db2"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bd2 Bxc5 7. e3 O-O 8.
+Rc1 b6 9. Nf3 d5 10. cxd5 exd5 11. Bb5 Bb7 12. Bxc6 Bxc6 13. Ne2 Ne4 14. Bc3
+Nxc3 15. Rxc3 Qe8 16. a3 Bb5 17. Qxd5 Bxe2 18. Kxe2 Qb5+ 19. Qc4 Qxb2+ 20. Rc2
+Qxa3 21. Ra2 Qb4 22. Qxb4 Bxb4 23. Ra6 Bc5 24. Nd4 Bxd4 25. exd4 Rfd8 26. Kd3
+Rd5 27. Rha1 Rad8 28. R1a4 b5 29. Rb4 R8d7 30. Ra5 Rb7 31. Ke4 Rh5 32. d5 f5+
+33. Kf3 Rxh2 34. Raxb5 Rxb5 35. Rxb5 Rh4 36. Ra5 Rd4 37. Rxa7 Rxd5 38. Kf4 h6
+39. Kf3 Kh7 40. Ra6 g5 41. Kg3 h5 42. Kh2 Rd2 43. f3 Kg7 44. Rb6 Re2 45. Ra6 h4
+46. Kh3 Re3 47. Rb6 Kf7 48. Ra6 Re1 49. Kh2 Re6 50. Ra3 Kg6 51. g3 Kh5 52. Ra2
+Re3 53. Kg2 hxg3 54. Kxg3 Rb3 55. Rc2 f4+ 56. Kf2 Kh4 57. Kg2 Kh5 58. Ra2 Re3
+59. Ra8 Kg6 60. Rg8+ Kf6 61. Rf8+ Kg7 62. Rc8 Kf7 63. Rb8 Rd3 64. Ra8 Kf6 65.
+Rf8+ Ke5 66. Re8+ Kf6 67. Rf8+ Kg7 68. Ra8 Kf7 69. Rb8 Rc3 70. Ra8 Kf6 71. Rf8+
+Ke5 72. Re8+ Kd4 73. Rd8+ Ke5 74. Re8+ Kf6 75. Rf8+ Kg7 76. Ra8 Kf7 77. Rb8 Re3
+78. Ra8 Re8 79. Ra6 Re6 80. Ra8 Kg6 81. Rg8+ Kf5 82. Rf8+ Rf6 83. Ra8 Rd6 84.
+Rf8+ Ke5 85. Re8+ Re6 86. Rg8 Kf6 87. Rf8+ Kg7 88. Ra8 Re1 1/2-1/2

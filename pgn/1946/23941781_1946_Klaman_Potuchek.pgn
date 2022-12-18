@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Klaman, Konstantin"]
+[Black "Potucek, Ludovit"]
+[Result "1-0"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "23941781"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 c5 8. e4
+a6 9. Re1 cxd4 10. Nxd4 Ne5 11. b3 Bd7 12. Bb2 Re8 13. Qd2 Rb8 14. Rad1 Qc8 15.
+f4 Nc6 16. Nc2 Bg4 17. Rc1 Bh3 18. Ne3 Bxg2 19. Kxg2 Ng4 20. Ncd5 Nxe3+ 21.
+Rxe3 e5 22. Rf1 Nd4 23. Qf2 f5 24. Ree1 b5 25. fxe5 dxe5 26. Bxd4 exd4 27. exf5
+gxf5 28. Re7 bxc4 29. Rxg7+ Kxg7 30. Qxd4+ Kg8 31. Nf6+ Kf7 32. Nxe8 Kxe8 33.
+Qg7 1-0

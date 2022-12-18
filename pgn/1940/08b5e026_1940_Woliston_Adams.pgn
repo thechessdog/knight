@@ -1,0 +1,17 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1940.01.01"]
+[Round "4"]
+[White "Woliston, Philip"]
+[Black "Adams, Weaver Warren"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "08b5e026"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bb4 6. a3 Bxd2+ 7. Bxd2 Nge7 8.
+g3 O-O 9. Bg2 Ng6 10. Bg5 Qd7 11. Qc2 Ncxe5 12. Rd1 d3 13. exd3 Nxf3+ 14. Bxf3
+Qf5 0-1

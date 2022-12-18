@@ -1,0 +1,17 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Talvik, Eduard"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "42fc817c"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d4
+O-O 9. Qd3 b5 10. Bb3 Bxf3 11. gxf3 Na5 12. Bc2 Nh5 13. a4 Bg5 14. Be3 Bf4 15.
+Nd2 Nc4 16. b3 Nxd2 17. Qxd2 Qh4 18. Bxf4 Nxf4 19. Kh1 Qh3 0-1

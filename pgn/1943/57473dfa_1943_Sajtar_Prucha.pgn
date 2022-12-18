@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "14"]
+[White "Sajtar, Jaroslav"]
+[Black "Prucha, Karel"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "57473dfa"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 e5 7. dxe5 dxe5 8. e3
+Bg4 9. a3 Bxc3 10. Bxc3 Qe7 11. b4 e4 12. Nd4 Ne5 13. h3 Bd7 14. Be2 h5 15. Rd1
+O-O 16. O-O a5 17. bxa5 Qxa3 18. Rb1 Rfb8 19. Bb4 Qa4 20. Qc3 c5 21. Bxc5 Qxa5
+22. Qxa5 Rxa5 23. Bd6 Rc8 24. Nb3 Ra2 25. Bxe5 Rxe2 26. Nd4 Ra2 27. Rxb7 Bc6
+28. Rb6 Nd7 29. Rxc6 Rxc6 30. Nxc6 Ra6 31. Rd1 1-0

@@ -1,0 +1,19 @@
+[Event "DSB-24.Kongress"]
+[Site "Breslau"]
+[Date "1925.01.01"]
+[Round "11"]
+[White "Von Gottschall, Hermann"]
+[Black "Wagner, Heinrich"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "84ff0bc2"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Bd2 Bb4 6. Bd3 O-O 7. Ne2 d5 8.
+exd5 Re8 9. Qg3 Bxd2+ 10. Nxd2 Nd4 11. Qh4 Rxe2+ 12. Bxe2 Nxc2+ 13. Kd1 Nxa1
+14. Qc4 Bf5 15. g4 b5 16. Qf4 Bg6 17. h4 Nxd5 18. Qf3 Nc2 19. h5 Nd4 20. Qg3
+Bc2+ 21. Ke1 Qe7 0-1

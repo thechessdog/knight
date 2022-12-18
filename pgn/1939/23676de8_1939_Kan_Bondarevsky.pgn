@@ -1,0 +1,23 @@
+[Event "Leningrad/Moscow"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "16"]
+[White "Kan, Ilya"]
+[Black "Bondarevsky, Igor"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Rubinstein variation"]
+[HashCode "23676de8"]
+[Epoch "Knight"]
+[WhiteID "24187372"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. Nf3 e6 2. c4 Nf6 3. d4 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Nh4 g6 8. O-O
+Bg7 9. Nc3 O-O 10. cxd5 d6 11. e4 a6 12. a4 Nbd7 13. f4 b5 14. axb5 axb5 15.
+Rxa8 Bxa8 16. Nxb5 Qb6 17. Na3 Re8 18. Nc4 Qa6 19. Qc2 Nxe4 20. Bxe4 Bd4+ 21.
+Be3 Rxe4 22. Qxe4 Qxc4 23. Bxd4 Nf6 24. Ra1 Bb7 25. b3 Qb4 26. Qd3 cxd4 27. Nf3
+Nxd5 28. Qxd4 Qxb3 29. Re1 Qb5 30. Nd2 Qc6 31. Ne4 Qc2 32. Nf2 Qc6 33. Ng4 h5
+34. Nh6+ Kh7 35. Nxf7 Nf6 36. Ng5+ Kh6 37. Ne4 Nh7 38. Qxd6 Qc2 39. f5 Bxe4 40.
+Qxg6# 1-0

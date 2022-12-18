@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Moreau, C."]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "fa90c02b"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nf3 d5 7. exd5 exd5 8.
+O-O Be7 9. Nc3 O-O 10. Bf4 Bg4 11. Be2 a6 12. Nd4 Bxe2 13. Ncxe2 Qd7 14. Ng3
+Nxd4 15. Qxd4 Rac8 16. Qd3 Rc4 17. Bg5 h6 18. Bxf6 Bxf6 19. c3 Rfc8 20. Nf5 b5
+21. Rad1 Rd8 22. Qf3 Rc6 23. Rfe1 Bg5 24. Re5 Re6 25. Rxe6 fxe6 26. Ne3 Bf6 27.
+Ng4 Bg5 28. Ne5 Qc7 29. Re1 b4 30. Qh3 Re8 31. Qd3 Bf6 32. f4 bxc3 33. bxc3
+Qb6+ 34. Qe3 Qxe3+ 35. Rxe3 Rc8 36. Kf2 Bxe5 37. fxe5 Rc4 38. g3 Kf7 39. Kf3
+Kg6 40. h3 Ra4 41. Re2 Ra3 42. Rc2 Kf5 43. Ke3 Kxe5 44. Kd3 d4 45. Kd2 Rxc3 46.
+Rxc3 dxc3+ 47. Kxc3 Ke4 48. a4 e5 0-1

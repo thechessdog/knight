@@ -1,0 +1,17 @@
+[Event "Maehrisch-Ostrau"]
+[Site "Maehrisch-Ostrau"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Cvechovsky"]
+[Black "Foltys, Jan"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "fd88fc7d"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. b3 Bb7 5. Bb2 c5 6. Be2 Nc6 7. O-O d5 8. c4
+cxd4 9. Nxd4 Bd6 10. Nd2 O-O 11. cxd5 Nxd4 12. Bxd4 Nxd5 13. Nc4 Bc7 14. Bf3
+Qh4 15. g3 Qh3 16. Bg2 Qxg2+ 0-1

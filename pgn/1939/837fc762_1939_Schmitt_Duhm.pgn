@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Schmitt"]
+[Black "Duhm"]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "837fc762"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 d5 5. e3 c5 6. Nf3 Qa5 7. Bxf6 Bxc3+
+8. bxc3 Qxc3+ 9. Nd2 gxf6 10. Rc1 Qa5 11. cxd5 Na6 12. Qf3 cxd4 13. Qxf6
+Rg8 14. d6 Qd8 15. Qxd4 Bd7 16. Bxa6 bxa6 17. O-O f5 18. Nf3 Rc8 19. Ne5
+Rg7 20. Nxd7 1-0
+

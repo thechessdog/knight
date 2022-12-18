@@ -1,0 +1,23 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Dobias"]
+[Black "Lowenborg, Otto"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "eeec3c01"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 d6 8. c3
+Na5 9. Bc2 c5 10. d3 Nc6 11. Nbd2 O-O 12. Nf1 Qc7 13. Bg5 Ne8 14. Ne3 Qd8 15.
+Bxe7 Nxe7 16. a4 Rb8 17. axb5 axb5 18. d4 Qc7 19. dxe5 dxe5 20. Nd5 Qd6 21.
+Nxe7+ Qxe7 22. Qd5 Be6 23. Qxe5 Nf6 24. Ra5 Nd7 25. Qh5 g6 26. Qh6 f6 27. Ra7
+Rf7 28. e5 Bg4 29. e6 Bxe6 30. Bb3 c4 31. Nd4 Qc5 32. Ra5 Bd5 33. Bc2 Ne5 34.
+Qd2 Rd7 35. Qf4 Qc7 36. Qxf6 Qxa5 37. Qxe5 Rf8 38. Be4 Bxe4 39. Qxe4 Qb6 40. f3
+b4 41. Kf1 bxc3 42. bxc3 Ra7 43. Qd5+ Kh8 44. Qxc4 Rc7 45. Qe6 Qc5 46. Re3 Rfc8
+47. Qf6+ Kg8 48. Kf2 Rb7 49. Qe6+ Kg7 50. Qg4 Rb2+ 51. Kg3 Kh8 52. h4 Qc7+ 53.
+Kh3 Rb1 54. g3 Qc4 55. Qd7 h5 56. Ne2 Re1 57. Re7 Qc7 58. Qd4+ 1-0

@@ -1,0 +1,17 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "1"]
+[White "Baratz, A."]
+[Black "Van den Bosch, Johannes"]
+[Result "1-0"]
+[ECO "D63"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Rc1"]
+[HashCode "f6659706"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Be7 5. e3 Nbd7 6. Nc3 O-O 7. Rc1 Re8 8. Bd3
+dxc4 9. Bxc4 a6 10. a4 c5 11. O-O cxd4 12. exd4 h6 13. Bh4 Nb6 14. Ba2 Nh5 15.
+Ne5 Bxh4 16. Qxh5 Rf8 17. a5 Nd5 18. Nxd5 exd5 19. Nxf7 Bg4 20. Nxh6+ 1-0

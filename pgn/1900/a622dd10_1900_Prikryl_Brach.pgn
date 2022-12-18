@@ -1,0 +1,21 @@
+[Event "Osyky "]
+[Site "Osyky"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Prikryl, B."]
+[Black "Brach, Julius"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "a622dd10"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Bc4 Nf6 6. h3 Bxf3 7. Qxf3 Nc6 8.
+b4 Bb6 9. a4 a6 10. d3 exf4 11. Bxf4 Ne5 12. Bxe5 dxe5 13. Nd2 Qe7 14. Rf1
+O-O 15. Qf5 Be3 16. g3 Qd7 17. Qxd7 Nxd7 18. Rf3 Bh6 19. Ke2 Nf6 20. Nb3 b6
+21. Rf5 Rae8 22. Bxa6 Re7 23. a5 Rd8 24. Bb5 Ne8 25. Bxe8 Rexe8 26. axb6
+cxb6 27. Ra7 f6 28. Rf1 Rd6 29. Rfa1 Rc8 30. Ra8 Rc6 31. c4 Kf7 32. Rxc8
+Rxc8 33. Ra7+ Ke6 34. Ra6 Rc6 35. c5 Kd7 36. b5 Rc8 37. Rxb6 Ra8 38. Ra6
+Rb8 39. Ra7+ Kc8 40. b6 1-0
+

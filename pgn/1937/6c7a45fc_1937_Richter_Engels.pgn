@@ -1,0 +1,21 @@
+[Event "Bad Saarov"]
+[Site "Bad Saarov"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Engels, Ludwig"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Richter variation"]
+[HashCode "6c7a45fc"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. Be2 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 g6 7. O-O Bg7 8.
+Be3 O-O 9. Qd2 Ng4 10. Bxg4 Bxg4 11. f4 Bd7 12. Rad1 Rc8 13. Qf2 Na5 14. f5 Nc4
+15. Nd5 Nxe3 16. Qxe3 Re8 17. Qf2 e6 18. Ne3 Kh8 19. f6 Bf8 20. e5 dxe5 21. Nf3
+Qc7 22. Ng5 Kg8 23. Nxh7 Kxh7 24. Qh4+ Kg8 25. Rf3 Bg7 26. Rh3 Kf8 27. Qh8+
+Bxh8 28. Rxh8# 1-0

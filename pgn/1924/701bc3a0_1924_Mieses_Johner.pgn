@@ -1,0 +1,24 @@
+[Event "Berlijn"]
+[Site "Berlijn"]
+[Date "1924.01.01"]
+[Round "4"]
+[White "Mieses, Jacques"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[HashCode "701bc3a0"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5 Bxe3 7. fxe3 Qh4+
+8. g3 Qd8 9. Qg4 g6 10. Qf4 d6 11. Bc4 Be6 12. Bxe6 fxe6 13. O-O Nge7 14. Qf7+
+Kd7 15. Rf6 Qg8 16. N1c3 Qxf7 17. Rxf7 Ne5 18. Rg7 Rag8 19. Rxg8 Rxg8 20. b3 a6
+21. Nd4 Rf8 22. Kg2 c5 23. Nde2 b5 24. Nd1 g5 25. Nf2 N7c6 26. a3 h5 27. Ng1
+Ne7 28. Nfh3 Ng4 29. Re1 d5 30. Nf3 dxe4 31. Nfxg5 Nd5 32. Nxe4 Ngxe3+ 33. Kg1
+c4 34. bxc4 bxc4 35. c3 e5 36. Nhf2 Kc6 37. Nd1 Nxd1 38. Rxd1 Rf3 39. Re1 Nxc3
+40. Nd2 Rd3 41. Nxc4 e4 42. Kf2 Kd5 43. Ne3+ Ke5 44. Nf1 Kd4 45. Kg2 e3 46. h4
+Ke4 47. Nxe3 Rxe3 48. Rxe3+ Kxe3 49. g4 Ke4 50. gxh5 Kf5 51. Kg3 Nb1 52. a4 a5
+0-1

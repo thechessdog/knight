@@ -1,0 +1,17 @@
+[Event "Prague sim"]
+[Site "Prague"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Důras, Oldřich"]
+[Black "Kolar"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "f158917c"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Nbd7 7. Bd3 a6 8. c5
+e5 9. dxe5 Ng4 10. Qa4 h5 11. h3 Nxe5 12. Nxe5 Qe7 13. Bf4 f6 14. Nxd5 Qxc5 15.
+Nxd7 Bxd7 16. Qe4+ Kd8 17. Rc1 Qa5+ 18. b4 Bxb4+ 19. Qxb4 1-0

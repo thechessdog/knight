@@ -1,0 +1,20 @@
+[Event "Teplitz-Schonau"]
+[Site "Teplitz-Schonau"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Thanhofer"]
+[Black "Springe"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, hedgehog variation"]
+[HashCode "134a162f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Re1 exd4
+8. Nxd4 O-O 9. Bxc6 bxc6 10. h3 Re8 11. Bf4 g6 12. Qd3 Bf8 13. Rad1 Bg7 14.
+Nf3 Qb8 15. e5 Bf5 16. Qc4 Nd5 17. Nxd5 cxd5 18. Qxd5 Qxb2 19. exd6 cxd6
+20. Ng5 Qf6 21. Ne4 Qe6 22. Qxe6 Rxe6 23. Nxd6 Bxc2 24. Rxe6 Bxd1 25. Re7
+Bf8 26. Rd7 Ba4 27. Rc7 Bxd6 28. Bxd6 Rd8 29. Rxa7 Bc6 30. Be5 Ra8 31.
+Rxa8+ Bxa8 32. Bf6 Kf8 1/2-1/2
+

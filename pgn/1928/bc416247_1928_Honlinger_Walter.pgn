@@ -1,0 +1,17 @@
+[Event "Trencianske Teplice"]
+[Site "Trencianske Teplice"]
+[Date "1928.??.??"]
+[Round "5"]
+[White "Honlinger, B."]
+[Black "Walter, Max"]
+[Result "*"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "bc416247"]
+[Epoch "Knight"]
+[BlackID "12931306"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. Qe2 Bb7 10. e4 c5 11. Bg5 *

@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Helms, Hermann"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "2773b7b0"]
+[Epoch "Knight"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. a5 Nc5 11. c3 Nxb3 12. Qxb3 Be7 13. Bf4 O-O 14. Nd4 Nxd4 15.
+cxd4 c5 16. dxc5 Bxc5 17. Nd2 Rc8 18. Qg3 f6 19. Nb3 Ba7 20. exf6 Qxf6 21. Be5
+Qh6 22. Rac1 Rxc1 23. Nxc1 Bxf2+ 0-1

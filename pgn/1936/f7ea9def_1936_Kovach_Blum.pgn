@@ -1,0 +1,17 @@
+[Event "Budapest-B"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Kovach"]
+[Black "Blum, M."]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "f7ea9def"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 Bb7 6. Bd3 Nc6 7. Nf3 d6 8. O-O
+Bxc3 9. Qxc3 Nd7 10. Bf4 Ne7 11. Rfd1 Ng6 12. Bg3 Qe7 13. b4 e5 14. c5 bxc5 15.
+dxc5 dxc5 16. bxc5 c6 17. Rab1 Bc8 18. h4 h5 19. Bc4 O-O 20. Rd6 Nf4 21. Rxc6
+Nxc5 22. Rxc5 Be6 23. Rxe5 Bxc4 24. Bxf4 1-0

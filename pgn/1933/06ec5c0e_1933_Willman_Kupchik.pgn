@@ -1,0 +1,18 @@
+[Event "Manhattan CC-ch"]
+[Site "New York"]
+[Date "1933.01.01"]
+[Round "6"]
+[White "Willman, Robert"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "06ec5c0e"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nd2 c5 9. Ne2 Be6 10. b3 Be5 11. c3 f6 12. Bb2 Ne7 13. O-O-O Bd6 14. c4 Nc6
+15. Nc3 O-O-O 16. Nf3 Rhe8 17. h3 Nd4 18. Nxd4 cxd4 19. Ne2 c5 20. g4 Bd7 21.
+f3 g6 22. Kd2 f5 23. exf5 gxf5 24. g5 Bc6 25. Rhf1 d3 0-1

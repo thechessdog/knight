@@ -1,0 +1,25 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Lundin, Erik"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0023c0d7"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. e3 O-O 6. Qc2 b6 7. b3 c5 8. Bb2
+cxd4 9. Nxd4 Bb7 10. O-O-O Nc6 11. Nxc6 Bxc6 12. cxd5 Nxd5 13. Ba6 Qb8 14. Nxd5
+Bxd5 15. Kb1 Bb7 16. Bd3 Rc8 17. Qe2 Rc5 18. f4 Qc7 19. Rhf1 Rd8 20. e4 Qc8 21.
+f5 exf5 22. exf5 Bf8 23. g4 Qa8 24. Ka1 Re8 25. Qf2 Bd5 26. Qd4 Ra5 27. Bc4
+Bxc4 28. Qxc4 Qb7 29. Rf2 Re4 30. Qd3 Rxg4 31. Qd8 Qe4 32. f6 g6 33. Rc2 Rc5
+34. Ba3 Rg1 35. Rxg1 Qxc2 36. Bxc5 Qxc5 37. Rd1 Qe5+ 38. Kb1 h5 39. Rd2 Qf5+
+40. Kb2 Qc5 41. Qe8 a6 42. h4 a5 43. Qa4 b5 44. Qd4 Qa3+ 45. Kb1 a4 46. bxa4
+bxa4 47. Rd3 Qc5 48. Qxc5 Bxc5 49. Rd8+ Kh7 50. Rc8 Bf2 51. Rf8 Bxh4 52. Rxf7+
+Kh6 53. Rf8 Bg3 54. Rh8+ Kg5 55. f7 Bd6 56. Kc2 h4 57. Kd3 Kg4 58. Ke2 g5 59.
+Kf2 Kh3 60. f8=Q Bxf8 61. Rxf8 g4 62. Rf4 a3 63. Ra4 1-0

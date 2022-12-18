@@ -1,0 +1,18 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1931.01.01"]
+[Round "3"]
+[White "Fernandez Coria, Valentin"]
+[Black "Ibanez, Enrique"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "67a6b0d1"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 Ne4 5. Qc2 d5 6. Bd2 Nxd2 7. Nxd2 c6 8.
+e3 Nd7 9. Bd3 h6 10. O-O f5 11. cxd5 cxd5 12. Nb5 Ba5 13. Nd6+ Ke7 14. Nb5 a6
+15. Nc3 Bc7 16. Bxf5 exf5 17. Nxd5+ Kd6 18. Qxf5 Ne5 19. dxe5+ Kxd5 20. e6+ Be5
+21. Rfd1 1-0

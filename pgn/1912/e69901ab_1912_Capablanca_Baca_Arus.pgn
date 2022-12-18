@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Baca_Arus, J."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "e69901ab"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+
+1. d4 d5 2. e3 e6 3. Bd3 Bd6 4. Nf3 Nd7 5. Nbd2 f5 6. b3 Nh6 7. Bb2 Qf6 8. c4
+c6 9. Qc2 O-O 10. h3 g6 11. O-O-O e5 12. dxe5 Nxe5 13. cxd5 cxd5 14. Nc4 dxc4
+15. Bxc4+ Nhf7 16. Rxd6 Qxd6 17. Nxe5 Be6 18. Rd1 Qe7 19. Rd7 Bxd7 20. Nxd7
+Rfc8 21. Qc3 Rxc4 22. bxc4 Nd6 23. Qh8+ Kf7 24. Ne5+ Ke6 25. Qxa8 1-0

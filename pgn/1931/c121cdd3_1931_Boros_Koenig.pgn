@@ -1,0 +1,18 @@
+[Event "Trebitsch mem14"]
+[Site "Vienna"]
+[Date "1931.05.09"]
+[Round "6"]
+[White "Boros, Sandor"]
+[Black "Koenig, Imre"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "c121cdd3"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 Nf6 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 a5 11. bxc4 Ne4 12. Bb2 b4 13. Bd3 Bb7 14. O-O Nd7 15.
+Qa4 O-O 16. c5 Ndxc5 17. dxc5 Qxd3 18. c6 Nc5 19. Qa2 Bxc6 20. Rac1 Bd5 21. Qb1
+Qxb1 22. Rxb1 Bxf3 23. gxf3 a4 24. Bd4 Nb3 0-1

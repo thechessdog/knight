@@ -1,0 +1,27 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Lundin, Erik"]
+[Black "Barda, Olaf"]
+[Result "0-1"]
+[ECO "A26"]
+[Opening "English"]
+[Variation "closed system"]
+[HashCode "b64bf100"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "NOR"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. d3 Bg7 6. Bd2 Nge7 7. Rb1 a5 8. Nf3
+O-O 9. Qc1 Nf5 10. h4 h5 11. Ng5 Ncd4 12. e3 Ne6 13. Nce4 c6 14. O-O Qe7 15.
+Qe1 Qc7 16. a3 Nc5 17. b4 axb4 18. axb4 Nxd3 19. Qe2 Ra3 20. Ra1 Rxa1 21. Rxa1
+Nb2 22. Bc3 Nxc4 23. Qxc4 d5 24. Qa2 dxe4 25. Bxe4 Ne7 26. Qc4 Bf5 27. Bg2 Nc8
+28. e4 Bg4 29. f3 Bd7 30. Rd1 Nd6 31. Qc5 Nb5 32. Bb2 Bc8 33. Bf1 Nd4 34. f4
+Bg4 35. Rd3 b6 36. Qc4 Ne2+ 37. Kf2 exf4 38. Bxg7 fxg3+ 39. Ke1 Qf4 40. Bxf8
+Qf2+ 41. Kd2 Nd4+ 42. Kc3 Nb5+ 43. Qxb5 cxb5 44. Bh6 Qf6+ 45. Kc2 Bd7 46. Bg2
+Qc6+ 47. Kd2 f6 48. Bh3 fxg5 49. Bxd7 Qxd7 50. Rxd7 g2 51. Rd8+ Kf7 52. Rd7+
+Ke6 53. Re7+ Kd6 54. e5+ Kd5 55. Rd7+ Kc6 56. Rd6+ Kc7 57. Bxg5 g1=Q 58. Bd8+
+Kc8 59. Bf6 Qf2+ 60. Kc3 Qe3+ 61. Kc2 Qe2+ 62. Kc1 Qc4+ 63. Kd1 Qxb4 64. Rd2
+Qb1+ 65. Ke2 b4 66. Rd1 Qc2+ 67. Rd2 Qe4+ 68. Kd1 b3 69. Bg5 Qh1+ 70. Ke2 b2
+0-1

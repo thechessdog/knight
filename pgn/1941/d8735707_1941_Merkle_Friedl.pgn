@@ -1,0 +1,22 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Merkle"]
+[Black "Friedl, Rinder"]
+[Result "0-1"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "d8735707"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4
+8. Bd5 Rb8 9. Qxd4 Bb7 10. Bxb7 Rxb7 11. Nc3 Nf6 12. O-O Be7 13. b3 O-O 14.
+Bb2 c6 15. Rad1 Rd7 16. f4 Qc7 17. Kh1 Rfd8 18. Ne2 d5 19. e5 Ne4 20. Qe3
+Bc5 21. Qf3 Re8 22. h3 Qd8 23. Kh2 f5 24. Bd4 g6 25. Bxc5 Nxc5 26. Qc3 Qb6
+27. Nd4 Rc7 28. Qg3 Ne4 29. Qh4 c5 30. Nf3 Rd7 31. g4 Qe6 32. Rg1 Rf8 33.
+g5 d4 34. a3 Rfd8 35. Qe1 d3 36. cxd3 Rxd3 37. Rxd3 Rxd3 38. Rf1 Qxb3 39.
+Qa5 Qxa3 40. Qc7 Qa2+ 41. Kg1 Qe6 42. Qb8+ Kg7 43. Qc7+ Rd7 44. Qc8 Ng3 45.
+Re1 Ne2+ 46. Kh2 Nxf4 0-1
+

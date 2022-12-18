@@ -1,0 +1,26 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Kulzinski, Nikolaj"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "faa15d62"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Be3 dxe4 5. Nd2 exf3 6. Ngxf3 Nf6 7. Bd3 Nbd7 8.
+O-O Qc7 9. Ne4 Bd6 10. Nxd6+ Qxd6 11. c3 Ng4 12. Qe2 Nxe3 13. Qxe3 h6 14. Rad1
+b6 15. Kh1 Bb7 16. Ne5 Nxe5 17. dxe5 Qe7 18. Rf4 O-O-O 19. Rdf1 Rhf8 20. Be4 c5
+21. Qf3 Bxe4 22. Qxe4 Kb8 23. a4 Rd5 24. Qh7 f5 25. exf6 Rxf6 26. Rxf6 Qxf6 27.
+Qg8+ Kb7 28. Kg1 Rf5 29. Re1 Re5 30. Rf1 Rf5 31. Re1 e5 32. Rd1 Qf8 33. Qxf8
+Rxf8 34. Rd7+ Kc6 35. Rxg7 e4 36. Rg3 Kd5 37. Re3 a6 38. b3 b5 39. axb5 axb5
+40. Re2 b4 41. Rd2+ Ke5 42. cxb4 cxb4 43. g4 e3 44. Rd7 Ke4 45. Kg2 Rf2+ 46.
+Kg3 Rf6 47. Re7+ Kd3 48. Rd7+ Kc3 49. Re7 Kd2 50. Rd7+ Ke1 51. Rd4 e2 52. Rxb4
+Kd1 53. Re4 e1=Q+ 54. Rxe1+ Kxe1 55. h4 Kd2 56. g5 hxg5 57. hxg5 Rf8 58. Kg4
+Ke3 59. g6 Ke4 60. Kg5 Ke5 61. g7 Rg8 62. Kg6 Ke6 63. b4 Ke7 64. b5 Ke6 65. b6
+Ke7 66. b7 Ke6 67. Kh7 Kf7 68. Kh6 Rd8 69. Kh7 Re8 70. Kh6 Kg8 0-1

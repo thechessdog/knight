@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Bahamonde, Antonio"]
+[Black "Corte, Cesar Juan"]
+[Result "0-1"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[HashCode "292b8ac9"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Qc2
+c5 9. d5 exd5 10. Nh4 Nc6 11. cxd5 Nb4 12. Qb3 c4 13. Qxc4 Nc2+ 14. Kd1 Rc8 15.
+Qa4 Nxa1 16. d6 Bxg2 17. dxe7 Qxe7 18. Nxg2 d5 19. e3 b5 20. Nxb5 Rc4 21. Qxa7
+Qe4 22. Ke2 Qxg2 23. Rxa1 Ne4 24. Be1 Nxf2 25. Nd4 Ng4+ 26. Kd3 Ne5# 0-1

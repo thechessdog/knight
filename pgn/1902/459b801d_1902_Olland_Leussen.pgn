@@ -1,0 +1,19 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Olland, Adolf Georg"]
+[Black "Leussen, Benjamin"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich variation"]
+[HashCode "459b801d"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bd3 Nc5 6. O-O Nc6 7. Bb5 Bd7 8.
+Bg5 Qc8 9. Re1 Ne6 10. Nc3 dxe5 11. Bxc6 Bxc6 12. Nxe5 Nxg5 13. Qh5 Qf5 14.
+Nxc6+ Kd7 15. Ne5+ Kc8 16. Nxf7 g6 17. Qxg5 Qxf7 18. Qg4+ Kb8 19. Qf4 Qd7 20.
+Qd4 1-0

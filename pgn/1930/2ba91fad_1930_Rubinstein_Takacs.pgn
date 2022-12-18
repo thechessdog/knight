@@ -1,0 +1,18 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Rubinstein, Akiba"]
+[Black "Takacs"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[HashCode "2ba91fad"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 d5 7. a3 Be7 8. c5
+b6 9. b4 O-O 10. f4 a5 11. Rb1 axb4 12. axb4 bxc5 13. dxc5 Nc6 14. Nd4 Nxd4 15.
+Qxd4 Nd7 16. Be2 Bb7 17. O-O Bf6 18. Qd2 d4 19. Nb5 Be4 20. Bd3 Bc6 21. Bb2 e5
+22. fxe5 Bxe5 23. Bxd4 Bxb5 24. Bxb5 Nxc5 1/2-1/2

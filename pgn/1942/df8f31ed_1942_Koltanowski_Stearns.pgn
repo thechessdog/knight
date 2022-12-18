@@ -1,0 +1,23 @@
+[Event "Cleveland simul"]
+[Site "Cleveland simul"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Stearns, EE."]
+[Result "1-0"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[HashCode "df8f31ed"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O Nbd7 6. c4 O-O 7. Nc3 e5 8. h3
+Re8 9. Be3 a6 10. Qd2 exd4 11. Nxd4 Ne5 12. b3 Rb8 13. Rad1 Bd7 14. Bh6 Qc8 15.
+Bxg7 Kxg7 16. Kh2 b5 17. f4 b4 18. Nb1 Neg4+ 19. hxg4 Nxg4+ 20. Kg1 Ne3 21. Rf2
+Bh3 22. Bc6 Re7 23. Rf3 Nxd1 24. Qxd1 Bg4 25. Rf2 Re3 26. Nf3 Re7 27. Nbd2 Kg8
+28. Nd4 Qf8 29. Bf3 Bd7 30. Nc6 Bxc6 31. Bxc6 Re6 32. Nf3 Qg7 33. Qd2 Qc3 34.
+Kg2 Rb6 35. Qxc3 bxc3 36. Nd4 f5 37. Rf1 Rxc6 38. Nxc6 Rxe2+ 39. Kf3 Rxa2 40.
+Rc1 c2 41. Nd4 Ra3 42. Rxc2 c5 43. Ne2 Rxb3+ 44. Rc3 Rb4 45. Nc1 Kf7 46. Ke3 h6
+47. Kd3 Kf6 48. Ra3 Rb6 49. Ne2 g5 50. Nc3 Rc6 51. Nd5+ Ke6 52. Rxa6 Rc8 53.
+Ra7 1-0

@@ -1,0 +1,26 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "c046e280"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d6 5. Bd3 Bxc3+ 6. bxc3 e5 7. Qc2 b6 8. Be4
+c6 9. dxe5 Nxe4 10. Qxe4 Qe7 11. Nf3 dxe5 12. a4 Bb7 13. c5 Nd7 14. O-O Nxc5
+15. Qxe5 Qxe5 16. Nxe5 f6 17. Nf3 O-O-O 18. Nd4 Ba6 19. Rd1 Nb3 20. Rb1 Na5 21.
+Ba3 Nc4 22. Be7 Rd7 23. Nxc6 Rc7 24. Nb4 Bb7 25. Bd6 Rd7 26. Bf4 Nd2 27. Ra1
+Rhd8 28. Re1 Nb3 29. Rab1 Nc5 30. f3 g5 31. Bg3 Rd2 32. e4 f5 33. Nd5 Bxd5 34.
+exd5 f4 35. Bf2 Nd3 36. Red1 Rxf2 37. Rxd3 Ra2 38. Re1 Rxa4 39. h4 gxh4 40. Re4
+Rxe4 41. fxe4 Re8 42. Rd4 Kd7 43. Kf2 b5 44. Kf3 Kd6 45. Kxf4 Rf8+ 46. Ke3 Rg8
+47. Rd2 Ke5 48. d6 Rd8 49. Rd5+ Ke6 50. Rxb5 Rd7 51. Rh5 Kxd6 52. Rxh4 Rc7 53.
+Rh6+ Ke5 54. Rh5+ Ke6 55. g4 Rxc3+ 56. Kf4 a5 57. Rh6+ Kf7 58. Rxh7+ Kg6 59.
+Ra7 Ra3 60. Ra6+ Kg7 61. e5 Ra1 62. Kf5 a4 63. Ra7+ Kf8 64. Kf6 Rf1+ 65. Kg6
+Ra1 66. g5 a3 67. e6 Ke8 68. Kg7 Ra2 69. g6 Ra1 70. Kg8 1-0

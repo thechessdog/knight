@@ -1,0 +1,19 @@
+[Event "Verdun"]
+[Site "Verdun"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Harek"]
+[Black "Schonmann, W."]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "8252ed20"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nc6 6. Bb5 Bc5 7. Nxe4
+dxe4 8. Qxe4 Bxg1 9. Bxc6+ bxc6 10. Rxg1 O-O 11. d4 Be6 12. b3 Qe7 13. c4
+Rfd8 14. Bd2 a5 15. Rc1 a4 16. b4 Qd7 17. Be3 a3 18. Kd2 Ra4 19. Kc3 Bf5
+20. Qf3 c5 21. bxc5 Rxc4+ 22. Kxc4 Qa4+ 23. Kc3 Qa5+ 24. Kc4 Qa6+ 25. Kc3
+Qd3+ 26. Kb4 Rb8+ 0-1
+

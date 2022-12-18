@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Giersing & Jesperse"]
+[Black "Moller"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence, 4.cd ed"]
+[HashCode "1123ca37"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 Nf6 6. Bg5 Bxc5 7. e3 Be6
+8. Nf3 Nc6 9. Rc1 O-O 10. Bd3 d4 11. exd4 Nxd4 12. O-O Bg4 13. Bxf6 Qxf6
+14. Ne4 Qf4 15. Qd2 Qxf3 16. Rxc5 Rad8 17. Re1 Bh3 18. Rg5 Qxg2+ 0-1
+

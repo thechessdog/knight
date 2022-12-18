@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Pearsall"]
+[Black "White"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "2e32d55f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 f5 6. d3 Nd6 7. Bxc6 dxc6
+8. Rxe5+ Kf7 9. Bg5 1-0
+

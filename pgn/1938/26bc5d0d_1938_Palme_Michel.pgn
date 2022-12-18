@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1938.01.01"]
+[Round "5"]
+[White "Palme, Rudolf"]
+[Black "Michel, Paul"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "26bc5d0d"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. c4 d4 3. e3 c5 4. b4 f6 5. bxc5 e5 6. Nxe5 fxe5 7. Qh5+ Ke7 8.
+Qxe5+ Kf7 9. Qf4+ Nf6 10. exd4 g5 11. Qe3 Bxc5 12. Qxg5 Qxd4 13. Nc3 Rg8 14.
+Qh6 Qxf2+ 15. Kd1 Rg6 0-1

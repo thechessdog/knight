@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Michlo, Joseph"]
+[Black "Pikler, Robert"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "1ce42b74"]
+[Epoch "Knight"]
+
+1. d4 c6 2. e4 d5 3. exd5 cxd5 4. Nd2 Bf5 5. Ngf3 Nc6 6. c3 Nf6 7. Be2 Qc7
+8. O-O e6 9. Re1 Bd6 10. h3 O-O 11. Nh4 Nxd4 12. Nxf5 Nxf5 13. Nf3 Bc5 14.
+g4 Bxf2+ 15. Kxf2 Qg3+ 16. Kf1 Ne4 0-1
+

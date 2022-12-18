@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1922.07.02"]
+[Round "1"]
+[White "Nyquist, GH."]
+[Black "Jacobsen, Egil"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "3febe7be"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. Nc3 Bg4 7. Na4 Bb6 8. Nxb6
+axb6 9. c3 exf4 10. Bxf4 Nh5 11. Be3 Ne5 12. Bb3 Bxf3 13. gxf3 Qh4+ 14. Ke2
+Nf4+ 15. Bxf4 Qxf4 16. Qf1 O-O-O 17. Qh3+ Kb8 18. Qg3 Qf6 19. Rhg1 d5 20. f4
+Ng6 21. f5 dxe4 22. dxe4 Rhe8 23. Bc2 Qxf5 24. Raf1 Qb5+ 25. Ke1 Qxb2 26. Rxf7
+Qc1+ 0-1

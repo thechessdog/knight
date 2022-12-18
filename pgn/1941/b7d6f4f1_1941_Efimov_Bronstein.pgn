@@ -1,0 +1,17 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Efimov, Igor"]
+[Black "Bronstein, David Ionovich"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "b7d6f4f1"]
+[Epoch "Knight"]
+[WhiteID "806404"]
+[WhiteCountry "MNC"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Nc3 d6 6. Bc4 dxe5 7. Nxe5 Qh4+ 8.
+Kf1 Be6 9. Bxe6 Ng3+ 10. Kg1 Bc5+ 11. d4 Bxd4+ 12. Qxd4 Ne2+ 0-1

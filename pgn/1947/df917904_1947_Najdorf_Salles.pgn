@@ -1,0 +1,19 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Najdorf, Miguel"]
+[Black "Salles Oliveira"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "df917904"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. f4 e6 8. Nf3
+Nd7 9. h5 Bh7 10. Bd3 Bxd3 11. Qxd3 Ngf6 12. Bd2 Qc7 13. O-O-O O-O-O 14. Ne5
+Nxe5 15. fxe5 Ng4 16. Qe2 f5 17. exf6 Qxg3 18. Rh3 Qd6 19. Qxg4 gxf6 20. Re3
+Re8 21. Rde1 Kd7 22. Rb3 Kc8 23. Rf3 Qd5 24. Kb1 Bd6 25. Rxf6 Rhg8 26. Rg6 Rxg6
+27. Qxg6 Re7 28. Bxh6 Qxd4 29. Bc1 e5 30. Re4 1-0

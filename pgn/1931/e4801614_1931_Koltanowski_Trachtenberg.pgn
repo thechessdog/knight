@@ -1,0 +1,17 @@
+[Event "Antwerp"]
+[Site "Antwerp"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Trachtenberg"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Rubinstein variation"]
+[HashCode "e4801614"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bf8 12. Nxf7 Kxf7 13. Ng5+ Ke8 14.
+Nxe6 Kf7 15. Ng5+ Kg6 16. f7 Be7 17. Re6+ Bf6 18. g4 Qd5 19. f4 Ne7 20. h4 1-0

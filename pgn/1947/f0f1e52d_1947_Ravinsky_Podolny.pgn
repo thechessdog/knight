@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Ravinsky, Grigory Ionovich"]
+[Black "Podolny, G."]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "f0f1e52d"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 8.
+O-O Be7 9. c3 O-O 10. Ne5 cxd4 11. cxd4 Nb8 12. Be3 b6 13. f4 Nd5 14. Qh5 f5
+15. Rae1 Bb7 16. Nxf5 exf5 17. Bxf5 g6 18. Nxg6 Rxf5 19. Qxf5 hxg6 20. Qxg6+
+Kf8 21. f5 Nxe3 22. f6 1-0

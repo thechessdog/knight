@@ -1,0 +1,20 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Przepiorka, Dawid"]
+[Black "Steiner, Lajos"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "899ee361"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 c5 7. Bb2 cxd4 8. Nxd4
+Nbd7 9. c4 Nc5 10. Nc3 Qb6 11. e4 Bg4 12. Qd2 a5 13. Nd5 Nxd5 14. cxd5 a4 15.
+b4 a3 16. Bxa3 Na4 17. Nb3 Bxa1 18. Rxa1 Rfc8 19. Qg5 Rc2 20. Rf1 Be2 21. Rc1
+Rxa2 22. Qxe7 Bc4 23. Nc5 dxc5 24. bxc5 Qb3 25. c6 Qb6 26. Bc5 Nxc5 27. Rxc4
+Nxe4 0-1

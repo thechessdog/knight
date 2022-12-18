@@ -1,0 +1,16 @@
+[Event "Krakow"]
+[Site "Krakow"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Kapfer, T."]
+[Black "Pytlakowski, Andrzej"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "402c7367"]
+[Epoch "Knight"]
+[BlackCountry "POL"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nb6 5. Bb3 Nc6 6. Nf3 Bg4 7. Bxf7+ Kd7
+8. Qe2 e6 9. h3 Bxf3 10. Qxf3 Nd4 11. Qg4 Nxc2+ 12. Kd1 Nxa1 13. Qxe6# 1-0

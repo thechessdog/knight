@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1939.01.01"]
+[Round "6"]
+[White "Engels, Ludwig"]
+[Black "Keller, Hans"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "c211397a"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Nc5 5. b4 Ne6 6. a3 a5 7. b5 d6 8. exd6
+Bxd6 9. Ngf3 O-O 10. e3 Nd7 11. Bb2 Ndc5 12. Be2 b6 13. O-O Bb7 14. Nd4 Qh4 15.
+g3 Qh3 16. Bf3 Bxf3 17. N2xf3 Rad8 18. Qc2 f5 19. Rad1 Rde8 20. Nxe6 Nxe6 21.
+Kh1 f4 22. Ng1 Qh6 23. gxf4 g5 24. Nf3 Qh3 25. Ng1 Qh5 26. f3 gxf4 27. e4 Nc5
+28. Ne2 Re6 29. Rg1+ Rg6 30. Qd2 Qh3 31. Qd5+ Qe6 32. Rxg6+ hxg6 33. Qd4 Kf7
+34. e5 g5 35. exd6 Qxe2 36. Qg7+ 1-0

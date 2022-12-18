@@ -1,0 +1,24 @@
+[Event "Annaberg"]
+[Site "Annaberg"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Mevel, Alberic"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "49cd11d8"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteID "602574"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 b6 8. e3
+Bb7 9. O-O-O Rc8 10. Kb1 O-O 11. Bxf6 gxf6 12. Nd4 Qe7 13. Rg1 Bd6 14. Nxc6
+dxc6 15. Rd4 Rfd8 16. Rh4 Be5 17. g4 Rd2 18. f4 Bxc3 19. Qxc3 Rcd8 20. g5 fxg5
+21. Rxg5+ Qxg5 22. fxg5 Rd1+ 23. Kc2 Rxf1 24. Rd4 Rxd4 25. Qxd4 c5 26. Qe5 Bf3
+27. Kb3 Bh5 28. h4 Rh1 29. Qf4 Rd1 30. Ka4 Rd2 31. Qb8+ Kg7 32. Qe5+ Kg8 33.
+Kb5 Be2 34. Qc3 Rd3 35. Qc2 Rxe3 36. b3 Bh5 37. Qh2 Re4 38. Qg3 e5 39. Qf2 Re2
+40. Qf6 e4 41. Qh6 Bf3 42. a3 Ra2 43. Qf6 Rxa3 44. Kc6 Bh5 45. Kd7 e3 46. Ke7
+e2 47. Qe5 Rxb3 48. Qb8+ Kg7 49. Qf8+ Kg6 50. Qxf7# 1-0

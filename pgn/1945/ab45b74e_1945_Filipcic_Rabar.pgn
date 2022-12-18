@@ -1,0 +1,17 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "8"]
+[White "Filipcic, Milan"]
+[Black "Rabar, Braslav"]
+[Result "1/2-1/2"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[HashCode "ab45b74e"]
+[Epoch "Knight"]
+[BlackCountry "HRV"]
+[WhiteCountry "HRV"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. cxd5 Nxd5 8. Be5
+Nc6 9. Bxg7 Kxg7 10. Nxd5 Qxd5 11. dxc5 Qxc5 12. Be2 Rd8 13. Qa4 Qb4+ 14. Qxb4
+Nxb4 15. O-O Bf5 16. Nd4 Nc2 17. Nxf5+ gxf5 1/2-1/2

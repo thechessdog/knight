@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Enevoldsen, Harald"]
+[Black "Andersen, Jens Knud"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "f76c0f7c"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+[BlackID "4616910"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c5 4. e3 Nc6 5. Nc3 Nf6 6. Bd3 Be7 7. O-O O-O 8. b3 b6
+9. Bb2 Bb7 10. Qe2 cxd4 11. exd4 dxc4 12. bxc4 Nxd4 13. Nxd4 Qxd4 14. Nd5 Qc5
+15. Bxf6 Bxf6 16. Qe4 1-0

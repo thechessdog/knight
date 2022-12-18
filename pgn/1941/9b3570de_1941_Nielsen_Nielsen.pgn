@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1941.01.01"]
+[Round "4"]
+[White "Nielsen, Bjorn"]
+[Black "Nielsen, Hartvig"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "9b3570de"]
+[Epoch "Knight"]
+[WhiteID "1416839"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Nd7 8.
+c3 O-O 9. Bd3 b6 10. Qc2 h6 11. O-O-O Bb7 12. g4 Bh4 13. Rhg1 Nf6 14. g5 hxg5
+15. Nxh4 Nxe4 16. Bxe4 Bxe4 17. Qxe4 gxh4 18. Rxg7+ Kxg7 19. Rg1+ Kh6 20. Qf4+
+Kh7 21. Qe5 1-0

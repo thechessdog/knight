@@ -1,0 +1,23 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Olson, Anton"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "d140b4cd"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. e3 Nbd7 6. Bd3 b6 7. Ne2 Bb7 8. O-O
+Bxc3 9. Nxc3 O-O 10. e4 e5 11. d5 Nh5 12. f4 Qh4 13. f5 g5 14. Be3 Nf4 15. Rf3
+Kh8 16. Kh1 g4 17. g3 Qf6 18. Rff1 Nxd3 19. Qxd3 Rg8 20. b4 Rg7 21. a4 a5 22.
+bxa5 Rxa5 23. Nb5 c6 24. Nc3 Rg8 25. dxc6 Bxc6 26. Rfd1 Qxf5 27. Kg1 Qf6 28.
+Qxd6 Qf3 29. Rd3 Rg6 30. Qe7 Rf6 31. Qd8+ Kg7 32. Bh6+ Kxh6 33. Rxf3 gxf3 34.
+Nd5 Bxd5 35. cxd5 Ra7 36. Kf2 Kg7 37. Ra3 Nc5 38. Rxf3 Nxe4+ 39. Kg2 Rd6 40.
+Qc8 Rxa4 41. Qf5 Ra2+ 42. Kg1 Ra1+ 43. Rf1 Rxf1+ 44. Kxf1 Rf6 0-1

@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1946.03.01"]
+[Round "11"]
+[White "Letelier, Rene"]
+[Black "Bolbochan, Jacobo"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "5acd90b1"]
+[Epoch "Knight"]
+[WhiteCountry "CHL"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. a3
+Be7 9. b3 c5 10. Bb2 Nbd7 11. Qe2 Ne4 12. Rad1 Qc8 13. Ne5 Nxd2 14. Rxd2 Nxe5
+15. dxe5 dxc4 16. Bxc4 Rd8 17. Rxd8+ Qxd8 18. e4 a6 19. a4 Bc6 1/2-1/2

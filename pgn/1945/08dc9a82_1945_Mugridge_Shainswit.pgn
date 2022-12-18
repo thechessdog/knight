@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Mugridge, D."]
+[Black "Shainswit, George"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Nimzovich variation"]
+[HashCode "08dc9a82"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bc5 5. Nxe5 Nxe5 6. d4 Bb4 7. dxe5 Nxe4 8.
+Qd4 Nxc3 9. bxc3 Be7 10. Bd3 O-O 11. Qe4 g6 12. Bh6 Re8 13. O-O d6 14. exd6
+Bxd6 15. Qf3 Qh4 16. g3 Qxh6 0-1

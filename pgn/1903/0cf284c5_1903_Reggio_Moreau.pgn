@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Reggio, Arturo"]
+[Black "Moreau, C."]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Lipnitsky variation"]
+[HashCode "0cf284c5"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Ba4 d6 6. Bxc6+ bxc6 7. d4 Bg4 8.
+dxe5 Nxe4 9. exd6 cxd6 10. Re1 d5 11. Nc3 Bb4 12. Qd4 Bxc3 13. bxc3 O-O 14. Ne5
+c5 15. Qe3 Be6 16. f3 Qc7 17. Nd3 c4 18. Nf4 Nf6 19. Nxe6 fxe6 20. Qxe6+ Kh8
+21. Bg5 Rfe8 22. Qf5 Qc5+ 23. Kf1 Rxe1+ 24. Rxe1 Rf8 25. Bxf6 gxf6 26. Re6 Kg7
+27. Rxa6 Rf7 28. Qg4+ Kh6 29. h4 Qe3 30. Re6 Qc1+ 31. Kf2 Qxc2+ 32. Kg1 Qg6 33.
+Rd6 Qxg4 34. fxg4 Kg6 35. Rxd5 Ra7 36. Rd2 Ra3 37. Rc2 h5 38. gxh5+ Kxh5 39. g3
+Kg4 40. Kg2 f5 41. Rf2 Rxc3 42. Rf4+ Kh5 43. Rxf5+ Kh6 44. Rc5 1-0

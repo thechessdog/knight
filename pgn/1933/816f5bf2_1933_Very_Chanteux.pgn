@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Very"]
+[Black "Chanteux"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "816f5bf2"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bc5 4. Nc3 a6 5. Bg5 Bxf2+ 6. Kxf2 Ng4+ 7. Ke1
+Qxg5 8. Nf3 Qe3 9. Qd2 Qf2+ 10. Kd1 Ne3+ 0-1
+

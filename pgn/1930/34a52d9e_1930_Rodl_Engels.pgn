@@ -1,0 +1,27 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Roedl, Ludwig"]
+[Black "Engels, Ludwig"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "34a52d9e"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nc3 Nf6 4. d3 Bc5 5. f4 d6 6. Nf3 a6 7. f5 h6 8. Qe2 O-O
+9. Nd5 Nd4 10. Nxd4 exd4 11. O-O c6 12. Nxf6+ Qxf6 13. Qh5 b5 14. Bb3 Bb6 15.
+Rf3 Bd8 16. Rh3 d5 17. Bd2 Re8 18. Re1 a5 19. a4 bxa4 20. Bxa4 dxe4 21. dxe4
+Re5 22. Bb3 a4 23. Bg5 axb3 24. Bxf6 Bxf6 25. Rxb3 Bxf5 26. Qxf5 Rxf5 27. exf5
+c5 28. Ra3 Rd8 29. Rea1 Rd5 30. Rf3 c4 31. Rd1 d3 32. c3 Rb5 33. Rf4 Rxb2 34.
+Rxc4 d2 35. Rc8+ Kh7 36. Kf1 Rc2 37. c4 Bg5 38. c5 h5 39. Ke2 Rc1 40. c6 Rc5
+41. c7 f6 42. Rxd2 Bxd2 43. Kxd2 Rc6 44. Ke3 Rc1 45. h3 Rc6 46. Kf4 Rc3 47. Ke4
+Rc1 48. Kf3 Rc6 49. Ke4 Rc1 50. Kd5 Rd1+ 51. Kc5 Rc1+ 52. Kd4 Rd1+ 53. Ke3 Rc1
+54. Kd2 Rc6 55. Ke2 Rc1 56. Kf3 Rc6 57. h4 Rc1 58. g4 Rc3+ 59. Kf2 Rc5 60. Ke3
+hxg4 61. Kf4 Rc4+ 62. Kg3 Rc1 63. Kxg4 Rc2 64. Kf4 Rc1 65. Ke4 Rc2 66. Kd5 Rd2+
+67. Ke6 Re2+ 68. Kf7 Rc2 69. h5 Rc6 70. Ke7 Rc1 71. h6 Kxh6 72. Rh8+ Kg5 73.
+c8=Q Rxc8 74. Rxc8 Kxf5 75. Rc5+ Kf4 76. Ke6 g5 77. Rc4+ Kg3 78. Kf5 Kh3 79.
+Rg4 1-0

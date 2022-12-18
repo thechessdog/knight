@@ -1,0 +1,17 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "17"]
+[White "Radojcic, S."]
+[Black "Poljakov, Djordje"]
+[Result "1/2-1/2"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "classical"]
+[HashCode "b157af87"]
+[Epoch "Knight"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8. f4
+O-O 9. Nb3 Be6 10. g4 d5 11. f5 Bc8 12. exd5 Nb4 13. d6 Qxd6 14. Bc5 Qf4 15.
+Rf1 Qxh2 16. Bxb4 Nxg4 17. Bxg4 Qg3+ 1/2-1/2

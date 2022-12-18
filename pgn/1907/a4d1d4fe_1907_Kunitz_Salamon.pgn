@@ -1,0 +1,15 @@
+[Event "Tangiers"]
+[Site "Tangiers"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Kunitz"]
+[Black "Salamon, W."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "a4d1d4fe"]
+[Epoch "Knight"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Nxf3 Bg4 5. Be3 Nc6 6. c3 e5 7. d5 Nce7
+8. Qa4+ Bd7 9. Qe4 f6 10. Bd3 Ng6 11. Qxg6+ hxg6 12. Bxg6+ Ke7 13. Bc5# 1-0
+

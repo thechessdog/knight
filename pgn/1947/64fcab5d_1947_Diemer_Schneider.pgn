@@ -1,0 +1,18 @@
+[Event "Kollnau"]
+[Site "Kollnau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Shneider, Aleksandr"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "64fcab5d"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackID "14100045"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. e3 g6 3. Bd3 d5 4. Nd2 Bg7 5. h3 Be6 6. f4 Nbd7 7. g4 Nb6 8. b3
+O-O 9. Ne2 Bd7 10. Ng3 e6 11. g5 Ne8 12. h4 f6 13. Nf3 Rf7 14. h5 gxh5 15.
+Bxh7+ Kxh7 16. g6+ Kxg6 17. Ne5+ fxe5 18. Qxh5+ Kf6 19. Qg5# 1-0

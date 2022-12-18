@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Prokes, Ladislav"]
+[Black "Krofta"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "6fea732f"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Bc4 Nc6 6. h3 Bxf3 7. Qxf3 exf4 8. d4
+Qh4+ 9. g3 fxg3 10. Qxf7+ Kd8 11. Qf8+ Kd7 12. Be6+ Kxe6 13. Qf5+ Ke7 14. Bg5+
+1-0

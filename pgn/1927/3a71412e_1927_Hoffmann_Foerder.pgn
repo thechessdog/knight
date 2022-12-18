@@ -1,0 +1,19 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Hoffmann, Hans"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "3a71412e"]
+[Epoch "Knight"]
+[WhiteID "4602536"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bf4 Bf5 7. e3 Qb6 8.
+Qb3 Qxb3 9. axb3 Nb4 10. Bb5+ Bd7 11. O-O a6 12. Rfc1 Rc8 13. Bxd7+ Kxd7 14.
+Ne5+ Ke8 15. Nxd5 Nc2 16. Nb4 1-0

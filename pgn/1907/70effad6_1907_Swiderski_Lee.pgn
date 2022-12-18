@@ -1,0 +1,24 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "7"]
+[White "Swiderski, Rudolf"]
+[Black "Lee, Francis Joseph"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "70effad6"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bd3
+Bxd3 9. Qxd3 e6 10. Be3 Ngf6 11. O-O-O Qc7 12. Kb1 Bd6 13. Ne2 Ng4 14. Rhf1
+Nxe3 15. fxe3 O-O-O 16. c4 Nf6 17. e4 e5 18. d5 Rhe8 19. Nd2 c5 20. Rf5 Ng8 21.
+Rdf1 f6 22. h5 Bf8 23. R5f2 Kb8 24. Qe3 Ne7 25. Ng3 Nc8 26. Nf5 Qd7 27. Qg3 Qf7
+28. Qg4 a6 29. Nf3 Ka7 30. N3h4 Nd6 31. Nxd6 Bxd6 32. Nf5 Bf8 33. Rf3 Qc7 34.
+Rg3 Rd7 35. Qd1 Rb8 36. Rff3 b5 37. cxb5 Rxb5 38. Rc3 Qb8 39. Qe2 Rdb7 40. Rc2
+Qd8 41. Rgc3 Qa5 42. Qe3 Rb4 43. d6 Qb6 44. Qxc5 Qxc5 45. Rxc5 Rxe4 46. Rc8 Rf4
+47. Rxf8 Rxf5 48. Rc7 Rf1+ 49. Kc2 Rf2+ 50. Kd3 e4+ 51. Ke3 Rxb2 52. d7 Rxc7
+53. d8=Q Rc3+ 54. Kxe4 1-0

@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Ziegelmeyer"]
+[Black "Krejcik, Joseph"]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "e851dc7c"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 c5 3. d5 Nf6 4. f3 Nxe4 5. fxe4 Qh4+ 6. Kd2 Qf4+ 7. Kd3 c4+
+8. Kd4 Nc6+ 0-1
+

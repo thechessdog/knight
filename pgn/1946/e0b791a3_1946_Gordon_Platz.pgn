@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gordon"]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "e0b791a3"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Bg5 cxd4 6. Nxd4 e5 7. Nc2 d4 8. Nd5
+Be6 9. e4 h6 10. Bxf6 gxf6 11. f4 Na6 12. Bd3 Qa5+ 13. Qd2 Qxd2+ 14. Kxd2 Be7
+15. Rhf1 Rc8 16. Rf3 Nc5 17. Raf1 Rg8 18. R1f2 f5 19. exf5 Bxd5 20. cxd5 e4 21.
+Bb5+ Kf8 22. Rh3 e3+ 23. Nxe3 Ne4+ 24. Ke2 Nxf2 25. Kxf2 dxe3+ 0-1

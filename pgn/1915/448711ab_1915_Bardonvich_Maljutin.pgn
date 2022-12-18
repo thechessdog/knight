@@ -1,0 +1,18 @@
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Bardonvich"]
+[Black "Maliutin, Boris Evgenievich"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "448711ab"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. d4 Ne7 7. Bc4 Bg7 8. c3
+Nd7 9. Nd2 Nf6 10. Ngf3 Qh5 11. Kg1 Ng6 12. e5 Ng8 13. Ne4 g4 14. Nfg5 Nh6 15.
+h3 O-O 16. hxg4 Qxg4 17. Qxg4 Bxg4 18. Nf6+ Bxf6 19. exf6 Nf5 20. Rxh7 Rae8 21.
+Rxf7 Rxf7 22. Bxf7+ Kf8 23. Bxe8 Kxe8 24. Bd2 1-0

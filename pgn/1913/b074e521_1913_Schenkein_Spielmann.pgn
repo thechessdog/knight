@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Schenkein, J."]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "b074e521"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Qd3 O-O 7. g3 Ne5 8.
+Qc2 d5 9. cxd5 Qxd5 10. Nf3 Nxf3+ 11. exf3 Qxf3 12. Rg1 Re8+ 13. Be3 Rxe3+ 14.
+fxe3 Qxe3+ 15. Qe2 Bxc3+ 16. bxc3 Qxc3+ 0-1

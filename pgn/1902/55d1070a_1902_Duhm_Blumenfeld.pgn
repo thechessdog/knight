@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Duhm, D."]
+[Black "Blumenfeld, Benjamin"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "55d1070a"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. d4 Nf6 5. Bc4 Qe7 6. O-O fxe4 7. Nc3 d6 8.
+Bf7+ Kd8 9. Bg5 Nxe5 10. dxe5 Qxf7 11. exf6 gxf6 12. Qd4 Bg7 13. Bh4 Be6 14.
+Nxe4 Rg8 15. Rad1 Kc8 16. Qc3 Kd7 17. Rfe1 f5 18. Nc5+ Kc8 19. Qd2 Be5 20. Rxe5
+Qg7 21. Bg3 dxe5 22. Nxe6 Qf6 23. Qd7+ Kb8 24. Qxc7# 1-0

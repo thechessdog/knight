@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Kaila, Osmo"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "7a09c208"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
+Bd3 Qc7 9. Ne2 Nbd7 10. O-O O-O 11. a4 b6 12. Ba3 Re8 13. Ng3 Bb7 14. Rc1 Rad8
+15. Qc2 g6 16. Rfe1 Rc8 17. Qb2 Ng4 18. Nf1 c4 19. Bb1 f5 20. f3 Ngf6 21. Qf2
+Re6 22. Re2 Rce8 23. Rce1 Bc6 24. Bc2 Nb8 25. Qg3 Qxg3 26. hxg3 Kg7 27. Nd2
+Nbd7 28. e4 Nh5 29. Kh2 f4 30. gxf4 Nxf4 31. Re3 Nd3 32. Bxd3 cxd3 33. c4 Bxa4
+34. cxd5 Rf6 35. e5 Rf4 36. e6 Nf6 37. d6 Rxd4 38. d7 Nxd7 39. Bb2 1-0

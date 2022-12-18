@@ -1,0 +1,21 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "4"]
+[White "Ivashin, Alexey"]
+[Black "Sokolsky, Alexey"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "4c210a5e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6 8.
+O-O Ngf6 9. Qe2 Bxd3 10. Qxd3 Bd6 11. Re1 O-O 12. Bg5 h6 13. Ne4 Be7 14. Bh4
+Nxe4 15. Rxe4 f5 16. Bxe7 fxe4 17. Qa3 Qb6 18. Bxf8 Rxf8 19. Qe7 Qxb2 20. Rf1
+exf3 21. Qxd7 Rf6 22. g3 Qxc2 23. Qxb7 Qf5 24. Kh1 Qb5 25. Qc8+ Kh7 26. Rc1 Qb2
+27. Rf1 e5 28. dxe5 Qxe5 29. a4 a5 30. Qb7 Qe4 31. Qb3 c5 32. Rc1 Rd6 33. h3
+Rd2 34. Kg1 Rxf2 35. Qc4 Qe3 36. Qxc5 Rf1+ 0-1

@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1912.01.01"]
+[Round "2"]
+[White "Te Kolste, Jan Willem"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "fbbf7b78"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. h3 O-O 11. d4 Qc7 12. Nbd2 Nc6 13. Nf1 cxd4 14. cxd4 Nxd4 15.
+Nxd4 exd4 16. Bg5 Qc5 17. Bh4 Be6 18. Rc1 Rac8 19. e5 dxe5 20. Bxh7+ Kxh7 21.
+Rxc5 Rxc5 22. b4 Rd5 23. Ng3 Re8 24. Bxf6 Bxf6 25. Ne4 Be7 26. a3 Kg8 27. g4
+Rc8 28. Qd2 Rd7 29. Ng5 f6 30. Rc1 Rxc1+ 31. Qxc1 Bc4 32. Ne4 d3 33. Qe3 Rd4
+34. Nd2 Bd5 35. f4 Bd6 36. g5 Bc7 37. fxe5 fxe5 38. Kf1 Bf7 39. Ke1 Bg6 40. Kd1
+Rd7 41. Nb3 e4 42. Nc5 Bb6 43. Qf4 Bxc5 44. bxc5 d2 45. Qg4 Rd8 46. c6 Bf7 47.
+Qd7 Re8 48. Kxd2 e3+ 49. Ke1 Rf8 50. c7 1-0

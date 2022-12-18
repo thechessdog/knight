@@ -1,0 +1,18 @@
+[Event "Tatatovaros"]
+[Site "Tatatovaros"]
+[Date "1935.07.13"]
+[Round "7"]
+[White "Sacconi, Antonio"]
+[Black "Merenyi, Lajos"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Chigorin defence"]
+[HashCode "e721f632"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Nc3 Bd6 6. Bd3 Nbd7 7. O-O O-O 8.
+Re1 dxc4 9. Bxc4 e5 10. e4 exd4 11. Nxd4 Ne5 12. Be2 Nfg4 13. Bf4 Bc5 14.
+Bxe5 Nxf2 15. Kxf2 f6 16. Bc4+ Kh8 17. Bf4 Bxd4+ 18. Be3 Bxe3+ 19. Rxe3 Qb6
+20. Qb3 Qd4 1/2-1/2
+

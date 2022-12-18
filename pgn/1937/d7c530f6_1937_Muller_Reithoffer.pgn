@@ -1,0 +1,18 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Reithoffer"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "d7c530f6"]
+[Epoch "Knight"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. d4 e6 5. Bd3 dxe4 6. Nxe4 Bxf3 7. Qxf3 Qxd4 8.
+O-O Nd7 9. Be3 Qd5 10. c4 Qxd3 11. Rfd1 Qxc4 12. Rxd7 Nf6 13. Qxf6 Kxd7 14.
+Qxf7+ Be7 15. Nc5+ 1-0

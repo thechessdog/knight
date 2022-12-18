@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Rodriguez Vargas, Orestes"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "f7537ad7"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackID "2203189"]
+[BlackCountry "ESP"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d5 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 Qb6 8. Bxe7
+Kxe7 9. Qd2 cxd4 10. O-O-O Rd8 11. Rh3 Kf8 12. Qg5 Nc6 13. Rg3 g6 14. Qh6+ Kg8
+15. h5 Ncxe5 16. f4 Nc4 17. Nf3 Ne3 18. Ng5 Nf8 19. Nxh7 Nf5 20. Nf6# 1-0

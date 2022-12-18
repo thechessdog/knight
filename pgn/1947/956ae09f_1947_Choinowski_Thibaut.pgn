@@ -1,0 +1,16 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Choinowski"]
+[Black "Thibaut, Georges"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "956ae09f"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 cxd4 5. cxd4 dxe4 6. Nxe4 Bd7 7. Nf3 Bc6
+8. Bd3 Nf6 9. Nxf6+ Qxf6 10. Bg5 Bxf3 11. Qc1 1-0
+

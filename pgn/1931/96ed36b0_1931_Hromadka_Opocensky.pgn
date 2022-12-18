@@ -1,0 +1,20 @@
+[Event "Kauchau"]
+[Site "Kauchau"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Hromadka, Karel"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Staunton's line"]
+[HashCode "96ed36b0"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 Nc6 5. Bb5 d5 6. Bxf6 exf6 7. Qh5+ g6 8.
+Qxd5 Bb4 9. Qc4 Bxc3+ 10. bxc3 Bd7 11. Ne2 a6 12. Bxc6 Bxc6 13. Qe6+ Qe7 14.
+Qxe7+ Kxe7 15. Kd2 b5 16. h4 Kd6 17. Nf4 Raf8 18. Ke3 Rf7 19. a4 Rhf8 20. d5
+Bxd5 21. axb5 axb5 22. Rhd1 c6 23. Ra6 Ke5 24. g4 Re8 25. Rxd5+ cxd5 26. Nd3+
+exd3 27. f4# 1-0

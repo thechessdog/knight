@@ -1,0 +1,19 @@
+[Event "Temesvary"]
+[Site "Temesvary"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Havasi, Kornel"]
+[Black "Tyroler, Alexandru"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "051429eb"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 Bg4 6. dxe5 Qxd1+ 7. Kxd1
+O-O-O+ 8. Ke2 f6 9. exf6 Nxf6 10. Nc3 Bb4 11. h3 Bh5 12. g4 Bg6 13. e5 Nd7 14.
+Re1 Bxc2 15. Bf4 Rhf8 16. Bg3 Nc5 17. Rec1 Bd3+ 18. Ke3 Nb3 19. axb3 Bc5+ 20.
+Kd2 Rxf3 21. Ke1 Rdf8 22. Nd1 Bd4 23. Ra4 Bxe5 24. Bxe5 Re8 25. Rd4 Rxe5+ 26.
+Ne3 Bb5 27. Rcd1 Re8 28. Rd7 Rexe3+ 0-1

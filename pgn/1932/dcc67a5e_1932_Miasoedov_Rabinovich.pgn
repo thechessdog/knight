@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Miasoedov, Grigory"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "dcc67a5e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c6 4. Qd3 Qa5 5. f3 Nbd7 6. Bd2 Qc7 7. e4 e5 8. exd5
+exd4 9. dxc6 bxc6 10. Qxd4 Bc5 11. Qc4 Rb8 12. Bf4 Bd6 13. Bxd6 Qxd6 14. Rd1
+Qe5+ 15. Kd2 O-O 16. Kc1 Qe3+ 17. Kb1 Ba6 18. Qxa6 Qxc3 19. b3 Nd5 20. Bd3 Nc5
+21. Qa3 Qe5 22. Qb2 Nc3+ 23. Ka1 N5a4 0-1

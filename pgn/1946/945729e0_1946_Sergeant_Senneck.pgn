@@ -1,0 +1,16 @@
+[Event "Nottingham-B2"]
+[Site "Nottingham"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Senneck, F."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, Zukertort variation"]
+[HashCode "945729e0"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 f5 3. Nc3 d6 4. d4 Nf6 5. dxe5 Nxe4 6. Nxe4 fxe4 7. Ng5 Bf5 8.
+Qd5 Qd7 9. Qxb7 1-0

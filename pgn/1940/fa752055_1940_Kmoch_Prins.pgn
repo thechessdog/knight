@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Kmoch, Hans"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Levenfish variation"]
+[HashCode "fa752055"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 b6 8. e5
+Be6 9. exf6 Bxc4 10. fxg7 Kxg7 11. Bxc4 Nc6 12. Be3 Nb4 13. O-O Nc2 14. Rad1
+Nxe3 15. fxe3 c5 16. Ng5 e6 17. Rxf7+ 1-0

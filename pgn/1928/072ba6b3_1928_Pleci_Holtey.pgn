@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Pleci"]
+[Black "Holtey"]
+[Result "0-1"]
+[ECO "A50"]
+[Opening "Queen's Indian accelerated"]
+[HashCode "072ba6b3"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Nf3 e6 5. Bg5 Bb4 6. a3 Bxc3+ 7. bxc3 d6
+8. e3 Nbd7 9. Bd3 h6 10. Bh4 O-O 11. O-O Qe7 12. Nd2 Rfe8 13. Bc2 e5 14.
+Bf5 Rad8 15. Qc2 g5 16. Bg3 Nh5 17. Rae1 Ndf6 18. f4 Nxg3 19. hxg3 exd4 20.
+exd4 Qxe1 21. Rxe1 Rxe1+ 22. Nf1 Rde8 23. Bd3 Be4 24. fxg5 Ng4 25. gxh6
+Rxf1+ 0-1
+

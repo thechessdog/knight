@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Rabinovich, Abram"]
+[Black "Nenarokov"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "6145e672"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 Bd6 5. Bd3 f5 6. Nc3 Qf6 7. Qc2 Ne7 8. b3 O-O
+9. Bb2 Nd7 10. O-O-O a6 11. h3 b5 12. c5 Bc7 13. g4 e5 14. dxe5 Bxe5 15. Kb1
+fxg4 16. Bxh7+ Kf7 17. Nxe5+ Nxe5 18. hxg4 Bxg4 19. Rd4 Ke8 20. Rxg4 Nxg4 21.
+Nxd5 Qf3 22. Be4 Qxh1+ 23. Bxh1 cxd5 24. Bxd5 Rd8 25. Bc6+ Kf7 26. Bf3 Nf6 27.
+c6 Rd6 28. Ba3 Re6 29. c7 1-0

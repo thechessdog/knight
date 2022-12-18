@@ -1,0 +1,19 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Hermann, Manfred"]
+[Black "Sander"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Grigoriev variation"]
+[HashCode "1dcedaba"]
+[Epoch "Knight"]
+[WhiteID "4600584"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
+Qd2 O-O 9. O-O-O Bd7 10. h4 a6 11. h5 Re8 12. hxg6 hxg6 13. Nxc6 Bxc6 14. Bh6
+Bh8 15. Bg5 Nxe4 16. Rxh8+ Kxh8 17. Nxe4 Bxe4 18. Bf6+ exf6 19. Qh6+ Kg8 20.
+Rh1 1-0

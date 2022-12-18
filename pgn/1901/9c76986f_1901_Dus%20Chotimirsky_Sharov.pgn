@@ -1,0 +1,17 @@
+[Event "RUS-ch02"]
+[Site "Moscow"]
+[Date "1901.??.??"]
+[Round "3"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Sharov, Sergey"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Chigorin variation"]
+[HashCode "9c76986f"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Nd7 6. Nc3 Be7 7. Be3 O-O 8. Qd2
+Bf6 9. Ne2 Qe7 10. Ng3 exd4 11. Nxd4 Nxd4 12. Bxd4 Ne5 13. f4 Ng4 14. Be2 Bxd4+
+15. Qxd4 Nxh2 16. Nh5 f5 17. Kxh2 g6 18. Bc4+ 1-0

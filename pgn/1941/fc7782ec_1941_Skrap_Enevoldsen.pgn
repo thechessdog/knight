@@ -1,0 +1,17 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Skrap, Gunnar"]
+[Black "Enevoldsen, Harald"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "fc7782ec"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. f3 Nd7 8. Nxc4
+e5 9. e4 exd4 10. Qxd4 Nb4 11. Ne3 Be6 12. Be2 Nc5 13. Qxd8+ Rxd8 14. O-O Nb3
+15. Rb1 Bc5 0-1

@@ -1,0 +1,22 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Goldberg, Grigory Abramovich"]
+[Black "Budo, Alexander Semenovich"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "040904a9"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. c5 b6 8. Bb5+
+Bd7 9. Bxd7+ Nfxd7 10. b4 a5 11. Qa4 O-O 12. O-O bxc5 13. bxc5 e5 14. dxe5 Bxc5
+15. Bg5 f6 16. exf6 Nxf6 17. Rad1 Nbd7 18. Nxd5 Qc8 19. Nxf6+ Nxf6 20. Rc1 Kh8
+21. Bxf6 Rxf6 22. Qe4 Raa6 23. Rc4 Qf5 24. Qxf5 Rxf5 25. Rfc1 Bf8 26. Nd4 Rff6
+27. a4 h6 28. g3 Kh7 29. f4 Rab6 30. Nc6 Rb2 31. R1c2 Rxc2 32. Rxc2 Rf5 33. Kg2
+g5 34. fxg5 Rxg5 35. Kf3 h5 36. h3 Bd6 37. g4 hxg4+ 38. hxg4 Rg7 39. Nxa5 Rf7+
+40. Ke2 Ra7 41. Nc4 1/2-1/2

@@ -1,0 +1,23 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Gromer, Aristide"]
+[Black "Van den Bosch, Johannes"]
+[Result "1-0"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack"]
+[HashCode "9c45bed1"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 Nf4 12. d4 Ng6 13. Rh5 Bd7 14. Be3 Nh4
+15. Bf4 Qc8 16. Qe2 Ng6 17. Qe4 Bg4 18. Re5 Nxe5 19. dxe5 Qf5 20. Nd2 Qxe4 21.
+Nxe4 Rfd8 22. f3 Be6 23. Bxe6 fxe6 24. Kf2 Kf7 25. Ke3 Rd5 26. Rc1 Rad8 27. c4
+Rd1 28. Rc2 b4 29. c5 Ra1 30. b3 a5 31. Ke2 Rg1 32. Kf2 Rh1 33. g4 Rhd1 34. c6
+h6 35. Be3 R8d5 36. f4 Rb5 37. Kf3 Rdd5 38. Rc4 Rb8 39. Bd4 Ra8 40. f5 Rad8 41.
+Ke3 a4 42. h4 axb3 43. axb3 Ra8 44. Kf4 Rad8 45. Ke3 Rb5 46. h5 Ra5 47. Kf4 Ra3
+48. f6 gxf6 49. exf6 Bd6+ 50. Nxd6+ cxd6 51. Rxb4 Rc8 52. Rb7+ Kf8 53. g5 e5+
+54. Kf5 exd4 55. Kg6 hxg5 56. Rh7 Kg8 57. f7+ Kf8 58. Kf6 1-0

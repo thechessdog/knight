@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Larsson, C."]
+[Black "Young, W."]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "010422a7"]
+[Epoch "Knight"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 e5 5. Nf3 Nb4 6. Na3 Qb6 7. c3 Qxe3+
+8. Bxe3 Nc6 9. Nb5 Kd8 10. O-O-O h6 11. Bc4 Nf6 12. Bxf7 Nxe4 13. Bg6 a6
+14. Bb6+ Ke7 15. Nc7 Rb8 16. Bxe4 Kf6 17. Nd5+ Kf7 18. Bc7 1-0
+

@@ -1,0 +1,17 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Van den Bosch, Johannes"]
+[Black "Been, J."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "05fec2f5"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Bb6 8. Bg5
+h6 9. Bh4 d6 10. d5 Nb8 11. Nbd2 g5 12. Nxg5 hxg5 13. Bxg5 Bg4 14. Qe1 Ba7 15.
+Kh1 b5 16. f4 Qe7 17. fxe5 Qxe5 18. Bxf6 Qh5 19. Qg3 Nd7 20. Bd1 1-0

@@ -1,0 +1,20 @@
+[Event "Poznan"]
+[Site "Poznan"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Wojciechowski, A."]
+[Black "Widermanski, L."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[HashCode "943dc25e"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Bxe7 Qxe7 8.
+f4 c5 9. Nb5 O-O 10. Nc7 Nxe5 11. Nxa8 Nec6 12. dxc5 Qxc5 13. Qd2 Nd4 14.
+O-O-O Nbc6 15. c3 Nf5 16. Nc7 Qa5 17. Nb5 Qxa2 18. Na3 Na5 19. Qf2 d4 20.
+Ne2 Nb3+ 21. Kc2 Ne3+ 22. Qxe3 dxe3 23. Nc1 Na1+ 24. Kd3 Qd5+ 25. Ke2 Qh5+
+26. Ke1 e5 27. Nd3 Qg4 28. Rxa1 Qg3+ 29. Kd1 Bg4+ 30. Kc2 e2 31. fxe5
+exf1=Q 32. Raxf1 Be2 33. Nf4 Bxf1 34. Rxf1 Qe3 35. Nb5 Qxe5 0-1
+

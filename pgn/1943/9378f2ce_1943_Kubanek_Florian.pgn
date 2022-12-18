@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "13"]
+[White "Kubanek, Jindrich"]
+[Black "Florian, Jaromir"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "9378f2ce"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 c5 6. b3 Nc6 7. Bb2 Qc7 8.
+Bc4 e6 9. O-O Be7 10. d4 cxd4 11. Nxd4 Nxd4 12. Qxd4 Bd7 13. Rad1 Bc6 14. a4
+O-O 15. Rd3 a6 16. Qc3 Rac8 17. Re3 b5 18. axb5 axb5 19. Bd3 Qb7 20. Qe5 Bxg2
+21. Be4 Bxe4 22. Nxe4 Rxc2 23. Nxf6+ Bxf6 24. Qxf6 1-0

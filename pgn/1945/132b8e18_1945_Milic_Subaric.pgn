@@ -1,0 +1,21 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "11"]
+[White "Milic, Borislav"]
+[Black "Subaric, Mladen"]
+[Result "1-0"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[HashCode "132b8e18"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bxc3+ 7. Nxc3 b6 8. Be2
+Bb7 9. O-O Qe7 10. cxd5 Nxd5 11. Bf3 Rd8 12. Qb3 c6 13. e4 Nxc3 14. bxc3 c5 15.
+d5 c4 16. Qb4 Qe8 17. Rd1 exd5 18. exd5 Bxd5 19. Bg5 Nc6 20. Qa4 Qe5 21. Bxd8
+Bxf3 22. gxf3 b5 23. Qc2 Nxd8 24. Qe4 Qxe4 25. fxe4 Ne6 26. a4 Rb8 27. axb5
+Rxb5 28. Rxa7 g5 29. Ra8+ Kg7 30. Rc8 Nf4 31. Rxc4 Rb2 32. Rc7 g4 33. Rf1 h5
+34. h4 Rc2 35. Kh2 Ne2 36. e5 Nxc3 37. e6 g3+ 38. Kg2 Kf8 39. Rxf7+ Ke8 40. Rc7
+gxf2 41. Rxf2 Rxf2+ 42. Kxf2 Nd5 43. Rf7 1-0

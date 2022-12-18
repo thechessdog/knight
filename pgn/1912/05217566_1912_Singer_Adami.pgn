@@ -1,0 +1,18 @@
+[Event "Trieste"]
+[Site "Trieste"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Singer"]
+[Black "Adami"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "05217566"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 Nxd4 7. Qxd4
+Bxb5 8. Nxb5 Be7 9. O-O Nf6 10. b3 Nd7 11. f4 Bf6 12. e5 dxe5 13. fxe5 Bxe5
+14. Re1 f6 15. Ba3 a6 16. Nc3 Nb6 17. Rxe5+ fxe5 18. Qxe5+ Kf7 19. Rf1+ Kg6
+20. Qe6+ Kh5 21. Qf5+ Qg5 22. g4+ Kh4 23. Be7 1-0
+

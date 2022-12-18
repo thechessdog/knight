@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Schubert"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation"]
+[HashCode "e16a5e3c"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. Nc3 Nf6 6. g3 Nc6 7. Bg2 Be6 8. O-O
+Be7 9. Bg5 O-O 10. dxc5 Bxc5 11. Rc1 Be7 12. Nd4 h6 13. Be3 Ng4 14. Nxe6 fxe6
+15. Bh3 Nxe3 16. Bxe6+ Kh8 17. fxe3 Bg5 18. Nxd5 Qd6 19. Bh3 Rxf1+ 20. Kxf1 Rd8
+21. Bg2 Ne7 22. h4 Nxd5 23. Bxd5 Bxe3 24. Rc3 Qxg3 0-1

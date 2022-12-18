@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Noa, Joseph"]
+[Black "Kopylov, Nikolai G"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Sokolsky variation"]
+[HashCode "3e3a2f54"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Bg5 Nf6 8. Qa4
+exd4 9. Nxd4 Bb6 10. Bb5 O-O 11. Nxc6 bxc6 12. Bxc6 Bxf2+ 13. Ke2 Rb8 14. Rf1
+Rb2+ 15. Nd2 Nxe4 16. Qxe4 Qxg5 17. Kxf2 Bf5 18. Qf3 Bg4 19. Qe4 d5 0-1

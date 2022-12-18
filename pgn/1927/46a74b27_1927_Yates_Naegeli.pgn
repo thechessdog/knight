@@ -1,0 +1,18 @@
+[Event "London olm"]
+[Site "London"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Yates, Frederick Dewhirst"]
+[Black "Naegeli, Oskar"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "46a74b27"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. O-O Be7 8.
+Kh1 O-O 9. Be3 a6 10. f4 Qc7 11. Qe1 Bd7 12. Qg3 Rac8 13. Rad1 Rfd8 14. e5 Nd5
+15. Nxd5 exd5 16. Nxc6 bxc6 17. Bd4 Bf8 18. f5 c5 19. exd6 Qxd6 20. Be5 Qc6 21.
+Bxg7 1-0

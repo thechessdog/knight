@@ -1,0 +1,17 @@
+[Event "Barmen"]
+[Site "Barmen"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Lange, Wilfried"]
+[Black "Schlender"]
+[Result "1-0"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Alekhine variation"]
+[HashCode "201d5efe"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. h4 d6 6. f3 exf3 7. Nxf3 Be6 8. Qe2
+Kf7 9. O-O-O Bg7 10. Re1 Qd7 11. Bd2 Bf5 12. Qf2 Re8 13. h5 Nc6 14. hxg6+ Bxg6
+15. Bc4+ Kf8 16. Be6 Qd8 17. d5 Ne5 18. Rxe5 dxe5 19. Nxe5 1-0

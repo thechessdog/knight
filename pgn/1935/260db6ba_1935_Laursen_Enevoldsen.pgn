@@ -1,0 +1,23 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Laursen, L."]
+[Black "Enevoldsen, Harald"]
+[Result "0-1"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "260db6ba"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. dxc5 Nxc5 12. Bd3 Nxd3+ 13. Qxd3 Qf6 14.
+Qd4 Qa6 15. Kd2 Be6 16. Qd3 Qa5+ 17. Qc3 Qxc3+ 18. Kxc3 Rac8+ 19. Kd2 Rc4 20.
+Rhc1 Rfc8 21. Ne5 Rxc1 22. Rxc1 Rxc1 23. Kxc1 d4 24. exd4 Bxa2 25. Kc2 Bd5 26.
+g3 Kf8 27. Kc3 Ke7 28. Nd3 Kd6 29. f4 f6 30. Nf2 a5 31. Nd3 b6 32. b3 Be4 33.
+Nf2 Bf3 34. Kd3 b5 35. g4 a4 36. bxa4 bxa4 37. Kc3 Kd5 38. h3 Be2 39. Nh1 Bf1
+40. Ng3 Bxh3 41. Nf5 g6 42. Ne7+ Ke6 43. Ng8 Bxg4 44. d5+ Kd6 45. Nxf6 h5 46.
+Kb4 Bf5 47. Nh7 Kxd5 48. Kxa4 Ke4 49. Kb3 Kxf4 50. Kc3 h4 51. Nf6 h3 52. Nd5+
+Kf3 0-1

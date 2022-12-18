@@ -1,0 +1,17 @@
+[Event "Trebitsch mem17"]
+[Site "Vienna"]
+[Date "1934.12.14"]
+[Round "13"]
+[White "Weiss, Hermann"]
+[Black "Lenner, Leopold"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Herzfeld gambit"]
+[HashCode "3f983958"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nc6 7. Bxf7+ Ke7
+8. Nxc6+ dxc6 9. Bb3 Nf6 10. e5 Nh5 11. Qe1 g3 12. d3 f3 13. h3 Nf4 14.
+Qb4+ Ke8 15. Qxf4 fxg2+ 16. Kxg2 Qh5 17. Nc3 Bc5 18. Qg5 1-0
+

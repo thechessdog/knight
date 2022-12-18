@@ -1,0 +1,19 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Katz, F."]
+[Black "Grimm"]
+[Result "1-0"]
+[ECO "D67"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, 11.O-O"]
+[HashCode "b86a5805"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O Qb4 12. Qe2 N7b6 13. Bd3 f5 14. Ne5 Nd7
+15. f4 N7f6 16. h3 a6 17. g4 g6 18. Rf2 Qd6 19. Rg2 Kg7 20. Kh1 Nxc3 21. Rxc3
+Nd5 22. Rc1 Bd7 23. h4 Rh8 24. gxf5 exf5 25. Rcg1 Ne7 26. h5 Raf8 27. Qf2 b5
+28. Qh4 Bc8 29. Bc2 Rf6 30. Rh2 Nd5 31. hxg6 Rxg6 32. Qh6+ Kf6 33. Rxg6+ hxg6
+34. Qxg6+ Ke7 35. Qf7+ Kd8 36. Rxh8+ 1-0

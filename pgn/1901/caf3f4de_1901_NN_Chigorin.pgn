@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1901.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "caf3f4de"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Nc3 b5 7. Bb3 Bg4 8. d3
+Qd7 9. Nb1 Nd4 10. Nbd2 Ne6 11. Qe1 Nf4 12. Qe3 Bh3 13. gxh3 Ng4 14. Qe1 Nxh2
+15. Qe3 Ng4 16. Qe1 Nh6 17. Nb1 Qxh3 18. Bxf4 exf4 19. Nbd2 Ng4 20. Bd5 h5 21.
+Bxa8 Rh6 22. e5 Rg6 23. Be4 Ne3+ 24. Bxg6 Qg2# 0-1

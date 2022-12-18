@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Linz"]
+[Black "Vienna"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "b5587c65"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. c3 b6
+8. Bf4 Bb7 9. Nxf6+ Nxf6 10. Qe2 O-O 11. h4 Qd5 12. Be5 c5 13. Ng5 g6 14.
+Rh2 cxd4 15. Bc4 Qc6 16. h5 dxc3 17. b3 Nxh5 18. Rxh5 Bxg5 19. Rxg5 f6 20.
+O-O-O fxe5 21. Qxe5 Rae8 22. Rxg6+ hxg6 23. Rh1 1-0
+

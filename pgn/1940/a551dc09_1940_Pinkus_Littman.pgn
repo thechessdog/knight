@@ -1,0 +1,19 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1940.01.01"]
+[Round "11"]
+[White "Pinkus, Albert Sidney"]
+[Black "Littman, G."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "a551dc09"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 f5 8. Qg3 c5
+9. Nf3 Nc6 10. dxc5 Bxg5 11. hxg5 Qc7 12. O-O-O Nxc5 13. Nd4 Qxe5 14. Qxe5 Nxe5
+15. Re1 Nc6 16. Nxd5 Nxd4 17. Nc7+ Kd7 18. Nxa8 Kc6 19. Rh4 e5 20. Rxe5 Nde6
+21. b4 Ne4 22. Rxf5 Nd6 23. b5+ Nxb5 24. Rc4+ Kd6 25. Nb6 Na7 26. Rd5+ Ke7 27.
+Re4 Nc6 28. Bc4 Re8 29. Nxc8+ Rxc8 30. Rc5 Kd6 31. Bxe6 1-0

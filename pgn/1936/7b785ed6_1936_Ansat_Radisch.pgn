@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Ansat"]
+[Black "Radisch"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "7b785ed6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bf4 g5 11. Bg3 h5 12. h3 g4 13. Nfd2 Nxg3 14. fxg3
+Bc5+ 15. Kh2 h4 16. gxh4 g3+ 17. Kh1 Qxh4 18. Nf3 Qxh3+ 19. gxh3 Bxh3 0-1
+

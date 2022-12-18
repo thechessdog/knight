@@ -1,0 +1,17 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Garcia Vera, Romeo"]
+[Black "Garcia Vera, O."]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "fb7b9afb"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d4
+Nd7 9. Be3 f5 10. Bxc6 bxc6 11. exf5 e4 12. Bg5 d5 13. Qd2 O-O 14. Bxe7 Qxe7
+15. Qf4 Bxf5 16. Qxc7 Qf6 17. Ne5 Bh3 18. Nf3 Bxg2 19. Qxd7 Qxf3 0-1

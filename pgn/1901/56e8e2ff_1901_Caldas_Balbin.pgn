@@ -1,0 +1,25 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Caldas Vianna"]
+[Black "Balbin, J & Gelly &"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "56e8e2ff"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. d5 Nd6 7. dxc6 Nxb5
+8. cxb7 Bxb7 9. Nxe5 d5 10. Qd3 Nd6 11. Nc3 c6 12. Na4 f6 13. Nf3 Qa5 14.
+b3 Ba6 15. c4 dxc4 16. Qe3 Nf5 17. Qf4 cxb3 18. Bd2 Qd5 19. Nc3 Qd7 20.
+Rfd1 b2 21. Rab1 O-O 22. Rxb2 Qc8 23. Re1 Bd6 24. Qa4 Rb8 25. Rxb8 Bxb8 26.
+Ne4 Nd6 27. Nc5 Bc4 28. Nd4 Bd5 29. Nde6 Re8 30. Qg4 g6 31. Bf4 Nf5 32.
+Bxb8 Qxb8 33. Qd1 Kf7 34. Na6 Qd6 35. Nac7 Bxe6 36. Nxe8 Qxd1 37. Rxd1 Kxe8
+38. f3 c5 39. Rc1 c4 40. Kf2 Kd7 41. g4 Nd6 42. Ke3 Kc6 43. a4 Kc5 44. Rb1
+a5 45. Rb8 Bd7 46. Ra8 Nb7 47. Rb8 Bc6 48. Rc8 Nd6 49. Rc7 Kb6 50. Rxh7
+Bxa4 51. Rh8 c3 52. Kd3 c2 53. Kd2 Nc4+ 54. Kc1 Ne5 55. Rd8 Kc5 56. h4 Bb3
+57. h5 gxh5 58. gxh5 a4 59. h6 a3 60. Rc8+ Kd4 61. h7 a2 62. Kb2 Nc4+ 63.
+Kxb3 c1=Q 0-1
+

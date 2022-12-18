@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Balogh"]
+[Black "Busch"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "57fe0528"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 Nc6 8.
+Nd6+ Kf8 9. Bxe7+ Kxe7 10. Bd3 Nxd4 11. c3 Nc6 12. f4 f6 13. Nf3 c4 14. Bc2
+Qb6 15. Qd2 Qxb2 16. O-O Qa3 17. Rae1 Qc5+ 18. Nd4 Nf8 19. Kh1 Kd7 20. Nf7
+Rg8 21. f5 exf5 22. exf6 Kc7 23. Qf4+ Kb6 24. Rb1+ Ka6 25. Rb5 Qa3 26. Rfb1
+Nd7 27. Ne6 b6 28. Nd6 1-0
+

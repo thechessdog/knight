@@ -1,0 +1,20 @@
+[Event "Edinburgh"]
+[Site "Edinburgh"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Wenman, P."]
+[Black "Gibson, W."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence, Duras variation"]
+[HashCode "6e5027f1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c4 g6 7. Nc3 Bg7 8. h3
+O-O 9. Be3 Nd7 10. Bxc6 bxc6 11. g4 Re8 12. Qd2 Nf8 13. O-O-O Be6 14. Bh6
+d5 15. Bxg7 Kxg7 16. Nxe5 Qd6 17. Nxc6 d4 18. Ne2 Qxc6 19. Nxd4 Qa4 20. Qc3
+Kg8 21. Kb1 c5 22. Nf5 Bxf5 23. gxf5 Qd7 24. Rdg1 Rad8 25. Rg3 Qd4 26. Qc2
+Nd7 27. h4 Ne5 28. Rhh3 Kh8 29. f4 Nc6 30. Qa4 Rxe4 31. Qxc6 Re1+ 32. Kc2
+Re2+ 33. Kd1 Qxb2 0-1
+

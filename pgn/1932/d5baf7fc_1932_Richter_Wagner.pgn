@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Wagner, Heinrich"]
+[Result "1-0"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Richter attack"]
+[HashCode "d5baf7fc"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nxc6 bxc6 8.
+e5 dxe5 9. Qf3 Rb8 10. Rd1 Qc7 11. Ne4 Bb4+ 12. c3 Nxe4 13. Bd8 Qb7 14. Qxe4
+Bf8 15. Qxe5 Bd7 16. Ba6 f6 17. Bxf6 gxf6 18. Qh5+ 1-0

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Stuber"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen-Richter variation"]
+[HashCode "72f0f169"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 e6 4. e4 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4 O-O 8.
+Bd3 Nc6 9. Nf3 Nb4 10. O-O-O Nxd3+ 11. Rxd3 c5 12. dxc5 Bxc5 13. Ne4 Be7 14.
+Nfg5 h6 15. h4 Qc7 16. Nf6+ Bxf6 17. exf6 g6 18. h5 Qc5 19. Nh7 Kxh7 20. hxg6+
+1-0

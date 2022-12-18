@@ -1,0 +1,20 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Marjenstrass, Z."]
+[Black "Piltz, Karol"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "2c564b31"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nc6 6. Bb5 Nxc3 7. bxc3
+Qh4+ 8. g3 Qe4+ 9. Qxe4 dxe4 10. Bxc6+ bxc6 11. d4 exd3 12. cxd3 Bf5 13.
+Ke2 Be7 14. Nf3 O-O 15. h3 Rfd8 16. Nd4 Bd7 17. g4 Rab8 18. Rh2 Bf8 19. Nf3
+Re8 20. d4 c5 21. Kd3 Bc6 22. Ne1 cxd4 23. cxd4 Bd5 24. Rb2 c5 25. Rxb8
+Rxb8 26. Be3 c4+ 27. Ke2 Rb2+ 28. Kd1 Rh2 29. Rb1 Rxh3 30. Bd2 f6 31. exf6
+gxf6 32. g5 fxg5 0-1
+

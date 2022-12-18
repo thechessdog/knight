@@ -1,0 +1,16 @@
+[Event "Mexico"]
+[Site "Mexico"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Ventosa, I."]
+[Black "Ferriz, A."]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "5cdce344"]
+[Epoch "Knight"]
+
+1. d4 Nc6 2. c4 d5 3. Nf3 Bg4 4. cxd5 Qxd5 5. Nc3 Qa5 6. e3 O-O-O 7. Bd2 e5
+8. d5 Nb4 9. e4 Nf6 10. a3 Na6 11. Na4 1-0
+

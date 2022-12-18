@@ -1,0 +1,25 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1936.??.??"]
+[Round "2"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Chekhover, Vitaly"]
+[Result "0-1"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "30a82016"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Nb6 10. b3 Bg4 11. f3 Bd7 12. Be3 Re8 13. Qd2 Qc8 14. Rfe1 Bh3 15.
+Bh1 Nbd7 16. Rac1 Ne5 17. Nd1 Bd7 18. Nf2 Nc6 19. Bg2 Nxd4 20. Bxd4 Nh5 21.
+Bxg7 Nxg7 22. c5 dxc5 23. e5 Re7 24. Ne4 Ne8 25. Qh6 Rxe5 26. Nf6+ Nxf6 27.
+Rxe5 b6 28. Qg5 Kg7 29. Re7 Qf8 30. Rce1 Re8 31. Rxe8 Bxe8 32. Qe5 Qd6 33. f4
+Qxe5 34. fxe5 Nd7 35. Bc6 Kf8 36. e6 fxe6 37. Rxe6 Kf7 38. Bxd7 Bxd7 39. Re2
+Be6 40. Rc2 Ke7 41. Kf2 Kd6 42. Ke3 b5 43. Rd2+ Bd5 44. Kf4 h6 45. h4 a5 46. g4
+c6 47. Rd3 Ke6 48. Re3+ Kd6 49. Rd3 Ke6 50. Re3+ Kd6 51. Rd3 g5+ 52. hxg5 hxg5+
+53. Kf5 a4 54. Kf6 b4 55. Kf5 Kc7 56. Kxg5 Bxb3 57. axb3 a3 58. Kf4 a2 59. Rd1
+c4 60. g5 cxb3 61. g6 b2 62. g7 a1=Q 63. Rxa1 bxa1=Q 64. g8=Q Qd4+ 0-1

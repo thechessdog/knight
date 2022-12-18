@@ -1,0 +1,18 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Finogenov"]
+[Black "Kofman, Rafael Moiseevich"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "3443e60f"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 d6 3. e3 g6 4. Bd3 Bg7 5. O-O O-O 6. e4 Bg4 7. h3 Bxf3 8. Qxf3
+e5 9. d5 Nbd7 10. c4 Nh5 11. Nc3 Qh4 12. Ne2 f5 13. exf5 Nc5 14. g4 e4 15. Bxe4
+Nxe4 16. Qxe4 gxf5 17. Qg2 Nf6 18. g5 Nh5 19. Qf3 Rae8 20. Nf4 Nxf4 21. Bxf4
+Re4 22. Bd2 Rxc4 23. Rac1 Bxb2 24. Rb1 Be5 25. Rxb7 Rg4+ 26. Kh1 Bg3 27. Kg2
+Bf4+ 28. Kh1 Bxd2 29. Rxc7 Rxg5 30. Rb1 Qe4 31. Rb3 Qe1+ 0-1

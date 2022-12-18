@@ -1,0 +1,19 @@
+[Event "Margate"]
+[Site "Margate"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Oskam, Gerard"]
+[Black "Colle, Edgard"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "56909620"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Ne2 e6 3. Nbc3 d5 4. exd5 exd5 5. d4 Nf6 6. Bg5 Be6 7. g3 Nc6 8.
+Bg2 h6 9. Bxf6 Qxf6 10. Nxd5 Bxd5 11. Bxd5 O-O-O 12. dxc5 Bxc5 13. O-O h5 14.
+Nc3 Ne5 15. Ne4 Qf5 16. c4 Bb6 17. Qe2 h4 18. c5 Rxd5 19. cxb6 Nf3+ 20. Kh1
+axb6 21. Rac1+ Kb8 22. Rc3 Nxh2 23. g4 Nxg4 24. Rg1 Qxe4+ 0-1

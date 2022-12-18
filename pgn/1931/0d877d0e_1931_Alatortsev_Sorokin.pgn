@@ -1,0 +1,18 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Sorokin, N."]
+[Result "1-0"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, main line"]
+[HashCode "0d877d0e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Nbd7 5. O-O Be7 6. c4 c6 7. Nbd2 O-O 8. Qc2
+Re8 9. Rd1 Qb6 10. e4 Nxe4 11. Nxe4 dxe4 12. Qxe4 c5 13. Qc2 cxd4 14. Nxd4 Nc5
+15. Rb1 a5 16. b3 Bf6 17. Nb5 Rd8 18. Be3 Bd7 19. Nd6 Bc6 20. Bxc6 bxc6 21. a3
+Rxd6 22. Rxd6 Be7 23. b4 1-0

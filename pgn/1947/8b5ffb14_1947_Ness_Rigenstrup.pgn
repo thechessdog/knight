@@ -1,0 +1,17 @@
+[Event "Drammen"]
+[Site "Drammen"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Ness, RM."]
+[Black "Rigenstrup, Aa"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "8b5ffb14"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 d5 5. exd6 Bf5 6. Qa4+ Nc6 7. Nf3
+Bxd6 8. a3 Qf6 9. Nbd2 Nc5 10. Qd1 O-O-O 11. e3 Rhe8 12. Be2 Nd3+ 13. Bxd3
+Bxd3 14. Qb3 Bc5 15. Nf1 Qg6 16. Ng3 Bc2 17. Qc3 Rd1+ 18. Ke2 Bd4 0-1
+

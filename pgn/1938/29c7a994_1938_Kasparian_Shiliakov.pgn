@@ -1,0 +1,19 @@
+[Event "Azerbaijan"]
+[Site "Azerbaijan"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Kasparian"]
+[Black "Shiliakov"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "29c7a994"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 e5 4. g3 d5 5. exd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. d3 Nc6 9. f4 O-O 10. a4 a5 11. fxe5 Nxe5 12. Bf4 Ng6 13. Be3 Ne5 14. Kh1
+Nc6 15. Nf4 Nb4 16. Qd2 g5 17. Nh3 f6 18. Ne4 Bd7 19. b3 Qc8 20. Nhxg5 fxg5
+21. Bxg5 Qd8 22. Rxf8+ Qxf8 23. Rf1 Qg7 24. Bxe7 Qxe7 25. Nf6+ Kg7 26. Qc3
+Kh6 27. Rf4 Bc6 28. Be4 Bxe4+ 29. Rxe4 Qd6 30. Rg4 1-0
+

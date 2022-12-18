@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Zink"]
+[Black "Huber"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Bradford attack"]
+[HashCode "6833ad05"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Qg4 O-O 8.
+Bd3 f5 9. Qh3 h6 10. g4 fxg4 11. Qxg4 Rf7 12. Nf3 Nf8 13. Bd2 Nc6 14. h4
+Nb4 15. Bg6 Nxg6 16. Qxg6 Bd7 17. Ng5 hxg5 18. hxg5 Qb6 19. O-O-O d4 20.
+Nd5 Nxa2+ 21. Kb1 exd5 22. Rh8+ Kxh8 23. Qxf7 1-0
+

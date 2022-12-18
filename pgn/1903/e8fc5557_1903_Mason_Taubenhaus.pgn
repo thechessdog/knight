@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "6"]
+[White "Mason, James"]
+[Black "Taubenhaus, Jean"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "e8fc5557"]
+[Epoch "Knight"]
+[WhiteCountry "IRE"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Be3 Bb6 7. Ne2 Be6 8. Bb5
+O-O 9. Bxc6 bxc6 10. Ng3 Bxe3 11. fxe3 Qb8 12. b3 Qb6 13. Qd2 Ng4 14. d4 f5 15.
+exf5 Bxf5 16. h3 Nh6 17. O-O Rae8 18. c4 Qb8 19. e4 Bg6 20. dxe5 dxe5 21. Qc3
+Nf7 22. c5 Qd8 23. Rad1 Qe7 24. Rd2 Ng5 25. Rdf2 Rf4 26. Nxg5 Rxf2 27. Rxf2
+Qxg5 28. Qc4+ Kh8 29. Kh2 h5 30. Nf5 h4 31. Qc3 Kh7 32. Rf1 Re6 1/2-1/2

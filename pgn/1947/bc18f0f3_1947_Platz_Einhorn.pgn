@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Einhorn"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "bc18f0f3"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. d4 d6 8. c3
+Bb7 9. O-O O-O 10. Rd1 Nd7 11. Nbd2 Qc8 12. Nf1 Bf6 13. d5 Na5 14. Bc2 g6 15.
+Ne3 Nb6 16. h3 Nac4 17. Ng4 Bg7 18. b3 Na5 19. Bd2 c5 20. c4 b4 21. a3 f5 22.
+Ngh2 fxe4 23. Qxe4 Rf4 24. Bxf4 exf4 25. axb4 Bxa1 26. bxa5 Nxd5 27. cxd5 Bc3
+28. Ng4 1-0

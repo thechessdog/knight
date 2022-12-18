@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Kaprinay"]
+[Black "Huffell"]
+[Result "1-0"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "4c16a479"]
+[Epoch "Knight"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bb4 5. Nd5 Nxd5 6. cxd5 Nd4 7. e3 Nf5
+8. Qg4 1-0
+

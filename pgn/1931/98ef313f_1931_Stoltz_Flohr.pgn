@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "98ef313f"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. Nxf6+ Nxf6
+8. Qe2 O-O 9. Bg5 c5 10. O-O-O cxd4 11. h4 Qa5 12. Kb1 Rd8 13. g4 Nd5 14. Bxe7
+Nxe7 15. Qe4 f5 16. gxf5 Qxf5 17. Nxd4 Qxe4 18. Bxe4 Rb8 19. Rhe1 b6 20. c3 g6
+21. Bc2 Kf7 22. Rd3 Kf6 23. Rde3 Nf5 24. Bxf5 Rxd4 25. cxd4 gxf5 26. d5 f4 27.
+Re5 exd5 28. Rxd5 1-0

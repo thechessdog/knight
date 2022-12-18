@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Haas, Carmi"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "40587042"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackID "1303430"]
+[BlackCountry "SUI"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 bxc6 7. dxe5 Nb7
+8. Nc3 Be7 9. Nd4 O-O 10. Be3 c5 11. Nf5 d6 12. Nxe7+ Qxe7 13. Nd5 Qd8 14. Qh5
+Re8 15. Bg5 Rxe5 16. Rfe1 f6 17. f4 g6 18. Qh6 Rxd5 19. Bxf6 Qf8 20. Re8 1-0

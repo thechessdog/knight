@@ -1,0 +1,18 @@
+[Event "Tomsk"]
+[Site "Tomsk"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Ismailov"]
+[Black "Staroverov"]
+[Result "1-0"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "7be032ae"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 c6 7. Rc1 O-O 8.
+Qc2 Re8 9. a3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. O-O Nxc3 13. Qxc3 e5 14.
+e4 exd4 15. Nxd4 Ne5 16. Bb3 Bd7 17. f4 Ng6 18. e5 Rac8 19. e6 Bxe6 20.
+Nxe6 fxe6 21. f5 Nf8 22. fxe6 Kh8 23. Rf7 Qg5 24. Rcf1 1-0
+

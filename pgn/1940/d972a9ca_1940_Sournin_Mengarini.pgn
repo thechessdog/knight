@@ -1,0 +1,22 @@
+[Event "Washington,DC"]
+[Site "Washington,DC"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Sournin, Vladimir"]
+[Black "Mengarini, Ariel"]
+[Result "0-1"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "d972a9ca"]
+[Epoch "Knight"]
+[BlackID "2006685"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bd3 Ne7 5. Bg5 f6 6. Be3 f5 7. f3 f4 8. Bf2 Ng6
+9. g3 Be7 10. Ne2 Bg5 11. Bb5+ Nd7 12. Qd3 a6 13. Bxd7+ Bxd7 14. Nd2 Qa5 15.
+Nc3 b5 16. O-O O-O 17. g4 Qc7 18. Ne2 Qc8 19. Kh1 Kf7 20. Kg2 h5 21. Ng1 hxg4
+22. fxg4 Bxg4 23. Ndf3 Bf6 24. Rfe1 Rh8 25. Kf1 Qd7 26. h3 Bxh3+ 27. Ke2 Bg4
+28. Kd2 Rh1 29. b3 Qc7 30. Kc3 Rah8 31. Qe2 R8h3 32. Kb2 Rxg1 33. Nxg1 Bxe2 34.
+Nxh3 Bg4 35. Rh1 Bf3 36. Rhe1 Qc8 37. Ng1 Qg4 38. b4 Qg2 39. Rf1 Bxe4 40. bxc5
+Bxd5 0-1

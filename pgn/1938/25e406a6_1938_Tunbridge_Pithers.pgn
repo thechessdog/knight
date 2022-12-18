@@ -1,0 +1,18 @@
+[Event "St Bride"]
+[Site "St Bride"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Tunbridge"]
+[Black "Pithers"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "25e406a6"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Nc3 cxd4 6. Nb5 f6 7. exf6 Nxf6 8.
+Nbxd4 Bd6 9. Be2 O-O 10. c3 Ne4 11. Be3 Bd7 12. O-O Nxd4 13. Bxd4 Qc7 14.
+Qd3 Bc6 15. Be3 Rf6 16. g3 Raf8 17. Kg2 d4 18. cxd4 Rxf3 19. Bxf3 Rxf3 20.
+Rac1 Nc5 21. Qd2 Rxg3# 0-1
+

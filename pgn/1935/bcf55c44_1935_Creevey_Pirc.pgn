@@ -1,0 +1,18 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Creevey"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "bcf55c44"]
+[Epoch "Knight"]
+[BlackCountry "SVN"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Bf4 Nc6 6. Nc3 g6 7. e3 Bg7 8. Rc1
+O-O 9. Bd3 a6 10. O-O Na5 11. Na4 Ne8 12. Nc5 Nd6 13. b3 Re8 14. Bb1 b6 15. Nd3
+f6 16. Qc2 Bf5 17. Qc7 Qxc7 18. Rxc7 Nb5 19. Rcc1 e6 20. Nb4 Bxb1 21. Rxb1 Bf8
+22. Nd3 Rec8 23. Rfc1 Nc3 0-1

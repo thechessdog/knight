@@ -1,0 +1,18 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence, Paulsen variation"]
+[HashCode "184d9e77"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 g6 5. d4 exd4 6. Nxd4 Bg7 7. Be3 O-O 8.
+h4 d5 9. exd5 Nxd5 10. Nxc6 bxc6 11. Bxc6 Nxe3 12. fxe3 Rb8 13. Qxd8 Rxd8 14.
+O-O Rxb2 15. Nd5 Ba6 16. Rad1 Rd6 17. Rf2 Kf8 18. Ba4 c6 0-1

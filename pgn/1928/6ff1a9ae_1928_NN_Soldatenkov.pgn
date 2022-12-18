@@ -1,0 +1,17 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Soldatenkov, V."]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "6ff1a9ae"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 Bxc3+ 5. bxc3 c5 6. e3 Qa5 7. Qb3 Ne4
+8. Bf4 Nxc3 9. Bd3 Ne4+ 10. Ke2 Qd2+ 11. Kf3 Qxf2+ 12. Kxe4 Qxg2+ 13. Nf3
+Qg6+ 14. Ke5 Qf6+ 15. Kd6 Qe7+ 16. Ke5 d6+ 17. Ke4 f5# 0-1
+

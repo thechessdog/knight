@@ -1,0 +1,17 @@
+[Event "Bristol"]
+[Site "Bristol"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Wenman, P."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "8041f9c0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+
+Kf6 8. Nc3 Bb4 9. Qf3+ Kxe5 10. Be3 Qf6 11. Bd4+ Kxd4 12. Qd1+ Ke5 13. Qd5+
+Kf4 14. g3+ Kg4 15. h3+ Kf3 16. e5# 1-0
+

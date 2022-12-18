@@ -1,0 +1,17 @@
+[Event "Kassel"]
+[Site "Kassel"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Mistereck"]
+[Black "Wilkens"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit"]
+[HashCode "6a6c97d7"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 f5 7. Bf4 c6
+8. Qh5+ g6 9. Qh3 Nd7 10. Bc4 Nb6 11. Bb3 Nf6 12. Be5 O-O 13. Qh6 Rf7 14.
+h3 Bd7 15. O-O-O Nbd5 16. Ne2 b5 17. g4 fxg4 18. hxg4 Nxg4 19. Qxg6+ 1-0
+

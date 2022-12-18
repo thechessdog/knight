@@ -1,0 +1,19 @@
+[Event "Olmutz"]
+[Site "Olmutz"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Benesch, A."]
+[Black "Krejcik, Joseph"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[Variation "Greco's attack"]
+[HashCode "5068bb80"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 O-O
+8. e5 Re8 9. O-O Bxc3 10. exf6 Bb4 11. Bxf7+ Kxf7 12. Ng5+ Kg6 13. Qd3+
+Kxf6 14. Qf3+ Ke7 15. Qf7+ Kd6 16. Bf4+ Ne5 17. dxe5+ Kc6 18. Rfc1+ Kb6 19.
+Qc4 c5 20. a4 a6 21. Nf7 Qh4 22. Qxb4+ cxb4 23. Be3+ Ka5 24. Rc5+ Kb6 25.
+a5+ Ka7 26. Rxc8+ b6 27. axb6+ Kb7 28. Nd6# 1-0
+

@@ -1,0 +1,17 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Damgaard, Niels"]
+[Black "Thoresen, Vald"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "0f84edc5"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Qd5 Bxf2+ 6. Ke2 f5 7. exf6
+Nxf6 8. Qe5+ Kf7 9. Ng5+ Kg6 10. Kf3 Rf8 11. Bd3+ Ne4+ 12. Kxe4 d5+ 13.
+Qxd5 Qe7+ 14. Qe5 Bf5+ 0-1
+

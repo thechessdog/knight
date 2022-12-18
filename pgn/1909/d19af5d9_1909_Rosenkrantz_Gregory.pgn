@@ -1,0 +1,31 @@
+[Event "All-Russian"]
+[Site "St Petersburg"]
+[Date "1909.??.??"]
+[Round "13"]
+[White "Rosenkrantz, Karl Wilhelm"]
+[Black "Gregory, Bernhard"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "d19af5d9"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 c6 9. Bd3 d5 10. O-O Bc5 11. Re1+ Be6 12. Be3 Bxe3 13. Rxe3 O-O-O 14.
+b4 d4 15. cxd4 Rxd4 16. b5 cxb5 17. Qe1 a6 18. Rf3 Qd8 19. a4 b4 20. a5 Qd6 21.
+Rb1 Rd8 22. Re3 Kb8 23. Re4 b3 24. h3 h6 25. Qe3 Rxe4 26. Bxe4 Qd4 27. Qf3 bxc2
+28. Bxc2 Bd5 29. Qg3+ Ka8 30. Qc7 Rb8 31. Rd1 Qc4 32. Qxc4 Bxc4 33. Rd7 Re8 34.
+f3 Be6 35. Rd4 Rc8 36. Be4 Rc5 37. Ra4 Bd5 38. Bd3 Kb8 39. Kf2 Kc7 40. Ke3 Kd6
+41. Ra1 Bc4 42. Be4 Bd5 43. Bd3 Bc6 44. g4 Rc3 45. Kd2 Rb3 46. f4 Kd5 47. Rc1
+Rb4 48. Ke3 Ra4 49. h4 Ra3 50. Kd2 Rxa5 51. g5 hxg5 52. fxg5 Bb5 53. Rc7 Ke6
+54. Bc2 Bc6 55. Bb3+ Bd5 56. Rxb7 Bxb3 57. Rxb3 Kf5 58. Ke3 Ra4 59. Rb7 Kg6 60.
+Rb6+ Kh5 61. Rb7 Kxh4 62. Rxf7 g6 63. Rf1 Kxg5 64. Rg1+ Kf5 65. Rf1+ Ke5 66.
+Rg1 Ra3+ 67. Kd2 Kf5 68. Rf1+ Ke4 69. Rg1 Ra2+ 70. Kc3 Kf5 71. Rf1+ Ke5 72.
+Re1+ Kf6 73. Rf1+ Kg7 74. Rg1 Rf2 75. Ra1 Rf6 76. Kd4 g5 77. Ke5 Kg6 78. Ke4
+Rb6 79. Kf3 Kf6 80. Kg4 Ke5 81. Kxg5 Kd4 82. Kf5 Rb5+ 83. Kf4 a5 84. Ra3 Rh5
+85. Kg4 Rc5 86. Kf4 Kc4 87. Ke3 Kb4 88. Ra1 Rd5 89. Ke4 Rd8 90. Rc1 a4 91. Rc7
+a3 92. Ra7 Kb3 93. Ke3 Rb8 94. Rd7 a2 95. Rd3+ Kb2 96. Rd2+ Ka3 97. Rd3+ Rb3
+0-1

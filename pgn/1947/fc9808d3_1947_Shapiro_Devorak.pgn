@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Shapiro, S."]
+[Black "Devorak, F."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lesser bishop's (Petroff-Jaenisch-Tartakower) gambit"]
+[HashCode "fc9808d3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Be2 d5 4. exd5 Qh4+ 5. Kf1 Nf6 6. c4 g5 7. Nf3 Qh6
+8. d4 Ne4 9. Kg1 g4 10. Ne5 Qh4 11. Qf1 f3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Moscow-Prague"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "90f106b3"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 Nbd7 7. O-O dxc4 8.
+Bxc4 e5 9. Bxf7+ Rxf7 10. dxe5 Qe7 11. exf6 Nxf6 12. Nf4 c6 13. Qc2 g5 14. Nfe2
+Bd6 15. Ng3 Bxg3 16. hxg3 Ng4 17. e4 Be6 18. Nd1 Raf8 19. f3 Qd6 20. Ne3 Nxe3
+21. Bxe3 Qxg3 22. Bf2 Qb8 23. Rad1 g4 24. Bc5 Rd8 25. Rxd8+ Qxd8 26. f4 g3 27.
+f5 Qh4 28. Rf3 b6 29. Qc3 Rg7 30. Bd4 1-0

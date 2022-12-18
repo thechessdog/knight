@@ -1,0 +1,23 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Popovic, Zarko"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "82310df2"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. O-O Nbd7 7. Ne5 Bd6 8. f4
+Qe7 9. Qf3 c5 10. c3 g6 11. a4 a5 12. Rf2 Rc8 13. h3 cxd4 14. exd4 Rc7 15. Qe2
+Qd8 16. Ndf3 Ne4 17. Bxe4 dxe4 18. Ng5 O-O 19. Nxe4 Be7 20. Bd2 Bf6 21. Ng5
+Nxe5 22. dxe5 Bxg5 23. fxg5 Bd5 24. Be3 Rc4 25. Rf4 Rxf4 26. Bxf4 Qd7 27. Be3
+Qc6 28. Qf2 b5 29. axb5 Qxb5 30. Bc5 Rb8 31. b4 a4 32. Rf1 Qb7 33. b5 Bc4 34.
+Rb1 Bb3 35. Rf1 Bc4 36. Rb1 Bb3 37. b6 Ra8 38. Qd4 Bd5 39. Ra1 Qc6 40. Qf2 Qb7
+41. Kh2 Qc6 42. h4 Rc8 43. Bd6 Ra8 44. Rf1 Qb7 45. Bc7 Rf8 46. g4 Be4 47. h5
+gxh5 48. gxh5 Bf5 49. Qg2 Be4 50. Qf2 Bf5 51. Qg2 Be4 52. Qf2 Bf5 53. Qf3 Qc8
+54. Bd6 Qc4 55. Bxf8 Qh4+ 56. Kg1 Kxf8 57. Qf4 Qxh5 58. b7 1-0

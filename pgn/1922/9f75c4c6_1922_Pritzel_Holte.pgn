@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1922.12.08"]
+[Round "6"]
+[White "Pritzel, ACM."]
+[Black "Holte"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "9f75c4c6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 exd4 6. e5 dxe5 7. Nxe5 Qd5
+8. Re1 Be6 9. Bc4 Qd6 10. Nxf7 Kxf7 11. Rxe6 Qxe6 12. Bxe6+ Kxe6 13. Bf4
+Kd7 14. c3 Rd8 15. cxd4 Kc8 16. Nc3 Rxd4 17. Qf3 Bc5 18. Be3 Rc4 19. Qf5+
+Nd7 20. Rd1 Nd4 21. Bxd4 Rxd4 22. Rxd4 Bxd4 23. Ne4 Bxb2 24. Nc5 Rd8 25.
+Ne6 Re8 26. Qf7 Rxe6 27. Qxe6 c5 28. Kf1 Kc7 29. Ke2 Bd4 30. f4 1-0
+

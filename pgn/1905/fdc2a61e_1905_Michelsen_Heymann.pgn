@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Michelsen, Einar"]
+[Black "Heymann"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "fdc2a61e"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Bf4 Bb4 7. Nb5 Nxe4
+8. Qf3 Nxc3 9. bxc3 Ba5 10. Nd6+ Kf8 11. Nxf7 Qf6 12. Nxh8 Bxc3+ 13. Kd1
+Bxa1 14. Bd3 g5 15. Bd6+ Kg8 16. Qh5 Qxh8 17. h4 g4 18. Bxh7+ Qxh7 19. Qe8+
+Kg7 20. Qf8+ Kg6 21. h5+ Qxh5 22. Qe8+ 1-0
+

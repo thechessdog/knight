@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Sanders, R."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Milner-Barry variation"]
+[HashCode "897c5f4c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. Nc3 dxe4 4. Nxe4 exf4 5. Bc4 Qh4+ 6. g3 fxg3 7. Qe2
+g2+ 8. Kd1 gxh1=Q 9. Nf6+ Kd8 10. Qe8# 1-0
+

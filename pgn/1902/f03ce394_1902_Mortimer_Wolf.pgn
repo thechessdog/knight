@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Mortimer, James"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "f03ce394"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Kf8 9. Bg5 gxf6 10. Bh6+ Kg8 11. Nxd4 Bxd4 12. c3 Be6 13. cxd4 Qxd4 14.
+Qf3 Qh4 15. Qe3 Rd8 16. g3 Qh5 17. Nc3 Ne5 18. Red1 Re8 19. f3 Nxf3+ 20. Kf2
+Ne5 21. Ne4 Ng4+ 22. Ke1 Bf5 23. h3 Qxh6 0-1

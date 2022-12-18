@@ -1,0 +1,18 @@
+[Event "Viareggio"]
+[Site "Viareggio"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Marotti, Davide"]
+[Black "Batori, A."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "d8eb3312"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+Be6 9. Re1 c6 10. Qc2 Nf6 11. c5 Be7 12. Bf4 h6 13. Nbd2 Nbd7 14. Bf5 Ne8 15.
+Rxe6 fxe6 16. Bxe6+ Kh8 17. Bxd7 Rxf4 18. Ne5 Rf6 19. Be6 Qc7 20. Ng6+ Rxg6 21.
+Qxg6 Nf6 22. Nf3 Rf8 23. Ne5 Bxc5 24. Qf5 g5 25. dxc5 1-0

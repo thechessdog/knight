@@ -1,0 +1,23 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Foguelman, Alberto"]
+[Black "Redolfi"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "e88e87bf"]
+[Epoch "Knight"]
+[WhiteID "101435"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. O-O O-O 8. Nbd2
+h6 9. Re1 Nh7 10. h3 Ng5 11. Nxg5 Bxg5 12. Nf3 Bxc1 13. Rxc1 Ne7 14. d4 f6 15.
+Bb3+ Kh8 16. Nh2 Ng6 17. Bc4 Nf4 18. Re3 Qe7 19. Bf1 Be6 20. g3 Ng6 21. Bg2 Qf7
+22. a3 Rad8 23. c4 c5 24. d5 Bd7 25. Nf1 b5 26. Nd2 f5 27. exf5 Bxf5 28. Qe1
+Rb8 29. b4 cxb4 30. axb4 bxc4 31. Nxc4 Rbd8 32. Na5 Ne7 33. Nc6 Rc8 34. Qd2 Bd7
+35. Ra3 Nf5 36. Rxa6 Nd4 37. Ra7 Nb3 38. Qc2 Nxc1 39. Rxd7 Qxd7 40. Qxc1 Qf5
+41. Qe1 Ra8 42. Na5 Rf6 43. Be4 Qxh3 44. b5 Qc8 45. b6 Qc5 46. b7 Raf8 47. Nb3
+Qa7 48. Nc1 Rxf2 49. b8=Q 1-0

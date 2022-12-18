@@ -1,0 +1,25 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "John, Walter"]
+[Black "Speijer, Abraham"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "cb86af5c"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. b3 Bg4 5. h3 Bh5 6. Bb2 e6 7. Be2 Nc6 8. O-O
+cxd4 9. exd4 Bd6 10. Nbd2 O-O 11. Ne5 Bxe2 12. Qxe2 Qb6 13. Nxc6 Qxc6 14. c4
+Qa6 15. Qe3 Bb4 16. Bc3 Bxc3 17. Qxc3 dxc4 18. bxc4 Rac8 19. Rfc1 Rfd8 20. Nf3
+Nd5 21. Qb3 Nf4 22. Qe3 e5 23. Nxe5 Rxd4 24. Nf3 Qg6 25. Nh4 Qf6 26. Re1 h6 27.
+Nf5 Qg5 28. g3 Nxh3+ 29. Kh2 Qxf5 30. Qxd4 Ng5 31. Qe3 Nf3+ 32. Kg2 Nxe1+ 33.
+Rxe1 Rxc4 34. Qxa7 Qd5+ 35. Kg1 Rc2 36. a4 h5 37. Qb8+ Kh7 38. Qe5 Qf3 39. Qe4+
+Qxe4 40. Rxe4 Rb2 41. a5 g5 42. Ra4 Kg6 43. a6 bxa6 44. Rxa6+ Kf5 45. Ra4 Re2
+46. Kg2 Re4 47. Ra5+ Kg6 48. Ra6+ f6 49. Kf3 Rb4 50. Kg2 h4 51. gxh4 Rxh4 52.
+Ra8 Rb4 53. Ra5 Rb3 54. Rc5 g4 55. Ra5 f5 56. Rc5 Kg5 57. Ra5 Rb2 58. Kg3 Re2
+59. Rc5 Rd2 60. Ra5 Rd3+ 61. Kg2 Kf4 62. Rb5 Ke4 63. Rb4+ Rd4 64. Rxd4+ Kxd4
+65. f3 g3 66. Kxg3 Ke3 67. Kg2 f4 68. Kg1 Kxf3 69. Kf1 Ke3 0-1

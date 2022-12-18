@@ -1,0 +1,18 @@
+[Event "Pisek sim"]
+[Site "Pisek"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Hanus, J."]
+[Black "Důras, Oldřich"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Loman defence"]
+[HashCode "54be90c7"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 g6 10. Qf3 Qd7 11. Rxe6+ fxe6 12. f7+ Ke7 13. Ne4 Qd5 14. Bg5+
+Qxg5 15. Nxg5 Raf8 16. Nd2 h6 17. Nde4 Bb4 18. Qf6+ Kd7 19. Qxe6+ Kd8 20. Nf6
+Nb8 21. Ngh7 Be7 22. Nxf8 Rxf8 23. Re1 1-0

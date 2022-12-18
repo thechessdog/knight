@@ -1,0 +1,19 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "1"]
+[White "Scheinbergas"]
+[Black "Hanssen, L."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "2e50afeb"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 e5 7. Nxc6 dxc6
+8. O-O Ng4 9. Qe2 Nxe3 10. Qxe3 Qb6 11. Qg3 Qxb2 12. Nd2 f6 13. Nb3 Qa3 14.
+Rfd1 Qe7 15. Be2 Be6 16. Rab1 Qc7 17. Nd4 Bf7 18. Nb5 Qa5 19. Qg4 Be7 20.
+Qd7+ Kf8 21. Qxb7 Rd8 22. Rxd8+ Bxd8 23. Nd6 Qc7 24. Qxc7 Bxc7 25. Nxf7
+Kxf7 26. Rb7 Rc8 27. Bg4 f5 28. Bxf5 Rb8 29. Rxc7+ Kf6 30. Rxc6+ 1-0
+

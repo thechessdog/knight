@@ -1,0 +1,24 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Lundin, Erik"]
+[Black "Book, Eero"]
+[Result "0-1"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Rabinovich variation"]
+[HashCode "4e8bae1b"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Ng4 12. Nd6+ Bxd6 13. exd6 Nc5 14. Bc2 e5 15.
+h3 Nf6 16. Nxe5 Qxd6 17. Bf4 O-O 18. O-O Bb7 19. Nd3 Qc6 20. f3 Nd5 21. Nxc5
+Qxc5 22. Qd3 g6 23. Bd2 Ne3 24. Rfc1 Qe5 25. Qe2 Rfe8 26. Bb3 a5 27. Bxe3 dxe3
+28. f4 Qe7 29. Bc4 Rad8 30. Rd1 Qe4 31. b3 Kg7 32. Rac1 Rxd1+ 33. Rxd1 Re7 34.
+Qb2+ Kh6 35. Rd4 Qxg2+ 36. Qxg2 Bxg2 37. Kxg2 e2 38. Bxe2 Rxe2+ 39. Kg3 Rxa2
+40. Rd5 Ra3 41. Kg4 f5+ 42. Kh4 Rxb3 43. Rxa5 Rf3 44. Rxf5 Rxh3+ 45. Kxh3 gxf5
+46. Kg3 Kg6 47. Kh4 Kh6 48. Kg3 Kg7 49. Kh4 Kg6 50. Kg3 Kf7 51. Kh4 Ke7 52. Kh5
+Kd6 0-1

@@ -1,0 +1,21 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Thoresen, Vald"]
+[Black "Damgaard, Niels"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "01a1cd80"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. Nc3 Nf6
+8. O-O Be7 9. Be3 Bg4 10. h3 Bh5 11. g4 Nxg4 12. hxg4 Bxg4 13. Be2 Bd6 14.
+Bg5 f6 15. Ne5 fxg5 16. Bxg4 Bxe5 17. dxe5 d4 18. Ne2 Nxe5 19. Nxd4 O-O 20.
+c3 Kh8 21. Bh3 g4 22. Bg2 Qf6 23. f4 g3 24. fxe5 Qh4 25. Rf3 Rad8 26. Qd3
+Qh2+ 27. Kf1 h5 28. Qg6 Rxf3+ 29. Nxf3 Rf8 30. Qe4 h4 31. Rd1 h3 32. Qh4+
+Kg8 33. Qxh3 Rxf3+ 34. Ke2 Rf2+ 35. Ke3 Qxh3 36. Bxh3 Rh2 37. Rd8+ Kf7 38.
+e6+ Kf6 39. Rf8+ Ke7 40. Rf7+ Ke8 41. Bf5 Rh6 42. Rxg7 Rf6 43. Bg6+ 1-0
+

@@ -1,0 +1,15 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Matrangolo, C."]
+[Black "Villegas, Benito"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "8098a5ac"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. g3 e6 3. Bg2 c5 4. Bg5 cxd4 5. Qxd4 Nc6 6. Qa4 h6 7. Bd2 d5 8. Ba5
+Qxa5+ 0-1

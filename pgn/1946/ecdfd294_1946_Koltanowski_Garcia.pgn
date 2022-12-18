@@ -1,0 +1,22 @@
+[Event "Columbia simul"]
+[Site "Columbia simul"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Garces, Napoleon"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Capablanca anti-Cambridge Springs variation"]
+[HashCode "ecdfd294"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+[BlackID "3600130"]
+[BlackCountry "ECU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. a3 Be7 7. Qc2 O-O 8. Rd1
+Re8 9. Nf3 a6 10. Bd3 Nf8 11. O-O Bd7 12. Ne5 Nh5 13. Bxe7 Qxe7 14. Rfe1 Rac8
+15. f4 b5 16. c5 f5 17. b4 Ng6 18. g4 Nf6 19. gxf5 exf5 20. Bxf5 Nh4 21. Bxd7
+Nxd7 22. Qf2 Nf8 23. Kh1 Nfg6 24. Rg1 Rf8 25. Rg4 Nxe5 26. dxe5 Ng6 27. Qg3 Qf7
+28. Ne2 Qe7 29. Nd4 Rc7 30. Rg1 Rf7 31. e6 Rf6 32. f5 Nf8 33. Rxg7+ Qxg7 34.
+Qxc7 1-0

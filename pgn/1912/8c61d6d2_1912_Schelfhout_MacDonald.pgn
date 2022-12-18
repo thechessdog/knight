@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Schelfhout, William"]
+[Black "MacDonald, Edmond"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "8c61d6d2"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. cxd5 exd5 5. Nc3 Bd6 6. Bg5 c6 7. Qc2 Nbd7
+8. e3 O-O 9. Bd3 Be7 10. O-O Re8 11. Ne5 Nxe5 12. dxe5 Ne4 13. Bxe7 Qxe7
+14. f4 f5 15. Rf3 Be6 16. Bxe4 dxe4 17. Rg3 Rad8 18. Qe2 Qf7 19. b3 Rd3 20.
+Rc1 Red8 21. Rc2 b6 22. h4 Bc8 23. Kh2 Ba6 24. Nxe4 fxe4 25. Rxc6 Rc3 26.
+Rc4 Bxc4 27. bxc4 Rcd3 28. Qg4 Re8 29. h5 h6 30. Qh3 Rdd8 31. Rg6 Kh7 32.
+e6 Qe7 33. Qg4 Rg8 34. Kh3 Rdf8 35. f5 Rf6 36. Qxe4 Rxg6 37. hxg6+ Kh8 38.
+Qf4 Rd8 39. e4 Kg8 40. e5 Rd1 41. Kh2 Qc5 42. Qe4 Rd4 43. Qa8+ Qf8 44. Qf3
+Rh4+ 45. Kg3 Rd4 46. f6 Qb8 47. Qf5 gxf6 48. Qxf6 Qf8 49. e7 Rd3+ 50. Kh2
+Qe8 51. Qe6+ Kg7 52. Qf6+ Kg8 53. Qe6+ Kg7 54. Qf6+ Kg8 55. e6 Qb8+ 56. Kg1
+Rd1+ 57. Kf2 Rd2+ 58. Kf1 Rd1+ 59. Ke2 Re1+ 60. Kf2 1-0
+

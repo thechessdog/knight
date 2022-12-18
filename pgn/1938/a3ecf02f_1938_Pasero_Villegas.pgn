@@ -1,0 +1,27 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Pasero, P."]
+[Black "Villegas, Benito"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "a3ecf02f"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 d6 6. Ne2 Nbd7 7. O-O e5 8. d5
+Nb6 9. Qc2 Bd7 10. h3 Qc8 11. Kh2 Be8 12. Be3 Nbd7 13. Nbc3 a5 14. a3 b6 15. b4
+Nh5 16. g4 Nf4 17. Nxf4 exf4 18. Bxf4 Ne5 19. c5 axb4 20. axb4 Rxa1 21. Rxa1 f5
+22. gxf5 gxf5 23. exf5 bxc5 24. bxc5 Bd7 25. f6 Bxf6 26. Rg1 Bg7 27. Qe4 Ng6
+28. Bd2 Rxf2 29. Qe3 Rf8 30. Ne4 Be5+ 31. Kh1 Bf4 32. Qc3 Be5 33. Qe3 Bf4 34.
+Qc3 Bxd2 35. Nxd2 Bf5 36. cxd6 cxd6 37. Qxc8 Rxc8 38. Ne4 Bxe4 39. Bxe4 Kg7 40.
+Rb1 Kf6 41. Rb7 Ke5 42. Bg2 Rh8 43. Kh2 h5 44. Kg3 Rg8 45. Bf3 h4+ 46. Kf2 Ra8
+47. Rh7 Ra2+ 48. Ke3 Ra3+ 49. Kf2 Kf4 50. Rf7+ Ke5 51. Rh7 Kd4 52. Rh6 Ra2+ 53.
+Kf1 Nf4 54. Rxh4 Ke3 55. Rxf4 Kxf4 56. Bg4 Ke3 57. Be6 Rf2+ 58. Kg1 Kf3 59.
+Bg4+ Kg3 60. Be6 Rf4 61. h4 Rxh4 62. Kf1 Re4 63. Bg8 Kf3 64. Be6 Re3 65. Bg8
+Ra3 66. Ke1 Ke3 67. Kd1 Ra2 68. Be6 Rd2+ 69. Kc1 Kd3 70. Bf5+ Kc3 71. Be6 Rd4
+72. Kb1 Rd1+ 73. Ka2 Re1 74. Bg4 Re8 75. Be6 Rb8 76. Bf5 Rb2+ 77. Ka1 Rd2 78.
+Be4 Kd4 0-1

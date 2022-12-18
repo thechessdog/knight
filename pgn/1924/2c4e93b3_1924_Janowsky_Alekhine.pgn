@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Janowski, Dawid Markelowicz"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "2c4e93b3"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. Bd3 b6 5. O-O Bb7 6. c4 cxd4 7. exd4 Bg7 8. Nc3
+d5 9. Bg5 dxc4 10. Bxc4 O-O 11. Re1 Nc6 12. a3 Rc8 13. Qd3 Qc7 14. Ba2 e6 15.
+h3 Ne7 16. Rac1 Qb8 17. Ne5 Rcd8 18. Nxf7 Rxf7 19. Bxe6 0-1

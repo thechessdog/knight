@@ -1,0 +1,25 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Napier, William Ewart"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "82f1f5a1"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 d6 7. d3 Bg4 8. Be3
+Qd7 9. Nd5 b5 10. Bb3 O-O 11. h3 Nxd5 12. Bxd5 Be6 13. d4 exd4 14. Bxd4 f5 15.
+c3 fxe4 16. Bxe4 d5 17. Bc2 Bxh3 18. gxh3 Qxh3 19. Ne5 Rf4 20. Qd3 Qxd3 21.
+Bxd3 Nxd4 22. cxd4 Rxd4 23. Bf5 Bd6 24. Be6+ Kf8 25. Nf3 Rd3 26. Rad1 Rxd1 27.
+Rxd1 Re8 28. Bxd5 Re2 29. Rd2 Re7 30. Kf1 g5 31. Bb7 g4 32. Nd4 Bc5 33. Bxa6 b4
+34. Bc8 Bb6 35. Nf5 Re8 36. Bb7 h5 37. Bc6 Re5 38. Rd5 Rxd5 39. Bxd5 c5 40. Kg2
+Bc7 41. b3 Be5 42. Kf1 Bf6 43. Ke2 Bc3 44. Ng3 Ke7 45. Nxh5 Kd6 46. Bc4 Ke5 47.
+Ng3 Kf4 48. Kd3 Ke5 49. Ne4 Bd4 50. Ba6 Kd5 51. Bb7+ Ke5 52. Kc4 Kf5 53. Nxc5
+Bxf2 54. Nd3 Be3 55. Kxb4 g3 56. Bd5 Kg4 57. a4 Kh3 58. a5 g2 59. Bxg2+ Kxg2
+60. a6 1-0

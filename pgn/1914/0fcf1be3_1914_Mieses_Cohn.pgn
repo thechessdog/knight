@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Cohn, Wilhelm"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "0fcf1be3"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 d5 5. exd5 Nxd5 6. O-O Nc6 7. Re1+ Be7 8.
+Nxd4 Nb6 9. Bb5 Bd7 10. Bxc6 bxc6 11. Qe2 c5 12. Nf3 Be6 13. c4 1-0

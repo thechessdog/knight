@@ -1,0 +1,17 @@
+[Event "Hampstead"]
+[Site "Hampstead"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Konig, Imre"]
+[Black "Solomon"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon variation"]
+[HashCode "db413601"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 6. Bxf6 gxf6 7. Ne2
+Qd8 8. Qd3 c5 9. O-O-O Nc6 10. d5 Ne5 11. Qg3 Bd7 12. Qg7 Ng6 13. dxe6 fxe6
+14. Ne4 1-0
+

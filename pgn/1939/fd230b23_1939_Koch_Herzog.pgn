@@ -1,0 +1,20 @@
+[Event "Bad Elster"]
+[Site "Bad Elster"]
+[Date "1939.01.01"]
+[Round "8"]
+[White "Koch, Berthold"]
+[Black "Herzog, Ferdinand"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "fd230b23"]
+[Epoch "Knight"]
+[BlackID "1606026"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bc5 5. f4 exf4 6. Bxf4 d6 7. Nf3 Bg4 8. h3
+Bxf3 9. Qxf3 Nd4 10. Qg3 Nh5 11. Qg4 Nxf4 12. Qxf4 Nxc2+ 13. Ke2 O-O 14. Raf1
+Qd7 15. Qg5 c6 16. Nd1 b5 17. Bb3 Nd4+ 18. Kd2 Nxb3+ 19. axb3 Qe6 20. Kc2 a5
+21. Qf5 Bd4 22. Nc3 Bxc3 23. Kxc3 Qe7 24. Rf4 f6 25. d4 d5 26. Re1 Qb4+ 0-1

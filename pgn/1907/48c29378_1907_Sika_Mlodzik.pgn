@@ -1,0 +1,18 @@
+[Event "CZE-chB"]
+[Site "Brno"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Sika, T."]
+[Black "Mlodzik, V."]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "48c29378"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Nf6 9. Bg5 O-O 10. c3 Re8 11. Nbd2 Bg4 12. Qc2 h6 13. Bh4 g5 14. Bg3
+Qd7 15. Ne5 Nxe5 16. Bxe5 Rf8 17. h3 Be6 18. Nf1 Ne4 19. Bxe4 dxe4 20. Qxe4
+Bd5 21. Qg4 f5 22. Qh5 Qc6 23. Ne3 Bf7 24. Nxf5 Qe6 1-0
+

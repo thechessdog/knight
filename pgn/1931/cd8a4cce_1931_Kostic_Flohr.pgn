@@ -1,0 +1,18 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "cd8a4cce"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 dxc4 7. Bxc4 Be7 8.
+O-O O-O 9. d5 exd5 10. Nxd5 Nxd5 11. Qxd5 Qxd5 12. Bxd5 Nc6 13. Bg5 h6 14. Bxe7
+Nxe7 15. Bb3 Nc6 16. Rac1 Bd7 1/2-1/2

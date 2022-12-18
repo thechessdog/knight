@@ -1,0 +1,18 @@
+[Event "Alesund"]
+[Site "Alesund"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Strande"]
+[Black "Nimzowitsch, Aron"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "e98d2b0e"]
+[Epoch "Knight"]
+[BlackCountry "DAN"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Ne7 6. O-O Nbc6 7. Be3 Bf5 8.
+Nc3 O-O 9. Re1 Bxd3 10. Qxd3 Nb4 11. Qd2 c6 12. a3 Na6 13. Re2 Nc7 14. Rae1 Ne6
+15. Qd3 Ng6 16. g3 Re8 17. Bc1 Qd7 18. Nd1 Re7 19. Ne3 Nef4 20. gxf4 Nxf4 21.
+Qd2 Qh3 0-1

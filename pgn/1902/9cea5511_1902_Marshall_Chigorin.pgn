@@ -1,0 +1,17 @@
+[Event "Monaco"]
+[Site "Monaco"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Marshall, Frank James"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "9cea5511"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. d5 Na5 5. Bf4 Bd7 6. e4 e6 7. dxe6 fxe6 8.
+Qh5+ 1-0

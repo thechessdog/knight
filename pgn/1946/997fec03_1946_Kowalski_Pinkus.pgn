@@ -1,0 +1,20 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Kowalski, Stefan"]
+[Black "Pinkus, Albert Sidney"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "997fec03"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 O-O 6. Bd2 d5 7. e3 Re8 8. a3
+Bf8 9. Bd3 g6 10. O-O Bg7 11. b4 Ne7 12. cxd5 exd5 13. Na4 Nf5 14. Rac1 Re7 15.
+b5 Ne4 16. Ba5 b6 17. Qc6 Bd7 18. Qxd5 Nf6 19. Qb7 bxa5 20. Qxc7 Qxc7 21. Rxc7
+Bxb5 22. Rxe7 Bxd3 23. Rc7 Bxf1 24. Kxf1 Nd6 25. Ne5 Nfe8 26. Rc5 Nb7 27. Rb5
+Ned6 28. Rb1 Rc8 29. Nd7 f5 30. f3 Rc7 31. Nb8 Nc4 32. Ke2 f4 33. Na6 Rd7 34.
+Nb8 Re7 35. e4 Nxa3 36. Rb3 Nc2 0-1

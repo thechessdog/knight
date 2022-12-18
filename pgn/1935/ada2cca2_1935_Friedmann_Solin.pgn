@@ -1,0 +1,18 @@
+[Event "Warsaw olm"]
+[Site "Warsaw olm"]
+[Date "1935.01.01"]
+[Round "4"]
+[White "Friedmann, Henryk"]
+[Black "Solin, Ilmari"]
+[Result "1-0"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "ada2cca2"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 c6 5. e3 Bg7 6. Nf3 O-O 7. Be2 dxc4 8. Bxc4
+Nbd7 9. h3 Nb6 10. Bb3 Nbd5 11. Bh2 Nxc3 12. bxc3 Qa5 13. Rc1 Bf5 14. O-O Rad8
+15. Qe2 Ne4 16. Ne5 c5 17. Nxf7 Rxf7 18. Bxf7+ Kxf7 19. g4 cxd4 20. exd4 Nxc3
+21. Qc4+ Be6 22. Qxc3 Qxa2 23. Qf3+ Kg8 24. Qxb7 Bxd4 25. Qxe7 Rf8 26. Bg3 Bc4
+27. Qe4 Bxf1 28. Qxd4 Bb5 29. Rc7 Rf7 30. Rc8+ Rf8 31. Rxf8+ Kxf8 32. Qc5+ 1-0

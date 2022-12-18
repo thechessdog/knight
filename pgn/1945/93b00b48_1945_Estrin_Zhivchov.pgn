@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Zhivchov"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "93b00b48"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. d4 exd4 6. O-O d3 7. b4 Bb6 8. e5
+d6 9. Bg5 f6 10. exf6 gxf6 11. Re1 Ne5 12. Nxe5 dxe5 13. Qh5+ Kd8 14. Bh4 a5
+15. Rxe5 Qf8 16. Bxg8 Rxg8 17. Re8+ Qxe8 18. Bxf6+ Qe7 19. Qd5+ 1-0

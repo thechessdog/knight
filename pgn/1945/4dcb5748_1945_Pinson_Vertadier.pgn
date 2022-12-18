@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Pinson"]
+[Black "Vertadier"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "4dcb5748"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 O-O 11. Be3 Bxe3 12. Qxe3 Ne7 13. Bc2 f5 14. Nd4
+f4 15. Qe2 Qd7 16. a4 Ng5 17. axb5 f3 18. gxf3 Bh3 19. e6 Bxf1 20. Kxf1 Qd6
+21. Kg2 Rf6 22. Rxa6 Rxa6 23. bxa6 Nxe6 24. Nxe6 Rxe6 25. Qb5 Ng6 26. a7
+Nf4+ 27. Kg3 Re1 28. a8=Q+ Kf7 0-1
+

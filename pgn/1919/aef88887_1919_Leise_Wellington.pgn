@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Leise"]
+[Black "Soul & Wellington"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "aef88887"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Bc5 12. Nbd2 O-O 13. Qe2 Bf5 14. Bc2 Nxd2
+15. Bxf5 Nxf1 16. Bxh7+ Kxh7 17. Ng5+ Kg8 18. Qh5 Re8 19. Qxf7+ Kh8 20. Qh5+
+Kg8 21. Qh7+ Kf8 22. Qh8+ Ke7 23. Qxg7# 1-0

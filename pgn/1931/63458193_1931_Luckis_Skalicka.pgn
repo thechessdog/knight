@@ -1,0 +1,24 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "3"]
+[White "Luckis, Marcos"]
+[Black "Skalicka, Karel"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "63458193"]
+[Epoch "Knight"]
+[WhiteCountry "LTU"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Qc2 h6 8. Bh4
+c5 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. Rc1 c4 13. Be2 b5 14. O-O Bb7
+15. Nd2 f5 16. Bf3 Nb6 17. b3 Rac8 18. bxc4 dxc4 19. Bxb7 Qxb7 20. Rb1 Nd5 21.
+Rfc1 a5 22. a3 Qa6 23. Nf3 b4 24. axb4 axb4 25. Ne5 b3 26. Qe2 Nb6 27. g4 Qa4
+28. Rc3 Qb4 29. Rcc1 c3 30. Qa2 bxa2 31. Rxb4 Ra8 32. Ra1 Rfc8 33. Rxb6 c2 34.
+Nd3 c1=Q+ 35. Nxc1 Rxc1+ 36. Rxc1 a1=Q 37. Rxa1 Rxa1+ 38. Kg2 fxg4 39. Rg6 Kf7
+40. Rxg4 Rd1 41. Kf3 Rh1 42. h4 Kf6 43. Kg2 Rd1 44. h5 Rb1 45. Rg6+ Kf7 46. e4
+Re1 47. f3 Re2+ 48. Kg3 Re1 49. Ra6 Rd1 50. Ra4 Rg1+ 51. Kf4 Rg5 52. Ra7+ Kf8
+53. e5 Rxh5 54. d5 g6 55. d6 Rh4+ 56. Ke3 Rh1 57. Ra8+ Kf7 58. d7 1-0

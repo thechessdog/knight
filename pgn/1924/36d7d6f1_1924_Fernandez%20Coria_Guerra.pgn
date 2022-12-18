@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Fernandez Coria, Valentin"]
+[Black "Guerra, Boneo"]
+[Result "1-0"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[HashCode "36d7d6f1"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. h3 O-O 5. Nbd2 d5 6. c4 c5 7. e3 cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. Be2 Nd7 11. O-O e5 12. Bg3 Rb8 13. Rb1 Nb6 14. c5 Nd7 15.
+Qa4 Qc7 16. Rfc1 f5 17. Nb3 Nf6 18. Qa5 Qe7 19. Nd4 Bd7 20. Nf3 Ne4 21. Qxa7
+Nxg3 22. fxg3 Ra8 23. Qc7 Rxa2 24. Rc3 Rc8 25. Qb7 Rca8 26. Kh2 Bf6 27. Rd1 Qd8
+28. Bc4 R2a7 29. Bxd5+ Kg7 30. Bxc6 Rxb7 31. Bxb7 Rb8 32. c6 e4 33. c7 Bxc3 34.
+cxd8=Q Rxd8 35. bxc3 exf3 36. gxf3 1-0

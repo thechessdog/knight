@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Halper, N."]
+[Black "Cohen, R."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "2258fbdb"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Neg5 e6 7. Qe2
+Qa5 8. Nxf7 Kxf7 9. Qxe6+ Kg6 10. Qf7+ Kh6 11. c3 g6 12. Be2 Rg8 13. d3+ g5
+14. h4 Nh5 15. hxg5+ Rxg5 16. Rxh5# 1-0
+

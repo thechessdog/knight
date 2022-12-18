@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Osterberg, H."]
+[Black "Holtung, C."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "c0d37c12"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. d4 d5 5. Bb3 exd4 6. O-O Be7 7. Qxd4 Nf6
+8. Re1 O-O 9. c4 Nc6 10. Qd3 Nb4 11. Qd1 dxc4 12. Qxd8 Bxd8 13. Bd1 Nd3 14.
+Bg5 Nxe1 15. Nxe1 Ne4 16. Bf4 Bf6 0-1
+

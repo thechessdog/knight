@@ -1,0 +1,18 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Beni, Alfred"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "05c892c8"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. h3
+c5 9. dxc5 Qa5 10. Be3 Nxe4 11. Nd2 Nxc3 12. bxc3 Be6 13. Qe4 Nxc5 14. Qc2 Bf5
+15. Qd1 Rfd8 16. g4 Bxc3 17. gxf5 Ne4 18. fxg6 Bxd2+ 0-1

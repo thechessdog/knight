@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Teschner, Rudolf"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "677c073f"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bf5 6. a3 Qd7 7. g3 Nge7 8. Nb3
+O-O-O 9. Nc5 Qe8 10. Qa4 Ng6 11. Qb5 Bxc5 12. Qxc5 Ncxe5 13. Nxe5 Nxe5 14. Kd2
+Qe6 15. b3 d3 16. e3 Nf3+ 17. Kd1 d2 18. Bb2 Qe4 19. Ke2 Ng1+ 20. Rxg1 Bg4+ 0-1

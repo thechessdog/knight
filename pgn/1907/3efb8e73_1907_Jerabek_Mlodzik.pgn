@@ -1,0 +1,17 @@
+[Event "CZE-chB"]
+[Site "Brno"]
+[Date "1907.??.??"]
+[Round "4"]
+[White "Jerabek, J."]
+[Black "Mlodzik, V."]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "3efb8e73"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Nh4 Ngf6
+8. Nxg6 hxg6 9. f4 e6 10. Qf3 Bd6 11. Bd2 Qb6 12. Bc3 Nd5 13. Ne2 Nxc3 14.
+Qxc3 Bb4 0-1
+

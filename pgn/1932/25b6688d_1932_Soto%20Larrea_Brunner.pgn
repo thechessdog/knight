@@ -1,0 +1,17 @@
+[Event "Mexico City"]
+[Site "Mexico"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Soto Larrea, M."]
+[Black "Brunner, J."]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "25b6688d"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd2 O-O 7. Bd3 d6 8. O-O
+Nbd7 9. a3 Bxc3 10. Bxc3 Qe7 11. Qc2 e5 12. e4 exd4 13. Nxd4 Ne5 14. Nf5 Qe6
+15. f3 a5 16. Rae1 Nxd3 17. Qxd3 Ba6 18. Qe3 Ne8 19. Bxg7 Nxg7 20. Qg5 Qe5 21.
+f4 1-0

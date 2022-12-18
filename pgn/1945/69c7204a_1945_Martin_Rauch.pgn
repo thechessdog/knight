@@ -1,0 +1,21 @@
+[Event "Montreal"]
+[Site "Montreal"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Martin, Rengel"]
+[Black "Rauch, Joseph Lyon"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "69c7204a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. h3 c6 8. a4
+exd4 9. Nxd4 Nc5 10. Qf3 Ncxe4 11. Nxe4 Nxe4 12. Qxe4 d5 13. Bxd5 cxd5 14. Qd3
+Bc5 15. Bd2 Be6 16. Bc3 Qh4 17. f4 Rae8 18. b4 Bd6 19. Nb5 Bb8 20. Qd4 f6 21.
+Rae1 Bf7 22. Nxa7 Re4 23. Rxe4 dxe4 24. Be1 Qh5 25. Nb5 Qe2 26. Bd2 Qc4 27.
+Qxc4 Bxc4 28. Re1 f5 29. Be3 Rd8 30. Na3 Be6 31. Kf2 Kf7 32. Ke2 Rc8 33. Kd2
+Bd6 34. Rb1 Be7 35. Bd4 g5 36. Be5 gxf4 37. Bxf4 Rg8 38. g3 Bg5 39. Ke3 Bxf4+
+40. Kxf4 Rc8 41. c4 Rd8 42. Ke5 Rd3 43. Nb5 Ke7 44. Nd4 Bxc4 45. Nxf5+ Kd7 46.
+Kxe4 Be6 47. Ne3 1-0

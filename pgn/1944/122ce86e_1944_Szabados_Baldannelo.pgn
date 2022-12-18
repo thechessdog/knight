@@ -1,0 +1,17 @@
+[Event "Venice"]
+[Site "Venice"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Szabados, Eugenio"]
+[Black "Baldannelo, M."]
+[Result "1-0"]
+[ECO "A81"]
+[Opening "Dutch defence, Blackburne variation"]
+[HashCode "122ce86e"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 f5 2. g3 e6 3. Bg2 Nf6 4. Nh3 d6 5. O-O Be7 6. c4 Nbd7 7. Nf4 Nf8 8. Nc3
+Rb8 9. e4 fxe4 10. Nxe4 Bd7 11. Re1 b5 12. c5 Nxe4 13. Bxe4 Bf6 14. Bd5 Kf7 15.
+Qb3 Bxd4 16. Bxe6+ Bxe6 17. Nxe6 Nxe6 18. Qxe6+ Kf8 19. Re4 dxc5 20. Rf4+ Bf6
+21. Be3 Qd6 22. Rxf6+ 1-0

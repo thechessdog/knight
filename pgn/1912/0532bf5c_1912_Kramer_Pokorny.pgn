@@ -1,0 +1,20 @@
+[Event "DSB-18.Kongress-C"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Kraemer, Adolf"]
+[Black "Pokorny, Amos"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "0532bf5c"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Bg5 Nd7 3. e3 c6 4. c3 Ngf6 5. Nd2 e5 6. dxe5 Nxe5 7. Ngf3 Ng6 8.
+Bd3 h6 9. Bh4 Nxh4 10. Nxh4 Ne4 11. Nhf3 Nc5 12. Bc2 Bd6 13. Nb3 Ne6 14. Nbd4
+Qf6 15. Nf5 Bc7 16. Ng3 h5 17. Qd3 h4 18. Ne2 h3 19. Ned4 hxg2 20. Rg1 Nxd4 21.
+Nxd4 Rxh2 22. Nf5 g6 23. Ng3 Bxg3 24. fxg3 Qf3 25. e4 Bg4 26. Qxf3 Bxf3 27.
+exd5 Bxd5 28. Kf2 O-O-O 29. b3 Rd6 30. g4 Rf6+ 31. Ke3 Rf3+ 32. Kd4 Rf1 33. c4
+Rxa1 34. Rxa1 Rh1 0-1

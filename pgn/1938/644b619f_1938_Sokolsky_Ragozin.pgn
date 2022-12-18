@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Sokolsky, Alexey"]
+[Black "Ragozin, Viacheslav"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "644b619f"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. e4 Nbd7 6. Ne2 O-O 7. O-O e5 8. Nbc3
+c6 9. h3 Re8 10. d5 Qc7 11. Be3 a5 12. Rc1 Nc5 13. a3 Bd7 14. b4 axb4 15. axb4
+Na6 16. Qb3 c5 17. b5 Nb4 18. Ra1 Ra5 19. Na4 Nxe4 20. Bxe4 Bxh3 21. Rfd1 f5
+22. Bg2 Bxg2 23. Kxg2 f4 24. Bd2 Rf8 25. gxf4 exf4 26. Nxf4 Qf7 27. Nh3 Bxa1
+28. Rxa1 Qf5 29. Ra3 Qe4+ 30. Kh2 Qe5+ 31. Kg2 Qe4+ 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Nielsen, E Verner"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "0346b404"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h5 7. N1e2 e5 8.
+dxe5 Qxd1+ 9. Kxd1 Nd7 10. f4 O-O-O 11. Bd2 Nh6 12. b4 Nb6 13. Nc1 Ng4 14. Ke1
+Rxd2 15. Kxd2 Bxb4+ 16. c3 Rd8+ 17. Bd3 Nd5 18. Rb1 Nxc3 19. Rxb4 Nxa2 20. Rb3
+Nxc1 21. Rxc1 Nf2 22. f5 Bh7 23. Rf1 Ng4 24. Re1 b5 25. e6 fxe6 26. fxe6 Nf6
+27. e7 Re8 28. Bxh7 1-0

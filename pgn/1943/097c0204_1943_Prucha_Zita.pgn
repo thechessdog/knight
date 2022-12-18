@@ -1,0 +1,20 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "8"]
+[White "Prucha, Karel"]
+[Black "Zíta, František"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "097c0204"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. e3 Bxc5 7. a3 O-O 8. Nf3
+d5 9. Be2 Be7 10. O-O dxc4 11. Rd1 Bd7 12. Bxc4 Rc8 13. Be2 Qc7 14. Bd2 Rfd8
+15. Na2 e5 16. Qb3 Be6 17. Qa4 Nd5 18. Be1 Nb6 19. Rxd8+ Rxd8 20. Qc2 Rc8 21.
+Nc1 Qb8 22. Bc3 Nd5 23. Na2 f5 24. Bc4 e4 25. Qb3 Rd8 26. Rd1 exf3 27. Bxd5
+Rxd5 28. Rxd5 Qe8 29. gxf3 Qf7 30. e4 fxe4 0-1

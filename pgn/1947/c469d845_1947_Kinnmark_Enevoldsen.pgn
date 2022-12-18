@@ -1,0 +1,21 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Kinnmark, Olof"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "c469d845"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 d6 7. d3 O-O 8. Nbd2
+Nh5 9. Nf1 f5 10. h4 fxe4 11. Bb3+ Kh8 12. Ng5 Qe8 13. Bf7 Rxf7 14. Qxh5 Bxg5
+15. hxg5 g6 16. Qxg6 Bf5 17. Qh5 Ne7 18. dxe4 Bxe4 19. Rh2 Bg6 20. Qe2 Qc6 21.
+Ne3 Raf8 22. Ng4 Nd5 23. g3 Nxc3 24. Nxe5 Nxe2 25. Nxc6 Nxc1 26. Rxc1 bxc6 27.
+Rxc6 Rb8 28. f4 Re7+ 29. Kd1 Rb6 30. Rc3 Bf5 31. b3 c5 32. Rh6 Re6 33. Rh4 Rb4
+34. Kc1 Rd4 35. Rh2 Re1+ 36. Kb2 Kg7 37. Ka3 Rd3 38. Rxd3 Bxd3 39. Rh6 Re2 40.
+Rxd6 Bb1 41. b4 c4 42. b5 0-1

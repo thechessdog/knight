@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Norman Hansen, Holger"]
+[Black "Lindhard, Jens"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "cdeb3570"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. O-O b5 7. Bb3 d6 8. a4
+b4 9. Nd5 Bg4 10. Nxf6+ gxf6 11. Bd5 Nd4 12. Bxa8 Qxa8 13. d3 Qc8 14. Kh1 Bxf3
+15. gxf3 Qh3 16. Rg1 Nxf3 17. Rg2 Kd7 0-1

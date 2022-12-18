@@ -1,0 +1,16 @@
+[Event "Estonia"]
+[Site "Estonia"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Kibbermann, F."]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "50a1738d"]
+[Epoch "Knight"]
+[BlackCountry "EST"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 e5 4. Nxe5 Nxe5 5. dxe5 d4 6. e4 Ne7 7. Bd3 Ng6 8. f4
+Bb4+ 9. Bd2 Nxf4 10. Bxb4 Nxg2+ 11. Kf2 Qh4+ 12. Kg1 Qg5 13. Qf3 Ne1+ 14. Qg3
+Qxg3+ 15. hxg3 Nxd3 16. Ba3 Nxe5 0-1

@@ -1,0 +1,18 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Levitsky, Stepan M"]
+[Black "Salwe, Georg"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical counter-gambit"]
+[HashCode "30837614"]
+[Epoch "Knight"]
+[BlackCountry "POL"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 f5 5. Bc4 fxe4 6. Nxe5 dxe5 7. Qh5+ Kd7 8.
+Qf5+ Kc6 9. Qxe4+ Kb6 10. b4 Be7 11. d3 c6 12. Qxe5 c5 13. bxc5+ Bxc5 14. Na3
+Qd6 15. Rb1+ Kc6 16. Qe8+ Bd7 17. Qe4+ Kc7 18. Qxb7+ Kd8 19. Qxa8 1-0

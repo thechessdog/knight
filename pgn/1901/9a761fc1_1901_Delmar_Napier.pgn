@@ -1,0 +1,19 @@
+[Event "Buffalo"]
+[Site "Buffalo"]
+[Date "1901.01.01"]
+[Round "9"]
+[White "Delmar, Eugene"]
+[Black "Napier, William Ewart"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Charousek gambit"]
+[HashCode "9a761fc1"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qxd5 7. a3 Bc5 8.
+Nc3 Bf2+ 9. Qxf2 Nxf2 10. Nxd5 Nxh1 11. Nxc7+ Kd8 12. Nxa8 Re8+ 13. Be2 Nc6 14.
+Bd2 Nd4 15. Ba5+ b6 16. Rd1 Re4 17. Nxb6 Ba6 18. Rxd4+ Rxd4 19. Bxa6 Re4+ 20.
+Be2 axb6 21. Bxb6+ 1-0

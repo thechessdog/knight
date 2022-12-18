@@ -1,0 +1,22 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Preinfalk, Anton"]
+[Black "Nedeljkovic"]
+[Result "0-1"]
+[ECO "A99"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with b3"]
+[HashCode "12b077cc"]
+[Epoch "Knight"]
+[WhiteID "14609932"]
+[WhiteCountry "SLO"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d6 5. O-O Be7 6. c4 O-O 7. Nc3 Qe8 8. b3 c6
+9. Qc2 d5 10. Ne5 Nbd7 11. Bf4 Nxe5 12. Bxe5 Nd7 13. Bc7 Bf6 14. Bd6 Be7 15.
+Bxe7 Qxe7 16. f3 b6 17. e4 Ba6 18. Ne2 Rac8 19. Rfe1 Qf6 20. exf5 exf5 21. f4
+Kh8 22. Rac1 Qd6 23. Qc3 Rfe8 24. Kf2 Nf6 25. h3 c5 26. cxd5 cxd4 27. Qa1 d3
+28. Nd4 Ne4+ 29. Bxe4 fxe4 30. Ne6 Rxe6 31. Rxc8+ Bxc8 32. dxe6 d2 33. Rxe4
+d1=Q 34. Qxd1 Qxd1 35. e7 Qc2+ 36. Ke3 Qc3+ 37. Kf2 Qd2+ 38. Kf3 Qd3+ 39. Re3
+Bb7+ 40. Kf2 Qd2+ 41. Re2 Qd4+ 42. Re3 Bc6 0-1

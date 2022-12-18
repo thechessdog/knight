@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Strasdas"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "252f3480"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. e3 d6 6. exd6 Bxd6 7. Nbd2 Nc5 8.
+a3 Qf6 9. Nb3 Nxb3 10. Qxb3 Bg4 11. c5 Bxc5 12. Qc4 Bxf3 13. gxf3 O-O-O 14. Bg2
+Ne5 15. Qb3 Nd3+ 16. Ke2 Qa6 17. Kd2 Bxe3+ 18. Kc2 Nb4+ 0-1

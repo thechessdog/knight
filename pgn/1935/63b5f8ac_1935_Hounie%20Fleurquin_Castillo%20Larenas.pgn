@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1935.01.01"]
+[Round "15"]
+[White "Hounie Fleurquin, Carlos"]
+[Black "Castillo Larenas, Mariano"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "63b5f8ac"]
+[Epoch "Knight"]
+[WhiteCountry "URY"]
+[BlackCountry "CHL"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 Nxc3 5. bxc3 Nd7 6. Nf3 e6 7. d4 Be7 8.
+Qe2 c5 9. O-O O-O 10. Re1 Bf6 11. Rb1 g6 12. Bh6 Re8 13. Qe3 Nb6 14. Bb5 Bd7
+15. Bxd7 Nd5 16. Qe4 Qxd7 17. c4 Nc3 18. Rxb7 Qd8 19. Qf4 cxd4 20. Rd7 1-0

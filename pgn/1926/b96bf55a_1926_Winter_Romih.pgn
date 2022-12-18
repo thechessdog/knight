@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Winter, William"]
+[Black "Romi, Massimiliano"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Rubinstein variation"]
+[HashCode "b96bf55a"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Nh4 Na6 8. cxd5
+g6 9. Nc3 Bg7 10. Nb5 d6 11. Bf4 Bf8 12. Qa4 Qd7 13. Bh3 Qxh3 14. Nxd6+ Ke7 15.
+Nxb7 Nb4 16. Bd6# 1-0

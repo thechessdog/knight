@@ -1,0 +1,25 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "6"]
+[White "Foltys, Miloslav"]
+[Black "Fichtl, Jiri"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "d08ba3b7"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Nc3 Nc6 5. Nf3 Bb4 6. a3 Be7 7. Be3 Nf6 8. h3
+Bf5 9. Bd3 Ne4 10. Nd2 Nxc3 11. bxc3 Qd7 12. Bxf5 Qxf5 13. Nb3 O-O 14. Qd3 Qd7
+15. O-O b6 16. c4 dxc4 17. Qxc4 Bf6 18. Rad1 Ne7 19. Qd3 c6 20. c3 Qd6 21. Bc1
+Rfd8 22. Nd2 c5 23. Ne4 Qc6 24. Bb2 cxd4 25. Nxf6+ Qxf6 26. cxd4 Nd5 27. Rfe1
+a6 28. Re5 b5 29. Rde1 g6 30. Bc1 Qc6 31. Bh6 f6 32. Re6 Rd6 33. Rxd6 Qxd6 34.
+h4 Kf7 35. Bd2 h5 36. g3 Rc8 37. Qe4 Qd7 38. Kg2 Re8 39. Qd3 Rxe1 40. Bxe1 Nb6
+41. Bb4 Qd5+ 42. Kg1 Nc4 43. Bc5 f5 44. Qc2 Qe4 45. Qc1 Ke6 46. Qg5 Kf7 47. Qh6
+f4 48. gxf4 Nd2 49. d5 Nf3+ 50. Kf1 Qc4+ 51. Kg2 Ne1+ 52. Kg3 Qxc5 53. Qh7+ Kf8
+54. Qh8+ Ke7 55. Qe5+ Kd8 56. Qxe1 Qxa3+ 57. f3 Qd6 58. Qe4 b4 59. Qc4 Qb6 60.
+Qb3 a5 61. f5 Qd6+ 62. Kf2 gxf5 63. Ke3 Qe5+ 64. Kf2 Qd4+ 65. Kg3 f4+ 66. Kg2
+Qd2+ 67. Kf1 Qc3 68. Qd1 b3 0-1

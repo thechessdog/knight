@@ -1,0 +1,19 @@
+[Event "Kristiansstad"]
+[Site "Kristiansstad"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Nimzowitsch, Aron"]
+[Black "Hakansson, Arthur"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "817ce627"]
+[Epoch "Knight"]
+[WhiteCountry "DAN"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 Nc6 6. Bd3 f5 7. Qg3 Nge7 8. O-O
+Ng6 9. h4 Qc7 10. Re1 Bd7 11. a3 O-O-O 12. b4 a6 13. h5 Nge7 14. Bd2 h6 15. a4
+g5 16. b5 f4 17. Qg4 Nb8 18. c3 Re8 19. cxd4 Kd8 20. Rc1 Qb6 21. a5 Qa7 22. b6
+Qa8 23. Rc7 Nf5 24. Nc3 Be7 25. Nxd5 Nxd4 26. Nxd4 exd5 27. Qxd7+ Nxd7 28. Ne6#
+1-0

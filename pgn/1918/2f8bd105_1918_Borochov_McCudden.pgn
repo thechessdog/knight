@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Borochow, Harry"]
+[Black "McCudden"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "2f8bd105"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Be3 c6 8. a4
+Qc7 9. dxe5 dxe5 10. Qe2 h6 11. Nh4 Re8 12. Bxf7+ Kxf7 13. Qc4+ Nd5 14. Nxd5
+Qd6 15. Nf4+ Kf6 16. Nh5# 1-0

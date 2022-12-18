@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Nollmann"]
+[Black "Portela"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "d54e4661"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. d4 exd4 6. Nxd4 Bg7 7. c3 O-O
+8. Bg5 h6 9. Be3 d5 10. exd5 Qxd5 11. Nxc6 bxc6 12. Qxd5 cxd5 13. Bc5 Bf6
+14. Na3 a6 15. Ba4 Rd8 16. Nc2 Nf5 17. Rad1 Be6 18. Rfe1 Kg7 19. Nb4 d4 20.
+Nc6 Bd7 21. cxd4 Bxc6 22. Bxc6 Rab8 23. b3 Bxd4 24. Ba3 Bc3 25. Rxd8 Rxd8
+26. Rc1 Rd2 27. g4 Nd4 28. Kg2 Ne2 29. Rf1 Rxa2 30. Bc5 Rb2 31. Kf3 Bd4 32.
+Be7 Be5 33. Bd5 Nc3 34. Bc4 Nb1 35. Bb4 c5 36. Ba5 Bd4 37. h4 Na3 38. Bd5
+Nb5 39. Kg3 Ra2 40. Bb6 Nc3 41. Bc4 Ne4+ 42. Kf4 Nd2 43. Rd1 Nxc4 44. bxc4
+Rxf2+ 45. Kg3 Rc2 46. Rxd4 cxd4 47. Bxd4+ Kf8 48. c5 Rc4 49. Be3 h5 50.
+gxh5 gxh5 51. Kf3 Rxh4 52. Bf4 Rxf4+ 0-1
+

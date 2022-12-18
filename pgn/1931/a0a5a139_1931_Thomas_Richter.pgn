@@ -1,0 +1,26 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Richter, Kurt"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "a0a5a139"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 Be7
+8. Bd3 O-O 9. O-O Nd5 10. Bxe7 Qxe7 11. Re1 c6 12. Ne5 Nf4 13. Be4 f6 14. Nd3
+Qd6 15. Qd2 Nxd3 16. Bxd3 c5 17. Re4 Rd8 18. dxc5 Qxc5 19. Rh4 f5 20. Qg5 Rd4
+21. Rxd4 Qxd4 22. Rd1 h6 23. Qg6 Qd8 24. Be2 Qe7 25. Bc4 Kh8 26. Bb5 b6 27. Bc6
+Bb7 28. Bxb7 Qxb7 29. Qxe6 Rf8 30. Rd7 Qc8 31. Qe7 Rg8 32. Rc7 Qd8 33. Qxd8
+Rxd8 34. Kf1 Rd1+ 35. Ke2 Rb1 36. b3 a5 37. a4 Rg1 38. g3 f4 39. Rc6 Rg2 40.
+Rxb6 Rxh2 41. g4 Rh3 42. c4 Rc3 43. Rb5 g5 44. c5 Kg7 45. Kd2 Rf3 46. c6 Rxf2+
+47. Kd3 Rf1 48. Rc5 Rd1+ 49. Kc4 Rd8 50. c7 Rc8 51. Kd5 h5 52. Kd6 Kf6 53. gxh5
+f3 54. Kd7 Rxc7+ 55. Rxc7 g4 56. h6 f2 57. Ke8 Ke6 58. Rf7 g3 59. h7 g2 60.
+h8=Q g1=Q 61. Qh3+ 1-0

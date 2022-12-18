@@ -1,0 +1,25 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Chekover"]
+[Black "Taimanov, Mark"]
+[Result "0-1"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[HashCode "bd136bec"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nbd7 8. Qd2 a5
+9. O-O-O Nc5 10. g4 Ne8 11. h4 f5 12. gxf5 gxf5 13. Bg5 Nf6 14. h5 Rf7 15. h6
+Bf8 16. Nge2 Be7 17. Rg1 Kh8 18. Ng3 Nxd5 19. Bxe7 Nxe7 20. f4 Ng6 21. fxe5
+Nxe5 22. Be2 f4 23. Bh5 Rf8 24. Nge2 Qf6 25. Nd5 Qxh6 26. Nexf4 Rxf4 27. Nxf4
+Qxf4 28. Qxf4 Ncd3+ 29. Kc2 Nxf4 30. Rdf1 Ne6 31. Kc3 Bd7 32. Bd1 Nc5 33. Bc2
+Bg4 34. Rf4 Rg8 35. b3 Ne6 36. Rf6 Rg6 37. Rxg6 hxg6 38. Bd1 Bxd1 39. Rxd1 Kg7
+40. Kd2 g5 41. Ke3 b6 42. Rh1 g4 43. Rh2 Kg6 44. Rh8 Kg5 45. Rg8+ Kh4 46. Re8
+Ng7 47. Re7 Nh5 48. Rxc7 g3 49. Rh7 Ng4+ 50. Kf3 Nf6 51. Rh6 Nxe4 52. Rh8 Ng5+
+53. Kg2 Kg4 54. Rxh5 Kxh5 55. Kxg3 Kg6 56. Kf4 Kf6 57. a3 Nh7 58. b4 Ke6 59.
+Ke4 Nf6+ 60. Kd4 Kd7 61. Kc3 Kc6 62. Kb3 axb4 63. axb4 b5 64. Kc3 bxc4 65. Kxc4
+d5+ 66. Kd4 Kb5 67. Ke5 Kxb4 68. Kxf6 d4 0-1

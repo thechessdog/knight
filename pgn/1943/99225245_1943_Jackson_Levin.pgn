@@ -1,0 +1,20 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Jackson, Edward"]
+[Black "Levin, Jacob"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "99225245"]
+[Epoch "Knight"]
+[WhiteID "464635"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 b4 10. d4 bxc3 11. bxc3 exd4 12. cxd4 d5 13. Ne5 Nb4 14. exd5 Bb7 15.
+Nc3 Nbxd5 16. Bd2 c5 17. Nxd5 Bxd5 18. dxc5 Bxb3 19. Qxb3 Qxd2 20. Rad1 Qf4 21.
+g3 Qf5 22. Nxf7 Rxf7 23. Rxe7 Ne4 24. c6 Qxf2+ 25. Kh1 Nc5 26. Qd5 1-0

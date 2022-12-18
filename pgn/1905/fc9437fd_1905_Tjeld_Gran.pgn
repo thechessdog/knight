@@ -1,0 +1,21 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Tjeld, L & Buch"]
+[Black "Gran & Larsen"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "fc9437fd"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Bg4
+8. c4 c6 9. Re1 f5 10. Bc2 Nd7 11. b3 O-O 12. Qd3 Bd6 13. h3 Bh5 14. Bb2
+Ndf6 15. Ne5 Nd7 16. f3 Ng3 17. Nd2 Bg6 18. Nf1 Nxe5 19. dxe5 Bc5+ 20. Kh2
+f4 21. Qc3 d4 22. Qd2 Bxc2 23. Qxc2 d3 24. Qc3 Bf2 25. e6 Qe7 26. Re5 Rad8
+27. Qd2 Nxf1+ 28. Rxf1 Be3 29. Qd1 Rf6 30. Rg5 Rg6 31. Rxg6 hxg6 32. Re1
+Qxe6 33. Bc3 d2 34. Re2 Bg1+ 35. Kxg1 Qxe2 36. Qxe2 d1=Q+ 37. Qxd1 Rxd1+
+0-1
+

@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Shainswit, George"]
+[Black "Decker, Arnold Sheldon"]
+[Result "0-1"]
+[ECO "A15"]
+[Opening "English opening"]
+[HashCode "254fdb5b"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. b3 O-O 7. Bb2 c5 8. Nc3
+d5 9. cxd5 Nxd5 10. Ne5 Nxc3 11. dxc3 Bxg2 12. Kxg2 Qc7 13. c4 Bf6 14. Nd3 Bxb2
+15. Nxb2 Nc6 16. e3 Rad8 17. Qc2 g5 18. Qe4 Rd2 19. Nd3 Qd6 20. Rad1 f5 21. Qf3
+g4 22. Qf4 Qxd3 0-1

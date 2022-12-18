@@ -1,0 +1,18 @@
+[Event "Prague-B"]
+[Site "Prague"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Engler, J."]
+[Black "Taussig, Lev"]
+[Result "0-1"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "0dba4cfb"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 h6 6. Bxf6 Bxc3+ 7. bxc3 Qxf6
+8. Ne2 d6 9. O-O g5 10. Rb1 h5 11. f3 Ne7 12. d4 Ng6 13. Qd2 h4 14. h3 O-O 15.
+Qe3 b6 16. Bd5 Rb8 17. Nc1 Nf4 18. Bc4 Kh7 19. Kh2 Rg8 20. Bd3 Bxh3 21. gxh3
+Qe6 22. Qf2 Qxh3+ 23. Kg1 g4 24. Qh2 gxf3+ 25. Kh1 Qg2+ 26. Qxg2 fxg2+ 27. Kh2
+Rg3 28. Re1 g1=Q+ 29. Rxg1 Rh3# 0-1

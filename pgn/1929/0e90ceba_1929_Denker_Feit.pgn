@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Decker, Arnold Sheldon"]
+[Black "Feit, H."]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "0e90ceba"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 f5 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. c4 Be7 7. Nc3 d6 8. d5 e5
+9. Ng5 Bc8 10. e4 O-O 11. f4 exf4 12. Bxf4 fxe4 13. Ncxe4 Nxe4 14. Bxe4 Bxg5
+15. Qh5 Rxf4 16. Qxh7+ Kf7 17. Bg6+ Kf6 18. Rxf4+ Bxf4 19. Qh4+ Bg5 20. Qe4
+Be3+ 21. Kh1 Bh6 22. Rf1+ Kg5 23. Bh7 1-0

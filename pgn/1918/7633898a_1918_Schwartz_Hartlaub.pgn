@@ -1,0 +1,16 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Schwartz, (Knight Era)"]
+[Black "Hartlaub, Carl"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "7633898a"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 h5 6. Nh2 Nf6 7. d3 Bg4 8. hxg4
+hxg4 9. Nxg4 Nh5 10. Be3 Qh4 11. Bxc5 Qh1+ 12. Kxh1 Ng3+ 13. Kg1 Rh1# 0-1

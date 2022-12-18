@@ -1,0 +1,17 @@
+[Event "Chichester simul"]
+[Site "Chichester simul"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian, Mieses-Kotrvc gambit"]
+[HashCode "a04f8019"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b4 Qe5+ 5. Be2 c6 6. Nf3 Qc7 7. O-O e6 8.
+a3 Nd7 9. d4 b6 10. Bd3 Bb7 11. Qe2 Ngf6 12. Ne5 Nd5 13. Nxd5 cxd5 14. Bb5 Rd8
+15. Qf3 f6 16. Qh5+ g6 17. Nxg6 hxg6 18. Qxh8 a6 19. Qxf6 axb5 20. Qxe6+ Be7
+21. Qxg6+ Kf8 22. Bh6# 1-0

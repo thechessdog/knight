@@ -1,0 +1,21 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Zagoriansky, Evgeny"]
+[Black "Kan, Ilya"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "5befd202"]
+[Epoch "Knight"]
+[BlackID "24187372"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. Qe2 cxd4 10. Rd1 e5 11. exd4 exd4 12. Nb5 Bg4 13. h3 Bxf3 14. Qxf3 Qb6
+15. Bf4 Rac8 16. Nd6 Bxd6 17. Bxd6 Rfd8 18. Bf4 Re8 19. Bb3 Qb5 20. Rac1 Rcd8
+21. Rc2 d3 22. Rc4 Nd4 23. Qxd3 Nxb3 24. Qxd8 Qxc4 25. Qxe8+ Nxe8 26. Rd8 Qc6
+27. axb3 f6 0-1

@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1944.03.01"]
+[Round "1"]
+[White "Villegas, Benito"]
+[Black "Iliesco, Juan Traian"]
+[Result "0-1"]
+[ECO "A47"]
+[Opening "Queen's Indian"]
+[Variation "Marienbad system"]
+[HashCode "d3f3c0b7"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Nxd4 Bxg2 7. Kxg2 g6 8.
+c4 Bg7 9. Nc3 Qc8 10. Qa4 O-O 11. Bd2 Na6 12. Rac1 Qb7+ 13. f3 Rfc8 14. e3 Ng4
+15. Nd5 Re8 16. fxg4 e6 17. Nb5 Nc5 18. Qc2 exd5 19. Nd6 Qc6 20. Nxe8 d4+ 21.
+Rf3 Rxe8 22. Re1 d3 23. Qc1 Ne4 24. h4 Be5 25. b4 Bxg3 26. b5 Qd6 27. Rh1 Be5
+28. a3 Qe6 29. Kh3 h5 30. Rg1 Rc8 31. Bb4 Rxc4 32. Qd1 hxg4+ 33. Rxg4 Ng5+ 34.
+hxg5 Qxg4# 0-1

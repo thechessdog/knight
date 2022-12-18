@@ -1,0 +1,18 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1934.12.01"]
+[Round "1"]
+[White "Dubinin, Peter Vasilievich"]
+[Black "Savitsky, Leonid"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "fb5d21c5"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Nf3 dxc4 6. e3 b5 7. a4 c6 8. axb5
+cxb5 9. Bd2 Bxc3 10. Bxc3 Nc6 11. Ne5 Nxe5 12. dxe5 Nd5 13. b3 Nxc3 14. Qxc3
+O-O 15. bxc4 bxc4 16. Bxc4 Bb7 17. O-O Qg5 18. f3 Rac8 19. e4 Rfd8 20. Rf2 a5
+21. Rxa5 Rd1+ 22. Rf1 Rd2 23. Rf2 Rxf2 24. Kxf2 Rxc4 0-1

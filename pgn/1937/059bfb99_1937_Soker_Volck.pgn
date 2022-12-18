@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Soker"]
+[Black "Volck"]
+[Result "0-1"]
+[ECO "D81"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "059bfb99"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Be6 6. Qb5+ Nc6 7. Nf3 Nd5
+8. Qxb7 Ndb4 9. Bf4 Bh6 10. Bxc7 Nxd4 11. Bxd8 Ndc2+ 12. Kd1 Rxd8+ 13. Nd5
+Bxd5 14. Qc7 Bxf3+ 15. Qxd8+ Kxd8 16. exf3 Kc7 0-1
+

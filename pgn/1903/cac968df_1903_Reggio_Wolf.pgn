@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "5"]
+[White "Reggio, Arturo"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "cac968df"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Bd3 Nc5 7. Nxe5 Nxd3+ 8.
+Nxd3 Be7 9. O-O d6 10. f4 Bf5 11. Be3 Nd7 12. Nf2 h5 13. Qf3 Nf6 14. h3 Qd7 15.
+a4 Bc2 16. Nd2 Bf5 17. c4 Rh6 18. Nde4 Nxe4 19. Nxe4 Kf8 20. Ng5 Bd3 21. f5 Rh8
+22. Ne6+ Kg8 23. Nxg7 Bxf1 24. Rxf1 Kxg7 25. f6+ Kf8 26. fxe7+ Qxe7 27. Bg5 Qd7
+28. Qf6 Kg8 29. Rf3 h4 30. Bh6 Rxh6 31. Qxh6 Qe7 32. Re3 Qf8 33. Qxh4 Qd8 34.
+Qh6 1-0

@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Guimard, Carlos E"]
+[Black "Iliesco, Juan Traian"]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "78f27c16"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Bg7 6. Nf3 O-O 7. O-O Na6 8. e4
+Nb6 9. Nc3 c5 10. d5 Bg4 11. h3 Bd7 12. Bg5 h6 13. Bc1 Nc7 14. Qe2 Qe8 15. Rd1
+Nb5 16. e5 Nxc3 17. bxc3 Ba4 18. Re1 Nxd5 19. Qc4 e6 20. Qh4 Kh7 21. Ng5+ Kg8
+22. Ne4 Bc2 23. Nf6+ Nxf6 24. exf6 g5 25. Bxg5 hxg5 26. Qxg5 Bg6 27. fxg7 Kxg7
+28. Bxb7 Rb8 29. Be4 Qd8 30. Qxc5 Qf6 31. Bxg6 fxg6 32. Rab1 1-0

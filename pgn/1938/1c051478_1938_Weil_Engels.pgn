@@ -1,0 +1,20 @@
+[Event "Bad Elster"]
+[Site "Bad Elster"]
+[Date "1938.01.01"]
+[Round "2"]
+[White "Weil, Wolfgang"]
+[Black "Engels, Ludwig"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "1c051478"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. b3 Bf5 3. Bb2 e6 4. g3 Nf6 5. Bg2 Nbd7 6. c4 c6 7. O-O Be7 8. d3
+O-O 9. Nc3 h6 10. Qc2 Bh7 11. Rfd1 e5 12. cxd5 cxd5 13. e4 d4 14. Ne2 Rc8 15.
+Qd2 Qb6 16. Rdc1 Rcd8 17. Nh4 Ne8 18. Nf5 Bxf5 19. exf5 Nd6 20. Bh3 Bf6 21. Ba3
+Rfe8 22. Bxd6 Qxd6 23. Bg2 Bg5 24. f4 exf4 25. gxf4 Bh4 26. Rc2 Re3 27. Rac1
+Rde8 28. Be4 Nf6 29. Rc8 Rxc8 30. Rxc8+ Kh7 31. Bg2 Nd5 32. Bxd5 Qxd5 33. Rc1
+Qf3 34. Nxd4 Qxf4 35. Qc3 Bf6 0-1

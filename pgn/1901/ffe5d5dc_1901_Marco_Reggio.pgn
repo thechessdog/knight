@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.01.01"]
+[Round "2"]
+[White "Marco, Georg"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "ffe5d5dc"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Bc5 12. Nbd2 O-O 13. Bc2 Nxd2 14. Qxd2 Ne7
+15. Qf4 Re8 16. b4 Bb6 17. Ng5 Ng6 18. Bxg6 fxg6 19. Nxe6 Rxe6 20. Be3 c6 21.
+Bxb6 Qxb6 22. Qd4 Qc7 23. f4 Re7 24. Ra6 Rc8 25. Rfa1 Qd7 26. Ra7 Rc7 27. Rxc7
+Qxc7 28. Qc5 Qb7 29. h3 Rd7 30. e6 Re7 31. Ra8+ Qxa8 32. Qxe7 Qf8 33. Qd7 Qxf4
+34. Qd8+ Qf8 35. e7 1-0

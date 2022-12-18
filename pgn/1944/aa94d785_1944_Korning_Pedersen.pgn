@@ -1,0 +1,19 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Korning, Peter"]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "aa94d785"]
+[Epoch "Knight"]
+[WhiteID "1723332"]
+[WhiteCountry "SWE"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Nc5 5. Ngf3 Nc6 6. g3 d6 7. exd6 Bxd6 8.
+Bg2 Be6 9. O-O Qf6 10. a3 a5 11. Qc2 Bf5 12. e4 Bg4 13. Rb1 a4 14. Re1 O-O 15.
+e5 Bxe5 16. Nxe5 Nxe5 17. Ne4 Qf5 18. f4 Nf3+ 19. Kf2 Nxe1 20. Kxe1 Rfe8 0-1

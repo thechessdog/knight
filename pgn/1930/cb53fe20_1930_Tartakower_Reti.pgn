@@ -1,0 +1,24 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Reti, Richard"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Reti variation"]
+[HashCode "cb53fe20"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nge7 4. d4 exd4 5. Bc4 d5 6. exd5 Nxd5 7. O-O Be7 8.
+Nxd4 Ne5 9. Bb5+ c6 10. Re1 cxb5 11. Rxe5 Nc7 12. Qe2 a6 13. Nd2 Be6 14. f4 g6
+15. Nxe6 fxe6 16. Nf3 Bf6 17. Re4 O-O 18. Be3 Qd6 19. g3 Rad8 20. Bd4 Bxd4+ 21.
+Nxd4 Rfe8 22. Re1 Qc5 23. a3 Kf7 24. Qf2 Rd6 25. g4 Kg8 26. R1e3 Rf8 27. Rf3
+Rd7 28. Nxe6 Rd1+ 29. Kg2 Qc6 30. Qc5 Rd2+ 31. Kg3 Nxe6 32. Qxc6 bxc6 33. Rxe6
+Rxb2 34. Rxc6 Rb3 35. Rxa6 Rc8 36. Kh4 Rcxc3 37. Rxc3 Rxc3 38. Kg5 Rc4 39. h4
+b4 40. Ra4 Rc5+ 41. Kh6 bxa3 42. Ra8+ Kf7 43. Rxa3 Rc4 44. Ra7+ Kf8 45. Kxh7
+Rxf4 46. g5 Rxh4+ 47. Kxg6 Rg4 48. Ra8+ Ke7 49. Kh6 Kf7 50. Ra7+ Kf8 51. Kg6
+Rg1 52. Ra8+ Ke7 53. Rg8 1-0

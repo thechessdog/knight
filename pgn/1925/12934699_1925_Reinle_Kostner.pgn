@@ -1,0 +1,16 @@
+[Event "Muran"]
+[Site "Muran"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Reinle, Hans"]
+[Black "Kostner"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "12934699"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. Nf3 exf4+ 6. Kf2 Bc5+ 7. d4
+Bb6 8. Bb5+ Kd8 9. Re1 Qf6 10. Re8# 1-0
+

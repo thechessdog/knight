@@ -1,0 +1,22 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1947.02.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Ufimtsev, Anatoly"]
+[Result "1-0"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "e69ffe60"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Nc3 Nf6 5. Bg5 c6 6. Qd2 h6 7. Bf4 Nh5 8. Be3
+Nd7 9. Be2 b5 10. O-O Bb7 11. Ne1 Nhf6 12. Nd3 Nb6 13. b3 Nfd7 14. f4 c5 15.
+dxc5 dxc5 16. e5 c4 17. Nf2 b4 18. Nce4 c3 19. Qd4 Nd5 20. Bc4 Nxe3 21. Qxe3
+Qb6 22. Qxb6 axb6 23. Bb5 O-O-O 24. a3 g5 25. axb4 gxf4 26. Ba6 Nxe5 27. b5 f5
+28. Nxc3 Ng4 29. Nfd1 Rd2 30. Bxb7+ Kxb7 31. Rxf4 Bd4+ 32. Kh1 Rxd1+ 33. Rxd1
+Bxc3 34. Rd7+ Kc8 35. Rxe7 Rd8 36. Rf1 Rd5 37. h3 Ne5 38. Rxf5 Rxb5 39. Rf8#
+1-0

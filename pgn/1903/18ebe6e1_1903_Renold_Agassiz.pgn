@@ -1,0 +1,17 @@
+[Event "Lausanne"]
+[Site "Lausanne"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Renold"]
+[Black "Agassiz"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Quaade gambit"]
+[HashCode "18ebe6e1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 g4 5. Ne5 Qh4+ 6. g3 fxg3 7. Qxg4 g2+
+8. Qxh4 gxh1=Q 9. Qh5 Be7 10. Nxf7 Nf6 11. Nd6+ Kd8 12. Qe8+ Nxe8 13. Nf7#
+1-0
+

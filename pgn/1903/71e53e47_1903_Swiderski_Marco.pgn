@@ -1,0 +1,26 @@
+[Event "Vienna Gambit"]
+[Site "Vienna"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Swiderski, Rudolf"]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Maurian defence"]
+[HashCode "71e53e47"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. Nc3 Qh4+ 5. Kf1 Bc5 6. Qe1 Qxe1+ 7. Kxe1 Nd4
+8. Bd3 Ne7 9. Nge2 f3 10. gxf3 Nxf3+ 11. Kd1 d6 12. Nf4 c6 13. Bf1 O-O 14. Nce2
+f5 15. exf5 Bxf5 16. d3 Rae8 17. Ng3 Ng6 18. Nfe2 Ngh4 19. Nxf5 Nxf5 20. Bh3
+Ne3+ 21. Bxe3 Rxe3 22. Bg4 g6 23. d4 Bb6 24. c3 Rd3+ 25. Kc1 Bd8 26. Kb1 Rd2
+27. Nc1 Nxh2 28. Nb3 Rg2 29. Bh3 Rgf2 30. a3 Nf3 31. Bc8 b6 32. Bb7 c5 33. dxc5
+dxc5 34. a4 Kg7 35. a5 h5 36. Rd1 Ne5 37. Ba6 Rh2 38. Ka2 Bc7 39. Rh1 Rff2 40.
+Rxh2 Rxh2 41. Rg1 Rf2 42. Nc1 c4 43. Re1 g5 44. Re4 Rf4 45. Re3 g4 46. Ne2 Rf2
+47. Nd4 Kf6 48. Nb5 Bb8 49. Bb7 h4 50. axb6 axb6 51. Nd4 g3 52. Ne2 g2 53. Ng1
+Rf1 54. Nh3 g1=Q 55. Nxg1 Rxg1 56. b3 Rg3 57. Re4 cxb3+ 58. Kxb3 Rg4 59. Re1
+Bd6 60. Rd1 Bc5 61. Rd8 Ng6 62. Rd3 Rg3 63. Rd7 h3 64. Rh7 Nf4 65. Bc8 Bd4 66.
+Kc4 Bxc3 67. Bxh3 Rxh3 0-1

@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Sergeiev"]
+[Black "Riumin, Nikolai"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "bb9f8781"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bg5 h6 7. Bxf6 Qxf6 8.
+e3 Qf5 9. Nf3 O-O 10. Rd1 Qxc5 11. a3 Ba5 12. Be2 f5 13. O-O Qe7 14. Nb5 g5 15.
+Qc2 g4 16. Ne1 a6 17. Nd6 Bc7 18. Qd2 Ne5 19. c5 b6 20. Qd4 Nc6 21. Nxc8 Bxh2+
+22. Kh1 Raxc8 23. Qa4 b5 0-1

@@ -1,0 +1,18 @@
+[Event "Hanover"]
+[Site "Hanover"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Swiderski, Rudolf"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Swiss variation"]
+[HashCode "b49500a1"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3 c5 5. exd5 exd5 6. dxc5 Bxc5 7. Nf3 O-O 8.
+O-O h6 9. Ne2 Nc6 10. c3 Re8 11. Ng3 Qc7 12. Qc2 Ne5 13. Nxe5 Qxe5 14. Bd2 Bd7
+15. Rfe1 Qc7 16. h3 Qxg3 0-1

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Hamilton, RD."]
+[Black "Hernandez, N."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "cb31af70"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nbd2 Nc5 12. Bc2 d4 13. cxd4 Nxd4 14.
+Nxd4 Qxd4 15. Qh5 Nd3 16. Bxd3 Qxd3 17. Ne4 Bb4 18. Re3 Qd4 19. Ng5 Bf5 20.
+h3 Bg6 21. Qe2 Rad8 22. Nf3 Qd1+ 23. Qxd1 Rxd1+ 24. Kh2 Rf1 25. b3 Rxf2 26.
+Kg3 Rc2 27. Nd4 Rc3 28. Bd2 Rxe3+ 29. Bxe3 Re8 30. Nf3 Bc3 31. Rc1 Bxe5+
+32. Nxe5 Rxe5 33. Bf4 Re2 34. Rxc7 h6 35. a4 Be4 36. Bd6 g5 0-1
+

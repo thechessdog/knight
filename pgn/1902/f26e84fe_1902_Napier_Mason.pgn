@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Napier, William Ewart"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "f26e84fe"]
+[Epoch "Knight"]
+[BlackCountry "IRE"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. Nde2 O-O 10. Ng3 Re8 11. Qd3 a5 12. b3 Bf8 13. Bb2 Ng4 14. f3 Nxh2
+15. Rf2 d5 16. exd5 Bc5 17. Nce4 Bxf2+ 18. Kxf2 Qh4 19. Qd4 f6 20. Nc5 Bg4 21.
+Rh1 Re2+ 22. Kxe2 Qxg3 23. Rxh2 Re8+ 24. Kd2 Qe1+ 25. Kd3 Bf5+ 26. Ne4 Bxe4+
+27. fxe4 Qg3+ 28. Kc4 Qxh2 29. dxc6 Qxg2 30. Qd5+ Kh8 31. Kd3 Qf3+ 32. Kd4 Qd1+
+0-1

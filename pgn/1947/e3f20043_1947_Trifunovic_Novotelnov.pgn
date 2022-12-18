@@ -1,0 +1,19 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Trifunovic, Petar"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1-0"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "e3f20043"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Nc6 5. e3 d6 6. Bd3 e5 7. Ne2 Bxc3+ 8.
+Qxc3 e4 9. Bc2 O-O 10. b3 d5 11. Ba3 Re8 12. Nf4 Ne7 13. Bxe7 Rxe7 14. Nxd5
+Nxd5 15. cxd5 Qxd5 16. O-O Bg4 17. Bd1 Bxd1 18. Rfxd1 Rd7 19. Rac1 c6 20. Qc5
+Qxc5 21. Rxc5 Kf8 22. Rdc1 h6 23. Kf1 Rad8 24. Ke2 Rd5 25. b4 Rxc5 26. bxc5 Ke7
+27. Rb1 Rb8 28. a4 b5 29. axb5 cxb5 30. Ra1 Rb7 31. Ra6 Kd8 32. Kd2 1-0

@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1921.09.01"]
+[Round "1"]
+[White "Schweiger, J."]
+[Black "Steiner, Endre"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Treybal (Bayreuth) variation (exchange var. deferred)"]
+[HashCode "5bad7df4"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. Nc3 Bd6 7. h3 c5 8. d3
+b6 9. Qe2 Be6 10. Bd2 Qd7 11. Nd1 Qc6 12. Bc3 Nd7 13. Ne3 O-O-O 14. Nd2 b5 15.
+b3 g6 16. a4 f5 17. axb5 axb5 18. f3 f4 19. Nd1 h5 20. Nf2 g5 21. Ra5 Nf6 22.
+Qd1 Kb7 23. Qa1 Ra8 24. Rxa8 Rxa8 25. Qb2 Nd7 26. Qb1 Qb6 27. O-O Rg8 28. Qd1
+g4 29. hxg4 hxg4 30. fxg4 c4 31. g5 Rxg5 32. Nf3 Bg4 33. Kh2 Bc5 34. Nh3 Qh6
+35. d4 exd4 36. Bxd4 Bxh3 37. gxh3 Rg3 38. Ng1 Nf6 39. Rf3 Bxd4 40. Qxd4 Ng4+
+41. Kh1 Rxf3 42. Qd5+ c6 43. Qd7+ Kb6 44. Qd8+ Kc5 45. Qe7+ Kd4 46. Nxf3+ Kc3
+47. h4 Qg6 48. Ng5 Qh5 49. Nh3 Qe5 50. Qxe5+ Nxe5 51. bxc4 b4 52. Nxf4 Kxc2 53.
+Ne6 Kc3 54. Nc5 Kxc4 55. Na4 Kb3 56. Nc5+ Kc4 57. Na4 Kb5 58. Nb2 c5 59. h5 c4
+60. h6 c3 61. h7 Ng6 62. Nd3 b3 63. e5 b2 0-1

@@ -1,0 +1,20 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Gligorić, Svetozar"]
+[Black "Rabar, Braslav"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "781b0957"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O Qe7 8. Ng3
+Bxc3 9. bxc3 e4 10. Be2 g6 11. f3 h5 12. Nxe4 Nxe4 13. fxe4 Qxe4 14. Bd3 Qe7
+15. e4 Kg7 16. Bf4 f6 17. Qd2 g5 18. Be3 h4 19. e5 dxe5 20. dxe5 Qxe5 21. Bd4
+Qa5 22. c5 Kh6 23. Bxf6 Qxc5+ 24. Bd4 Qd6 25. Rxf8 Qxf8 26. Rf1 Qe7 27. Rf6+
+Kh5 28. Be2+ 1-0

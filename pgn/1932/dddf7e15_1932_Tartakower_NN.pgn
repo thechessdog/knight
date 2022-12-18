@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "dddf7e15"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Bb4+ 7. c3 dxc3 8.
+Bxf7+ Kxf7 9. Qxd8 cxb2+ 10. Ke2 bxa1=Q 11. Ng5+ Kg6 12. Qe8+ Kh6 13. Ne6+ g5
+14. Bxg5# 1-0

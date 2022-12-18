@@ -1,0 +1,25 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "17"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Brown, Fred"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "bc2ba6d4"]
+[Epoch "Knight"]
+[BlackID "1800809"]
+[WhiteCountry "DEU"]
+[BlackCountry "WLS"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nd4 4. Nxd4 cxd4 5. Ne2 Qb6 6. c3 dxc3 7. Nxc3 e6 8.
+d4 Bb4 9. Be3 d5 10. e5 Bd7 11. Qg4 g6 12. Be2 h5 13. Qh3 Ne7 14. g4 Bb5 15.
+Bd1 Kd7 16. gxh5 gxh5 17. Bc2 Rac8 18. Kd2 Rxc3 19. bxc3 Bxc3+ 20. Kxc3 Rc8+
+21. Kd2 Qa5+ 22. Kd1 Rxc2 23. Kxc2 Qa4+ 24. Kd2 Qb4+ 25. Kc2 Qc4+ 26. Kb2 Qb4+
+27. Kc2 Ba4+ 28. Kd3 Qb5+ 29. Kc3 Qa5+ 30. Kd3 Bb5+ 31. Kc2 Qa4+ 32. Kd2 Qb4+
+33. Kc2 Ba4+ 34. Kd3 Qb2 35. Bd2 Qc2+ 36. Ke2 Qe4+ 37. Qe3 Bb5+ 38. Kd1 Qxh1+
+39. Be1 Nf5 40. Qd2 Qe4 41. a4 Bc4 42. f3 Qxf3+ 43. Kc1 Qe4 44. Qb4 b6 45. Bc3
+Qh1+ 46. Kb2 Qxh2+ 47. Ka3 Qc2 48. a5 b5 49. a6 h4 50. Bb2 Qd3+ 51. Bc3 Qc2 52.
+Bb2 h3 53. Rc1 Qd3+ 54. Rc3 Qxd4 55. Rxh3 Qb6 56. Qf8 Qa5# 0-1

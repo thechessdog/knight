@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Rossolimo, Nicolas"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "5ab982e3"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O a6 9. f3 O-O 10. h4 Bd7 11. g4 Ne5 12. Be2 Rc8 13. Kb1 b5 14. Bxf6 Bxf6
+15. g5 Be7 16. f4 Nc4 17. Bxc4 Rxc4 18. f5 b4 19. Nce2 exf5 20. exf5 f6 21. Nf4
+Qa5 22. Rhe1 Re8 23. Rxe7 Rxe7 24. gxf6 gxf6 25. Rg1+ Kh8 26. Ng6+ hxg6 27.
+Qh6+ 1-0

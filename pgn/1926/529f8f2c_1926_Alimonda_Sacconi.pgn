@@ -1,0 +1,17 @@
+[Event "Merano"]
+[Site "Merano"]
+[Date "1926.??.??"]
+[Round "12"]
+[White "Alimonda, Benno de"]
+[Black "Sacconi, Antonio"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "529f8f2c"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. dxc5 d4 6. a3 Ba5 7. b4 dxc3 8. bxa5
+Qxa5 9. Qg4 Kf8 10. Be3 Nd7 11. Qg3 e5 12. Ne2 Nxc5 13. O-O Nxd3 14. cxd3 h5
+15. Rac1 h4 16. Qf3 1-0

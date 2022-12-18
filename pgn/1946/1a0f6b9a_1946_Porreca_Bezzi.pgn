@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Porreca"]
+[Black "Bezzi"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "1a0f6b9a"]
+[Epoch "Knight"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. e3 Qa5
+8. Bd3 Ne4 9. O-O Nxc3 10. bxc3 Qxc3 11. e4 Nb6 12. exd5 Nxd5 13. Re1+ Be6
+14. Bf5 Bd6 15. Bxe6 fxe6 16. Rxe6+ Kd7 17. Ne5+ Bxe5 18. Rxe5 Rae8 19. Rc1
+Rxe5 20. Rxc3 Nxc3 21. Qg4+ Re6 22. Bd2 Ne2+ 23. Kf1 g6 24. d5 cxd5 25. Qb4
+Rd8 26. Qxb7+ Ke8 27. Ba5 Rdd6 28. Qc8+ 1-0
+

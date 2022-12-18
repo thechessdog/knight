@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "7"]
+[White "Taubenhaus, Jean"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Cordel variation"]
+[HashCode "e91315e9"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nf5 9. Nc3 O-O 10. b3 d5 11. Bb2 a5 12. Qd3 Nh4 13. Nxh4 Ba6 14. Qh3 Bxf1
+15. Nf5 Ba6 16. Qg4 g6 17. e6 f6 18. Nh6+ Kg7 19. Qh3 Bd6 20. Re1 Qe7 21. g3
+Rae8 22. Nd1 Bc8 23. Ne3 Bxe6 24. Neg4 Qd7 25. Qh4 Bxg4 26. Rxe8 Qxe8 27. Nxg4
+Qe1+ 28. Kg2 Qe4+ 29. Kg1 d4 30. Qh6+ Kg8 31. Qh4 Kg7 32. Qh6+ Kg8 33. Qh4 Kh8
+34. Nxf6 Qxh4 0-1

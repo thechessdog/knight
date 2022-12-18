@@ -1,0 +1,25 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Piazzini, Luis Roberto"]
+[Black "Grau, Roberto"]
+[Result "0-1"]
+[ECO "A47"]
+[Opening "Queen's Indian defence"]
+[HashCode "c43bd1cb"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Bd3 e6 5. Nbd2 d5 6. Ne5 Be7 7. f4 O-O 8. Qf3
+c5 9. c3 Nfd7 10. Qh3 f5 11. Ndf3 Nxe5 12. fxe5 Nc6 13. g4 g6 14. gxf5 exf5 15.
+Rg1 Bc8 16. Bd2 c4 17. Bc2 b5 18. Ke2 Rf7 19. Qg3 Be6 20. h4 Kh8 21. Rg2 Rg7
+22. Qf4 Qd7 23. Rag1 Rag8 24. Be1 Qd8 25. Ng5 Bxg5 26. Rxg5 Ne7 27. h5 Qf8 28.
+h6 Rf7 29. R5g2 Qb8 30. Bh4 Re8 31. Bf6+ Rxf6 32. exf6 Qxf4 33. exf4 Ng8 34.
+Kf3 Nxf6 35. Re2 Kg8 36. Ra1 Kf7 37. a4 a6 38. axb5 axb5 39. Ra5 Rb8 40. Ra7+
+Nd7 41. Re1 Kf6 42. Kg3 b4 43. Ba4 Nf8 44. cxb4 Rxb4 45. Ra8 Kf7 46. Re2 Rb6
+47. Kh4 Rd6 48. Kg5 Bd7 49. Bxd7 Rxd7 50. Rae8 Rb7 51. R2e5 Rc7 52. Re3 Rb7 53.
+Re1 Rc7 54. R1e2 Rb7 55. R2e5 Rd7 56. Kh4 Rb7 57. Re2 Rd7 58. R8e5 Kf6 59. R2e3
+Kf7 60. Kg3 Rb7 61. Rxd5 Nd7 62. Kh4 Nf6 63. Rc5 Ne4 64. Rxc4 Rxb2 65. d5 Ra2
+66. Rh3 Rg2 67. Rxe4 Rg4# 0-1

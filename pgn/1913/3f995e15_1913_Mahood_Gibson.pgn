@@ -1,0 +1,19 @@
+[Event "Cheltenham"]
+[Site "Cheltenham"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Mahood"]
+[Black "Gibson"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "3f995e15"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Be2 O-O 7. O-O Be6
+8. Qe1 c5 9. d3 Nxc3 10. bxc3 d4 11. Qg3 Kh8 12. Ng5 Nc6 13. c4 Qd7 14. Bd2
+Rae8 15. Qh4 h6 16. Rf6 Bf5 17. Rf1 Bxf6 18. exf6 Rxe2 19. fxg7+ Kxg7 20.
+Ne4 Bxe4 21. Bxh6+ Kg8 22. dxe4 Ne5 23. Qg5+ Ng6 24. Qf6 Rxg2+ 25. Kxg2
+Qg4+ 26. Kf2 Qh4+ 27. Qxh4 Nxh4 28. Bxf8 Kxf8 29. Kg3 1-0
+

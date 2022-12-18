@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Hansen, Bjarne"]
+[Black "Jensen, Jacob"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, Karlsbad variation"]
+[HashCode "db28aae7"]
+[Epoch "Knight"]
+[WhiteID "1403176"]
+[BlackID "1703404"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2 8.
+Nxd2 Qa5 9. O-O-O Nd4 0-1

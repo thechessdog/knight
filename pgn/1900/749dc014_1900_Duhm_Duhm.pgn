@@ -1,0 +1,17 @@
+[Event "Basel"]
+[Site "Basel"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Duhm"]
+[Black "Duhm"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "749dc014"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Nxe5 Ne6
+8. d4 b5 9. Bb3 Ncxd4 10. Qxd4 Nxd4 11. Bxf7+ Ke7 12. Bg5+ Kd6 13. Bxd8
+Nxc2 14. Rd1+ Kxe5 15. Rd5+ Kf4 16. Bg5+ Kg4 17. h3# 1-0
+

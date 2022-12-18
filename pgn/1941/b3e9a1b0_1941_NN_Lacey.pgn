@@ -1,0 +1,16 @@
+[Event "Detroit"]
+[Site "Detroit"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Lacey"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "b3e9a1b0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nc6 5. c3 Bg4 6. Qb3 Bxf3 7. gxf3 Qh4+
+8. Kd1 Qh5 9. Qxb7 Qxf3+ 10. Kc2 Qxe4+ 11. d3 Nd4+ 12. cxd4 Qxb7 0-1
+

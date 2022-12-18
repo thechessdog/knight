@@ -1,0 +1,15 @@
+[Event "Siegen"]
+[Site "Siegen"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Krauthauser"]
+[Black "Herrmann, Hans Dr."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "d7d53dc6"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 Nc6 3. Nf3 d6 4. exd6 Bxd6 5. e4 g5 6. Bb5 g4 7. Bxc6+ bxc6 8.
+e5 gxf3 9. exd6 Qh4+ 10. Kf1 fxg2+ 11. Kxg2 Bh3+ 12. Kg1 Qd4# 0-1

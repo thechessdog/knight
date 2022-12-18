@@ -1,0 +1,17 @@
+[Event "Book"]
+[Site "Book"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Massen"]
+[Black "Homma"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian gambit"]
+[HashCode "7a2173a4"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. dxc6 Nxc6 5. d3 e5 6. Nc3 Bc5 7. Be3 Bxe3
+8. fxe3 Qb6 9. Qd2 Be6 10. e4 O-O 11. Nd5 Bxd5 12. exd5 Nd4 13. O-O-O Rac8
+14. Kb1 Nxd5 15. cxd5 Rc2 16. Qxc2 Nxc2 17. Kxc2 Rc8+ 18. Kd2 Qb4+ 19. Ke3
+Qf4+ 0-1
+

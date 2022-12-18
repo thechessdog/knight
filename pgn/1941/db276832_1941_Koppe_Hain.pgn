@@ -1,0 +1,16 @@
+[Event "Siegen"]
+[Site "Siegen"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Koppe"]
+[Black "Hain"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "db276832"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. g3 h5 7. a3 Qe7 8.
+b4 Nxe5 9. bxc5 Nd3# 0-1
+

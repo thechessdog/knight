@@ -1,0 +1,17 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Forster, J."]
+[Black "Gordon, A."]
+[Result "1/2-1/2"]
+[ECO "B60"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer"]
+[HashCode "f0002eb0"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qa5 7. Bxf6 gxf6 8.
+Qd2 Be6 9. Nxe6 fxe6 10. Bc4 Kd7 11. O-O-O a6 12. Kb1 b5 13. Bb3 Qb4 14. Qd3
+Ne5 15. Bxe6+ Kxe6 16. Qd5+ Kd7 17. Qxa8 Nc4 18. Qb7+ Kd8 19. b3 Qxc3 20. bxc4
+Qb4+ 1/2-1/2

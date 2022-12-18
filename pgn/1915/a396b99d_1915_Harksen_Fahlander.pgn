@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Harksen"]
+[Black "Fahlander"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Harksen gambit"]
+[HashCode "a396b99d"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+c4 Bg4 9. cxd5 Nxd4 10. Re1 f5 11. h3 Nxf3+ 12. gxf3 Qh4 13. Rxe4 fxe4 14.
+d6 exf3 15. hxg4 Qxg4+ 16. Kf1 Bxd6 17. Nc3 Bb4 18. Bd5 Qg2+ 19. Ke1 Bxc3+
+20. bxc3 Qg1+ 21. Kd2 Qxd1+ 0-1
+

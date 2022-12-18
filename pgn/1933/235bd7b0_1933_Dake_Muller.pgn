@@ -1,0 +1,20 @@
+[Event "Folkestone olm"]
+[Site "Folkestone olm"]
+[Date "1933.06.01"]
+[Round "1"]
+[White "Dake, Arthur William"]
+[Black "Mueller, Helge"]
+[Result "1-0"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "235bd7b0"]
+[Epoch "Knight"]
+[BlackID "4603524"]
+[WhiteCountry "USA"]
+[BlackCountry "GER"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 d5 5. cxd5 Nxd5 6. e4 Nb4 7. Qa4+ N8c6
+8. Nxc6 Nxc6 9. Nc3 Bd7 10. Be3 e6 11. Rc1 Bd6 12. Be2 Be5 13. O-O Nd4 14. Qb4
+Nxe2+ 15. Nxe2 Qb8 16. f4 Bd6 17. Bc5 Bxc5+ 18. Qxc5 b6 19. Qd4 e5 20. fxe5 Bb5
+21. Qd5 1-0

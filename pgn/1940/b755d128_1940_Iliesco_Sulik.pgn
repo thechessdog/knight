@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Iliesco, Juan Traian"]
+[Black "Sulik"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "b755d128"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. f4 Nf6 6. Nf3 Bd6 7. c5 Be7 8. Bd2 O-O
+9. Bd3 Nbd7 10. O-O Ne4 11. Bxe4 dxe4 12. Ne5 Nxe5 13. fxe5 b6 14. b4 a5 15. a3
+axb4 16. axb4 Rxa1 17. Qxa1 bxc5 18. bxc5 Bxc5 19. Na4 Be7 20. Rc1 g5 21. Rxc6
+Bd7 22. Rc1 f4 23. Nc5 Bxc5 24. Rxc5 f3 25. Be1 fxg2 26. Kxg2 Qe8 27. Qd1 Rf3
+28. Bg3 h5 29. Qc2 Qg6 30. Rc7 Be8 31. Re7 h4 32. Bf2 Rf8 33. Qc4 Bf7 34. Rc7
+Qf5 35. Kg1 Qg4+ 36. Kf1 Qd1+ 37. Kg2 Qf3+ 38. Kg1 h3 39. Qf1 Be8 0-1

@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Jones"]
+[Black "Tanassy"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "42965227"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 Qa5+ 11. Bd2 Qa3 12. Rb1 O-O 13. d5 Ne5 14.
+Bb4 Qf3 15. gxf3 Nxf3+ 16. Kf1 Bh3# 0-1
+

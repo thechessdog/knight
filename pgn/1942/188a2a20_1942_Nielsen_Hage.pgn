@@ -1,0 +1,17 @@
+[Event "Ronne"]
+[Site "Ronne"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Nielsen, Oscar"]
+[Black "Hage, Poul"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "188a2a20"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. e3 d6 6. exd6 Bg4 7. d7+ Bxd7
+8. Be2 Qf6 9. Qc2 Bf5 10. Qd1 Bb4+ 11. Nbd2 O-O-O 12. a3 Bxd2+ 13. Nxd2
+Nxf2 0-1
+

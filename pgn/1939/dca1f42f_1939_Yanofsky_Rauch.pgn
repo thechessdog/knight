@@ -1,0 +1,20 @@
+[Event "New York ch-ACF"]
+[Site "New York ch-ACF"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Rauch, Joseph Lyon"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "dca1f42f"]
+[Epoch "Knight"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. d5 O-O 12. Nbd2 Bg4 13. Nf1 Rfc8 14. Bd3 c4 15.
+Bc2 Nb7 16. h3 Bh5 17. g4 Bg6 18. Ng3 a5 19. Kh1 Nc5 20. Nf5 Bf8 21. Bg5 Ncd7
+22. Rg1 Ne8 23. h4 h5 24. Nh2 Ndf6 25. Ng3 hxg4 26. Nxg4 Nh7 27. Be3 f6 28. h5
+Bf7 29. Nh2 b4 30. Nf5 Kh8 31. Qg4 Qd7 32. Nf3 Rc7 33. N3h4 bxc3 34. Ng6+ Kg8
+35. Nh6+ gxh6 36. Ne7+ Kh8 37. Qg8+ Bxg8 38. Rxg8# 1-0

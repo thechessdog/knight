@@ -1,0 +1,16 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Klasmin"]
+[Black "Darly"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "258843e1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bg5 Bc5 6. Nxc6 Bxf2+ 7. Kxf2
+Nxe4+ 8. Kg1 Qxg5 9. Qd4 dxc6 10. Qxe4+ Be6 11. Bd3 Qc1+ 0-1
+

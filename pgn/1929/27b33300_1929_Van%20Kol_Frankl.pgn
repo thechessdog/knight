@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Van Kol, J."]
+[Black "Frankl, S."]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "27b33300"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 O-O 6. Nf3 c5 7. a3 Bxc3+ 8.
+bxc3 dxc4 9. Bxc4 cxd4 10. cxd4 b6 11. O-O Bb7 12. Qe2 Nc6 13. Bd2 Ne4 14.
+Ba6 Bxa6 15. Qxa6 Nxd2 16. Nxd2 e5 17. Qb5 Qe8 18. Rfc1 Rc8 19. d5 Nb8 20.
+Qb2 Nd7 21. Rxc8 Qxc8 22. Rc1 Qb8 23. Rc6 f6 24. h3 Rc8 25. Qc2 Nc5 26. Nb3
+Rxc6 27. dxc6 Nxb3 28. Qxb3+ Kf8 29. Qe6 Qd8 30. g4 b5 31. Kg2 a5 32. Qb3
+Ke7 33. e4 Qc7 34. Qxb5 Kd6 35. Qd5+ Ke7 36. Qg8 Kd6 37. Qd5+ Ke7 38. h4 h6
+39. h5 Qd6 40. f3 Qc7 41. Qc5+ Ke8 42. Kf2 Qd8 43. Ke2 Qc7 44. a4 Kf7 45.
+Kd3 Ke6 46. Kc4 Kf7 47. Qb5 Ke8 48. Qb7 Qd6 49. Qd7+ Qxd7 50. cxd7+ Kxd7
+51. Kb5 1-0
+

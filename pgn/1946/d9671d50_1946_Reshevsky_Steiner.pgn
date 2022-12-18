@@ -1,0 +1,20 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "d9671d50"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. Bd3 c5 8.
+cxd5 exd5 9. Ne2 Nc6 10. f3 Re8 11. O-O Qc7 12. Rb1 Bd7 13. Qe1 Rad8 14. g4 h6
+15. Kh1 Bc8 16. Rg1 g5 17. Qg3 Qe7 18. Qf2 Kg7 19. Ng3 Rh8 20. Bf5 Be6 21. e4
+Kf8 22. e5 Ne8 23. Bxe6 fxe6 24. f4 gxf4 25. Qxf4+ Kg8 26. Nh5 Rh7 27. g5 hxg5
+28. Rxg5+ Kh8 29. Rxb7 Nc7 30. Rxc7 1-0

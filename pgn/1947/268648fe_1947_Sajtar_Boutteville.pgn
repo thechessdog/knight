@@ -1,0 +1,23 @@
+[Event "FRA-CSR"]
+[Site "Paris"]
+[Date "1947.??.??"]
+[Round "2"]
+[White "Sajtar, Jaroslav"]
+[Black "Boutteville, Cesar"]
+[Result "1-0"]
+[ECO "E28"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "268648fe"]
+[Epoch "Knight"]
+[BlackID "600962"]
+[BlackCountry "FRA"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 d6 8. Ne2
+e5 9. e4 Qe7 10. f3 Nc6 11. O-O b6 12. Bg5 h6 13. Bh4 g5 14. Bf2 Nh5 15. Ng3
+Nf4 16. Re1 Qf6 17. Nf5 Bxf5 18. exf5 Nxd3 19. Qxd3 exd4 20. cxd4 Nxd4 21. g4
+Rfe8 22. Rad1 Nc6 23. Qxd6 Qxd6 24. Rxd6 Ne5 25. Kg2 Nxc4 26. Rxh6 Nxa3 27. h4
+Rxe1 28. Bxe1 Nb5 29. hxg5 c4 30. Rc6 Re8 31. Kf2 Nd4 32. Rxc4 Nxf3 33. Kxf3
+Rxe1 34. Rc8+ Kg7 35. f6+ Kh7 36. Rf8 a5 37. Rxf7+ Kg8 38. g6 Rc1 39. Kf4 Rc8
+40. Rg7+ Kf8 41. Rh7 Rc4+ 42. Kf5 1-0

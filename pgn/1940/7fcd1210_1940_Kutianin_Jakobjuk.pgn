@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Kutianin"]
+[Black "Jakobjuk"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Vienna game"]
+[HashCode "7fcd1210"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Bxf7+ Kxf7 5. Nxe4 Nc6 6. Qf3+ Kg8 7.
+Ng5 1-0
+

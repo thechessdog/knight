@@ -1,0 +1,19 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Duenhaupt, Heinz Wilhelm"]
+[Black "Torber, Claus"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b4eea3b8"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 cxd4 6. Qxd4 d5 7. O-O e6 8.
+exd5 cxd5 9. c4 Bb7 10. Rd1 dxc4 11. Qxd8+ Rxd8 12. Rxd8+ Kxd8 13. Ne5 Ke8 14.
+Nxc4 Nf6 15. Nc3 Nd5 16. Bd2 Nxc3 17. Bxc3 Bc5 18. b4 Be7 19. a4 f6 20. Rd1 Bd5
+21. Ne3 Bc6 22. Ra1 Kf7 23. f3 Rb8 24. Nc2 Bd5 25. Rb1 Rc8 0-1

@@ -1,0 +1,19 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Pedroso, A."]
+[Black "Howell, C."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "96f24baa"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bf4 g5 11. Bg3 h5 12. h3 g4 13. hxg4 hxg4 14. Nd4
+Bc5 15. Re1 Nxg3 16. fxg3 Qg5 17. a4 b4 18. a5 Kf8 19. Ra4 Kg7 20. Bc2 Rh5
+21. Kf2 Nxe5 22. cxb4 Qf6+ 23. Ke2 Nc4 24. Nf5+ Bxf5 25. Bxf5 Qxf5 26. Qc1
+Re8+ 0-1
+

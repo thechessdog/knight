@@ -1,0 +1,19 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Donovan, J."]
+[Black "Suesman, W."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "351ddd19"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Bg4 8.
+Qe2 Be7 9. Rd1 O-O 10. d4 exd4 11. cxd4 d5 12. e5 Ne4 13. Nc3 Nxc3 14. bxc3
+Qd7 15. h3 Bf5 16. Nd2 Na5 17. g4 Nxb3 18. axb3 Bc2 19. Rf1 a5 20. f4 f5
+21. Ra2 Be4 22. Nxe4 dxe4 23. gxf5 Qxf5 24. Qxb5 Qxh3 25. Qd5+ Kh8 26. Qxe4
+Qxc3 27. Rh2 h6 28. f5 Ra6 29. f6 Bxf6 30. Bxh6 1-0
+

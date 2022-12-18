@@ -1,0 +1,20 @@
+[Event "Treybal mem"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Sajtar, Jaroslav"]
+[Black "Zíta, František"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[HashCode "f269b8a5"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 h6 7. Bh4 O-O 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 c5 12. dxc5 Nxc5 13. Qxd5 Ne4 14. a3
+Re8 15. Bb5 Rd8 16. Qb3 Bg4 17. Qb4 Rd6 18. Be2 a5 19. Qa4 Rg6 20. Rc4 Re8 21.
+Rc7 Qd8 22. Qc2 Bd7 23. Bd3 f5 24. O-O Bc6 25. Bc4+ Kh8 26. Rxc6 Rxc6 27. Nd4
+Rf6 28. Rd1 Qe7 29. Bd3 f4 30. exf4 Rxf4 31. Re1 Qg5 32. g3 Rxf2 33. Qxf2 Nf6
+34. Rxe8+ Nxe8 35. Qf8# 1-0

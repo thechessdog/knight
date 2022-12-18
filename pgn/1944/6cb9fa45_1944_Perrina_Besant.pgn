@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Perrina"]
+[Black "Besant"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "6cb9fa45"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7
+8. Ne2 Nc6 9. Be3 cxd4 10. cxd4 Qa5+ 11. Bd2 Qa3 12. O-O Nxd4 13. Nxd4 Bxd4
+14. Bb4 Qxb4 15. Qxd4 1-0
+

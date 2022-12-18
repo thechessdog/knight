@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Wood"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "d3ef3584"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 c6 4. Qb3 Qc7 5. cxd5 cxd5 6. Nc3 e6 7. Bf4 Qb6 8.
+Bxb8 Rxb8 9. Qa4+ Kd8 10. Ne5 Qc7 11. Nb5 Qe7 12. Qa5+ 1-0

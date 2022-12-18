@@ -1,0 +1,17 @@
+[Event "Paris f-B"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "3"]
+[White "O'Hanlon, John"]
+[Black "Voellmy, Erwin"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "0e3206db"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Qe2 dxe4
+8. Bxe4 Nxe4 9. Qxe4+ Qe7 10. Qxe7+ Bxe7 11. Bf4 Bf5 12. Nd2 Bf6 13. O-O-O
+O-O-O 14. a3 Rd5 15. Nb3 Rhd8 16. Rxd5 cxd5 17. Rd1 d4 18. Bg3 Rd5 19. f3 c5
+20. Na5 Rd7 21. Nc4 Bg5+ 22. Kb1 d3 23. c3 d2+ 24. Ka2 Bc2 0-1

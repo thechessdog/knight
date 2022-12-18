@@ -1,0 +1,18 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Post, Ehrhardt"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "4369b8d0"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 d6 5. Nc3 Bg7 6. e4 O-O 7. Bd3 e5 8. h3 Na6
+9. Be3 Bd7 10. Qd2 Qc7 11. g4 Nxe4 12. Bxe4 f5 13. gxf5 gxf5 14. Bh6 fxe4 15.
+Rg1 Rf7 16. Bxg7 Rxg7 17. Rxg7+ Kxg7 18. Qg5+ Kf7 19. Nxe4 Rf8 20. O-O-O Bxh3
+21. Qf6+ Ke8 22. Nxd6+ Kd7 23. Nxe5# 1-0

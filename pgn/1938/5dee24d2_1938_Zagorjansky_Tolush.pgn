@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Zagoriansky, Evgeny"]
+[Black "Tolush, Alexander"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "5dee24d2"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e4 Nc6 7. Nge2 e5 8. d5
+Ne7 9. O-O Nd7 10. Be3 f5 11. Qd2 Nf6 12. Bh6 Bxh6 13. Qxh6 f4 14. f3 Nh5 15.
+gxf4 exf4 16. Qg5 Kg7 17. Nd4 h6 18. Qh4 Nf6 19. Bh3 c5 20. Ne6+ Bxe6 21. Bxe6
+g5 22. Qf2 Ng6 23. Kh1 Ne5 24. b3 a6 25. Rg1 Qe8 26. a4 Qh5 27. Raf1 Rae8 28.
+Rg2 Kh8 29. Qe2 Re7 30. Na2 Qe8 31. Rgg1 Rg7 32. Nc1 g4 33. fxg4 f3 34. Qe1
+Nfxg4 35. Qh4 Rf4 36. Nd3 Nxd3 37. Rxg4 Rfxg4 38. Bxg4 Qg6 39. Bxf3 Ne5 40. Qh5
+Qxh5 41. Bxh5 Rg5 42. Be2 Kg7 43. a5 Ng6 44. Rf3 Ne5 45. Rg3 Kf6 46. Kg2 Rg7
+47. Kf2 Re7 48. Rg8 Nf7 49. Ke3 b6 50. Rf8 Kg7 51. Ra8 bxa5 52. Rxa6 Kf6 53.
+Kf4 Kg6 54. h4 Kf6 55. Bh5 Rb7 56. Bxf7 Kxf7 57. Rxd6 Rxb3 58. Rxh6 a4 59. Rc6
+Rb7 60. Ra6 Rb4 61. Kf5 Rxc4 62. Ra7+ Kg8 63. Ra5 Kf7 64. d6 Rb4 65. Ra7+ Ke8
+66. e5 1-0

@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Sokolsky, Alexey"]
+[Result "0-1"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "a4810b38"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Nc6 5. e3 d5 6. Bd2 O-O 7. O-O-O Be7 8.
+cxd5 exd5 9. f3 Be6 10. g4 Na5 11. Qc2 c5 12. Bd3 cxd4 13. exd4 Nc6 14. g5 Nb4
+15. Qb1 Nxd3+ 16. Qxd3 Ne8 17. f4 Nd6 18. Nge2 Qd7 19. Ng3 Rfc8 20. Rde1 b5 21.
+Kb1 b4 22. Nd1 Nc4 23. Bc1 Qc7 24. Nf2 Rab8 25. b3 Bf8 26. f5 Bd7 27. bxc4 dxc4
+28. Qe2 b3 29. Nfe4 bxa2+ 30. Ka1 Rb1+ 31. Kxa2 Rb3 32. Ka1 Rcb8 33. Qa2 Qb6
+34. Be3 Ra3 35. Rb1 Rxa2+ 36. Kxa2 Qa5# 0-1

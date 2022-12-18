@@ -1,0 +1,20 @@
+[Event "Weston"]
+[Site "Weston"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Yates, Frederick Dewhirst"]
+[Black "Mackenzie, Arthur John"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "9d77a890"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Re1 Nc5 12. Bc2 Bg4 13. h3 Bh5 14. Nb3 Ne6 15.
+g4 Bg6 16. Bf5 Bxf5 17. gxf5 Ng5 18. Nxg5 Bxg5 19. Qg4 Bxc1 20. Raxc1 Ne7 21.
+Nd4 c5 22. f6 Ng6 23. Nc6 Qc7 24. Ne7+ Kh8 25. Qg5 Rad8 26. fxg7+ Kxg7 27. Nf5+
+Kg8 28. Qf6 1-0

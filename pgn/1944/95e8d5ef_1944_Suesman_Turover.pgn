@@ -1,0 +1,16 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1944.01.01"]
+[Round "8"]
+[White "Suesman, Walter Bradford"]
+[Black "Turover, Isador Samuel"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "95e8d5ef"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 d5 5. exd5 c6 6. dxc6 Nxc6 7. Nf3 Bg4 8.
+d3 Nd4 9. Bxf4 Bc5 10. Bxf7+ Kxf7 11. Ne5+ Kf8 12. Nxg4 Nxg4 13. Qxg4 Nxc2+ 14.
+Kd2 Nb4 15. Qf5+ Kg8 16. Qe6+ Kf8 17. Bd6+ 1-0

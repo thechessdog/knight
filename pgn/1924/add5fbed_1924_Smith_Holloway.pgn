@@ -1,0 +1,19 @@
+[Event "Paris f-B"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "2"]
+[White "Smith, Stephen Francis"]
+[Black "Holloway, Edith"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "add5fbed"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Ng6 7. Nc3 N8e7
+8. Rf1 c6 9. Bd3 d5 10. Be3 O-O 11. Kg1 f5 12. exd5 Nxd5 13. Nxd5 cxd5 14. c3
+Be6 15. Qh5 Qd7 16. Rae1 Nh8 17. Bf4 g6 18. Qd1 Nf7 19. Qd2 Nd6 20. Bxd6 Qxd6
+21. Re5 Kg7 22. Rfe1 Rae8 23. Bb5 Bd7 24. Rxe8 Rxe8 25. Rxe8 Bxb5 26. Re5 h5
+27. Qg5 Kf7 28. h3 Bc6 29. Qf4 Qf6 30. b3 b5 31. Re3 Qd8 32. g4 hxg4 33. hxg4
+Bd7 34. Qd6 fxg4 35. Qxd5+ Kg7 36. Qd6 Kf7 37. c4 bxc4 38. bxc4 1-0

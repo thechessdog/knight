@@ -1,0 +1,17 @@
+[Event "Stockholm ol"]
+[Site "Stockholm ol"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Staldi"]
+[Black "Pleci"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Wiesbaden variation"]
+[HashCode "91d3294a"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8.
+e4 Bxe4 9. fxe4 Nxe4 10. Qf3 Qxd4 11. Qxf7+ Kd8 12. Qxg7 Bxc3+ 13. bxc3
+Qf2+ 14. Kd1 Nxc3# 0-1
+

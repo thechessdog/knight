@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Herzog"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "828c0c33"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Be2 Nd7 7. Nf3 Ngf6
+8. O-O e6 9. c4 Be7 10. Bg5 O-O 11. Qd2 Ne4 12. Nxe4 Bxe4 13. Rfd1 Bxf3 14.
+Bxe7 Qxe7 15. Bxf3 Rfd8 16. Qa5 Nb6 17. Rac1 Rd7 18. b3 Qf6 19. d5 cxd5 20.
+cxd5 Qf5 21. Rc5 exd5 22. Rdc1 Qg5 23. Qb5 Rad8 24. a4 Qh6 25. a5 Nc4 26.
+Re1 Re7 27. Rd1 Rde8 28. g3 Qh3 29. Qb4 Ne5 30. Bg2 Qg4 31. Qxg4 Nxg4 32.
+Bxd5 Kf8 33. Rdc1 Rd7 34. R1c4 Re5 35. Rc8+ Ke7 36. Rxg4 Rexd5 37. Rxg7 h5
+38. b4 Rb5 39. Rc4 Kf6 40. Rg8 Rd1+ 41. Kg2 Rb1 42. h4 Rf5 43. g4 Rb5 44.
+Rf4+ Ke6 45. Re8+ Kd7 46. Ree4 f6 47. gxh5 f5 48. Rd4+ 1-0
+

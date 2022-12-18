@@ -1,0 +1,17 @@
+[Event "Berlin op"]
+[Site "Berlin"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Bodenstein, P."]
+[Black "Koch, Wolfgang"]
+[Result "1-0"]
+[ECO "D18"]
+[Opening "QGD Slav"]
+[Variation "Dutch, Lasker variation"]
+[HashCode "5f71e907"]
+[Epoch "Knight"]
+[BlackID "12929794"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 Na6 7. Bxc4 Nb4 8. Ne5
+Nc2+ 9. Qxc2 Bxc2 10. Bxf7# 1-0

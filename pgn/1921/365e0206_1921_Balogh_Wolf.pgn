@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Balogh, Janos"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "365e0206"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "ROU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Bd3 Nc6 10. O-O b5 11. dxc5 Bb7 12. Qd2 O-O 13. Rae1 Nxc5 14. f5 Nxd3 15.
+Qxd3 Rfd8 16. f6 gxf6 17. exf6 Qxf6 18. Re3 d4 19. Ng5 Qg6 20. Rg3 Nb4 21. Qe2
+dxc3 22. Nxf7 1-0

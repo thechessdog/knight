@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Rahn"]
+[Black "Rellstab, Ludwig"]
+[Result "1-0"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, 6.Be3"]
+[HashCode "512e5f3e"]
+[Epoch "Knight"]
+[BlackID "4671155"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Ng4 7. Bb5+ Nd7 8.
+Qxg4 1-0

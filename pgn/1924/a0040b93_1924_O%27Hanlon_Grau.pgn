@@ -1,0 +1,18 @@
+[Event "Paris prel-3"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "2"]
+[White "O'Hanlon, John"]
+[Black "Grau, Roberto"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Steinitz variation"]
+[HashCode "a0040b93"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. g3 Nc6 10. Bg2 cxd4 11. Nxd4 Qc5 12. Nce2 Qb4+ 13. Qd2 Qxb2 14. O-O Qb4
+15. c3 Qc5 16. Kh1 Nb6 17. f5 exf5 18. Nxf5 Bxf5 19. Rxf5 O-O 20. Nd4 Nc4 21.
+Nb3 Qe7 22. Qf2 N4xe5 23. Bxd5 Rad8 24. Qg2 Ng4 25. Bxc6 bxc6 26. Qxc6 Qe2 0-1

@@ -1,0 +1,20 @@
+[Event "DSB-12.Kongress"]
+[Site "Munich"]
+[Date "1900.01.01"]
+[Round "14"]
+[White "Showalter, Jackson Whipps"]
+[Black "Jacob, Franz"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "8bf17dab"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 Bd7 7. d3 Be7 8. Nbd2
+O-O 9. Nf1 Ne8 10. Ne3 f5 11. exf5 Bxf5 12. Nxf5 Rxf5 13. Bb3+ Kh8 14. h4 Rf8
+15. Ng5 Bxg5 16. hxg5 g6 17. Qe4 Qd7 18. Qxg6 Qg7 19. Qxg7+ Kxg7 20. Be3 Ne7
+21. g4 Ng6 22. O-O-O c6 23. d4 e4 24. d5 c5 25. Bc2 Nc7 26. Bxe4 Rae8 27. Bf5
+Rf7 28. Rh6 Rh8 29. c4 Rff8 30. Bd2 b6 31. Bc3+ 1-0

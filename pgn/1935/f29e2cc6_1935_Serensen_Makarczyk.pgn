@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Serensen"]
+[Black "Makarczyk, Kazimier"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "f29e2cc6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. d3 Ne7 8.
+Ng5 Nxb3 9. axb3 f6 10. Nf3 Ng6 11. Ne1 Be7 12. Nc3 c6 13. Ne2 d5 14. Be3
+f5 15. exf5 Bxf5 16. f4 O-O 17. fxe5 Nxe5 18. h3 Bd6 19. Nd4 Bd7 20. Ndf3
+Qe8 21. Bd4 Ng6 22. Nd2 Nf4 23. Rf2 c5 24. Rxf4 Rxf4 25. Bf2 Qg6 26. Be3
+Rf7 27. g4 d4 28. Bf2 h5 29. Ng2 hxg4 30. h4 g3 31. Be1 Qf5 0-1
+

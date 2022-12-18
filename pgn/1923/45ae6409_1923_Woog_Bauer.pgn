@@ -1,0 +1,19 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Woog"]
+[Black "Bauer, Johann"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "45ae6409"]
+[Epoch "Knight"]
+[BlackID "1611194"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Nc5 12. Bc2 Nd7 13. Nb3 h6 14. Bxh6 gxh6 15.
+Qd3 f5 16. exf6 Rxf6 17. Qh7+ Kf8 18. Bg6 Bd6 19. Qxh6+ Ke7 20. Qg7+ Bf7 21.
+Rfe1+ Nde5 22. Nxe5 Bxe5 23. Bxf7 Qh8 24. Qxh8 Rxh8 25. Bxd5 1-0

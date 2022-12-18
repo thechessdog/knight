@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Laroschin"]
+[Black "Groeper"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "d5df74cc"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 Ne7 8.
+Re1 Nc5 9. Nxe5 Nxa4 10. Qf3 1-0
+

@@ -1,0 +1,17 @@
+[Event "Prague-B"]
+[Site "Prague"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Brach, Julius"]
+[Black "Chalupetzky, Ferenc"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "572c2372"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. d3 f6 7. h3 Ne7 8. Be3
+Bxe3 9. fxe3 Qd6 10. Qd2 c5 11. O-O-O Be6 12. Kb1 O-O-O 13. Rhf1 Rd7 14. Qf2
+Rhd8 15. Rd2 Qb6 16. Rfd1 Nc6 17. Ne2 Qa5 18. Nc1 c4 19. d4 c3 20. bxc3 Qxc3
+21. d5 Na5 22. dxe6 Nc4 23. exd7+ Rxd7 24. Nd3 Rxd3 25. cxd3 Na3# 0-1

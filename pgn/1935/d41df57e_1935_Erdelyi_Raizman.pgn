@@ -1,0 +1,19 @@
+[Event "Warsaw olm"]
+[Site "Warsaw olm"]
+[Date "1935.01.01"]
+[Round "4"]
+[White "Erdelyi, Stefan"]
+[Black "Raizman, Maurice"]
+[Result "1-0"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "d41df57e"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. e3 c5 8. cxd5
+exd5 9. Bd3 Nc6 10. Ne2 Re8 11. O-O c4 12. Bc2 Bd7 13. Ng3 b5 14. Bd2 h5 15.
+Re1 g6 16. e4 h4 17. Nf1 dxe4 18. fxe4 Bg4 19. Qc1 Nh7 20. Ne3 Bh5 21. Nd5 g5
+22. Qb1 Rb8 23. e5 Qxd5 24. Bxh7+ Kg7 25. Bxg5 Ne7 26. Bf6+ Kf8 27. Qc1 Ng8 28.
+Qg5 1-0

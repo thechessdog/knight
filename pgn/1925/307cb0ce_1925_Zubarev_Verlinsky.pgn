@@ -1,0 +1,32 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Zubarev, Nikolay"]
+[Black "Verlinsky, Boris"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "307cb0ce"]
+[Epoch "Knight"]
+[WhiteID "54186412"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+fxe6 9. Be2 Nc6 10. O-O Qe7 11. e5 dxe5 12. fxe5 Ng4 13. Bg5 Qe8 14. Nb5 Rb8
+15. Qd2 a6 16. Nc3 b6 17. Ne4 Bb7 18. h3 Ngxe5 19. Nxe5 Nxe5 20. Rxf8+ Qxf8 21.
+Rf1 Qc8 22. Nf6+ Kh8 23. Qe3 Qc6 24. Rf2 Qd6 25. Qg3 Nf7 26. Qxd6 Nxd6 27. Nd7
+Re8 28. Bf6 Nc8 29. Bg4 h5 30. Bd1 Ba8 31. Bc2 Kh7 32. Ne5 Ne7 33. Bxg7 Kxg7
+34. Rf7+ Kg8 35. Rf6 Nf5 36. Rxg6+ Kf8 37. Bd3 Ke7 38. Bxf5 exf5 39. Rxb6 a5
+40. Ra6 Be4 41. Ng6+ Kd7 42. Rxa5 Rg8 43. Ra6 Kc7 44. Nf4 Bc6 45. Ra3 Kd6 46.
+Re3 Be4 47. h4 Ke5 48. g3 Ra8 49. a3 Rb8 50. b3 Ra8 51. a4 Rb8 52. Kf2 Rb6 53.
+Nxh5 Rd6 54. Ke2 Rd7 55. Nf4 Rd6 56. Nd3+ Kd4 57. Ne1 Ke5 58. Nf3+ Kf6 59. g4
+Bc2 60. g5+ Kg6 61. Nd2 Kh5 62. Rc3 Re6+ 63. Kf2 Bd1 64. Re3 Rd6 65. Ke1 Bc2
+66. Re5 Kxh4 67. Rxc5 Kxg5 68. Rd5 Re6+ 69. Kf2 Kg4 70. a5 f4 71. b4 Re3 72.
+Nf1 Rf3+ 73. Ke2 Ra3 74. Rd4 Bf5 75. Rd8 Be6 76. Rd4 Bf5 77. Rd8 Be6 78. Rd4
+Kf5 79. Nd2 Kg4 80. c5 Bc8 81. Rd6 Kg3 82. Ne4+ Kg4 83. Nf2+ Kh4 84. Rf6 Kg5
+85. Rd6 Rb3 86. Nd3 Bg4+ 87. Kd2 Ra3 88. c6 Ra2+ 89. Kc3 f3 90. Rd5+ Kh6 91.
+Rd4 Ra3+ 92. Kd2 Ra2+ 93. Ke3 Bh5 94. c7 Re2+ 95. Kf4 Rc2 96. Rd6+ Kg7 97. Kg5
+Bf7 98. Rd7 Rc3 99. Ne5 Kg8 100. Rxf7 1-0

@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1946.03.01"]
+[Round "1"]
+[White "Letelier, Rene"]
+[Black "Maderna, Carlos Hugo"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "32359f30"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 Ne4 7. Bxe7 Qxe7 8.
+cxd5 Nxc3 9. bxc3 exd5 10. Qb3 Rd8 11. c4 Be6 12. Qxb7 dxc4 13. Qxa8 Qa3 14.
+Rb1 Qa5+ 15. Nd2 c3 16. Qxb8 cxd2+ 17. Kd1 c5 18. Bd3 cxd4 19. Rb5 dxe3 20.
+Rxa5 Rxb8 21. fxe3 1-0

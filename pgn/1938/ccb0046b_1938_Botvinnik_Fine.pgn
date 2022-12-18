@@ -1,0 +1,18 @@
+[Event "AVRO"]
+[Site "Nederland"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Botvinnik, Mikhail"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[HashCode "ccb0046b"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. Ba4 Bc5 6. d3 O-O 7. O-O d6 8. h3
+c6 9. Nxd4 Bxd4 10. Ne2 Bb6 11. Ng3 Ne8 12. Bb3 Nc7 13. Be3 Ne6 14. c3 g6 15.
+Bxe6 Bxe6 16. d4 d5 17. dxe5 Bxe3 18. fxe3 Qg5 19. Qf3 Qxe5 1/2-1/2

@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Vilner, Yakov S"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-anti-Caro-Kann defence"]
+[HashCode "c22025f8"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Bb5+ Bd7 6. Bc4 Qc7 7. d3 b5 8.
+Bb3 Na6 9. Ne2 Qb7 10. Nf4 g5 11. Nh5 Nxd5 12. Qf3 Bc6 13. Qf5 Rg8 14. Nc3 e6
+15. Qe5 Nc5 16. O-O O-O-O 17. Bxd5 Bxd5 18. Nxd5 Rxd5 19. Qe2 Be7 20. d4 Rxd4
+21. Be3 Rd5 22. Qc2 Kb8 23. Qxh7 Rf8 24. f4 Rd3 25. Rae1 Ne4 26. Kh1 f5 27. Qh6
+Qd5 28. fxg5 Rxe3 29. Rxe3 Nf2+ 30. Kg1 Ng4 31. Nf6 Rxf6 32. gxf6 Nxh6 33. fxe7
+Qd7 34. Rfe1 Qxe7 35. Rxe6 Qc5+ 36. Kh1 Ng4 37. Re8+ Kb7 38. h3 0-1

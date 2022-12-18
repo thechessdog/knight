@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Gossip, George Hatfeild"]
+[Black "Kirkpatrick"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "a109c0a3"]
+[Epoch "Knight"]
+[WhiteCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be7 5. d4 Bh4+ 6. g3 fxg3 7. O-O Bh3 8.
+Nxh4 gxh2+ 9. Kh1 Bxf1 10. Qxf1 Qxh4 11. Qxf7+ Kd8 12. Qf8+ Kd7 13. Qf5+ Ke8
+14. Bg5 Qe1+ 15. Kxh2 Nf6 16. Nc3 Qxa1 17. Qc8+ 1-0

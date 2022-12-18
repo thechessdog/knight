@@ -1,0 +1,15 @@
+[Event "Kautsky mem3"]
+[Site "Prague"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Prokop, Frantisek"]
+[Black "Skalicka, Karel"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "c49d3615"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. b4 c5 2. bxc5 e5 3. Bb2 Nc6 4. Nf3 e4 5. Ne5 Bxc5 6. Nxc6 Qb6 7. Qc1 Bxf2+
+8. Kd1 f6 9. e3 dxc6 10. g3 Bg4+ 11. Be2 Bh3 12. Bf1 Qc5 13. Ke2 Qf5 0-1

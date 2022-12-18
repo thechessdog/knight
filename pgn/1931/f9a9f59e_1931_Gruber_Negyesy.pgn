@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1931.01.01"]
+[Round "12"]
+[White "Gruber, Sandor"]
+[Black "Negyesy, Gyorgy"]
+[Result "1-0"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[HashCode "f9a9f59e"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3
+Qa5 9. Bxc4 Nxe4 10. O-O Nxg3 11. fxg3 Bg7 12. Ne4 Qd8 13. Kh1 b6 14. Qe2 O-O
+15. Rad1 Nd7 16. Ne5 Qc7 17. Nxf7 Rxf7 18. Rxf7 Kxf7 19. Nxg5+ 1-0

@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "2"]
+[White "Hodges, Albert Beauregard"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d5261df6"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. Bg5 Bb4 6. e3 c5 7. Bd3 Qa5 8. O-O
+Bxc3 9. bxc3 Qxc3 10. Rc1 Qa5 11. cxd5 Nxd5 12. e4 Nb4 13. dxc5 Nc6 14. Bb1 O-O
+15. Qd6 Re8 16. e5 Nf8 17. Qd3 Bd7 18. Rfd1 Ne7 19. Nd4 Rac8 20. Nb3 Qa4 21.
+Rc4 Qa6 22. Qc2 Bc6 23. Bxe7 Rxe7 24. Rd6 Qa3 25. Nd4 Bd5 26. Rc3 Qb4 27. Nf5
+Rec7 28. a3 Qf4 29. Ne3 Qxe5 30. Nxd5 Qe1# 0-1

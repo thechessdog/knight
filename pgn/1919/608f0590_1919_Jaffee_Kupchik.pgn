@@ -1,0 +1,27 @@
+[Event "Troy"]
+[Site "Troy"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Jaffe, Charles"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "608f0590"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d3 Nc6 11. Nbd2 O-O 12. Nf1 d5 13. exd5 Qxd5 14. Qe2 Bb7 15.
+Nh4 Rfe8 16. Ne3 Qd7 17. Nef5 Kh8 18. Nxe7 Nxe7 19. Bg5 Ng6 20. Nxg6+ hxg6 21.
+f3 Nd5 22. Qf2 Rac8 23. Rad1 b4 24. Bd2 Qc7 25. Bb3 bxc3 26. bxc3 Rcd8 27. Qh4+
+Kg8 28. Qg3 Nf4 29. Bxf4 exf4 30. Qg5 Qd6 31. Bc4 Bc6 32. h3 Bb5 33. Bxb5 axb5
+34. Re4 f5 35. Rxf4 Re2 36. a4 Ra8 37. h4 bxa4 38. h5 a3 39. hxg6 a2 40. Qxf5
+Rf8 41. Qxf8+ Qxf8 42. Rxf8+ Kxf8 43. Ra1 Ke7 44. Kh2 Kf6 45. Kg3 Kxg6 46. f4
+Rd2 47. Kf3 Rxd3+ 48. Ke2 Rxc3 49. Rxa2 Kf5 50. Ra7 g6 51. g4+ Kxg4 52. Rf7 c4
+53. Rf6 Kh5 54. Rc6 Rc2+ 55. Kd1 Rf2 56. Rxc4 Kg4 57. f5+ Kxf5 58. Ke1 Rf4 59.
+Rc2 g5 60. Rg2 g4 61. Ke2 Kg5 62. Rg1 Kh4 63. Rh1+ Kg3 64. Rh8 Kg2 65. Rh5 Re4+
+66. Kd3 Kf3 67. Rh8 Re7 68. Rf8+ Kg2 69. Rg8 g3 70. Rf8 Kg1 71. Rg8 g2 72. Rg6
+Rh7 0-1

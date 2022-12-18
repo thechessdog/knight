@@ -1,0 +1,20 @@
+[Event "Petrograd"]
+[Site "Petrograd"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Gothilf, Solomon Borisovich"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Romanovsky variation"]
+[HashCode "523762f6"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d3 Ne7 7. Be3 Ng6 8.
+Ne2 Bd6 9. O-O O-O 10. Nd2 f5 11. exf5 Bxf5 12. Ng3 Nf4 13. Bxf4 exf4 14. Nxf5
+Rxf5 15. Nf3 Qf6 16. c3 Kh8 17. Re1 Qh6 18. Qb3 Rb8 19. Re6 Rf6 20. Rae1 Rxe6
+21. Rxe6 Qh5 22. d4 Qf5 23. h3 b5 24. Ne5 Rf8 25. Re8 Bxe5 26. Qc2 Qf7 27.
+Rxf8+ Qxf8 28. dxe5 h6 29. e6 1-0

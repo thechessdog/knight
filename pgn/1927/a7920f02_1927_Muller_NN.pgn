@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Giuoco piano"]
+[Variation "Holzhausen attack"]
+[HashCode "a7920f02"]
+[Epoch "Knight"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. Nf3 Nc6 2. e4 e5 3. Bc4 Bc5 4. d4 Bxd4 5. Nxd4 Nxd4 6. O-O Nf6 7. f4 d6 8.
+fxe5 dxe5 9. Bg5 Qe7 10. Nc3 Qc5 11. Bxf7+ Kxf7 12. Bxf6 gxf6 13. Qh5+ Ke6 14.
+Rxf6+ Kxf6 15. Nd5+ Ke6 16. Qh6+ Kd7 17. Qg7+ Kd6 18. Qe7+ Kc6 19. Qxc7+ Kb5
+20. a4+ Kc4 21. Ne3+ Kb4 22. c3+ Kb3 23. Qxc5 Kxb2 24. Qa3# 1-0

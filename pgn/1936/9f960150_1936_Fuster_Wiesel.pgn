@@ -1,0 +1,17 @@
+[Event "Budapest-B"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Füster, Géza"]
+[Black "Wiesel, Laszlo"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence, Pillsbury variation"]
+[HashCode "9f960150"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. Nc3 Nf6 5. Bg5 cxd4 6. Nxd4 e5 7. Ndb5 d4 8.
+Bxf6 gxf6 9. Nd5 Na6 10. Qa4 Bd7 11. Qxa6 Bb4+ 12. Kd1 bxa6 13. Nbc7+ Kf8 14.
+Nxa8 Qxa8 15. Nxb4 Qb7 16. Nd3 e4 1-0

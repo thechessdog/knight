@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Atteslander, S."]
+[Black "Martin, J."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "80e4fee3"]
+[Epoch "Knight"]
+[BlackID "345279197"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. e3 c5 3. Bd3 Nc6 4. f4 e6 5. c3 Nf6 6. Nd2 Bd6 7. Qf3 cxd4 8. exd4
+O-O 9. Nh3 Qb6 10. g4 e5 11. dxe5 Bxg4 12. Qg3 Nxe5 13. fxe5 Bxe5 14. Bxh7+
+Kxh7 15. Qd3+ Kg8 16. Nf2 Rfe8 17. Kf1 Bf4 18. Nxg4 Nxg4 0-1

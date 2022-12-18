@@ -1,0 +1,18 @@
+[Event "Hurlingham"]
+[Site "Hurlingham"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Michell, Reginald Pryce"]
+[Black "Griffith, R."]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "4ad4232d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Be7 7. Bd3 O-O 8. O-O
+Nc6 9. Re1 Nb4 10. Bf1 dxc4 11. Bxc4 Nbd5 12. Nxd5 exd5 13. Bd3 Bg4 14. Bg5 Ne4
+15. Bxe7 Qxe7 16. Qc2 Rac8 17. Qe2 f5 18. h3 Bxf3 19. gxf3 Qg5+ 20. Kh1 Qh4 21.
+fxe4 fxe4 22. Qf1 Rxf2 0-1

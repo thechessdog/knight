@@ -1,0 +1,24 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.??.??"]
+[Round "2"]
+[White "Marco, Georg"]
+[Black "Forgacs, Leo Fleischmann"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "edb21522"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 f3 11. d4 Ne4 12. Rxe4 Bh2+ 13. Kxh2 Qxe4 14. Bg5 h6 15.
+Nd2 Qf5 16. Qe1+ Be6 17. Be3 Bxd5 18. gxf3 gxf3 19. Bf4+ Be6 20. Qg3 Nd7 21.
+Bxc7 Nf6 22. Bxe6 fxe6 23. Qxf3 Qxf3 24. Nxf3 Kd7 25. Bg3 Rhg8 26. Ne5+ Ke7 27.
+Re1 Raf8 28. Nc4 Ng4+ 29. Kg2 Rf5 30. Nd6 Rd5 31. Nxb7 Rb5 32. Nc5 Rxb2+ 33.
+Kf3 Rc2 34. Rxe6+ Kf7 35. Bd6 Rf2+ 36. Kg3 Rxa2 37. Re7+ Kf6 38. Ne4+ Kf5 39.
+Kf3 Nh2+ 40. Ke3 Ng4+ 41. Kd3 Kg6 42. c4 Nf2+ 43. Nxf2 Rxf2 44. Rxa7 Rg7 45.
+Rxg7+ Kxg7 46. Ke4 Rg2 47. c5 Kf7 48. Kf5 Rd2 49. Be5 Rf2+ 50. Bf4 Rf1 51. c6
+Ke7 52. d5 Kd8 53. d6 Rf3 54. Ke5 Rc3 55. Kd5 Rd3+ 56. Ke6 1-0

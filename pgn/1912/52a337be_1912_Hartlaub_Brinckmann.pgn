@@ -1,0 +1,20 @@
+[Event "DSB-18.Kongress-C"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Hartlaub, Carl"]
+[Black "Brinckmann, Alfred"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "52a337be"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. Bb5 Ne4 8.
+Nxd4 Bd7 9. Bxc6 bxc6 10. f3 Ng5 11. f4 Ne4 12. Nc3 f5 13. Be3 Qe7 14. Nxe4
+dxe4 15. Qe2 Rb8 16. c3 O-O 17. Nxf5 Bxf5 18. Qc4+ Be6 19. Qxc5 Qxc5 20. Bxc5
+Rfd8 21. b4 a6 22. f5 Bc4 23. Rf4 Bd3 24. g4 Kf7 25. g5 Rd5 26. e6+ Kg8 27. h4
+e3 28. f6 gxf6 29. gxf6 Rf5 30. Bxe3 Rxf4 31. Bxf4 Bc4 32. Re1 Rd8 33. Bh6 1-0

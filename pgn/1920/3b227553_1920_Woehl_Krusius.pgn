@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Woehl"]
+[Black "Krusius"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "3b227553"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. O-O b6
+8. Ne5 Bb7 9. Qf3 Rb8 10. Nxf6+ Bxf6 11. Nc6 O-O 12. Qh3 1-0
+

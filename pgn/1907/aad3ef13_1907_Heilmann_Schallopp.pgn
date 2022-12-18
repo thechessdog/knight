@@ -1,0 +1,26 @@
+[Event "Berlin Jubilee"]
+[Site "Berlin"]
+[Date "1907.??.??"]
+[Round "3"]
+[White "Heilmann, Ernst"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "aad3ef13"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 Bb7 8. cxd5
+exd5 9. O-O Nbd7 10. Rc1 a6 11. Qe2 c5 12. Rfd1 c4 13. Bb1 Nh5 14. Qc2 f5 15.
+Ne5 Nxf4 16. exf4 g6 17. Qe2 Nf6 18. h4 b5 19. Qf3 Qc7 20. Ne2 Ne4 21. h5 Kg7
+22. Qh3 Bc8 23. f3 Nd6 24. hxg6 hxg6 25. Qg3 Rf6 26. Kf2 Be6 27. Rh1 Rg8 28.
+Rh2 Nf7 29. Rch1 Kf8 30. Rh7 Ke8 31. Qh3 a5 32. g4 Nxe5 33. dxe5 fxg4 34. Qh6
+Rff8 35. Bxg6+ Kd7 36. f5 Qc5+ 37. Kf1 Bxf5 38. Bxf5+ Rxf5 39. Nf4 Rxe5 40. Ng6
+Re6 41. Nxe7 Rxh6 42. R1xh6 Qxe7 43. Rxe7+ Kxe7 44. fxg4 Rxg4 45. Ra6 Kd7 46.
+Rxa5 Kc6 47. Ra6+ Kc5 48. a4 bxa4 49. Rxa4 c3 50. Ra2 c2 51. b4+ Kxb4 52. Rxc2
+Re4 53. Rc8 d4 54. Kf2 d3 55. Rb8+ Kc3 56. Rc8+ Kb2 57. Rb8+ Kc2 58. Rc8+ Kd1
+59. Ra8 d2 60. Rc8 Re7 61. Rc6 Rf7+ 62. Kg2 Rf5 63. Rc8 Ke2 64. Re8+ Kd3 65.
+Rd8+ Ke3 66. Rd7 Rf4 67. Kg3 Re4 0-1

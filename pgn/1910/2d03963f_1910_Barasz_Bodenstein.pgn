@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Barasz, Zsigmond"]
+[Black "Bodenstein, P."]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "2d03963f"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Nc6 11. d5 Nb8 12. a4 Bb7 13. Qe2 Qb6 14. b4 c4 15. Be3
+Qd8 16. axb5 axb5 17. Rxa8 Bxa8 18. Na3 Qd7 19. Ra1 Bb7 20. Nxc4 Nxd5 21. exd5
+Qc7 22. Na5 Ba6 23. Bd2 O-O 24. Bd3 Qd7 25. Nb3 Qb7 26. c4 bxc4 27. Bxc4 Bxc4
+28. Qxc4 Rc8 29. Ra7 1-0

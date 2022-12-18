@@ -1,0 +1,18 @@
+[Event "Glostrup"]
+[Site "Glostrup"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Olsen, O."]
+[Black "Knudsen, Per"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "ff12bf7e"]
+[Epoch "Knight"]
+[BlackID "1400509"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. Qe2 Nbd7 7. e4 dxe4 8.
+Nxe4 Nxe4 9. Bxe4 Bxe4 10. Qxe4 Nf6 11. Qc6+ Nd7 12. Bf4 Rc8 13. O-O-O Be7 14.
+d5 e5 15. Nxe5 1-0

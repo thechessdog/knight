@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "9bfc5d09"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bf4 O-O 11. Bd3 Bg4 12. f3 Bh5 13. O-O Bg6 14. Bxg6
+hxg6 15. Bg5 Qb6+ 16. Kh1 Qxb2 17. Bxf6 gxf6 18. Qd2 Qb6 19. Nxd5 Qd8 20. Rad1
+Kg7 21. Qf4 Ne5 22. Qb4 Rh8 23. h3 Qc8 24. Qe7 Qf5 25. Kg1 Rae8 26. Qxb7 Rxh3
+27. gxh3 Qg5+ 28. Kf2 Nd3+ 29. Rxd3 Qh4+ 30. Kg1 Qg3+ 31. Kh1 Qxh3+ 32. Kg1
+Qg3+ 33. Kh1 Rh8# 0-1

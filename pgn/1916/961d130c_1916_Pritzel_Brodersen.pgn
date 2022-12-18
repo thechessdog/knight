@@ -1,0 +1,20 @@
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Pritzel, ACM."]
+[Black "Brodersen, V."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "961d130c"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. Nc3 Nc6 5. e3 Nf6 6. cxd5 exd5 7. dxc5 Bxc5
+8. Be2 O-O 9. O-O Be6 10. a3 Ne4 11. Qc2 f5 12. Nxe4 fxe4 13. Qxc5 exf3 14.
+Bxf3 Rxf3 15. gxf3 Bh3 16. e4 Bxf1 17. Kxf1 dxe4 18. Qc4+ Kh8 19. Qxe4 Qd1+
+20. Kg2 Nd4 21. Qxb7 Rf8 22. Bh6 Qxf3+ 23. Qxf3 Nxf3 24. Be3 a6 25. Rd1
+Nh4+ 26. Kh3 Nf5 27. Bc5 Re8 28. b4 Kg8 29. Rd5 g6 30. Rd7 Re4 31. Ra7 g5
+32. f3 Rh4+ 33. Kg2 Rh6 34. a4 Rc6 35. a5 Nh4+ 36. Kf2 Rf6 37. Ra8+ Kf7 38.
+Rf8+ Ke6 39. Rxf6+ Kxf6 40. b5 axb5 41. a6 1-0
+

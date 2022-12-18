@@ -1,0 +1,16 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Amberger, D."]
+[Black "Sprecher, Herman"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "8694c8ff"]
+[Epoch "Knight"]
+
+1. e4 Nc6 2. Nf3 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. d4 Bf5 6. Bb5 e6 7. Ne5 Bb4
+8. Bd2 Ne7 9. Nc4 1-0
+

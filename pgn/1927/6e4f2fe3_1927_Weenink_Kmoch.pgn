@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Weenink, Henri Gerard"]
+[Black "Kmoch, Hans"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "6e4f2fe3"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nge7 7. Qd2 h6 8.
+O-O-O d6 9. Be2 Bd7 10. h3 Nxd4 11. Bxd4 O-O 12. Bxg7 Kxg7 13. f4 Bc6 14. g4
+Ng8 15. h4 Qe7 16. g5 f5 17. Qd4+ Kh7 18. h5 fxe4 19. hxg6+ Kxg6 20. f5+ Rxf5
+21. Bh5+ Kxg5 22. Rdg1+ Kf4 23. Ne2# 1-0

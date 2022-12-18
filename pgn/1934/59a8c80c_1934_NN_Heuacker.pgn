@@ -1,0 +1,17 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Heuacker, Paul"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "59a8c80c"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. d4 g4 6. Ne5 Nc6 7. Nxc6 bxc6
+8. Be3 Qe7 9. Qd3 Ba6 10. Qxa6 Qxe3 11. Qxc6+ Ke7 12. Qxa8 Nf6 13. Qxh8
+Qc1+ 14. Kf2 Ne4+ 15. Kg1 Qe3# 0-1
+

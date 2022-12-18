@@ -1,0 +1,18 @@
+[Event "Guatemala"]
+[Site "Guatemala"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Vassaux, Ing"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "Larsen variation"]
+[HashCode "41049911"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 c6 7. Be2 Ng4 8. O-O
+Nxe3 9. fxe3 Nd7 10. Qd2 e5 11. Rad1 Qe7 12. dxe5 dxe5 13. Qd6 Re8 14. Qxe7
+Rxe7 15. Rd6 h6 16. Rfd1 Kh7 17. Ne1 Nf8 18. Nd3 Ne6 19. Bg4 Re8 20. Kf2 Bf8
+21. Nxe5 Bxd6 22. Rxd6 Kg7 23. Kg3 Nc5 24. Nd7 Bxd7 25. Bxd7 Red8 0-1

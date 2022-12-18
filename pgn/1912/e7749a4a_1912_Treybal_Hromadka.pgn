@@ -1,0 +1,18 @@
+[Event "Prague m"]
+[Site "Prague"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Treybal, Frantisek"]
+[Black "Hromadka, Karel"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "e7749a4a"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3 8.
+Qxd3 Ngf6 9. O-O e6 10. b3 Be7 11. Bb2 h5 12. Rfe1 h4 13. Rxe6 hxg3 14. Rae1
+gxf2+ 15. Kxf2 fxe6 16. Qg6+ Kf8 17. Ng5 Ng4+ 18. Kg1 Bxg5 19. Rf1+ Bf6 20.
+Qxg4 Kf7 0-1

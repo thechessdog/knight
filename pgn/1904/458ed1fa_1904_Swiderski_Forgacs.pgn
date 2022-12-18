@@ -1,0 +1,19 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "9"]
+[White "Swiderski, Rudolf"]
+[Black "Forgacs, Leo Fleischmann"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "458ed1fa"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 O-O 12. Rxe5 Qxh4 13. Nd2 f3 14. Nxf3 gxf3
+15. Qxf3 Ng7 16. Bg5 Qg4 17. Qf2 Bf5 18. Bh6 Bg6 19. Be2 f6 20. Bxg4 fxe5 21.
+Qh4 Na6 22. dxe5 Nf5 23. Bxf5 Rxf5 24. Rf1 Rh5 25. Qf4 Rf5 1-0

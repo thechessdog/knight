@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "18"]
+[White "Albin, Adolf"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Alekhine variation"]
+[HashCode "6ca627e9"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Nf6 10. f3 c5 11. Ne2 h6 12. Nf4 b6 13. O-O-O Bd6 14. Nd3
+Ne8 15. c4 f6 16. Kc2 Be6 17. a3 Be5 18. Nxe5 fxe5 19. b3 Nd6 20. a4 a5 21. Nb1
+Nf7 22. Nc3 c6 23. Bf2 Rxd1 24. Nxd1 Re8 25. Nb2 Kd7 26. Nd3 Kc8 27. Bg3 Bd7
+28. Kd2 Re6 29. Ke3 Re8 30. h4 Re6 31. h5 Re8 32. Rh4 Re7 33. Be1 Kc7 34. Bc3
+Kd6 35. g3 Bc8 36. f4 exf4+ 37. gxf4 Nd8 38. Be5+ Kd7 39. f5 Ke8 40. Kf4 Rd7
+41. Rh3 Kf8 42. Rg3 Ba6 43. Bc3 Bc8 44. Ke3 Re7 45. Ne5 Ra7 46. Kf4 Rc7 47. Rd3
+Ke8 48. Be1 Nf7 49. Bh4 b5 50. Nxf7 Kxf7 51. Rd8 bxc4 52. bxc4 Ba6 53. Ke5 Rc8
+54. Rxc8 Bxc8 55. Kd6 Ke8 56. Be1 Kf7 57. Bxa5 Kf6 58. Bd8+ Kf7 59. a5 1-0

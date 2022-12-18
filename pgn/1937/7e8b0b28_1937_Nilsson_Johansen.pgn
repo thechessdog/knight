@@ -1,0 +1,18 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Nilsson, Johan Carl"]
+[Black "Johansen, Sigvald"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "7e8b0b28"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. Nbd2 Nf6 5. c3 Nc6 6. Bd3 Qc7 7. O-O Bd7 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 O-O-O 11. Be3 f5 12. Bxc6 Bxc6 13. Ne5 Bd6 14. f4
+Bxe5 15. fxe5 g5 16. Qh5 Rdg8 17. dxc5 Be8 18. Qf3 f4 19. Bd4 h5 20. a4 Bc6 21.
+Qf2 h4 22. b4 h3 23. g3 Bg2 24. Rfe1 Rf8 25. b5 fxg3 26. Qxg3 Rf3 27. Qg4 Qf7
+28. Qe4 Rh4 29. Qe2 Rg4 30. Qd2 Rf1+ 31. Rxf1 Bd5+ 32. Qg2 Rxg2+ 33. Kh1 Rg3+
+34. Rf3 Bxf3# 0-1

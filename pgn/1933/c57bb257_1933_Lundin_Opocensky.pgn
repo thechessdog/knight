@@ -1,0 +1,19 @@
+[Event "Folkestone"]
+[Site "Folkestone"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Lundin, Erik"]
+[Black "Opocensky, Karel"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "c57bb257"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Be3 Bg4 7. Nf3 e6 8. c5
+Bxf3 9. Qxf3 Be7 10. Bb5 O-O 11. O-O e5 12. dxe5 Nxe5 13. Qf5 Neg4 14. Bd4 Bxc5
+15. Bxc5 Qc7 16. Rfd1 Qxh2+ 17. Kf1 Rfe8 18. Bxe8 Rxe8 19. Be3 Rxe3 20. Qc8+
+Re8 21. Qxe8+ Nxe8 0-1

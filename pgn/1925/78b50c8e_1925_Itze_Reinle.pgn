@@ -1,0 +1,17 @@
+[Event "Murhau"]
+[Site "Murhau"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Itze"]
+[Black "Reinle, Hans"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Salvio gambit"]
+[HashCode "78b50c8e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Bg7 7. Nxf7 d5
+8. Bxd5 Bd4 9. Qe1 g3 10. h3 f3 11. Nxh8 Bxh3 12. Rxh3 Qxh3 13. gxh3 g2#
+0-1
+

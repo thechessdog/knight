@@ -1,0 +1,25 @@
+[Event "Ljubljana"]
+[Site "Ljubljana"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Puc, Stojan"]
+[Black "Vidmar, Milan Sr"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "4c07721a"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+[BlackCountry "SVN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Rd8 12. Qc2 c5 13. b3 Bb7 14. Be2 Nd7
+15. O-O Rac8 16. Qf5 Nf8 17. Rfd1 g6 18. Qb1 Ne6 19. Bf1 Qf6 20. Qb2 a6 21. Qd2
+Kg7 22. Qe1 Re8 23. Qd2 Rcd8 24. Bd3 c4 25. bxc4 dxc4 26. Bxc4 Bxf3 27. gxf3
+Ng5 28. Qc3 Nxf3+ 29. Kg2 Rc8 30. Qd3 Nh4+ 31. Kf1 b5 32. Bd5 Qd6 33. Rxc8 Rxc8
+34. e4 Qxh2 35. e5 Qf4 36. Bb7 Rc4 37. Qg3 Qxg3 38. fxg3 Nf5 39. Kf2 Nxd4 40.
+Bxa6 Rc2+ 41. Ke3 Rxa2 42. Rxd4 Rxa6 43. Rb4 Ra3+ 44. Kf2 Ra5 45. Re4 b4 46. e6
+fxe6 47. Rxb4 Kf6 48. Kf3 h5 49. Rc4 Ra3+ 50. Kf2 e5 51. Rb4 Rd3 52. Rh4 Kf5
+53. Rh1 e4 54. Kg2 Rd2+ 55. Kh3 e3 56. g4+ hxg4+ 57. Kg3 e2 58. Re1 Ke4 59. Kf2
+g3+ 60. Kg2 Ke3 0-1

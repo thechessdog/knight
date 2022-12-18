@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Folkmann"]
+[Black "Seibold, M."]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "05a0523b"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 d5 3. d4 f6 4. Nc3 fxe5 5. e4 Nf6 6. Nxd5 Ng4 7. Bg5 Qxg5
+8. Nxc7+ Kd8 9. Nxa8 Qe3+ 10. Ne2 Nf2 11. Qc1 Bb4+ 0-1
+

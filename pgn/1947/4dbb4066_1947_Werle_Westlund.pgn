@@ -1,0 +1,17 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Werle, Allan"]
+[Black "Westlund, J."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "4dbb4066"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nc3 e6 3. e4 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. h4 c5
+8. dxc5 Bxc5 9. Bg5 hxg5 10. hxg5 Bb4+ 11. Ke2 Qxf3+ 12. Kxf3 Rxh1 13. Bb5+
+1-0
+

@@ -1,0 +1,20 @@
+[Event "DEN-ch"]
+[Site "Frederikshavn"]
+[Date "1931.04.05"]
+[Round "6"]
+[White "Pedersen, Henry"]
+[Black "Pedersen, Jorgen"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "1ee80922"]
+[Epoch "Knight"]
+[WhiteID "1429205"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 a6 6. a3 Bxc3 7. bxc3 c4 8. Qg4 g6
+9. h4 h5 10. Qh3 Ne7 11. Be2 Nbc6 12. g4 hxg4 13. Qxg4 Nf5 14. h5 gxh5 15. Rxh5
+Rxh5 16. Qxh5 Qh4 17. Bg5 Qxh5 18. Bxh5 Nce7 19. Ne2 Ng7 20. Bg4 b5 21. Kd2 Bb7
+22. Rh1 Kd7 23. Rh7 Rg8 24. Bf6 Nef5 25. Ng3 Ke8 26. Bxf5 Nxf5 27. Nxf5 exf5
+28. e6 Rf8 29. Bg7 1-0

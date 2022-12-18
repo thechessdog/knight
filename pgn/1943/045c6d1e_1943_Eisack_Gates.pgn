@@ -1,0 +1,18 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Eisack"]
+[Black "Gates"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "045c6d1e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 exd3 6. Bxd3 Nxd5 7. Qf3 Nc6
+8. Ne2 Bc5 9. Ne4 Bb6 10. Bc4 Be6 11. f5 Ne5 12. Qg3 Nb4 13. Bg5 Nxc2+ 14.
+Kf1 Nxc4 15. fxe6 N4e3+ 16. Bxe3 Nxe3+ 17. Ke1 O-O 18. Rc1 fxe6 19. N2c3
+Qd3 0-1
+

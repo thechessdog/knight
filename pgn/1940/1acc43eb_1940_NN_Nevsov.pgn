@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Nevsov"]
+[Result "0-1"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[HashCode "1acc43eb"]
+[Epoch "Knight"]
+
+1. c4 e5 2. Nf3 e4 3. Nd4 Nc6 4. Nc2 Nf6 5. Nc3 Bc5 6. a3 a5 7. g3 Ne5 8.
+b3 d5 9. cxd5 Bg4 10. f3 Nd3+ 11. exd3 exf3 12. Be2 f2+ 13. Kf1 Bh3# 0-1
+

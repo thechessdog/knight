@@ -1,0 +1,17 @@
+[Event "Palafruge,SPA simul"]
+[Site "Palafruge,SPA simul"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Saura, M."]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "2eed792f"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 cxd4 6. Qxg7 dxc3 7. b3 Qh4 8.
+Qxh8 Qe4+ 9. Be3 Qg6 10. Nf3 Bf8 11. Bd3 Qxg2 12. Rg1 Qxf3 13. Rxg8 Nd7 14. Bb5
+Ke7 15. Rxf8 Nxf8 16. Bg5+ 1-0

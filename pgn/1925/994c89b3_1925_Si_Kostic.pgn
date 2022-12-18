@@ -1,0 +1,23 @@
+[Event "Java"]
+[Site "Java"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Si Narsar"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "994c89b3"]
+[Epoch "Knight"]
+[BlackCountry "SRB"]
+
+1. d4 f5 2. e3 e6 3. Nf3 Nf6 4. Be2 b6 5. b3 Bb7 6. O-O g6 7. Bb2 Bg7 8. Nbd2
+O-O 9. c4 d6 10. b4 Nbd7 11. a4 a5 12. b5 Ne4 13. Qb3 Qe7 14. Rac1 h6 15. Nxe4
+fxe4 16. Nd2 Rf7 17. Qc2 Nf6 18. f3 exf3 19. Bxf3 Bxf3 20. Rxf3 g5 21. Rcf1
+Raf8 22. Qd3 Nd7 23. Rxf7 Rxf7 24. Ba3 e5 25. d5 Rxf1+ 26. Kxf1 Nf6 27. e4 g4
+28. Kg1 h5 29. Nf1 Bh6 30. Ng3 Qg7 31. Nf5 Qg5 32. g3 Qd2 33. Nxh6+ Qxh6 34.
+Kg2 Qg6 35. c5 Qxe4+ 36. Qxe4 Nxe4 37. cxb6 cxb6 38. Kf1 Kf7 39. Ke2 Ke7 40.
+Kd3 Nc5+ 41. Kc4 Nxa4 42. Bc1 Nc5 43. Bg5+ Kd7 44. Bc1 Ne4 45. Kd3 Nf6 46. Kc4
+Ke7 47. Bg5 Kf7 48. Be3 Nd7 49. Bg5 Ke8 50. Bd2 a4 51. Be3 Kd8 52. Bg5+ Kc7 53.
+Bc1 Nf6 54. Ba3 Ne4 55. Bc1 Kd7 56. Be3 a3 57. Bc1 a2 58. Bb2 Nxg3 59. hxg3 h4
+60. gxh4 g3 0-1

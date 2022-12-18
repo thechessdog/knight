@@ -1,0 +1,19 @@
+[Event "Prague+"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "3"]
+[White "Kubanek, Jindrich"]
+[Black "Carls, Carl Johan Margot"]
+[Result "0-1"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "7e2f6734"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. d4 cxd4 7. Nxd4 Nf6
+8. Re1 g6 9. b3 Bg7 10. Bb2 O-O 11. Nxc6 bxc6 12. c4 Rfd8 13. Nc3 Ne8 14. Qd2
+Qc7 15. Rad1 Qa5 16. Nd5 Qxd2 17. Nxe7+ Kf8 18. Nxg6+ hxg6 19. Bxg7+ Nxg7 20.
+Rxd2 a5 21. Red1 Ke7 22. f3 Ne6 23. Kf2 c5 24. h4 a4 25. g4 axb3 26. axb3 Rab8
+27. Rb1 Rb4 0-1

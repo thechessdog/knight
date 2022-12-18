@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Neidich"]
+[Black "Bruzza"]
+[Result "1-0"]
+[ECO "E12"]
+[Opening "Queen's Indian defence"]
+[HashCode "9fbf2dbe"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bg5 Bb7 5. Nc3 Be7 6. e3 Ne4 7. Bxe7 Qxe7
+8. Qc2 f5 9. O-O-O d5 10. Ne5 O-O 11. f4 Nd7 12. h4 c6 13. Nxe4 fxe4 14. g4
+Rac8 15. h5 c5 16. Ng6 hxg6 17. hxg6 Rf6 18. Rh8+ 1-0
+

@@ -1,0 +1,20 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Livanec"]
+[Black "Olsen"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "d387c19c"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7
+8. Nge2 O-O 9. Qc2 Re8 10. O-O-O Nf8 11. Ng3 a5 12. Nf5 Bxf5 13. Bxf5 Ne4
+14. Nxe4 Bxg5 15. Nxg5 Qxg5 16. h4 Qe7 17. g4 a4 18. g5 a3 19. b3 Ra5 20.
+Kb1 c5 21. Qd2 b6 22. dxc5 Rxc5 23. Rhe1 g6 24. Bd3 Rec8 25. Rc1 Ne6 26. f4
+Rxc1+ 27. Rxc1 Rxc1+ 28. Qxc1 Qb4 29. Qc8+ Kg7 30. Qc1 Nc5 31. Bc2 Na4 32.
+f5 Nc3+ 33. Ka1 Ne2 0-1
+

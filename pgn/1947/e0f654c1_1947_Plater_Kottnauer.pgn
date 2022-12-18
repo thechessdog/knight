@@ -1,0 +1,21 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Plater, Kazimierz"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "e0f654c1"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Ne2 Nf6 3. Nbc3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. Nc3 Qd8 7. Bc4 e6
+8. d3 Be7 9. Qg4 O-O 10. Be3 Nc6 11. O-O Kh8 12. f4 Nd4 13. Bxd4 Qxd4+ 14. Kh1
+a6 15. a4 Bd7 16. Rf3 b5 17. Bb3 Bc6 18. Rh3 c4 19. dxc4 b4 20. Ne2 Qxb2 21.
+Rf1 Rad8 22. Ng1 Be4 23. Rg3 Bf5 24. Qe2 Bc5 25. Nf3 Qf6 26. Ne5 Rd6 27. Nd3
+Rc8 28. Nxc5 Rxc5 29. Re3 Qd8 30. Qe1 a5 31. c3 Bd3 32. cxb4 axb4 33. Qxb4 Rc8
+34. Rd1 h6 35. h3 Rd7 36. Qd2 Bc2 37. Qxd7 1-0

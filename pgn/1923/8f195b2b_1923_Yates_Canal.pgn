@@ -1,0 +1,25 @@
+[Event "Trieste"]
+[Site "Trieste"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Yates, Frederick Dewhirst"]
+[Black "Canal, Esteban"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "8f195b2b"]
+[Epoch "Knight"]
+[BlackCountry "PER"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O d5 9. e5 Nd7 10. Qg4 Bf8 11. Re1 g6 12. Bg5 Qc7 13. Qg3 Bg7 14. Bf4 O-O 15.
+Rad1 Rb8 16. b3 Rb4 17. Nb1 f6 18. c3 fxe5 19. cxb4 exf4 20. Qh3 e5 21. f3 e4
+22. fxe4 Ne5 23. Qh4 Qb6+ 24. Kh1 Bg4 25. Rd2 Bf6 26. Qh6 Nxd3 27. Rxd3 Qf2 28.
+Rg1 Bd4 29. Rxd4 Qxd4 30. Qh4 Be2 31. exd5 cxd5 32. Re1 Qd3 33. Qf2 f3 34. Kg1
+Rf5 35. b5 Rg5 36. g3 d4 37. Na3 Rf5 38. Nc4 Rxb5 39. h3 Rh5 40. h4 Rc5 41. Kh2
+Qc2 42. g4 Rd5 43. Rg1 Qxa2 44. Kg3 Qxb3 45. Nd2 Qb8+ 46. Kh3 Qf4 47. Qg3 Qxg3+
+48. Kxg3 Rc5 49. Rb1 Rc7 50. Rb8+ Kg7 51. Rd8 Rf7 52. Kf2 d3 53. g5 h6 54. Ne4
+hxg5 55. hxg5 Re7 56. Nc5 Re5 57. Nxd3 Rxg5 58. Nf4 Rf5 59. Ne6+ Kf6 60. Nd4
+Ra5 61. Rf8+ Ke7 62. Ra8 Ra2 63. Nxf3 Bd1+ 0-1

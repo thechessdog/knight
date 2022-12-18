@@ -1,0 +1,24 @@
+[Event "Harvard"]
+[Site "Harvard"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Chandler, J."]
+[Black "Mitchell"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "6debc109"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5
+8. c4 dxc3 9. Nxc3 Be6 10. Nxe4 dxe4 11. Nd4 Qd5 12. Be3 O-O-O 13. Bxc6
+bxc6 14. Qa4 Qc4 15. Qxc4 Bxc4 16. Nxc6 Rd6 17. Na5 Bd3 18. Rac1 Re6 19. a3
+Bd6 20. Nb3 Be5 21. Bd4 Bxd4 22. Nxd4 Re5 23. Rc3 Rd5 24. Nc6 Kd7 25. Nb4
+Rd6 26. Nxd3 exd3 27. Rd1 Re8 28. Kf1 Re2 29. b4 Ra2 30. Rcxd3 Rxa3 31. Ke2
+Raxd3 32. Rxd3 Rxd3 33. Kxd3 Kc6 34. Kc4 Kd6 35. Kd4 Kc6 36. Kc4 Kb6 37. f4
+Kc6 38. g4 f6 39. h4 g6 40. h5 Kd6 41. hxg6 hxg6 42. g5 fxg5 43. fxg5 Kc6
+44. Kd4 Kd6 45. Kc4 Kc6 46. Kd4 Kb5 47. Ke5 Kxb4 48. Kf6 a5 49. Kxg6 a4 50.
+Kf5 a3 51. g6 a2 52. g7 a1=Q 53. g8=Q Qf1+ 54. Ke5 Qe2+ 55. Kf5 Qf3+ 56.
+Ke5 Qc3+ 57. Kf5 Qc5+ 58. Kf6 Qd6+ 59. Kf5 Qd3+ 60. Ke5 Qc3+ 1/2-1/2
+

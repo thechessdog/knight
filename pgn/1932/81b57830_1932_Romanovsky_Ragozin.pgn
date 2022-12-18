@@ -1,0 +1,21 @@
+[Event "Leningrad m"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "81b57830"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 dxc4 5. bxc4 Bg7 6. g3 O-O 7. Bg2 c5 8. O-O
+Nc6 9. Ne5 Nd4 10. e3 Nf5 11. Nc3 Be6 12. Qe2 a6 13. f4 h5 14. Bf3 Qc7 15. Rab1
+Rfd8 16. Ba1 Rab8 17. Nd5 Nxd5 18. cxd5 Bxd5 19. e4 Nd4 20. Bxd4 Bxa2 21. Bc3
+Bxb1 22. Rxb1 b5 23. h4 c4 24. g4 hxg4 25. Bxg4 b4 26. Ba1 c3 27. dxc3 bxc3 28.
+Rc1 c2 29. Rxc2 Rb1+ 30. Kh2 Qb6 31. Bc3 Qg1+ 32. Kh3 Bxe5 33. fxe5 Qh1+ 34.
+Kg3 Rg1+ 35. Kf4 Qxh4 36. e6 f6 37. Ke3 Rxg4 0-1

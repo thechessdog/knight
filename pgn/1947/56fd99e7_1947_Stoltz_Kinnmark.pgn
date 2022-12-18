@@ -1,0 +1,24 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Kinnmark, Ove"]
+[Result "1-0"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "56fd99e7"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 d6 5. d3 Bd7 6. e3 g6 7. Nge2 h5 8. h3 Bg7
+9. b3 a6 10. Bb2 Rb8 11. Qd2 b5 12. O-O Qc8 13. Kh2 bxc4 14. dxc4 Ne5 15. f4
+Nc6 16. Nd5 O-O 17. Nxf6+ exf6 18. Qxd6 Nb4 19. Bxf6 Bxf6 20. Qxf6 Nc2 21. Bd5
+Be6 22. f5 Bxd5 23. cxd5 Qd8 24. Qxd8 Rbxd8 25. Rac1 Nxe3 26. Rf3 Nxd5 27. Rxc5
+Rfe8 28. Rf2 g5 29. Nd4 Nf6 30. Rc4 Re1 31. Nf3 Re3 32. Nxg5 Rdd3 33. Rc8+ Kg7
+34. Rc7 Nd7 35. Rcc2 Kf6 36. Rc6+ Kg7 37. Rxa6 Ne5 38. Ra4 Kh6 39. Ne4 Rd1 40.
+Kg2 Ree1 41. Rc2 Rg1+ 42. Kf2 Rde1 43. Re2 Rgf1+ 44. Ke3 Rf3+ 45. Kd2 Rb1 46.
+Kc2 Rff1 47. Ra6+ Kg7 48. f6+ Kg6 49. Kc3 Rbc1+ 50. Kb2 Nd3+ 51. Ka3 Rf5 52. g4
+hxg4 53. Rg2 Rc6 54. Rxg4+ Kh6 55. Ra8 Rc8 56. Ra4 Rc2 57. Nd6 1-0

@@ -1,0 +1,18 @@
+[Event "Cologne-B1"]
+[Site "Cologne"]
+[Date "1911.??.??"]
+[Round "6"]
+[White "Wenzel"]
+[Black "Ritzen"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "55486eba"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Rxe5+ Be7 9. Qe1 Be6 10. d3 Qd6 11. Nc3 O-O-O 12. Bf4 Bf6 13. b4
+Nd7 14. Re4 Qf8 15. a3 Bd5 16. Re3 Bxf3 17. Rxf3 g5 18. Bg3 Re8 19. Qd2 g4
+20. Rxf6 Nxf6 0-1
+

@@ -1,0 +1,23 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Woliston, P."]
+[Black "Burdge, H."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "335a68c1"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Nxc6 bxc6 6. exd5 Qxd5 7. Qxd5
+cxd5 8. Nc3 e6 9. Nb5 Bb4+ 10. c3 Ba5 11. Be3 a6 12. Nd6+ Ke7 13. Bc5 Kf6
+14. Ne8+ Kg6 15. Bd3+ f5 16. g4 Nh6 17. gxf5+ Nxf5 18. Rg1+ Kf7 19. Bxf5
+Rxe8 20. Bxh7 Rh8 21. Bg6+ Kf6 22. Bd6 e5 23. f4 exf4 24. Bxf4 Bb6 25. Rg2
+Bf5 26. Bxf5 Kxf5 27. Bg3 Rhe8+ 28. Kd2 Re4 29. Rf1+ Ke6 30. Bf4 Rf8 31.
+Rg6+ Rf6 32. Rxf6+ gxf6 33. Kd3 Ra4 34. a3 d4 35. c4 Ra5 36. Ke4 Rc5 37.
+Kxd4 Rh5+ 38. Ke4 Rh4 39. Kd3 Rh3+ 40. Kc2 a5 41. Bg3 a4 42. Rd1 Bc5 43.
+Rd5 Bg1 44. Ra5 Bxh2 45. Bxh2 Rxh2+ 46. Kb1 Rh1+ 47. Ka2 f5 48. Rxa4 f4 49.
+c5 Ke5 50. Rc4 f3 51. Rc2 Kd4 52. c6 Kd3 53. Rc3+ Ke2 54. c7 1-0
+

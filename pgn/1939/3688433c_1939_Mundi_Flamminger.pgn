@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Mundi"]
+[Black "Flamminger"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "3688433c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 Bf5 6. dxe4 Nxe4 7. Ngf3 Bc5
+8. Bd3 O-O 9. Bxe4 Bxe4 10. Nxe4 Re8 11. Ne5 Bb6 12. Ng5 f6 13. Ne6 Qd6 14.
+Ng4 Nc6 15. Nh6+ gxh6 16. Qg4+ 1-0
+

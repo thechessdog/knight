@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Chajes, Oscar"]
+[Black "Morrison, John"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "b0dd6c82"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackID "2406144"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Be7 5. dxe5 dxe5 6. Qd5 Nh6 7. Bxh6 O-O 8.
+Be3 c6 9. Qd2 b5 10. Be2 Qc7 11. O-O f5 12. exf5 Rxf5 13. Nc3 Bb7 14. Ng5 Nf8
+15. Bg4 Rd8 16. Qc1 Rf6 17. Nce4 Rg6 18. Bh5 h6 19. Bxg6 Nxg6 20. Ne6 1-0

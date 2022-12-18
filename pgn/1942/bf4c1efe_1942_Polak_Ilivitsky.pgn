@@ -1,0 +1,19 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Polak, E."]
+[Black "Ilivitsky, Georgy"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "bf4c1efe"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 h6 6. Bxf6 Bxf6 7. e4 dxe4 8.
+Nxe4 Nc6 9. Nxf6+ Qxf6 10. Qd2 O-O 11. O-O-O e5 12. d5 e4 13. Ne1 Ne5 14. h3
+Bf5 15. Nc2 c6 16. Ne3 Bg6 17. Kb1 Rfd8 18. h4 b5 19. Qc2 bxc4 20. Bxc4 Nxc4
+21. Qxc4 Qxf2 22. Rde1 cxd5 23. Nxd5 Kh8 24. h5 Rac8 25. Qb4 Bh7 26. Ne3 Rb8
+27. Qc3 Rd2 28. Nc4 Qc5 29. Ka1 Rd3 30. Qc1 f5 31. Qf4 Qb4 32. Re2 Bg8 0-1

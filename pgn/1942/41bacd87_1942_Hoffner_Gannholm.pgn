@@ -1,0 +1,17 @@
+[Event "Ostersund"]
+[Site "Ostersund"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Hoffner"]
+[Black "Gannholm"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "41bacd87"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nbd2 d5 4. e3 b6 5. Bd3 Bb7 6. c3 Bd6 7. Qc2 c5 8.
+O-O Nc6 9. Re1 Qc7 10. e4 cxd4 11. cxd4 dxe4 12. Nxe4 Rc8 13. Nxf6+ gxf6
+14. Bd2 Rg8 15. Bb5 Ke7 16. Rac1 Qb8 17. Rxe6+ Kxe6 18. d5+ Ke7 19. dxc6
+Ba8 20. Qe4+ Kd8 21. Qf5 Rc7 22. Qxf6+ Re7 23. c7+ Bxc7 24. Bg5 1-0
+

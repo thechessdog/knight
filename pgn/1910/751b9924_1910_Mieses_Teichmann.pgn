@@ -1,0 +1,15 @@
+[Event "Berlijn m"]
+[Site "Berlijn m"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Mieses opening"]
+[HashCode "751b9924"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. d3 d5 2. Nd2 e5 3. e4 c6 4. Qe2 Bd6 5. f4 exf4 6. exd5+ Ne7 7. dxc6 0-1

@@ -1,0 +1,27 @@
+[Event "URS-sf"]
+[Site "Kiev"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Gerstenfeld, Eduard Issakovich"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "667e1cd0"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4 8.
+Bd5 Rb8 9. Bc6+ Bd7 10. Bxd7+ Qxd7 11. Qxd4 Nf6 12. O-O Be7 13. Nc3 O-O 14. f3
+b4 15. Ne2 Qc6 16. Qd3 d5 17. Nd4 Qb6 18. e5 Nd7 19. Re1 Bc5 20. c3 Rfe8 21.
+Bf4 Bf8 22. Kh1 Nc5 23. Qc2 bxc3 24. bxc3 Qb2 25. Red1 Qxc2 26. Nxc2 Ne6 27.
+Be3 Rb2 28. Nd4 c5 29. Nf5 Rd8 30. Kg1 Rc2 31. Rdc1 Rxc1+ 32. Rxc1 h5 33. f4 g6
+34. Nh4 Rb8 35. Nf3 Rb2 36. Rd1 Rxa2 37. Rxd5 Rc2 38. Bd2 a5 39. Rd7 c4 40. Kf1
+a4 41. Ra7 a3 42. Ke1 a2 43. g3 Rb2 44. Bc1 Rb1 45. Rxa2 Rxc1+ 46. Kd2 Rf1 47.
+Ke2 Rb1 48. Ra4 Rb2+ 49. Ke3 Bc5+ 50. Ke4 Re2+ 51. Kd5 Rf2 52. Ke4 Re2+ 53. Kd5
+Re3 54. Nh4 Rxc3 55. Rxc4 Rxc4 56. Kxc4 Bg1 57. Nf3 Bf2 58. Kd5 Kf8 59. Ke4 Ng7
+60. Ng5 Ke7 61. Kf3 Bb6 62. h3 Ne6 63. Nh7 Ba5 64. g4 hxg4+ 65. hxg4 Bd2 66. f5
+Ng5+ 67. Nxg5 Bxg5 68. Ke4 Bc1 69. Kd5 g5 70. Kd4 Bb2+ 71. Ke4 Kd7 72. Kd5 Bc3
+73. Ke4 Kc6 74. e6 fxe6 75. fxe6 Bf6 76. Kf5 Be7 0-1

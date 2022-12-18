@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Rabinovich, Abram"]
+[Black "Levenfish, Grigory"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "28a00c7b"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 d6 4. Be2 Nf4 5. Bf1 dxe5 6. Nxe5 Qd5 7. Nf3 Qe4+ 8.
+Be2 Nxg2+ 9. Kf1 Bh3 10. d3 Nh4+ 11. Ke1 Nxf3# 0-1

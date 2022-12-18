@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1946.03.01"]
+[Round "1"]
+[White "Luckis, Marcos"]
+[Black "Letelier, Rene"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "5f7d839d"]
+[Epoch "Knight"]
+[WhiteCountry "LTU"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Ne4 7. Bxe7 Qxe7 8.
+Qc2 Nxc3 9. Qxc3 dxc4 10. Bxc4 b6 11. O-O Bb7 12. Rac1 Rc8 13. Rfd1 Nd7 14. Qd3
+a6 15. Bb3 c5 16. d5 exd5 17. Bxd5 Nf6 18. Bxb7 Qxb7 19. Ne5 g6 20. Nc4 Rd8 21.
+Qxd8+ Rxd8 22. Rxd8+ Kg7 23. Rcd1 b5 24. Nd6 Qb6 25. h3 c4 26. Rc8 h5 27. e4 h4
+28. e5 Nh7 29. Rc7 Ng5 30. e6 Nxe6 31. Rxf7+ Kg8 32. Re7 Nf4 33. Nc8 Qa5 34.
+Rdd7 Kf8 35. Nd6 g5 36. Re8# 1-0

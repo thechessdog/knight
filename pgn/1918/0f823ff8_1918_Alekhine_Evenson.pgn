@@ -1,0 +1,17 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Evenson, Alexander"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "0f823ff8"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Bb4 4. Bc4 Bxc3 5. dxc3 Nxe4 6. Bxf7+ Kxf7 7. Qd5+
+Ke8 8. Qxe4 Nc6 9. fxe5 Qe7 10. Nf3 d6 11. Bg5 Qe6 12. O-O-O dxe5 13. Nxe5 h6
+14. Qxc6+ 1-0

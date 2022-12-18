@@ -1,0 +1,15 @@
+[Event "Folkestone"]
+[Site "Folkestone"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Combe, Robert"]
+[Black "Hasenfuss, Wolfgang R"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "54cd275f"]
+[Epoch "Knight"]
+[BlackCountry "LVA"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. Nxe5 Qa5+ 0-1

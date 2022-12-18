@@ -1,0 +1,18 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Levitsky, Stepan M"]
+[Black "Evtifeev, Peter"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "King's pawn opening"]
+[HashCode "91557b71"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 d6 2. d4 Nd7 3. Nf3 g6 4. Bd3 Bg7 5. Be3 e5 6. Nc3 Ne7 7. Qd2 Nc6 8. dxe5
+Ncxe5 9. Nd4 Nxd3+ 10. cxd3 c6 11. O-O Ne5 12. h3 f6 13. f4 Nf7 14. f5 Qe7 15.
+fxg6 hxg6 16. Nce2 Bh6 17. Bxh6 Rxh6 18. Rf2 c5 19. Raf1 g5 20. Nf5 Bxf5 21.
+Rxf5 O-O-O 22. Nc3 Ne5 23. Nd5 Qh7 24. Rxf6 Rxf6 25. Nxf6 Qh4 26. d4 Nc6 27.
+dxc5 dxc5 28. Qc3 b6 29. Ng4 Nd4 30. Qc4 Rh8 31. b4 Re8 32. bxc5 1-0

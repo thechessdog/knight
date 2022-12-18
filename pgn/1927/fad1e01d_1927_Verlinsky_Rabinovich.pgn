@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Verlinsky, Boris"]
+[Black "Rabinovich, Abram"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "fad1e01d"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Re8 11. Nbd2 d5 12. Qc2 Bxf3 13. gxf3 dxe4 14. dxe5 Nxe5
+15. fxe4 Nfg4 16. Kg2 Nxe3+ 17. Rxe3 Bg5 18. Re2 Qf6 19. f4 Bxf4 20. Rf1 Rad8
+21. Kh1 Rd3 22. Ref2 g5 23. Nf3 Rxf3 24. Rxf3 Nxf3 25. Rxf3 Qg6 0-1

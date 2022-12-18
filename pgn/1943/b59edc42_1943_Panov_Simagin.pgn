@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Simagin, Vladimir"]
+[Result "0-1"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[HashCode "b59edc42"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Nb3
+Be6 9. Qd2 Nbd7 10. O-O-O Nb6 11. g4 Rc8 12. Bh6 Bh8 13. Bxf8 Qxf8 14. Nd4 Bc4
+15. g5 Nfd7 16. Bh3 e6 17. Kb1 Ne5 18. f4 Nf3 19. Nxf3 Bxc3 20. bxc3 d5 21. Qc1
+Na4 22. exd5 Bxa2+ 23. Ka1 Qc5 24. dxe6 Nxc3 25. Rd4 Bxe6 26. Bxe6 fxe6 27. Ra4
+Nxa4 28. c4 Rd8 29. Ka2 Qb4 30. Re1 Rd3 31. Rxe6 Nc3+ 0-1

@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Grechkin, Dmitry Makarovich"]
+[Black "Chistiakov, Alexander Nikolaevi"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "c79a3145"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 f5 5. Qg3 cxd4 6. Nf3 Qb6 7. Bd3 Ne7 8. O-O
+Nd7 9. c3 Nc6 10. cxd4 Nxd4 11. Nbd2 g6 12. h4 Be7 13. Rd1 Nc6 14. Nb3 Qb4 15.
+Bf4 a5 16. Bc2 a4 17. a3 Qb6 18. Be3 axb3 19. Bxb6 bxc2 20. Rdc1 Nxb6 21. Rxc2
+Ra4 22. b4 Nc4 23. Raa2 b5 24. Qf4 h6 25. Re2 Bd7 26. g4 g5 0-1

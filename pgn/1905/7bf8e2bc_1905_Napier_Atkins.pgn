@@ -1,0 +1,18 @@
+[Event "British ch"]
+[Site "British ch"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Napier, William Ewart"]
+[Black "Atkins, Henry Ernest"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "7bf8e2bc"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. d4 Bb6 6. fxe5 dxe5 7. Nxe5 f6 8. Nf3
+Qxe4+ 9. Kf2 Ne7 10. Bb5+ c6 11. Re1 Qf5 12. Qe2 Bd8 13. Bc4 g5 14. Kg1 Nd7 15.
+Nbd2 Nf8 16. Ne4 Kd7 17. Bd3 1-0

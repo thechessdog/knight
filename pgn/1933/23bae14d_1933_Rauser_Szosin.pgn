@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Rauser"]
+[Black "Szosin"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "23bae14d"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6
+8. Ne5 Rc8 9. d4 e6 10. h4 f5 11. Qe2 Qe7 12. h5 Bf7 13. g5 Kd8 14. Bxc6
+bxc6 15. Qa6 Be8 16. Bf4 Qb4 17. Qxa7 Rc7 18. Qa8+ Rc8 19. Qa6 Bd6 20. Nd3
+Qb8 21. Bxd6 Qxd6 22. Na4 Rc7 23. Nac5 Ke7 24. O-O-O Bd7 25. Nxd7 Qxd7 26.
+Nc5 Ra7 27. Qb6 Qc7 28. Qxc7+ Rxc7 29. Rde1 Kf7 30. g6+ Kf6 31. Rxe6+ Kg5
+32. Nd3 Nf6 33. f4+ Kg4 34. Ree1 Ne4 35. Reg1+ Ng3 36. Ne5+ 1-0
+

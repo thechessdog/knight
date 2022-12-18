@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Kuzminykh, Evgeny"]
+[Black "Budo, Alexander Semenovich"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4fd16959"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d6 6. f3 e5 7. e4 Nc6 8. Be3
+Qe7 9. Bd3 b6 10. Ne2 Bb7 11. O-O O-O-O 12. Re1 Na5 13. Nc1 Qe6 14. d5 Qe7 15.
+c5 dxc5 16. c4 Ba8 17. a4 Nb7 18. a5 Nxa5 19. Bd2 Nb7 20. Rxa7 Kb8 21. Qa4 Na5
+22. Bxa5 Qd7 23. Qa3 Kxa7 24. Bxb6+ Kxb6 25. Nb3 1-0

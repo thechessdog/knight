@@ -1,0 +1,18 @@
+[Event "corr Bundes-ch"]
+[Site "corr Bundes-ch"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Dyckhoff, E."]
+[Black "Klutke"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "e0ce518c"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8.
+b3 Qc7 9. Bb2 dxc4 10. bxc4 Rd8 11. Qc2 b6 12. h3 Bb7 13. e4 Nf8 14. Rad1
+a6 15. e5 N6d7 16. Rfe1 Bb4 17. Re3 Bxc3 18. Qxc3 c5 19. d5 exd5 20. cxd5
+Bxd5 21. e6 1-0
+

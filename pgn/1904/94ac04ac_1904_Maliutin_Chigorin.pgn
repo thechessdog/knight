@@ -1,0 +1,25 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Maliutin, Boris Evgenievich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Paulsen variation"]
+[HashCode "94ac04ac"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 Ng6 13. Ne2 Bg4 14. Kh1 c5
+15. Ng3 f6 16. Qd2 Bxf3 17. gxf3 Ne5 18. Qe2 Rc8 19. Rac1 Kh8 20. Bb1 c4 21. f4
+Ng6 22. Nh5 Rc7 23. f5 Ne5 24. f4 Nd7 25. Qg2 Nc5 26. Rf3 Qe8 27. Rh3 Na4 28.
+Ba1 c3 29. Bxc3 Nxc3 30. Rcxc3 Qxh5 31. Rxh5 Rxc3 32. Bc2 Re3 33. h4 Rc8 34. e5
+dxe5 35. d6 Re1+ 36. Kh2 Bg1+ 37. Kh3 Rc3+ 38. Kg4 Nc4 39. Rxh7+ Kxh7 40. Kh5
+Nxd6 41. fxe5 Rxe5 42. Qg6+ Kg8 43. Bb3+ Rxb3 44. axb3 Rxf5+ 45. Kg4 Be3 46.
+Kh3 Rf3+ 47. Kh2 Rf2+ 48. Kh1 Rf4 49. h5 Rf5 50. Qg4 Bf4 51. b4 Ne4 52. Qf3
+Rxh5+ 53. Kg1 Rg5+ 54. Kh1 Ng3+ 55. Kg2 Nf5+ 56. Kf1 Be3 57. Qxb7 Bb6 58. Ke2
+Nh6 59. Qa8+ Kh7 60. Qe4+ f5 0-1

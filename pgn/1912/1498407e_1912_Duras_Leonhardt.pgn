@@ -1,0 +1,17 @@
+[Event "Opatija"]
+[Site "Opatija"]
+[Date "1912.??.??"]
+[Round "10"]
+[White "Důras, Oldřich"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Boren-Svenonius variation"]
+[HashCode "1498407e"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 Bd6 6. e5 Bxe5 7. Nf3 Qh5 8.
+Qe2 Nd7 9. d4 Ne7 10. Bxf7+ Qxf7 0-1

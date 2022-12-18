@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Napolitano, Mariano"]
+[Black "Cuadrado"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, positional main line"]
+[HashCode "b1e455d7"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8.
+Be2 Qa5 9. Qd2 Nf5 10. dxc5 Qxc5 11. O-O d4 12. Bb2 Nxe5 13. Nxe5 Qxe5 14. cxd4
+Qd6 15. a4 O-O 16. Ba3 Qxd4 17. Rfd1 1-0

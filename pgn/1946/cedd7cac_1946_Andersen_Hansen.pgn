@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Andersen, Henrik"]
+[Black "Hansen, Dines"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "cedd7cac"]
+[Epoch "Knight"]
+
+1. d4 e6 2. e4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 Be6 6. Be3 Nc6 7. Bb5 Ne7
+8. Nf3 a6 9. Bxc6+ Nxc6 10. Nd4 Qd7 11. Nxc6 Qxc6 12. Qd4 Rc8 13. O-O-O
+Bxc5 14. Qxg7 Kd7 15. Nxd5 Bxe3+ 16. Nxe3+ Kc7 17. Qe5+ 1-0
+

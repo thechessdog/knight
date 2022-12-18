@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Krenzisky, Simon"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "18536be2"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+
+1. d4 e6 2. Nf3 d5 3. c4 Nf6 4. Nc3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. O-O
+a6 9. Qe2 b5 10. Bb3 Bb7 11. dxc5 Bxc5 12. e4 Qb6 13. Bf4 Nc6 14. e5 Nh5 15.
+Be3 Bxe3 16. Qxe3 Qxe3 17. fxe3 g6 18. g4 Ng7 19. Ne4 Rad8 20. Rad1 Rxd1 21.
+Rxd1 Rd8 22. Nf6+ Kh8 23. Rd6 Ne8 24. Rxd8 Nxd8 25. Bd1 Nxf6 26. exf6 Nc6 27.
+Kf2 Kg8 28. a3 h6 29. h4 Kf8 30. Kg3 Ke8 31. Kf4 Kd7 32. g5 h5 33. Ne5+ Nxe5
+34. Kxe5 Bc6 35. e4 Bb7 36. Kd4 Kd6 37. e5+ Kd7 38. Kc5 Bd5 39. a4 bxa4 40.
+Bxa4+ Kc7 41. Be8 1-0

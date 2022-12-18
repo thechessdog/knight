@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Karstens"]
+[Black "Friesickle"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "f99d524b"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf5 d5 6. Ng3 d4 7. f4 Bd6 8.
+f5 Nf6 9. a3 Qc7 10. Bd3 Bd7 11. O-O O-O 12. Nd2 Rac8 13. Nh5 Nxh5 14. Qxh5
+Kh8 15. f6 g6 16. Qh6 Rg8 17. Nf3 Bf8 18. Ng5 Bxh6 19. Nxf7# 1-0
+

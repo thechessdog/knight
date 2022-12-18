@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Pfeiffer, Gerhard"]
+[Black "Schwarz"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Rasa-Studier gambit"]
+[HashCode "b0bf4cea"]
+[Epoch "Knight"]
+[WhiteID "1649027"]
+[WhiteCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Bf5 6. Bc4 e6 7. O-O Nf6 8.
+Bg5 Nbd7 9. Qe2 Be7 10. Rad1 O-O 11. Kh1 Qc7 12. Bb3 Nb6 13. Ne5 Rfe8 14. Nxf7
+Bg4 15. Nh6+ gxh6 16. Bxe6+ 1-0

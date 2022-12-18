@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Kolbe"]
+[Black "Rotenstein"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "82e835a6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Bc4 Qh4+ 5. Kf1 Bc5 6. g3 fxg3 7. Nf3 g2+
+8. Kxg2 Qf2+ 9. Kh3 d5# 0-1
+

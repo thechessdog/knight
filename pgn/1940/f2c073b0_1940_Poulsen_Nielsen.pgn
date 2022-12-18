@@ -1,0 +1,21 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1940.01.01"]
+[Round "2"]
+[White "Poulsen, Christian"]
+[Black "Nielsen, Bjorn"]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "f2c073b0"]
+[Epoch "Knight"]
+[BlackID "1416839"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. g3 cxd4 7. Qxd4 Nc6 8.
+Qa4 Nxc3 9. bxc3 Be7 10. Bg2 Bf6 11. Bd2 O-O 12. O-O Bd7 13. Qe4 Rc8 14. Rfd1
+Qe7 15. Rab1 b6 16. c4 Rfd8 17. a4 Be8 18. h4 h6 19. a5 bxa5 20. Be3 a4 21. Nd4
+Nxd4 22. Bxd4 Bxd4 23. Rxd4 a3 24. Rxd8 Rxd8 25. Qe3 a2 26. Rf1 Ba4 27. Bd5 Qb4
+28. Be4 Qb2 29. Qxa7 a1=Q 0-1

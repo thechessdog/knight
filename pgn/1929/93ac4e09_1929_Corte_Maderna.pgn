@@ -1,0 +1,19 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Corte, Cesar Juan"]
+[Black "Maderna, Carlos Hugo"]
+[Result "0-1"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "93ac4e09"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Be2 Be7 10. Nf3 f6 11. O-O fxe5 12. Nxe5 Nxe5 13. dxe5 O-O 14. Qb3 c6 15.
+c5 Nd5 16. Nxd5 cxd5 17. Qxb7 d4 18. c6 dxe3 19. Rad1 Qe8 20. Rd7 Be4 21. Rxe7
+Qg6 22. g3 Rxf1+ 23. Bxf1 Rf8 24. Bh3 e2 25. Qb4 Qh6 26. Bxe6+ Kh8 0-1

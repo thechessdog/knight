@@ -1,0 +1,18 @@
+[Event "Tatatovaros"]
+[Site "Tatatovaros"]
+[Date "1935.07.09"]
+[Round "3"]
+[White "Znosko Borovsky, Eugene"]
+[Black "Balogh, Janos"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "cccef914"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Qe2 Nc5 11. Nbd2 Nxb3 12. Nxb3 Bg4 13. Re1 O-O 14. Qd3 Qd7
+15. Nfd4 Nxd4 16. cxd4 1-0

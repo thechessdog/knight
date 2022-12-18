@@ -1,0 +1,25 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "18bfcae8"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O Nxb3 7. axb3 d6 8. d4
+exd4 9. Nxd4 Bb7 10. Re1 Ne7 11. Nc3 Qd7 12. Qf3 c5 13. Nde2 Ng6 14. Ng3 Be7
+15. Nd5 Bxd5 16. exd5 O-O 17. Qf5 Rfd8 18. Qxd7 Rxd7 19. Bd2 Bf6 20. Bc3 Bxc3
+21. bxc3 a5 22. Nf5 Kf8 23. Kf1 Ne7 24. Ne3 Rda7 25. Reb1 g6 26. Ke2 Nc8 27. c4
+b4 28. c3 Nb6 29. cxb4 axb4 30. Nc2 Ra2 31. Kd2 Nd7 32. f4 Nf6 33. Re1 Ne4+ 34.
+Rxe4 Rxa1 35. Nxa1 Rxa1 36. Ke2 Ra2+ 37. Kf3 Rb2 38. Re3 h5 39. h3 Kg7 40. g3
+Kf6 41. Ke4 g5 42. Kf3 gxf4 43. Kxf4 Rd2 44. Rf3 Kg6 45. Re3 Rd4+ 46. Re4 Rd1
+47. Re3 Rf1+ 48. Rf3 Rh1 49. g4 hxg4 50. Kxg4 f5+ 51. Kf4 Kf6 52. Rd3 Rf1+ 53.
+Rf3 Rd1 54. Re3 Rd4+ 55. Kf3 Kg5 56. Re8 Rd3+ 57. Re3 Rc3 58. Ke2 f4 59. Re6
+Rxb3 60. Rxd6 Rxh3 61. Rc6 b3 62. Rxc5 b2 63. Rb5 Rh1 64. d6+ Kf6 0-1

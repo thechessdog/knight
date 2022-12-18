@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Seibold"]
+[Black "Kunert"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[HashCode "757324d5"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Ne2 e6 3. Nbc3 a6 4. g3 b5 5. Bg2 Bb7 6. O-O d6 7. d4 cxd4 8.
+Nxd4 Nf6 9. Re1 Qc7 10. Bg5 Nbd7 11. Nd5 exd5 12. exd5+ Kd8 13. Nc6+ Bxc6
+14. dxc6 Nc5 15. b4 Ne6 16. Bxf6+ gxf6 17. a4 Ra7 18. Qd3 bxa4 19. Rxa4 Bg7
+20. c4 Ke7 21. f4 Re8 22. f5 Kf8 23. fxe6 f5 24. Qxf5 Qb6+ 25. Kh1 Rc7 26.
+b5 axb5 27. cxb5 Be5 28. Rxe5 dxe5 29. Qf6 1-0
+

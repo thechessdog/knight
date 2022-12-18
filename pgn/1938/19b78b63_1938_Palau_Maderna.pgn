@@ -1,0 +1,24 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1938.01.01"]
+[Round "10"]
+[White "Palau, Luis Argentino"]
+[Black "Maderna, Carlos Hugo"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "19b78b63"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Qc8 6. O-O Be7 7. Nc3 d5 8. Ne5
+O-O 9. Bg5 dxc4 10. Nxc4 Bxg2 11. Kxg2 Qb7+ 12. Kg1 Rd8 13. e3 c5 14. Ne5 h6
+15. Bxf6 Bxf6 16. Ng4 Be7 17. Qa4 cxd4 18. exd4 Qc6 19. Qd1 Na6 20. Ne5 Qb7 21.
+Qf3 Qxf3 22. Nxf3 Nb4 23. Rfd1 Bf6 24. Ne4 Rac8 25. Nxf6+ gxf6 26. a3 Nc6 27.
+Rac1 Nxd4 28. Nxd4 Rxc1 29. Rxc1 Rxd4 30. Rc7 Ra4 31. Rb7 f5 32. f4 Kg7 33. Kf2
+Ra5 34. Kf3 Kg6 35. h3 h5 36. g4 fxg4+ 37. hxg4 hxg4+ 38. Kxg4 Ra4 39. Kf3 f6
+40. Kg4 e5 41. Kg3 Rxf4 42. Rxa7 Rd4 43. b4 Rd3+ 44. Kf2 Kf5 45. a4 Rb3 46. b5
+e4 47. Ra6 Ra3 48. Rxb6 Rxa4 49. Rb8 Kf4 50. b6 Ra2+ 51. Ke1 Rb2 52. b7 f5 53.
+Kd1 Ke3 54. Rf8 Rb1+ 55. Kc2 Rxb7 56. Rxf5 Ke2 57. Kc3 Rd7 0-1

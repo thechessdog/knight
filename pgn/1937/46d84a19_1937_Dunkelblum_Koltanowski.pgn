@@ -1,0 +1,18 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.04.01"]
+[Round "1"]
+[White "Dunkelblum, Arthur"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "46d84a19"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nc3 Nc6 7. Nf3 Bg7 8. Ne5
+Nxe5 9. dxe5 Ng4 10. Qxd5 Bxe5 11. Qxd8+ Kxd8 12. Bd2 Rb8 13. O-O Bd7 14. Rfd1
+Ke8 15. h3 Nf6 16. Be3 b6 17. Bd4 1/2-1/2

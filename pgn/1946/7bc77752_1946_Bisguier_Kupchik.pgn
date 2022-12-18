@@ -1,0 +1,18 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bisguier, Arthur Bernard"]
+[Black "Kupchik, Abraham"]
+[Result "1/2-1/2"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "7bc77752"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. Nc3 d5 7. d4 c6 8. Bf4
+Ne4 9. Qb3 Nd7 10. Nxe4 fxe4 11. Ne5 Qb6 12. c5 Qxb3 13. axb3 Nxe5 14. Bxe5 Bf6
+15. Bd6 Re8 16. Be5 Rf8 17. Bd6 Re8 18. Be5 1/2-1/2

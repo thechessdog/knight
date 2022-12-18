@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Lindquist, S."]
+[Black "Osterlund, F."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "aacc1985"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5
+Be7 8. Bd3 O-O 9. O-O b6 10. Qe2 Bb7 11. Rad1 Re8 12. c4 Nd7 13. Bd2 c5 14.
+Bc3 Qc7 15. Ne5 Nf8 16. dxc5 Bxc5 17. Bxh7+ Kxh7 18. Rd7 Nxd7 19. Qh5+ Kg8
+20. Qxf7+ Kh7 21. Nxd7 Qxd7 22. Qxd7 Re7 23. Qd3+ Kg8 24. b4 1-0
+

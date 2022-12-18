@@ -1,0 +1,20 @@
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1914.??.??"]
+[Round "?"]
+[White "Vainshtein, Samuil"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "23e8a92a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 b5 7. f4 a5 8. Ng3 Qb6
+9. Nf3 Nc6 10. Be3 cxd4 11. cxd4 Bb4+ 12. Kf2 O-O 13. f5 exf5 14. Nxf5 f6 15.
+Qb3 fxe5 16. Qxd5+ Kh8 17. dxe5 Bc5 18. Bxc5 Nxc5 19. N5d4 Bb7 20. Rc1 Nd3+ 21.
+Bxd3 Nxd4 22. Qc5 Qxc5 23. Rxc5 Nxf3 24. gxf3 Rxf3+ 25. Ke2 Rxd3 26. Kxd3 Bxh1
+27. Rxb5 Kg8 0-1

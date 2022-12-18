@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Grau, Roberto"]
+[Black "De Witt"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "974e24a5"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. e4 Nc6 2. Nc3 g6 3. d4 d6 4. Be3 Bg7 5. Qd2 Nf6 6. f3 O-O 7. Nge2 Re8 8. g4
+e5 9. d5 Ne7 10. O-O-O Kf8 11. Ng3 Neg8 12. Be2 Re7 13. h4 a6 14. h5 Ne8 15.
+hxg6 hxg6 16. Rdg1 c5 17. Bh6 b5 18. Bxg7+ Nxg7 19. Rh8 f6 20. Qh6 Kf7 21. Qh7
+Qf8 22. Nf5 1-0

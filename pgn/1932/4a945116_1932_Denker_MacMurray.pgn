@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Decker, Arnold Sheldon"]
+[Black "MacMurray, Donald"]
+[Result "1-0"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "4a945116"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d5 6. Qa4 Qd7 7. cxd5 Nxd5 8.
+Nxd5 Qxd5 9. Nb5 Qd7 10. Bd2 e5 11. O-O-O Bc5 12. Bg5 Qf5 13. Rd8+ Nxd8 14.
+Nc7+ Kf8 15. Qe8# 1-0

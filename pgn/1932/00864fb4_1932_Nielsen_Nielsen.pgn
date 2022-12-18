@@ -1,0 +1,20 @@
+[Event "Herning"]
+[Site "Herning"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Fries-Nielsen, Jens Ove"]
+[Black "Nielsen, Bjorn"]
+[Result "0-1"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "00864fb4"]
+[Epoch "Knight"]
+[BlackID "1416839"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. Nf3 Nf6 5. Nc3 Qa5 6. Bd2 Bg4 7. e3 e5 8.
+Bb5 O-O-O 9. Qb3 Bxf3 10. gxf3 exd4 11. Bxc6 bxc6 12. Ne4 Qf5 13. Qxf7 dxe3 14.
+Bxe3 Qxf3 15. Qe6+ Rd7 16. Ng3 Bb4+ 17. Kf1 Re8 18. Qb3 Ng4 19. Bxa7 Rd3 20.
+Qxb4 Red8 21. Kg1 Rd1+ 22. Rxd1 Rxd1+ 23. Nf1 Ne5 24. h3 Rxf1+ 25. Kxf1 Qxh1+
+26. Ke2 Qf3+ 27. Kd2 Qd3+ 28. Ke1 Nf3# 0-1

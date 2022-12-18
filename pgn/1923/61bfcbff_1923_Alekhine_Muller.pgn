@@ -1,0 +1,18 @@
+[Event "Margate"]
+[Site "Margate"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Muller, Hans P"]
+[Result "1-0"]
+[ECO "E72"]
+[Opening "King's Indian"]
+[Variation "Pomar system"]
+[HashCode "61bfcbff"]
+[Epoch "Knight"]
+[BlackID "3223167"]
+[WhiteCountry "FRA"]
+[BlackCountry "AUS"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. e4 e5 7. Nge2 Nbd7 8. O-O
+c6 9. b3 Re8 10. Ba3 Nf8 11. Qd3 Ne6 1-0

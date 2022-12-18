@@ -1,0 +1,19 @@
+[Event "Bergen"]
+[Site "Bergen"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Nimzowitsch, Aron"]
+[Black "Jokstad"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "57751295"]
+[Epoch "Knight"]
+[WhiteCountry "DAN"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 Bxf3 9. gxf3 Nb6 10. Be3 e6 11. d5 exd5 12. Bxb6 axb6 13. O-O-O d4 14. Bc4
+Qg5+ 15. Kb1 Qf5+ 16. Ne4 Bc5 17. Rhg1 O-O 18. Rg5 Qf4 19. Rdg1 g6 20. R1g4
+Qxh2 21. Rh5 Qc7 22. f4 Na5 23. Rxg6+ hxg6 24. Qh3 gxh5 25. Nf6+ Kg7 26. Qg2+
+Kxf6 27. Qg5# 1-0

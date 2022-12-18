@@ -1,0 +1,20 @@
+[Event "match"]
+[Site "match"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Kan, Ilya"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "a7076ff8"]
+[Epoch "Knight"]
+[WhiteID "24187372"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 c5 7. dxc5 Qxc5 8.
+Be3 Bxc3+ 9. bxc3 Qe7 10. g3 Nc6 11. Bg2 O-O 12. O-O e5 13. Rab1 Rd8 14. h3 Be6
+15. Bg5 b6 16. Nd2 Rac8 17. Ne4 h6 18. Bxf6 gxf6 19. g4 f5 20. gxf5 Bxf5 21. e3
+Rd6 22. Kh2 Rg6 23. f4 Kh8 24. Qf2 exf4 25. Qxf4 Rxg2+ 26. Kxg2 Qxe4+ 0-1

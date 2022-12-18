@@ -1,0 +1,17 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "1"]
+[White "Rabinovich, Abram"]
+[Black "Yurevich, Vladimir"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "165e607a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 c6 5. axb5 cxb5 6. Qf3 a6 7. Qxa8 Qc7 8. Qe4
+Nf6 9. Qc2 Bb7 10. Nc3 e6 11. Nf3 Bb4 12. Bd2 O-O 13. Be2 Nbd7 14. O-O Bxc3 15.
+Bxc3 Ng4 16. h3 Ngf6 17. Ne5 Nb6 18. Ba5 Rd8 19. b3 Be4 20. Qc1 Nfd5 21. bxc4
+f6 22. c5 Qxc5 23. dxc5 1-0

@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Roedl, Ludwig"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[HashCode "78a59e06"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 c5 8. e3
+Nc6 9. Be2 O-O 10. O-O Bf5 11. Nh4 Be6 12. cxd5 Bxd5 13. c4 Be4 14. f3 e5 15.
+Bg3 g5 16. fxe4 gxh4 17. Bxe5 Nxe5 18. dxe5 1/2-1/2

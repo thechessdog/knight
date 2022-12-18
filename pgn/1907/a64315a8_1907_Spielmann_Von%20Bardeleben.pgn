@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Von Bardeleben, Curt"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "a64315a8"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Bxc3+ 7. bxc3 Qxf6
+8. Ne2 d6 9. O-O g5 10. Rb1 Rb8 11. Ng3 h5 12. Bb5 Ra8 13. d4 h4 14. Nf5 Bxf5
+15. exf5 exd4 16. cxd4 Kf8 17. c3 Ne7 18. Bd3 Nxf5 19. Qf3 1-0

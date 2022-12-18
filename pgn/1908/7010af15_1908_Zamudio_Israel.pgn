@@ -1,0 +1,23 @@
+[Event "Buenos Aires ch"]
+[Site "Buenos Aires ch"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Zamudio, E."]
+[Black "Israel, A."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "7010af15"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 d6 7. c3 Be7 8.
+Be3 O-O 9. Nbd2 Be6 10. Nf1 d5 11. Ng3 dxe4 12. dxe4 Bxb3 13. Qxb3 Na5 14.
+Qc2 Nc4 15. Nf5 Nxe3 16. Nxe3 Bd6 17. Rd1 g6 18. Nxe5 Qe7 19. Nc6 Qe8 20.
+e5 Bxe5 21. Nxe5 Qxe5 22. O-O Rfe8 23. Rde1 Qe6 24. Qb1 Rad8 25. Re2 Nd5
+26. Rfe1 Nf4 27. Rc2 Qc6 28. c4 b4 29. b3 h5 30. Qa1 a5 31. Qb1 Re5 32. Kf1
+Rde8 33. Rd1 Rg5 34. Rd5 Nxd5 35. cxd5 Qb5+ 36. Kg1 Rge5 37. h3 Qd7 38. Qc1
+R8e7 39. Rc5 a4 40. Qd2 axb3 41. axb3 Re4 42. Rc6 R7e6 43. Rc5 c6 44. Qc2
+cxd5 45. Rxd5 Qe7 46. Qc8+ Kh7 47. Nc4 Qf6 48. Qc5 Re1+ 49. Kh2 Qf4+ 50. g3
+Qf3 0-1
+

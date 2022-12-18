@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "Menke, G."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "bd968e7d"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. Nxc7+ Kd8
+8. Nxa8 Ne5 9. h3 Bh5 10. Rg1 Qg3 11. Qe1 Nxf3 12. gxf3 Qxf3# 0-1

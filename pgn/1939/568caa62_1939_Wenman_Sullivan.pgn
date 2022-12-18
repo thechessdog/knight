@@ -1,0 +1,19 @@
+[Event "Bristol"]
+[Site "Bristol"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Wenman"]
+[Black "Sullivan"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "568caa62"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 d5 5. e5 Ne4 6. d3 Nxc3 7. bxc3 g5 8.
+h4 Be7 9. hxg5 Bxg5 10. g3 Bg4 11. Bxf4 Bxf4 12. gxf4 c5 13. Be2 Qa5 14.
+Qd2 Nc6 15. Ng5 Bxe2 16. Kxe2 h6 17. Rh2 Ke7 18. Rah1 f6 19. exf6+ Kxf6 20.
+Rxh6+ Rxh6 21. Rxh6+ Kg7 22. Qe3 Kxh6 23. Qh3+ Kg7 24. Qh7+ Kf6 25. Qf7#
+1-0
+

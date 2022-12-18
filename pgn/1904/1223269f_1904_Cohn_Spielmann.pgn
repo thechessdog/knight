@@ -1,0 +1,20 @@
+[Event "Coburg"]
+[Site "Coburg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Cohn, Erich"]
+[Black "Spielmann, Rudolf"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "1223269f"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Be7 12. Bc2 Nc5 13. Nd4 Nxd4 14. cxd4 Nd7
+15. Re1 Rb6 16. f4 f5 17. exf6 Nxf6 18. f5 Bc8 19. Ra8 Kf7 20. Bg5 Re8 21. Nc3
+Kg8 22. Rxe7 Qxe7 23. Nxd5 Qd6 24. Bxf6 gxf6 25. Bb3 Kh8 26. Nxb6 Qxb6 27. Be6
+Bd7 28. Rxe8+ Bxe8 29. Qg4 1-0

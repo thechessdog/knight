@@ -1,0 +1,17 @@
+[Event "Manchuria"]
+[Site "Manchuria"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Denn"]
+[Black "Perwago, R."]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez (Spanish opening)"]
+[HashCode "6f455c88"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4 4. c3 Ba5 5. O-O Nge7 6. Na3 O-O 7. Qa4 d5
+8. Bxc6 Nxc6 9. Nxe5 Nxe5 10. Qxa5 Nf3+ 11. Kh1 Qd6 12. gxf3 Qf4 13. Kg2
+Bh3+ 14. Kxh3 Qxf3+ 15. Kh4 g5+ 16. Kxg5 Kh8 17. Kh4 Rg8 18. h3 Qf4+ 19.
+Kh5 Qg5# 0-1
+

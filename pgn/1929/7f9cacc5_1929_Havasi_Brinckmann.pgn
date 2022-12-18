@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Havasi, Kornel"]
+[Black "Brinckmann, Alfred"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[HashCode "7f9cacc5"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 e6 5. Nf3 Bd6 6. e3 Nc6 7. Nd2 f5 8. f4
+Nf6 9. Bd3 O-O 10. O-O g5 11. fxg5 Bxh2+ 12. Kxh2 Ng4+ 13. Kg1 Nxe3 14. Qh5
+Nxf1 15. Nxf1 Nxd4 16. g6 Qd7 17. Bh6 Re8 18. gxh7+ Kh8 19. Qg6 Nc6 20. Bg5 1-0

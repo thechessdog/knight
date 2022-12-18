@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Gomez Masia"]
+[Black "Falcon"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, Karlsbad variation"]
+[HashCode "b0674433"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2
+8. Nxd2 Bxc5 9. e3 f5 10. Be2 O-O 11. Nf3 b6 12. Qc2 Bb7 13. a3 Qf6 14. b4
+Be7 15. O-O Qg6 16. Rfd1 Ne5 17. e4 Bf6 18. exf5 exf5 19. Ne1 Rac8 20. Rac1
+Bg5 21. Rb1 Be4 22. Nxe4 fxe4 23. Rd5 Qf7 24. Bf1 Be3 25. Qe2 Qxf2+ 26.
+Qxf2 Rxf2 0-1
+

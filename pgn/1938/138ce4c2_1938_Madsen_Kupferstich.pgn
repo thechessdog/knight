@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Madsen, Eigil"]
+[Black "Kupferstich, Moses"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "138ce4c2"]
+[Epoch "Knight"]
+
+1. c4 e5 2. e3 Nc6 3. Nf3 Nf6 4. Nc3 d6 5. d4 exd4 6. Nxd4 Ne5 7. Be2 Be7
+8. f4 Ng6 9. O-O O-O 10. e4 Re8 11. f5 Ne5 12. Bf4 Nfd7 13. Qd2 c6 14. g4
+g5 15. fxg6 hxg6 16. h3 Bf6 17. Nf3 Nxf3+ 18. Bxf3 Ne5 19. Be2 Be6 20. b3
+Qe7 21. Rad1 Red8 22. Bf3 Rd7 23. Bg2 a6 24. Ne2 b5 25. cxb5 axb5 26. Nd4
+Bg7 27. Qc2 Rda7 28. Bxe5 Bxe5 29. Nxe6 Qxe6 30. Qxc6 Rxa2 31. Qxb5 Qe7 32.
+Qd3 Rc8 33. Rd2 Qa7+ 34. Kh1 Rc3 35. Rxa2 Qxa2 36. Qd5 Rxh3+ 37. Kg1 Bh2+
+38. Kh1 Bg3+ 0-1
+

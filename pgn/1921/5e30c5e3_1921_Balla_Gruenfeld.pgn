@@ -1,0 +1,24 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1921.09.01"]
+[Round "?"]
+[White "Von Balla, Zoltan"]
+[Black "Gruenfeld, Ernst"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "5e30c5e3"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 d6 8. h3
+Na5 9. Bc2 c5 10. d3 O-O 11. Nbd2 Re8 12. Nf1 Nd7 13. Ne3 Nb6 14. Bd2 Bf8 15.
+g4 Nc6 16. O-O Ne7 17. Nh4 Ned5 18. Nxd5 Nxd5 19. Ng2 Nb6 20. c4 Be6 21. b3 Nd7
+22. f4 exf4 23. Rxf4 d5 24. cxd5 Bxd5 25. Bc3 Bd6 26. Rf2 Qb8 27. Raf1 Be5 28.
+Qd2 Be6 29. Nf4 Bxc3 30. Qxc3 b4 31. Qd2 Qe5 32. Kh1 Rad8 33. Qe3 Rf8 34. Rg2
+a5 35. g5 f5 36. Rgf2 fxe4 37. dxe4 Qxg5 38. e5 Qh6 39. Qd3 Nf6 40. Qg3 Nh5 41.
+Nxh5 Qxh5 42. Rxf8+ Rxf8 43. Rxf8+ Kxf8 44. Qf2+ Kg8 45. Qxc5 Qxh3+ 46. Kg1
+Qg3+ 47. Kf1 Qc3 48. Qxc3 bxc3 49. Ke2 g6 50. Be4 Kf7 51. Bc6 Bf5 52. Bd5+ Ke7
+53. a3 Be6 54. Bxe6 Kxe6 55. Kd3 h5 0-1

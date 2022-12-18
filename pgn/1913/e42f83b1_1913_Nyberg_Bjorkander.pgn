@@ -1,0 +1,18 @@
+[Event "Christiania"]
+[Site "Christiania"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Nyberg"]
+[Black "Bjorkander"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "e42f83b1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 d6 5. Qb3 Qe7 6. Nxc3 c6 7. Be3 Be6
+8. Nf3 Bxc4 9. Qxc4 Nd7 10. Qe2 Ngf6 11. Bg5 h6 12. Bh4 g5 13. Bg3 Nh5 14.
+Nd4 Nxg3 15. hxg3 Nc5 16. Rd1 O-O-O 17. b4 Nd7 18. Qc2 Bg7 19. Nd5 Qe5 20.
+f4 gxf4 21. gxf4 Qe8 22. Nxc6 Nc5 23. Nce7+ Kb8 24. bxc5 dxc5 25. Qxc5 Qa4
+26. Qc7+ Ka8 27. Nb6+ axb6 28. Rxd8+ Rxd8 29. Qxd8+ Ka7 30. Nc8+ 1-0
+

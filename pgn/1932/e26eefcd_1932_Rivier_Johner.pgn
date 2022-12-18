@@ -1,0 +1,17 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1932.07.01"]
+[Round "7"]
+[White "Rivier, W."]
+[Black "Johner, Hans"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "e26eefcd"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. c3 e6 7. Bd3 Nd7 8. Nf3
+Qc7 9. Be3 Ngf6 10. O-O Bd6 11. Ng5 a6 12. Re1 Rd8 13. Qe2 Bxd3 14. Qxd3 O-O
+15. Rad1 Rfe8 16. N5e4 Nxe4 17. Qxe4 f5 0-1

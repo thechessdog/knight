@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Mross, Paul"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "04c5da8e"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. e3 Bb7 7. f3 d6 8. Bd3
+Nbd7 9. Ne2 O-O 10. e4 e5 11. Ng3 Re8 12. O-O Nf8 13. Nf5 g6 14. Nh6+ Kg7 15.
+f4 exd4 16. f5 Bxe4 17. Bg5 N8d7 18. Ng4 Qc8 19. Bh6+ Kh8 20. fxg6 Nxg4 21.
+Qxg4 f5 22. Bxe4 Rxe4 23. g7+ Kg8 24. Qxf5 Qe8 25. Qxd7 1-0

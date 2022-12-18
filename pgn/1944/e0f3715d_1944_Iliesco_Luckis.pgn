@@ -1,0 +1,26 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1944.03.01"]
+[Round "1"]
+[White "Iliesco, Juan Traian"]
+[Black "Luckis, Marcos"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "e0f3715d"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+[WhiteCountry "ARG"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d4 Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Be4 10. Ne1 Bxg2 11. Nxg2 c6 12. Bf4 d5 13. Rac1 Bf6 14. Rfd1 c5
+15. Qf3 cxd4 16. Bxb8 Rxb8 17. cxd5 Qxd5 18. Qxd5 exd5 19. Nf4 Rfd8 20. Rc7 a5
+21. Nd3 Kf8 22. Rdc1 Ke8 23. b4 Be7 24. b5 Bd6 25. R7c6 Kd7 26. Ne1 f6 27. Nd3
+Rdc8 28. Kf1 Rc7 29. Rxc7+ Bxc7 30. Rc6 Re8 31. Ke1 Re6 32. Rc1 g5 33. Kd2 f5
+34. Ne1 g4 35. Ng2 Rh6 36. Rh1 Be5 37. Kd3 Kd6 38. Nh4 Kc5 39. a4 Kb4 40. Ra1
+Rf6 41. f4 gxf3 42. exf3 f4 43. g4 Rh6 44. Nf5 Rh3 45. Rf1 Rxh2 46. Re1 Bc7 47.
+Re7 Bd8 48. Rd7 Bg5 49. Rd6 Kxa4 50. Rxb6 Kb4 51. Nxd4 a4 52. Ra6 Rb2 53. b6
+Kc5 54. Ne6+ Kb5 55. Ra8 Rb3+ 56. Kc2 Kxb6 57. Nxg5 h6 58. Nf7 Rxf3 59. Rxa4
+Kb5 60. Ra8 Rg3 61. Nxh6 Kc4 62. Rc8+ Kd4 63. Nf5+ Ke4 64. Nxg3+ fxg3 65. Kd2
+Kf3 66. g5 1-0

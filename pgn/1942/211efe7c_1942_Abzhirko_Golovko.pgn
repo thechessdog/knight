@@ -1,0 +1,22 @@
+[Event "Omsk"]
+[Site "Omsk"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Abzhirko"]
+[Black "Golovko"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[HashCode "211efe7c"]
+[Epoch "Knight"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. f3 Nbd7 6. Be3 e5 7. Nge2 O-O 8.
+Qd2 Re8 9. Bb3 c6 10. O-O-O a5 11. dxe5 dxe5 12. a4 Qe7 13. g4 Nc5 14. Bxc5
+Qxc5 15. Ng3 Nd7 16. h4 Nf8 17. h5 Be6 18. hxg6 hxg6 19. Nf5 gxf5 20. gxf5
+Bxb3 21. Rdg1 f6 22. Qh6 Re7 23. Qh8+ Kf7 24. Rxg7+ Ke8 25. Rxe7+ Qxe7 26.
+cxb3 Rd8 27. Rh6 Rd6 28. Rg6 Qh7 29. Qxh7 Nxh7 30. Rg7 Rd7 31. Rxd7 Kxd7
+32. Kd2 Kd6 33. Ke3 Kc5 34. Ne2 Kb4 35. Nc1 Kc5 36. Nd3+ Kd6 37. f4 exf4+
+38. Kxf4 b5 39. b4 axb4 40. a5 b3 41. a6 Kc7 42. Nc5 Kb6 43. e5 fxe5+ 44.
+Kxe5 Nf8 45. Kd6 Nh7 46. Ke7 1-0
+

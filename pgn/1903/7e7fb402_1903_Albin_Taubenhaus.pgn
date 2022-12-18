@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Albin, Adolf"]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "7e7fb402"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Nf3 e6 5. Nbd2 Bd6 6. Bg3 O-O 7. Ne5 c5 8. c3
+Nc6 9. f4 Qb6 10. Qb3 Qxb3 11. axb3 Ng4 12. Nxg4 Bxg4 13. Bd3 Ne7 14. h3 Bf5
+15. Be2 cxd4 16. exd4 g5 17. Bh2 gxf4 18. O-O Ng6 19. Bh5 Bd3 20. Rf2 e5 21.
+Bxg6 fxg6 22. dxe5 Bc5 23. Nf3 Be3 24. Ne1 Be4 25. Kf1 Bxf2 26. Kxf2 a6 27. Nf3
+Rae8 28. Re1 Bxf3 29. Kxf3 Rf5 30. e6 Rf6 31. Re5 Rexe6 32. Rxd5 Rd6 33. Rc5
+Rd3+ 34. Ke2 f3+ 35. gxf3 Rdxf3 36. Be5 Rf2+ 37. Ke3 R6f3+ 38. Ke4 Rxh3 39. Rc7
+Re2+ 40. Kf4 Rh4+ 41. Kg3 Rhe4 42. Bd4 Re7 43. Rc8+ Kf7 44. Bc5 Rd7 45. Kf4 Rd1
+0-1

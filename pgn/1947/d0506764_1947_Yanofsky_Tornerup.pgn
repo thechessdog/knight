@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Tornerup, John"]
+[Result "0-1"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, Herman Steiner variation"]
+[HashCode "d0506764"]
+[Epoch "Knight"]
+[WhiteCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 e4 10. Ng5 Bd6 11. Nxe4 Nxe4 12. Rxe4 Bf5 13. Re3 Ne5 14. h3 Qh4 15.
+Bc2 Ng4 16. Re2 Bxc2 17. Qxc2 Rae8 18. d4 Qxf2+ 19. Rxf2 Re1+ 20. Rf1 Bh2+ 21.
+Kh1 Rxf1# 0-1

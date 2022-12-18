@@ -1,0 +1,22 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Olland, Adolf Georg"]
+[Black "Conde, Adrian"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "279210ff"]
+[Epoch "Knight"]
+[BlackID "113123"]
+[BlackCountry "ARG"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Nc6 11. d5 Nb8 12. a4 Bb7 13. Qe2 Qb6 14. Nbd2 Nbd7 15.
+Nf1 Rb8 16. axb5 axb5 17. b4 O-O 18. Ra5 Bc8 19. Ng3 Ne8 20. Bd3 c4 21. Bc2
+Ndf6 22. Be3 Qc7 23. Rea1 Ng4 24. Ba7 Rb7 25. h3 Ngf6 26. Be3 g6 27. Bh6 Ng7
+28. Ra6 Bd7 29. Bg5 Re8 30. Qe3 Kh8 31. Nxe5 Nxd5 32. Nxf7+ Kg8 33. Nh6+ Kh8
+34. exd5 Bf8 35. Ra8 Bc8 36. Qd4 Be7 37. Ne4 Bd8 38. R1a7 1-0

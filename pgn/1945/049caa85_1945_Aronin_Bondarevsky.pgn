@@ -1,0 +1,19 @@
+[Event "USSR ch sf"]
+[Site "USSR ch sf"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Aronin, Lev Solomonovich"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "049caa85"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. g3 O-O 6. Bg2 Nbd7 7. Qb3 c6 8. O-O
+b6 9. Rd1 a5 10. Nd2 Ba6 11. cxd5 cxd5 12. Nf3 Rc8 13. Nb5 Rc4 14. a4 Ne4 15.
+Qd3 Bb4 16. Nd2 Rxd4 17. Qc2 Bxb5 18. axb5 Qc8 19. Bxe4 dxe4 20. Qxc8 Rxc8 21.
+e3 Rd5 0-1

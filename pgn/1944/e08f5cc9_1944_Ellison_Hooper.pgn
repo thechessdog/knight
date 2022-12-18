@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Ellison"]
+[Black "Hooper"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "e08f5cc9"]
+[Epoch "Knight"]
+
+1. g4 d5 2. Bg2 e5 3. c4 dxc4 4. Qc2 c6 5. Qxc4 Be6 6. Qc3 Nd7 7. Nf3 Bd6
+8. d4 Qe7 9. O-O Bxg4 10. dxe5 Nxe5 11. Rd1 O-O-O 12. Rxd6 Rxd6 13. Nd4 Nf6
+14. e4 Rxd4 15. Qxd4 Rd8 16. Qc3 Rd1+ 17. Bf1 Nxe4 18. Qe3 Qh4 0-1
+

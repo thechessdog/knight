@@ -1,0 +1,17 @@
+[Event "RUS-ch02"]
+[Site "Moscow"]
+[Date "1901.??.??"]
+[Round "8"]
+[White "Sharov, Sergey"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "1af7d648"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 Bg4 7. dxe5 Bxf3 8.
+Qxf3 Bxe5 9. Qb3 Qc8 10. f4 Bd4+ 11. Be3 Bxe3+ 12. Qxe3 Ne7 13. f5 O-O 14. Nc3
+f6 15. Rf4 Qe8 16. Rh4 Nxf5 0-1

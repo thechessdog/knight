@@ -1,0 +1,19 @@
+[Event "Cologne-A"]
+[Site "Cologne"]
+[Date "1911.01.01"]
+[Round "16"]
+[White "Kirschen"]
+[Black "Nyholm, Gustaf"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 4.d3"]
+[HashCode "bd8a4628"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 exd3 5. Qxd3 Bc5 6. Be3 Qe7 7. Kf2 Nf6 8. h3
+Bf5 9. Qb5+ c6 10. Bxc5 Ne4+ 11. Kf3 Ng5+ 12. Kg3 Qe1+ 13. Bf2 Ne4+ 14. Kh2
+Qxf2 15. Qd3 Qxf4+ 16. g3 Qf2+ 17. Bg2 O-O 18. Qf3 cxd5 19. Nc3 Qxf3 20. Nxf3
+Nxc3 21. bxc3 Nc6 22. Nd4 Nxd4 23. cxd4 Rac8 24. Rac1 Rfd8 25. c3 Rc4 26. Rhe1
+Kf8 27. Re2 Be6 28. Kg1 Rdc8 29. Re3 Rxd4 0-1

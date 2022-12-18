@@ -1,0 +1,17 @@
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1916.??.??"]
+[Round "?"]
+[White "Maliutin, Boris Evgenievich"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "a2f93517"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8.
+Nc3 Qa5 9. Nxe4 Be6 10. Bg5 h6 11. Bh4 g5 12. Nxd4 O-O-O 13. Nxc6 bxc6 14. Qh5
+Bb4 15. Red1 gxh4 16. Qxh4 Qe5 17. Ng3 Rxd1+ 18. Rxd1 Qxb2 0-1

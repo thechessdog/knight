@@ -1,0 +1,23 @@
+[Event "Buenos Aires Circulo"]
+[Site "Buenos Aires"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Benko, Francisco"]
+[Black "Grau, Roberto"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "b60da0c3"]
+[Epoch "Knight"]
+[WhiteID "101753"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Bg4 7. f3 Be6 8.
+Nge2 dxc4 9. Nf4 Nxd4 10. Nxe6 Nxe6 11. Bxc4 Qxd1+ 12. Rxd1 Rd8 13. Kf2 Rd6 14.
+Rhe1 Rxd1 15. Rxd1 Nd8 16. Nb5 e6 17. Nc7+ Ke7 18. Be3 Nd7 19. Bxa7 Nc6 20. Be3
+Nde5 21. Be2 f5 22. a3 Nd7 23. Bc4 Nd8 24. b4 h6 25. a4 g5 26. Bd4 e5 27. Bc3
+Nc6 28. a5 Bg7 29. b5 Nd4 30. Bb4+ Kf6 31. a6 Nb6 32. Nd5+ Nxd5 33. Bxd5 Nxb5
+34. Bxb7 Bf8 35. Bxf8 Rxf8 36. Rb1 Na7 37. Rb6+ Kg7 38. Bd5 Rd8 39. Be6 f4 40.
+Ke2 Rd4 41. Bf5 Ra4 42. Bd3 1-0

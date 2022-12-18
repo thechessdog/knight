@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Weinstein"]
+[Black "Dimitriev"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange, Rubinstein variation"]
+[HashCode "49f09c5d"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nf6 5. Bd3 Nc6 6. Bf4 Bg4 7. Qb3 Qc8
+8. h3 Bh5 9. Nd2 e6 10. Ngf3 Be7 11. O-O Bg6 12. Bxg6 hxg6 13. Rae1 O-O 14.
+Re3 Nh5 15. Bh2 g5 16. Rfe1 Nf4 17. h4 g4 18. Bxf4 gxf3 19. Nxf3 Na5 20.
+Qc2 Nc4 21. R3e2 Qd8 22. Bg5 Nd6 23. Bxe7 Qxe7 24. Ng5 g6 25. Nxe6 1-0
+

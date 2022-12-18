@@ -1,0 +1,17 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Edelman, Daniel"]
+[Black "Mazel"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "Two knights defence"]
+[HashCode "1664f08b"]
+[Epoch "Knight"]
+[WhiteID "2000660"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Nxe4 5. Bxf7+ Ke7 6. Nxe4 Kxf7 7. d3 d5
+8. Ng5+ Ke8 9. Qh5+ g6 10. Qf3 Qd7 11. O-O Nd4 12. Qd1 Qg4 13. Qd2 h6 14. f3
+Bc5 15. fxg4 Ne2+ 16. Kh1 Ng3+ 17. hxg3 hxg5# 0-1

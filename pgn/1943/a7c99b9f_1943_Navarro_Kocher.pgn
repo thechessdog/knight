@@ -1,0 +1,25 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "12"]
+[White "Navarro, Roberto"]
+[Black "Kocher"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "a7c99b9f"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 c5 8. Bxe7
+Qxe7 9. Qxg7 Qf8 10. Qxf8+ Rxf8 11. Nf3 cxd4 12. Ne2 Nc6 13. Nexd4 Ndxe5 14.
+O-O-O Bd7 15. Be2 Rc8 16. Nxc6 Nxc6 17. a3 Ke7 18. Rhe1 b5 19. a4 Rc7 20. axb5
+Nb4 21. c3 axb5 22. Kb1 Na6 23. Rxd5 exd5 24. Bxb5+ Kd6 25. Bxa6 Bf5+ 26. Kc1
+Ra8 27. Nd4 Bd7 28. Bd3 h6 29. Bf5 Ra1+ 30. Kd2 Ra2 31. Bxd7 Kxd7 32. Kc2 Rb7
+33. Nb3 Kd6 34. Kb1 Ra6 35. Nd4 Kc5 36. Kc2 Ra2 37. Nb3+ Kc4 38. Nd2+ Kc5 39.
+Rb1 Re7 40. Kd3 Ra8 41. Nb3+ Kd6 42. Nd4 Re4 43. f3 Re5 44. g4 h5 45. Nf5+ Kc6
+46. b4 Ra2 47. Rd1 f6 48. Nd4+ Kb6 49. Rg1 hxg4 50. fxg4 Rh2 51. Nf3 Rh3 52.
+Rf1 Re4 53. g5 Rexh4 54. Ke2 Re4+ 55. Kd1 Rf4 56. Ke2 fxg5 57. Nxg5 Rh2+ 58.
+Ke1 Rxf1+ 59. Kxf1 Rc2 60. Ke1 Kb5 61. Nh7 Rxc3 62. Nf6 Kc4 63. Kd2 Rb3 64. Nd7
+Kxb4 65. Ne5 Kc5 66. Kc2 Rg3 67. Kd2 Kd4 68. Nc6+ Ke4 69. Nb4 Rg2+ 70. Kd1 d4
+71. Nc2 Rxc2 0-1

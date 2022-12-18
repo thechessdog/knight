@@ -1,0 +1,18 @@
+[Event "Scheveningen"]
+[Site "Scheveningen"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Esser, Johannes"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, Showalter variation"]
+[HashCode "a3fda0b5"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Ba4 e4 7. Ne5 Be7 8.
+Nc3 O-O 9. f4 f6 10. Bb3+ Kh8 11. Ng6+ hxg6 12. f5 Nxf5 13. Rxf5 d5 14. Rh5+
+Kg8 15. Rxd5 Qe8 16. Rd8+ 1-0

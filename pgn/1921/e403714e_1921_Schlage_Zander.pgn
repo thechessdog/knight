@@ -1,0 +1,25 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Schlage, Willi"]
+[Black "Zander, Otto"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "e403714e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Nc3 Bb4 5. Bd3 Nf6 6. Qe2 Nc6 7. Nf3 d6 8. Bf4
+Qe7 9. a3 Bxc3+ 10. bxc3 e5 11. Bd2 Nd7 12. O-O Nd8 13. a4 a5 14. g3 f6 15. Nh4
+g6 16. f4 Nf7 17. Ng2 h5 18. Nh4 Nf8 19. f5 g5 20. Ng6 Nxg6 21. fxg6 Nh6 22.
+Qxh5 O-O-O 23. h4 Qd7 24. Qf3 gxh4 25. gxh4 Rdg8 26. h5 Kb8 27. Kg2 Bc8 28. Rh1
+Qg7 29. Raf1 Ng4 30. Qg3 exd4 31. cxd4 f5 32. exf5 Qxd4 33. Rh4 Ne3+ 34. Bxe3
+Qxd3 35. Qf2 Bxf5 36. Qxf5 Qxe3 37. Re4 Qh6 38. Rfe1 Rf8 39. Qg4 Rhg8 40. Kh3
+Kb7 41. R1e3 Qg7 42. Re7 Qf6 43. Qe4+ Kb8 44. Rg3 Qf1+ 45. Kh2 Qd1 46. Qe2 Qd4
+47. Rg4 Rf2+ 48. Kg3 Rxe2 49. Rxd4 Rxe7 50. Rg4 Re5 51. Kh4 Rh8 52. Rg5 Re6 53.
+Kg4 Kc8 54. Rf5 Kd7 55. Kg5 Rg8 56. Rf7+ Kd8 57. g7 Ke8 58. Rxc7 Re1 59. Kg6
+Rxg7+ 60. Kxg7 Rg1+ 61. Kf6 Kd8 62. Rg7 Rh1 63. Rh7 Rh4 64. h6 Rh1 65. Ke6 Rh4
+66. Kxd6 Rd4+ 67. Ke6 Kc8 68. Rg7 1-0

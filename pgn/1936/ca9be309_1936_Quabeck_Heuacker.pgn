@@ -1,0 +1,15 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Quabeck"]
+[Black "Heuacker, Paul"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "ca9be309"]
+[Epoch "Knight"]
+
+1. f4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. d3 e5 5. fxe5 Bb4+ 6. Bd2 Ne3 7. Qa4+ b5
+8. Qxb5+ Bd7 9. Qb7 Bc6 0-1
+

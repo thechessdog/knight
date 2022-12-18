@@ -1,0 +1,20 @@
+[Event "Nottingham"]
+[Site "Nottingham"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "O'Hanlon, John"]
+[Black "Sergeant"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "46d6844d"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 f6 13. Qd3 f5 14. Nd4
+Nxd4 15. cxd4 c5 16. f4 cxd4 17. Qxd4 Rc8 18. Qd3 d4 19. Rd1 Bc4 20. Qh3 g6
+21. Bd3 Qd5 22. b3 Bxd3 23. Qxd3 Qe4 24. Bb2 Qxf4 25. Bxd4 Rfd8 26. Kh1 Bc5
+27. Rac1 Bxd4 28. Rxc8 Rxc8 29. g3 Qxe5 30. Qxd4 Qxd4 31. Rxd4 Rc1+ 32. Kg2
+Rc2+ 33. Kf3 Rxa2 0-1
+

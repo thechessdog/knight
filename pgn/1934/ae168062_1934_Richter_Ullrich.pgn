@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Ullrich"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "ae168062"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. h4 Bg7 7. h5 d5 8. h6
+Bf8 9. e5 Ne4 10. Bb5+ Bd7 11. e6 fxe6 12. Nxe6 Qa5 13. Qxd5 Bxb5 14. Ng7+ Bxg7
+15. hxg7 1-0

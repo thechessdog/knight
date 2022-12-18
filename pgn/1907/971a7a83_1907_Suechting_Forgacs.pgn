@@ -1,0 +1,17 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Suechting, Hugo"]
+[Black "Forgacs, Leo Fleischmann"]
+[Result "1/2-1/2"]
+[ECO "C97"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin defence"]
+[HashCode "971a7a83"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 Kh8 13. Nf1 Ng8 14. Ne3 Be6 15. b3
+g6 16. Bb2 Bf6 17. d5 Bd7 18. c4 Bg7 19. Nh4 Bf6 20. Nf3 Bg7 1/2-1/2

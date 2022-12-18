@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Christoffersen"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "963af8bd"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. e3 c6 5. Nf3 Nbd7 6. Bd3 Be7 7. O-O Qc7 8. e4
+dxe4 9. Nxe4 c5 10. Re1 b6 11. Bg5 cxd4 12. Nxd4 Bb7 13. Nb5 Qb8 14. Bh4 a6 15.
+Bg3 e5 16. Nxf6+ gxf6 17. Nd4 Nc5 18. Bf5 Qd6 19. b4 Rd8 20. bxc5 Qxd4 21. cxb6
+Qxc4 22. Qh5 Rd4 23. Rad1 Qd5 24. Bh3 O-O 25. Rxd4 Qxd4 26. Bf5 1-0

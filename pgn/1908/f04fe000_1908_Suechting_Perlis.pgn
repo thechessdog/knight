@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1908.??.??"]
+[Round "11"]
+[White "Suechting, Hugo"]
+[Black "Perlis, Julius"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "f04fe000"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 d6 8. h3
+O-O 9. O-O Be6 10. Bxe6 fxe6 11. d4 Qe8 12. a4 exd4 13. cxd4 b4 14. Bg5 Qg6 15.
+Nbd2 Nd8 16. Rfc1 Ra7 17. Bxf6 gxf6 18. d5 Qf7 19. Rc4 Re8 20. Qd3 a5 21. Qd4
+c5 22. dxc6 Bf8 23. Rac1 Qc7 24. Qxf6 Bg7 25. Qg5 Nf7 26. Qg3 Kh8 27. Nd4 Bxd4
+28. Rxd4 Ra6 29. Qf4 Qe7 30. Qe3 Rc8 31. Nb3 Ne5 32. f4 Nxc6 33. Qd3 Qa7 34.
+Kh2 Rg8 35. Rxd6 Qg7 36. Rc2 Ne5 37. Qd4 Rxd6 38. Qxe5 Qxe5 39. fxe5 Rd3 40.
+Nxa5 b3 41. Rc1 Rd2 42. Nxb3 Rdxg2+ 43. Kh1 R2g3 0-1

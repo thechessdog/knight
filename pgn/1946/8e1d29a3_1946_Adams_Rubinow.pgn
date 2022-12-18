@@ -1,0 +1,21 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Adams, Weaver Warren"]
+[Black "Rubinow, Sol"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "8e1d29a3"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Nf5 8. Bd3
+h5 9. Qh3 cxd4 10. Bxf5 exf5 11. Qg3 g6 12. cxd4 Qc7 13. c3 b6 14. Nh3 h4 15.
+Qf3 Ba6 16. Bg5 Bc4 17. Bf6 Rg8 18. Qe3 Nd7 19. Bxh4 Nf8 20. f4 Ne6 21. Bf6 Ba6
+22. Kd2 Rc8 23. Rhb1 Kd7 24. a4 Bc4 25. Nf2 Nd8 26. g4 Nc6 27. gxf5 gxf5 28.
+Qh3 Na5 29. Qxf5+ Kc6 30. Ng4 Kb7 31. Ne3 Nb3+ 32. Rxb3 Bxb3 33. Rc1 Bxa4 34.
+Nxd5 Rg2+ 35. Ke1 Qc6 36. Ne7 Rg1+ 37. Kd2 Qg2+ 38. Ke3 Rxc3+ 39. Rxc3 Re1+ 40.
+Kd3 Qe2# 0-1

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Doery, L."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "9ac22a22"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Be7 4. Nf3 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 Nh6
+8. d4 Qe7 9. Bxh6 gxh6 10. Ne5 Bf6 11. Qh5 Rf8 12. Nxf7 Qxe4+ 13. Kxh2 Qxc2+
+14. Kg3 Bh4+ 15. Qxh4 Qxc4 16. Qd8# 1-0

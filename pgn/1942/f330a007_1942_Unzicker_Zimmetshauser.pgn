@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Zimmetshauser"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical, Maroczy system"]
+[HashCode "f330a007"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. a4 Qc7 8. O-O
+Be7 9. Kh1 Nc6 10. f4 O-O 11. Nb3 Na5 12. Nxa5 Qxa5 13. Be3 Bd7 14. Qd2 Qc7 15.
+Bf3 Rac8 16. g4 Bc6 17. g5 Ne8 18. Qg2 Qd7 19. f5 exf5 20. exf5 Bxf3 21. Qxf3
+Qc6 22. Nd5 Bd8 23. f6 Nc7 24. Nb6 Ne6 25. Nxc8 Qxc8 26. fxg7 Nxg7 27. c3 Ne6
+28. Rad1 Be7 29. Bd4 Qd7 30. Bf6 Bxf6 31. gxf6 Kh8 32. Rg1 Rc8 33. Rd3 Rc5 34.
+Qe4 Rh5 35. Rdg3 Qe8 36. Qg2 1-0

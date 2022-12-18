@@ -1,0 +1,20 @@
+[Event "USA-07.Congress"]
+[Site "St Louis"]
+[Date "1904.01.01"]
+[Round "4"]
+[White "Shrader, Eugene Wesley"]
+[Black "Jaffe, Charles"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "5f91cd1f"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Nb5 Nf6 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bg5 d4 11. Bxf6 Qxf6 12. Nd5 Qd6 13. Bc4 O-O 14. O-O
+Be6 15. Ne3 Qe5 16. Bxe6 Qxe6 17. Ng4 h5 18. h3 hxg4 19. Qxg4 Qxg4 20. hxg4
+Rfe8 21. Rfe1 Kf8 22. Kf1 Rxe1+ 23. Rxe1 Re8 24. b4 a6 25. f4 Rxe1+ 26. Kxe1
+Ke7 27. Ke2 Kd6 28. Kd3 Kd5 29. g5 Ne7 30. g4 Ng6 31. f5 Ne5+ 32. Kd2 Nxg4 0-1

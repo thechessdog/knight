@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Hill"]
+[Black "Janeway"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "c9bb1a6c"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nf4 4. d4 Ng6 5. h4 h5 6. Be2 e6 7. Bxh5 Nxh4 8.
+Qg4 Nf5 9. Qg6 Qe7 10. Bg5 fxg6 11. Bxg6+ Kd8 12. Rxh8 Qxg5 13. Rxf8+ Ke7
+14. Re8# 1-0
+

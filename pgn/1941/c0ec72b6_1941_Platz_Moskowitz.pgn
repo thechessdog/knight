@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Moskowitz, Jack"]
+[Result "1-0"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "c0ec72b6"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8. f4
+Nc6 9. Nb3 a5 10. a4 Qb6+ 11. Kh1 Be6 12. Nd5 Bxd5 13. exd5 Nb4 14. Bf3 Rac8
+15. c3 Nd3 16. Qxd3 Qxb3 17. Re1 Rc7 18. Ra3 Qb6 19. Qb5 Qxb5 20. axb5 b6 21.
+Be3 Rb7 22. g4 Nd7 23. b4 axb4 24. cxb4 Rc8 25. Bg1 Nb8 26. g5 Rc3 27. Rxc3
+Bxc3 28. Rc1 Bxb4 29. Rc8+ Kg7 30. Bd4+ f6 31. Bg4 Nd7 32. Be6 h6 33. Rg8+ Kh7
+34. f5 1-0

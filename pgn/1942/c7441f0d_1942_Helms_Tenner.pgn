@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Helms, Hermann"]
+[Black "Tenner, Oscar"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[HashCode "c7441f0d"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4 a6 6. a5 Ba7 7. b5 axb5 8. Bxb5
+Nf6 9. Ba3 Nxe4 10. Qe2 Nxf2 11. Nxe5 Nd4 12. Nxd7+ Nxe2 13. Nf6# 1-0

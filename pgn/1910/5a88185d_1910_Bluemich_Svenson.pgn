@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Bluemich, Max"]
+[Black "Svenson"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit"]
+[HashCode "5a88185d"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d6 6. Nf3 Bg4 7. Bxf4 f5 8.
+Kd3 Qe7 9. Qd2 fxe4+ 10. Nxe4 Bf5 0-1

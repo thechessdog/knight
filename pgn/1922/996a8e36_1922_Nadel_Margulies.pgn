@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Nadel"]
+[Black "Margulies, S."]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "996a8e36"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 c5 7. e4 Nxe4 8.
+Qf3 cxd4 9. Qxf5 Nd6 10. Bxc4 e6 11. Bb5+ Ke7 12. Nd5+ exd5 13. Ng6+ hxg6
+14. Qe5# 1-0
+

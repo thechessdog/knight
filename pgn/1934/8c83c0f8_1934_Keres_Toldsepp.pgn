@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "Toldsepp"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "8c83c0f8"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Bb4 4. Nd5 Qh4+ 5. Ke2 Bd6 6. Nf3 Qg4 7. d4 Ne7 8.
+Nc3 b6 9. Kf2 Ng6 10. Be2 Be7 11. g3 fxg3+ 12. hxg3 Bb7 13. Ng5 1-0

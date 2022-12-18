@@ -1,0 +1,15 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Nogues Acuna, Alejandro"]
+[Black "Garcia Vera, Oscar"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "ce942502"]
+[Epoch "Knight"]
+
+1. Nf3 Nf6 2. d4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. bxc3 d6 10. Ng5 Bxg5 11. Bxb7 1-0

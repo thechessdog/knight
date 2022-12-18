@@ -1,0 +1,21 @@
+[Event "Kecskemet"]
+[Site "Kecskemet"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Feldmann"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "4c68884b"]
+[Epoch "Knight"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. dxc5 dxc5 12. Nbd2 Be6 13. h3 Rd8 14. Qe2 Nh5 15.
+a4 Nf4 16. Qf1 b4 17. c4 h5 18. b3 g5 19. Kh2 Nc6 20. Ng1 g4 21. h4 Bxh4 22. g3
+Nd4 23. Ra2 Ng6 24. gxh4 Qe7 25. Qg2 Qxh4+ 26. Nh3 Nf4 27. Qg3 Qxh3+ 28. Qxh3
+Nxh3 29. Kg2 Nf4+ 30. Kh1 h4 31. Nf1 g3 32. Ne3 g2+ 33. Nxg2 Nxg2 34. Kxg2 Rg8+
+35. Kh1 Nf3 0-1

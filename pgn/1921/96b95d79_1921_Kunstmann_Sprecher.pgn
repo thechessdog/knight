@@ -1,0 +1,19 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Kunstmann"]
+[Black "Sprecher, Herman"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "96b95d79"]
+[Epoch "Knight"]
+
+1. b3 d5 2. Bb2 Nf6 3. f4 e6 4. Nf3 c5 5. e3 Bd6 6. Be2 O-O 7. O-O Nc6 8.
+Ne5 Bxe5 9. fxe5 Nd7 10. d4 f6 11. exf6 Rxf6 12. dxc5 Rxf1+ 13. Qxf1 Nxc5
+14. Nd2 e5 15. Qf2 Be6 16. Qg3 Qc7 17. Bb5 Nd7 18. Nf3 d4 19. exd4 Qb6 20.
+Bxc6 Qxc6 21. c4 exd4 22. Nxd4 Qb6 23. Kh1 Nf6 24. c5 Qa6 25. c6 Bf7 26.
+Nf5 Bg6 27. Bxf6 gxf6 28. Qc7 Bxf5 29. cxb7 Rf8 30. b8=Q 1-0
+

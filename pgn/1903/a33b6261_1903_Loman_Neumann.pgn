@@ -1,0 +1,20 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Loman, Rudolf"]
+[Black "Neumann, Augustin"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "a33b6261"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Be6 9. dxe5 Na5 10. axb5 axb5 11. Nd4 Nxb3 12. Rxa8 Qxa8 13. Nxb3 Nc5 14. Nd4
+Bd7 15. f4 Ne4 16. f5 Bc5 17. c3 O-O 18. Nd2 Re8 19. Nxe4 dxe4 20. g4 Rxe5 21.
+Bf4 Re8 22. Bxc7 e3 23. Qe2 Bxd4 24. cxd4 Qd5 25. h3 Bc6 26. Kh2 b4 27. Bb6
+Qd6+ 0-1

@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Kahn, Victor"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Czech defence"]
+[HashCode "f73ec5ea"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 Bd7 7. e3 b5 8.
+Nf3 e6 9. Ne5 a6 10. Qf3 Ra7 11. g4 Bd6 12. g5 Bxe5 13. dxe5 Nd5 14. Ne4
+O-O 15. Rg1 Nb4 16. Nf6+ Kh8 17. Qh5 h6 18. g6 Nc2+ 19. Ke2 Be8 20. Qxh6+
+gxh6 21. g7# 1-0
+

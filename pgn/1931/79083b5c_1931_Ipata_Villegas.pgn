@@ -1,0 +1,20 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Ipata, P."]
+[Black "Villegas, Benito"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "79083b5c"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 Bg7 5. Nf3 d6 6. a3 e6 7. O-O Nge7 8. d3 a6
+9. Qe2 O-O 10. Be3 d5 11. e5 dxc4 12. dxc4 Nd4 13. Qf2 Nef5 14. Bxd4 cxd4 15.
+Rad1 Bd7 16. Nxd4 Qe7 17. Nf3 h5 18. h3 h4 19. c5 Bc6 20. Rfe1 Rac8 21. Ng5
+Rfd8 22. Rd6 Rxd6 23. cxd6 Qd7 24. Rd1 f6 25. exf6 Bxf6 26. Nge4 Bxc3 27. Nxc3
+Rf8 28. Qc5 Kh7 29. Qe5 Ng7 30. Rd4 Rf5 31. Qe1 Rh5 32. Rd3 Nf5 33. Qd2 Ng3 34.
+Qe3 Kg8 35. b3 Kf7 36. b4 Rf5 37. Qd4 e5 38. Qc5 exf4 39. Qd4 Rf6 0-1

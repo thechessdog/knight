@@ -1,0 +1,16 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Regen, A."]
+[Black "Keltz, B."]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "62008627"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Nf3 dxc4 6. e3 b5 7. a4 c6 8. axb5
+cxb5 9. b3 Nd5 10. Bd2 Bxc3 11. Bxc3 b4 12. Bd2 c3 13. Bc1 a5 14. e4 Nb6 15.
+Be3 Ba6 16. Rxa5 Bxf1 17. Rxa8 Bxg2 18. Rg1 Bxf3 19. Bf4 Nxa8 20. Rxg7 Qa5 0-1

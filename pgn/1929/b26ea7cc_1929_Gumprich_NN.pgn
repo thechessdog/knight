@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Gumprich, Kurt"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "b26ea7cc"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bc4 g6 6. Nf3 Bg7 7. Ng5 e6
+8. Qf3 O-O 9. Qh3 h6 10. Nf3 dxe5 11. Bxh6 e4 12. Ng5 e5 13. Qh4 Bf6 14.
+Bg7 1-0
+

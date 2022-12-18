@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Manghi"]
+[Black "Piazzini, Luis Roberto"]
+[Result "0-1"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "a42f1848"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Nbd7 6. Nbd2 Bd6 7. O-O e5 8. e4
+O-O 9. cxd5 exd4 10. Nc4 Qc7 11. Nxd6 Qxd6 12. Re1 Re8 13. Nxd4 Nc5 14. Bc2
+cxd5 15. exd5 Bg4 16. Rxe8+ Rxe8 17. f3 Bd7 18. b4 Na6 19. a3 Nc7 20. Bg5 Ncxd5
+21. Nb3 Ba4 22. Qd4 Qc7 23. Bd1 Qc3 24. Bd2 Re1+ 0-1

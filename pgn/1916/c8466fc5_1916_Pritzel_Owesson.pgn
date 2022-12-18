@@ -1,0 +1,23 @@
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Pritzel, ACM."]
+[Black "Owesson, B."]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange, Keres variation"]
+[HashCode "c8466fc5"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bd6 6. d4 Bg4 7. dxe5
+Bxf3 8. Qxf3 Bxe5 9. Bf4 Qe7 10. O-O-O Nf6 11. Bxe5 Qxe5 12. Qg3 Qxg3 13.
+hxg3 Ng4 14. Rd2 Ke7 15. Rhd1 Rad8 16. Rxd8 Rxd8 17. Rxd8 Kxd8 18. Nd1 Ke7
+19. Kd2 Ke6 20. f3 Ne5 21. Ne3 g6 22. Kc3 Nd7 23. Nc4 b6 24. Ne3 Nc5 25.
+Kd4 Nb7 26. Nc4 Nd6 27. Kd3 f5 28. Ne3 fxe4+ 29. fxe4 h5 30. Nc4 Nb7 31.
+Ke3 b5 32. Nd2 Kf6 33. Nf3 Nc5 34. b3 Nd7 35. Kf4 c5 36. g4 hxg4 37. Kxg4
+Nf8 38. e5+ Ke7 39. Kg5 Ne6+ 40. Kh6 a5 41. g4 Nd4 42. Nxd4 cxd4 43. Kxg6
+c5 44. Kf5 c4 45. Ke4 d3 46. cxd3 cxb3 47. axb3 a4 48. bxa4 bxa4 49. Kd4
+Ke6 50. Kc3 Kxe5 51. Kb4 Kf4 52. Kxa4 Kxg4 53. Kb5 1-0
+

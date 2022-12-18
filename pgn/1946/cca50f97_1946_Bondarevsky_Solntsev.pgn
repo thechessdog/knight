@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bondarevsky, Igor"]
+[Black "Solntsev, Yuri"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "cca50f97"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nc3 Bg7 6. Bd3 O-O 7. O-O Nbd7 8. cxd5
+cxd5 9. a4 b6 10. Qb3 Bb7 11. a5 e5 12. a6 Bc6 13. Nxe5 Nxe5 14. dxe5 Ng4 15.
+Bb5 Bxe5 16. h3 Bxb5 17. Nxb5 Nf6 18. Bd2 Qd7 19. Bc3 Bxc3 20. Nxc3 Rfd8 21.
+Rad1 Qe6 22. Rd4 Rac8 23. Rfd1 Rc5 24. e4 b5 25. Qa3 Rxc3 26. Qxc3 Nxe4 27. Qd3
+Nf6 28. Qxb5 Rd6 29. Qb8+ Kg7 30. Qxa7 Rxa6 31. Qc7 Rc6 32. Qf4 Rc2 33. R4d2
+Rc4 34. Qf3 Qb6 35. Qe3 Qb5 36. Qe5 Re4 37. Qc3 Rc4 38. Qd3 Qb6 39. Qe3 Qb5 40.
+Qe2 Qb6 41. Rxd5 Re4 42. Qc2 Qe6 43. Qc3 Re2 44. R5d2 Re5 45. Rd6 Qf5 46. Qf3
+Qg5 47. g3 Rf5 48. Qc3 h5 49. Qd2 Ne4 50. Qxg5 Nxg5 51. R6d5 Nxh3+ 52. Kg2
+Rxf2+ 53. Kxh3 Rxb2 54. R1d2 Rb3 55. Rd7 Kh6 56. Rxf7 1-0

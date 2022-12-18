@@ -1,0 +1,14 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Gibaud, Amadee"]
+[Black "Lazard"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[HashCode "e2a03b5d"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nd2 e5 3. dxe5 Ng4 4. h3 Ne3 0-1
+

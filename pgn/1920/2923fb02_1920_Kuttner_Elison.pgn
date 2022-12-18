@@ -1,0 +1,17 @@
+[Event "Berlin CC"]
+[Site "Berlin"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Kuttner, R."]
+[Black "Elison, K."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "2923fb02"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Bc2 Bg4 12. Bf4 Bc5 13. Bg3 Re8 14. Bb3 Nxg3 15.
+hxg3 Bxf3 16. Qxf3 Nxe5 17. Qd1 Qf6 18. Rf1 Nc4 19. Bxc4 dxc4 20. Nd2 Rad8 21.
+Qc2 Re2 0-1

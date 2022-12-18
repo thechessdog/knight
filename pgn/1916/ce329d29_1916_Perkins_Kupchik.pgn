@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Perkins, F."]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "ce329d29"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 h6 5. Bh4 Bb4+ 6. Nc3 c6 7. e3 Qa5 8. Qb3
+Ne4 9. Rc1 b6 10. Bd3 Bxc3+ 11. bxc3 Ba6 12. Bxe4 dxe4 13. Nd2 Qf5 14. Qc2 O-O
+15. Qxe4 Re8 16. Qxf5 exf5 17. O-O Nd7 18. Rfe1 Nf8 19. f3 g5 20. Bg3 Rad8 21.
+e4 f4 22. Bf2 c5 23. e5 Re6 24. Re4 Nd7 25. Rce1 Rde8 26. g3 Bb7 27. R4e2 f6
+28. Ne4 fxe5 29. d5 Rg6 30. g4 Ba6 31. Nd2 Kf7 32. Re4 h5 33. Kg2 Rh6 34. Rh1
+Nf6 35. Ree1 hxg4 36. fxg4 e4 37. h4 e3 38. Nf3 exf2 39. Nxg5+ Kg8 40. Rxe8+
+Nxe8 41. Kxf2 Bxc4 42. Re1 Nf6 43. d6 Bd5 44. d7 Nxd7 45. Re8+ Nf8 0-1

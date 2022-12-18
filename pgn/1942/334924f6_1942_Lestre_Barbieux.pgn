@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Lestre"]
+[Black "Barbieux"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "334924f6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h4 Na5 10. Bc2 Bg4 11. d4 exd4 12. cxd4 Nd7 13. Qd3 Bxh4 14. e5
+g6 15. g3 Bxf3 16. Qxf3 Bg5 17. Nc3 dxe5 18. dxe5 Nc4 19. Bxg5 Qxg5 20. e6
+fxe6 21. Qc6 Nde5 22. Qxe6+ Kh8 23. Be4 Nf3+ 24. Bxf3 Rxf3 25. Ne4 Qf5 26.
+Qe7 Rc8 27. Ng5 1-0
+

@@ -1,0 +1,19 @@
+[Event "New York Rice prel"]
+[Site "New York"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Kupchik, Abraham"]
+[Black "Rosenthal, Jacob Carl"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "d3f16ad6"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. cxd5 exd5 6. g3 O-O 7. Bg2 Nbd7 8.
+O-O Re8 9. Bf4 Nf8 10. Rc1 c6 11. Ne5 Bd6 12. Nd3 Bxf4 13. Nxf4 Ne6 14. Nxe6
+Bxe6 15. Na4 b6 16. Rxc6 Bd7 17. Rc3 Bxa4 18. Qxa4 Rxe2 19. Rfc1 g6 20. Qa6 Kg7
+21. Qxe2 1-0

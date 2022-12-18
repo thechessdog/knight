@@ -1,0 +1,17 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Roose"]
+[Black "van Doesburgh, Gerrit Roelof Diederik"]
+[Result "1-0"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[HashCode "33891bed"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. e5 Qb6 8.
+Qd3 a6 9. Bc4 Qa5+ 10. Nc3 Qxe5+ 11. Be3 Bh6 12. O-O Bxe3 13. Rfe1 Kd8 14. Rxe3
+Qg7 15. Rae1 Nh6 16. Qe4 c6 17. Nd5 cxd5 18. Qe7+ Kc7 19. Qc5+ Kb8 20. Re8 1-0

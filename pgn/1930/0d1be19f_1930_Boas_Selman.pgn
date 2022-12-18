@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Boas"]
+[Black "Selman"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "0d1be19f"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 f6 7. exf6
+Qxf6 8. Bxc7 Qxb2 9. Bf4 Nd4 10. Rc1 O-O 11. Nxd4 Rxf4 12. e3 Rxf2 13. Rc2
+Rxd2 14. Rxd2 Nxe3 15. Qe2 Qxd4 0-1
+

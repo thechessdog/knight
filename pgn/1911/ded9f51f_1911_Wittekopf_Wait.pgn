@@ -1,0 +1,18 @@
+[Event "Libau"]
+[Site "Libau"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Wittekopf"]
+[Black "Wait"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Pillsbury variation"]
+[HashCode "ded9f51f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8.
+Bxf6 gxf6 9. Ne2 c6 10. Ba4 Ng6 11. Ng3 Kh8 12. c3 Ba5 13. Qd2 Rg8 14. Kh1
+Nf4 15. Rg1 Qf8 16. Nh4 Rg5 17. Nf3 Rg4 18. Bd1 Qh6 19. h3 Be6 20. Nh2 Nxh3
+21. Qc2 Nxf2+ 22. Qxf2 Qxh2+ 23. Kxh2 Rh4# 0-1
+

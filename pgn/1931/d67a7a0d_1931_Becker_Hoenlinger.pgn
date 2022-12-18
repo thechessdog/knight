@@ -1,0 +1,20 @@
+[Event "Trebitsch mem14"]
+[Site "Vienna"]
+[Date "1931.05.10"]
+[Round "7"]
+[White "Becker, Albert"]
+[Black "Hoenlinger, Baldur"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[HashCode "d67a7a0d"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Qc7 13. Rh4 Bd6 14. Kb1
+O-O-O 15. c4 Bxg3 16. fxg3 c5 17. Qa3 b6 18. Bf4 Qb7 19. Rhh1 Ne4 20. Rhe1 f5
+21. d5 Rhe8 22. Nh4 exd5 23. Nxf5 Ndf6 24. Qa4 Nxh5 25. cxd5 b5 26. Qc2 Rxd5
+27. Rxd5 Qxd5 28. Rxe4 Rxe4 29. Qxe4 Qxe4+ 0-1

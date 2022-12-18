@@ -1,0 +1,17 @@
+[Event "Liverpool"]
+[Site "Liverpool"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Abrahams, Gerald"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "c5329a12"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 Bb4 7. Qb3 Nc6 8. a3
+Ba5 9. e3 O-O 10. Bd3 e5 11. cxd5 exd4 12. exd4 Re8+ 13. Kf1 Qxf3 14. gxf3 Bh3+
+15. Kg1 Nxd4 16. Qd1 Re1+ 17. Bf1 Rxf1+ 18. Qxf1 Nxf3# 0-1

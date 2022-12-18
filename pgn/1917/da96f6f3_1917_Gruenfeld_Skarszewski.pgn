@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1917.01.01"]
+[Round "1"]
+[White "Gruenfeld, Ernst"]
+[Black "Skarszewski"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Janowski variation"]
+[HashCode "da96f6f3"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6 Qxf6 7. g3 Bf5 8.
+Bg2 O-O-O 9. Nh4 Nge7 10. Nxf5 Nxf5 11. O-O h5 12. Ne4 Qg6 13. Bg5 Be7 14. Bxe7
+Nfxe7 15. h4 Ne5 16. Qa4 Kb8 17. Nc5 N7c6 18. Qb5 b6 19. f4 1-0

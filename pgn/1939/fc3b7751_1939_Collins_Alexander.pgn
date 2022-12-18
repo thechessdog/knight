@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Collins, T."]
+[Black "Alexander"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "fc3b7751"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 c5 5. cxd5 Nxd5 6. Bg2 cxd4 7. O-O Bc5
+8. Nxd4 O-O 9. a3 Bb6 10. e4 Nf4 11. Bxf4 Bxd4 12. Qb3 e5 13. Be3 Nc6 14.
+Nc3 Be6 15. Nd5 Qd7 16. Rab1 Rad8 17. Qd3 f5 18. Nc3 Qf7 19. Rfd1 Bb3 20.
+Re1 f4 21. gxf4 exf4 22. Bxd4 Nxd4 23. Nd5 f3 24. Bf1 Ne2+ 25. Kh1 Bxd5 26.
+exd5 Rxd5 27. Qc4 b5 28. Qh4 Rd4 29. Qh3 Qd5 30. b4 h5 31. Bxe2 fxe2+ 32.
+Qg2 Qxg2+ 33. Kxg2 Rg4+ 34. Kh3 Rf3# 0-1
+

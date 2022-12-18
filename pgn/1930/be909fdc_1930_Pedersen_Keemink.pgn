@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Keemink, John"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Berger variation"]
+[HashCode "be909fdc"]
+[Epoch "Knight"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Nxd4 9. Nxd4 exd4 10. Nc3 Nxc3 11. bxc3 c5 12. Qh5 c4 13. Re1+ Be7 14. Ba3 Ra7
+15. Bc5 Rd7 16. Qe5 f6 17. Qxd4 Bb7 18. axb5 axb5 19. Qe3 cxb3 20. Re2 Kf8 21.
+Rae1 Bxc5 22. Qxc5+ Kf7 23. Qe3 g6 24. cxb3 Rf8 25. h4 Kg7 26. h5 g5 27. Qh3
+Rdf7 28. h6+ Kg8 29. Qd3 d4 30. cxd4 Qd5 31. f3 Bc6 32. Rc1 Rd8 33. Rec2 Be8
+34. Rc8 Rfd7 35. Rxd8 Rxd8 36. Rd1 Bf7 0-1

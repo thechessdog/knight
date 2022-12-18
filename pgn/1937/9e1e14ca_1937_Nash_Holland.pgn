@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Nash"]
+[Black "Holland"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "9e1e14ca"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bc5 7. b4 Be7 8.
+Qg4 g5 9. Qh5 Nc6 10. Nf3 h6 11. h4 gxh4 12. Bd3 Nxb4 13. Bg6 Kd7 14. Bxf7
+Nxc2+ 15. Ke2 Nxa1 16. Bxe6+ Kxe6 17. Nfxd4+ Kd7 18. e6# 1-0
+

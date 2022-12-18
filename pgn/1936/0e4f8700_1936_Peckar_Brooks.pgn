@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Peckar"]
+[Black "Brooks"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "0e4f8700"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bf4 Be7 6. Nb5 Bb4+ 7. Nd2 O-O
+8. Nxc7 e5 9. Bxe5 Nxe5 10. Nxa8 Nxc4 11. Qc2 Bxd2+ 12. Kd1 Ne4 13. e3
+Nxf2+ 14. Ke2 Bg4+ 15. Kxf2 Qh4+ 16. g3 Qf6+ 0-1
+

@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Cistoganow"]
+[Black "Orbach"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "bbad2ff7"]
+[Epoch "Knight"]
+
+1. Nf3 e6 2. d4 Nf6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. Bg5 Be7 7. O-O d6 8.
+Nc3 O-O 9. Qc2 cxd4 10. Bxf6 Bxf6 11. Ng5 Bxg5 12. Bxb7 dxc3 13. Bxa8 cxb2
+14. Rad1 Bc1 15. Be4 f5 16. Bd3 Nc6 17. Qc3 Qc7 18. Bb1 Ne5 19. Rd4 d5 20.
+Rfd1 Nxc4 0-1
+

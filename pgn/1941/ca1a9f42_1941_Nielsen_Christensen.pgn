@@ -1,0 +1,18 @@
+[Event "Fyn"]
+[Site "Fyn"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Nielsen, Sander"]
+[Black "Christensen, Preben"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "ca1a9f42"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Bd2 Bb7 6. e3 Bxc3 7. Bxc3 Ne4
+8. Rc1 O-O 9. Bd3 f5 10. O-O d6 11. Bb1 Nd7 12. Nd2 Qg5 13. Nxe4 fxe4 14.
+b4 Rf7 15. Bd2 Raf8 16. Qe2 Rf6 17. a4 Rg6 18. g3 Rf3 19. Kg2 Qg4 20. Rce1
+Rh6 21. Rh1 Qh3+ 22. Kg1 Rhf6 23. Qf1 Qf5 24. Re2 h5 25. h3 Rxg3+ 0-1
+

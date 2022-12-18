@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Bogoljubov, Efim"]
+[Black "Yates, Frederick Dewhirst"]
+[Result "1-0"]
+[ECO "D65"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack, main line"]
+[HashCode "703d325e"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 c6 8. Qc2
+a6 9. cxd5 exd5 10. Bd3 Re8 11. O-O Nf8 12. a3 Ng6 13. Ne5 Ng4 14. Bxe7 Qxe7
+15. Nxg6 hxg6 16. h3 Nh6 17. Ne2 Qh4 18. Qc5 g5 19. Qd6 g4 20. g3 Qe7 21. Qxe7
+Rxe7 22. h4 Bd7 23. Nf4 g6 24. b4 Bf5 25. a4 Bxd3 26. Nxd3 a5 27. b5 cxb5 28.
+axb5 Nf5 29. Ne5 Kg7 30. Rc5 f6 31. Nxg4 Rd7 32. Rfc1 Kf7 33. Rc7 1-0

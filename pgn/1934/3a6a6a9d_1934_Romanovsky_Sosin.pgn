@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Sosin"]
+[Result "1-0"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "3a6a6a9d"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bg4 6. h3 Bxf3 7. Qxf3 g6 8. d3
+Bg7 9. Nd2 Ne7 10. Bb3 O-O 11. a4 b5 12. h4 Na5 13. Ba2 bxa4 14. h5 Rb8 15.
+hxg6 hxg6 16. Qh3 Re8 17. Nc4 Nec6 18. Qh7+ Kf8 19. Bh6 Qf6 20. Qh8+ 1-0

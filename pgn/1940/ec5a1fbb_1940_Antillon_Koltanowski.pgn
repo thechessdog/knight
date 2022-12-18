@@ -1,0 +1,18 @@
+[Event "Guatemala"]
+[Site "Guatemala"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Antillon, Joaquin"]
+[Black "Koltanowski, George"]
+[Result "1-0"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "ec5a1fbb"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 Qb6 10. Na4 Qc7 11. O-O c4 12. Bc2 Nbd7 13. Re1 Re8 14. Rb1 b5 15. Nc3
+Qa5 16. b4 cxb3 17. Rxb3 Nc5 18. Rb1 Qxc3 19. Bd2 Qc4 20. Rb4 Qxa2 21. Bc3 Bg4
+22. e5 Nxd5 1-0

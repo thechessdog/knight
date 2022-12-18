@@ -1,0 +1,19 @@
+[Event "DSB-18.Kongress-C"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Strassl"]
+[Black "Hartlaub, Carl"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "64f318ba"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bf5 7. Bd3 Be7
+8. Bxf5 Qa5+ 9. Bd2 Qxf5 10. O-O O-O 11. Re1 Bd6 12. Nh4 Qd7 13. Qf3 Na6 14.
+Nf5 Kh8 15. Nxg7 Rg8 16. Nh5 Rg6 17. Nxf6 Qc7 18. Re8+ Rxe8 19. Nxe8 Qd7 20.
+Re1 Nc7 21. Nxd6 Rxd6 22. Bf4 Rg6 23. Bxc7 Qxc7 24. Re8+ Kg7 25. Qe3 Qd7 26.
+Qe5+ Kh6 27. g3 Qg4 28. Kg2 Qd1 29. Re7 Qxc2 30. Qf4+ 1-0

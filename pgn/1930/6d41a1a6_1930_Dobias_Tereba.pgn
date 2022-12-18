@@ -1,0 +1,18 @@
+[Event "Kautsky mem7"]
+[Site "Prague"]
+[Date "1930.??.??"]
+[Round "13"]
+[White "Dobias, Josef"]
+[Black "Tereba, R."]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "6d41a1a6"]
+[Epoch "Knight"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 g6 4. Nxe4 Bg7 5. Bd3 Bxd4 6. Ng5 Nc6 7. h4 e5
+8. c3 Bb6 9. Nxh7 e4 10. Bxe4 Qe7 11. Qe2 Rxh7 12. Bg5 Nf6 13. Bxf6 Bxf2+
+14. Kd1 Qxf6 15. Bxg6+ Kf8 16. Bxh7 d6 17. Nh3 Bxh3 18. Rxh3 Ne5 19. Kc2
+Re8 20. Rf1 1-0
+

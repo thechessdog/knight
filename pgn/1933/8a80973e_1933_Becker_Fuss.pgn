@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Becker, Albert"]
+[Black "Fuss, Immo"]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[HashCode "8a80973e"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 b6 6. g3 Bb7 7. Bg2 d6 8.
+Nc3 Ne4 9. Qf4 Nxc3 10. Ng5 f6 11. Bxb7 fxg5 12. Qe3 Nd7 13. Qxe6+ Kf8 14. Bxa8
+Qxa8 15. f3 1-0

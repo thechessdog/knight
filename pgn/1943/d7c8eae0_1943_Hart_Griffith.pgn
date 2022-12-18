@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Hart, H."]
+[Black "Griffith, R."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Breslau variation"]
+[HashCode "d7c8eae0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxe5 12. f3 Bd6 13. fxe4 Bg4 14. Qc2
+Qh4 15. Rf1 Nd3 16. Qxd3 Bxh2+ 17. Kh1 Bg3+ 18. Kg1 Qh2# 0-1
+

@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Byland, W."]
+[Black "Marks"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 4.d3"]
+[HashCode "a683138c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Qxd5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 Nf6
+8. dxe4 Qxe4+ 9. Qe2 Bf5 10. O-O-O Nbd7 11. Qd2 O-O-O 12. Bd3 Qd5 13. b3
+Nc5 14. Bxf5+ Qxf5 15. Qe3 Rxd1+ 16. Kxd1 Ng4 17. Qf3 Re8 18. Bd2 Ne4 19.
+Be1 Ng3 20. Bd2 Nxh1 21. Nh3 Nxh2 0-1
+

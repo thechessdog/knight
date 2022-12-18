@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Twigg"]
+[Black "Gray, E."]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "ec5d4a28"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nc6 4. e3 b6 5. Bxc4 Na5 6. Qa4+ Bd7 7. Ne5 Bxa4
+8. Bxf7# 1-0
+

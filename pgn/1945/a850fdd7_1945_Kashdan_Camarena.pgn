@@ -1,0 +1,17 @@
+[Event "Pan American"]
+[Site "Hollywood"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kashdan, Isaac"]
+[Black "Camarena, Joaquin"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "a850fdd7"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bxd2+ 7. Qxd2 Nc6 8.
+Nf3 Nh6 9. Bd3 O-O 10. O-O f5 11. exf6 Ng4 12. fxg7 Rxf3 13. gxf3 e5 14. fxg4
+Qh4 15. f3 1-0

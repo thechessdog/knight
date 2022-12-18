@@ -1,0 +1,17 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Havasi, Kornel"]
+[Result "1-0"]
+[ECO "E10"]
+[Opening "Blumenfeld counter-gambit, Dus-Chotimursky variation"]
+[HashCode "a62a908b"]
+[Epoch "Knight"]
+[WhiteCountry "CHE"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 exd5 6. cxd5 d6 7. e4 a6 8. a4 Be7
+9. Nbd2 Nxd5 10. Bxe7 Qxe7 11. axb5 Nb6 12. bxa6 Bxa6 13. Qb3 Qc7 14. Bxa6 Rxa6
+15. Rxa6 1-0

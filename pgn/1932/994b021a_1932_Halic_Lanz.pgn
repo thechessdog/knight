@@ -1,0 +1,14 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Halic, Ivan"]
+[Black "Lanz"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "994b021a"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 c5 3. Bf4 cxd4 4. Nxd4 e5 5. Bxe5 Qa5+ 0-1
+

@@ -1,0 +1,21 @@
+[Event "Leningrad m"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Ragozin, Viacheslav"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1-0"]
+[ECO "D96"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "1e67caf1"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 c6 6. e3 O-O 7. Bd2 a6 8. a4 a5
+9. Be2 Na6 10. cxd5 Nxd5 11. Nxd5 cxd5 12. Rc1 e6 13. O-O Re8 14. Bb5 Re7 15.
+Rc2 Qb6 16. Rfc1 Bd7 17. Ne5 Bxe5 18. dxe5 Bxb5 19. Qxb5 Qxb5 20. axb5 Nb4 21.
+Rc8+ Rxc8 22. Rxc8+ Kg7 23. Bc3 d4 24. Bxd4 Nd5 25. b6 Rd7 26. Kf1 g5 27. g4 h6
+28. Ke2 Kg6 29. Kf3 f6 30. exf6 Nxf6 31. Rc7 Rd5 32. Re7 Rd6 33. Rxb7 Nd7 34.
+Rc7 e5 35. b7 1-0

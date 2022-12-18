@@ -1,0 +1,26 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Bernstein, Jacob"]
+[Black "Kupchik, Abraham"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "babc589f"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. h3
+Be6 9. d4 exd4 10. cxd4 d5 11. e5 Ne4 12. Nbd2 f5 13. exf6 Bxf6 14. Nxe4 dxe4
+15. Rxe4 Bd5 16. Bb3 Kh8 17. Bxd5 Qxd5 18. Rf4 Rad8 19. Be3 Ne7 20. Qb3 Rfe8
+21. Qc2 Rd6 22. Bd2 Rc6 23. Bc3 Re6 24. Nh2 Qc4 25. Re4 Nf5 26. Rxe6 Qxe6 27.
+Re1 Qxe1+ 28. Bxe1 Rxe1+ 29. Nf1 Nxd4 30. Qd3 h5 31. g3 h4 32. Kg2 Re2 33. gxh4
+Rxb2 34. Ng3 c5 35. Qe4 Nc6 36. Qe8+ Kh7 37. Qh5+ Kg8 38. Ne4 Be7 39. Ng5 Bxg5
+40. hxg5 Rb6 41. g6 Ne7 42. Qh7+ Kf8 43. Qh8+ Ng8 44. Qh5 Ne7 45. Qf3+ Ke8 46.
+Kf1 Rxg6 47. Qxb7 Rc6 48. Ke2 c4 49. Kd2 Kf7 50. h4 c3+ 51. Kc2 Ke6 52. Qb8 g6
+53. Qf4 Kd5 54. Qf7+ Kd6 55. a3 Kd7 56. f3 Kd8 57. f4 Nf5 58. Qd5+ Kc7 59. Qe5+
+Kb6 60. h5 Rc5 61. Qb8+ Kc6 62. Qa8+ Kd6 63. Qxa6+ Kd5 64. Qb7+ Kd6 65. Qb6+
+Kd5 66. hxg6 Nd4+ 67. Kd3 c2 68. Qxc5+ Kxc5 69. Kd2 Nf5 70. Kxc2 Kd5 71. a4 Ke6
+72. a5 Kf6 73. a6 Nd4+ 74. Kb2 Nc6 75. f5 1-0

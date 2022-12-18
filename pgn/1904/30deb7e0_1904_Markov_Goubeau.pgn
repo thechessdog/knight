@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Markov"]
+[Black "Goubeau"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Silberschmidt gambit"]
+[HashCode "30deb7e0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 f3 7. d4 Nh6 8.
+Nc3 d6 9. Nd3 fxg2+ 10. Kxg2 Qh3+ 11. Kg1 g3 12. Nf4 gxh2+ 13. Rxh2 Rg8+
+14. Ng2 Qg3 15. Qf1 1-0
+

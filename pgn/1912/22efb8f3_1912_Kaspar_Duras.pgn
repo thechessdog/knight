@@ -1,0 +1,17 @@
+[Event "Pisek sim"]
+[Site "Pisek"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Kaspar"]
+[Black "Důras, Oldřich"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[HashCode "22efb8f3"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. O-O Bg4 6. Be3 Bb6 7. c3 h6 8. Nbd2
+Nf6 9. Qb3 O-O 10. Nh4 Na5 11. Qa4 c6 12. h3 Nxc4 13. Nxc4 Be2 14. Rfe1 Bxd3
+15. Nd2 Nxe4 16. Nxe4 Qxh4 17. Bxb6 axb6 18. Qb4 c5 19. Qxb6 Bxe4 20. Qxd6 Bxg2
+21. Kxg2 Ra6 22. Qd2 Rg6+ 23. Kh2 Rd8 24. Qe3 Rd3 0-1

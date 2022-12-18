@@ -1,0 +1,15 @@
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Hayndl"]
+[Black "Crespi"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "2de54674"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e6 4. e3 Nf6 5. Bxc4 a6 6. Qf3 Nc6 7. Nge2 Bd6
+8. Bd2 e5 9. d5 Bg4 10. Qg3 e4 11. Qh4 Ne5 12. Bb3 Ng6 13. Qg5 h6 0-1
+

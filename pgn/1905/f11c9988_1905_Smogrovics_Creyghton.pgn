@@ -1,0 +1,22 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Smogrovics"]
+[Black "Creyghton"]
+[Result "0-1"]
+[ECO "B72"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Amsterdam variation"]
+[HashCode "f11c9988"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 d6 7. Qd2 Nf6
+8. Be2 O-O 9. h4 Ne5 10. f3 Bd7 11. g4 Rc8 12. g5 Nh5 13. Rg1 Nc4 14. Bxc4
+Rxc4 15. Nde2 a6 16. Rb1 Be6 17. b3 Rc8 18. Nd5 f5 19. c4 Kh8 20. Nd4 Bg8
+21. exf5 gxf5 22. Ne2 e5 23. Rd1 f4 24. Bb6 Qd7 25. Qd3 Rfe8 26. Qe4 Rc6
+27. Bf2 Bf7 28. Nb4 Bg6 29. Qd5 e4 30. Nxc6 bxc6 31. Qxd6 Qxd6 32. Rxd6
+exf3 33. Kd1 fxe2+ 34. Kd2 Ng3 35. Rxg3 fxg3 36. Bxg3 Be5 37. Bxe5+ Rxe5
+38. Ke1 Bh5 39. Rh6 Bg4 40. g6 Rf5 41. Rxh7+ Kg8 42. Re7 Rf1+ 43. Kd2 Rd1+
+44. Kc3 e1=Q+ 0-1
+

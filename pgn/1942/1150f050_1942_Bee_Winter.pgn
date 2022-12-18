@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Bee, John"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "1150f050"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nxc5 9. b4 Ne4 10. Bb2 Qh4 11. g3 Qh6 12. cxd5 Nd6 13. Qc7 exd5 14. Be5
+Nc4 15. Qxc8+ Ke7 16. Qc5+ Ke6 17. Bf4 Qf6 18. Bh3+ 1-0

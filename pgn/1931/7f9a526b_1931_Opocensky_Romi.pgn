@@ -1,0 +1,20 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "7"]
+[White "Opocensky, Karel"]
+[Black "Romi, Massimiliano"]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "7f9a526b"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Bxc3+ 6. bxc3 exd5 7. Bg5 O-O
+8. e3 h6 9. Bh4 b6 10. Nf3 c5 11. c4 cxd4 12. Nxd4 Bb7 13. c5 bxc5 14. Qxc5
+Nbd7 15. Qa3 Re8 16. Bb5 Qb6 17. Bxf6 Qxf6 18. Bxd7 Qxd4 19. O-O Qe4 20. Bxe8
+Rxe8 21. Rfe1 Re6 22. f3 Qf5 23. Qxa7 Rg6 24. Qxb7 Qxf3 25. Qb8+ Kh7 26. g3 Rf6
+27. Qb2 h5 28. Qg2 Qg4 29. Rf1 1-0

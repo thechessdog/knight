@@ -1,0 +1,24 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Stoppel, Franz"]
+[Black "Almgren, Sven"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "cf49525d"]
+[Epoch "Knight"]
+[WhiteID "1601288"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxd4 12. cxd4 f5 13. exf6 Rxf6 14. f3 Qd7 15.
+fxe4 Bg4 16. Bxd5+ Kh8 17. Bc6 Rxc6 18. Qd3 Rg6 19. Bf4 Bc5 20. Nc3 Bxd4+ 21.
+Kh1 c5 22. Be3 Rd6 23. Bf4 Be5 24. Qf1 Bxf4 25. Qxf4 Re8 26. Rf1 Rf6 27. Qe3
+Qd4 28. Qxd4 cxd4 29. Rxf6 gxf6 30. Nd5 Kg7 31. h3 Be2 32. Nf4 Rxe4 33. Re1 d3
+34. Nxe2 Rxe2 35. Rd1 Rxb2 36. a4 d2 37. axb5 axb5 38. Kg1 Kg6 39. Kf2 Kf5 40.
+Ke3 Ke5 41. Kd3 b4 42. g3 Rb3+ 43. Kxd2 Rxg3 44. Rb1 b3 45. Re1+ Kf4 46. Rc1
+Rf3 47. Rg1 h5 48. h4 Rg3 49. Rf1+ Ke4 50. Re1+ Kd4 51. Rf1 b2 52. Rf4+ Ke5 53.
+Rf1 f5 54. Kc2 Rg2+ 55. Kd3 f4 56. Re1+ Kf5 57. Kd4 Kg4 58. Ke4 Re2+ 0-1

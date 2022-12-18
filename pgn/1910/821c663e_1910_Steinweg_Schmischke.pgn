@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Steinweg"]
+[Black "Schmischke"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "821c663e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4
+c5 8. Ne2 b6 9. Be3 Bb7 10. f3 O-O-O 11. c4 Ne7 12. Nbc3 c6 13. Kf2 Ng6 14.
+Rad1 Be7 15. Rxd8+ Rxd8 16. Rd1 Rxd1 17. Nxd1 Ne5 18. b3 b5 19. cxb5 cxb5
+20. Ndc3 Kd7 21. Nf4 c4 22. Bd4 f6 23. Bxe5 fxe5 24. Nfd5 Bc5+ 25. Ne3 Bd4
+0-1
+

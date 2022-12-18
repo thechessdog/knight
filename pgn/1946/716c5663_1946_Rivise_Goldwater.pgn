@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rivise"]
+[Black "Goldwater, M."]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "716c5663"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. d4 Bg4 7. c3
+Qd5 8. Be2 Bd6 9. c4 Qe6 10. O-O O-O 11. Bd3 Bc7 12. Bd2 Qd6 13. g3 Bxf3
+14. Qxf3 Qxd4 15. Bc3 Qd8 16. Rad1 Bd6 17. c5 Bxc5 18. Bxh7+ Kxh7 19. Rxd8
+Rxd8 20. Qf5+ 1-0
+

@@ -1,0 +1,16 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1932.07.01"]
+[Round "15"]
+[White "Colin, B."]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "37a8cb74"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. Nxd5 Qxd5 7. e3 Nc6 8.
+Bb5 cxd4 9. Qxd4 Qxb5 0-1

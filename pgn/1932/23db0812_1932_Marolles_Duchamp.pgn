@@ -1,0 +1,20 @@
+[Event "La Baule"]
+[Site "La Baule"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Marolles"]
+[Black "Duchamp, Marcel"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "23db0812"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Nc6 7. e3 O-O
+8. Bd3 e5 9. e4 Qa5 10. dxe5 Nxe5 11. Nxe5 Qxe5 12. O-O Ng4 13. f4 Bc5+ 14.
+Kh1 Qh5 15. g3 Rd8 16. Bc4 Rd6 17. h4 b6 18. Qe2 Bb7 19. Bd5 c6 20. Bb3
+Rad8 21. Bc2 Bb4 22. Kg2 Bxc3 23. bxc3 c5 24. Kh3 f5 25. exf5 Re8 26. Qc4+
+Bd5 27. Qb5 Nf6 28. Bd3 a6 29. Qxa6 Qg4+ 30. Kh2 Nh5 31. Rg1 Nxg3 32. Bf1
+Nxf1+ 0-1
+

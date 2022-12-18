@@ -1,0 +1,21 @@
+[Event "Berlin CL"]
+[Site "Berlin CL"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Kretzschmar, W."]
+[Black "Schweinburg, E."]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "138ed906"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6
+bxc6 8. Bd2 d5 9. exd5 exd5 10. Qe2+ Be6 11. Bf5 O-O 12. Bxe6 Re8 13. O-O
+Rxe6 14. Qd1 Qd7 15. Ne2 Bc5 16. Nf4 Re4 17. Qf3 Bd6 18. g3 Qf5 19. Qg2
+Bxf4 20. Bxf4 Re2 21. Rac1 Rae8 22. c4 Rxb2 23. cxd5 cxd5 24. a3 h6 25.
+Rfe1 Rxe1+ 26. Rxe1 Ng4 27. Rf1 g5 28. h3 Nxf2 29. Rxf2 Rxf2 30. Qxf2 gxf4
+31. Qxa7 Qb1+ 32. Kf2 Qc2+ 33. Kg1 f3 34. Qf2 Qc1+ 35. Kh2 Qxa3 36. Qc2 Qa6
+37. Kg1 Qe6 38. Qc1 d4 0-1
+

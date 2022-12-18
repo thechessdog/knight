@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Warner, Ken"]
+[Black "Evans, Larry D."]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "caa05fd1"]
+[Epoch "Knight"]
+[BlackID "2001713"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 Nxe4 7. Re1 Nc5 8.
+Nxe5 Nxe5 9. Rxe5 Nxa4 10. Qxa4 O-O 11. d4 d5 12. Qb3 Bd6 13. Re1 Qh4 14. g3
+Qh5 15. c4 dxc4 16. Qxc4 Bh3 17. Qb3 Rfe8 18. Rd1 Re3 19. fxe3 Qe2 20. Qxb7
+Qxd1+ 21. Kf2 Qf1# 0-1

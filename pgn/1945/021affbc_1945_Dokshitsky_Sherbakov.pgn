@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Dokshitsky"]
+[Black "Sherbakov, Vitaly S"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "021affbc"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Nxd4 Nxe4 6. Bxf7+ Kxf7 7. Qh5+ g6
+8. Qd5+ Kg7 9. Nxc6 Nf6 10. Bh6+ Kxh6 11. Qd2+ 1-0

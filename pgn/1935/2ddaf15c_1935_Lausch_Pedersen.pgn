@@ -1,0 +1,17 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Lausch, R."]
+[Black "Petersen, Finn"]
+[Result "0-1"]
+[ECO "C20"]
+[Opening "Alapin's opening"]
+[HashCode "2ddaf15c"]
+[Epoch "Knight"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Ne2 Nf6 3. Ng3 Nc6 4. c3 d5 5. exd5 Qxd5 6. b4 a6 7. a4 Be6 8. Bb2
+Be7 9. Na3 O-O 10. Nc2 Rfd8 11. Ne3 Qd7 12. Be2 Nd5 13. O-O Nf4 14. Bc1 f5 15.
+Bc4 Bxc4 16. Nxc4 Nxg2 17. Nxe5 Nxe5 18. Qb3+ Kh8 19. Kxg2 f4 20. Re1 f3+ 0-1

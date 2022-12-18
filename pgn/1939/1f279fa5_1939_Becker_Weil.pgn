@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Becker, Albert"]
+[Black "Weil, H."]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "1f279fa5"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1 a6
+8. Ba4 Bd7 9. Nc3 Bxc6 10. Bxc6+ bxc6 11. Nxe4 Nf6 12. Nxf6+ gxf6 13. c4 e6 14.
+Be3 Bd6 15. Kc2 Kd7 16. Rad1 Kc7 17. Rd3 Rhd8 18. Bd2 e5 19. Rd1 Be7 20. Rg3
+Bc5 21. Rg7 Rd7 22. Bc3 a5 23. f4 Bb4 24. Rxd7+ Kxd7 25. fxe5 Ke6 26. exf6 Bxc3
+27. Kxc3 h5 28. Rh7 Rg8 29. Rxh5 Rxg2 30. Rxa5 Rxh2 31. Rc5 Kd6 32. Rf5 c5 33.
+Rf3 Ke5 34. Rd3 Rf2 35. Rd5+ Ke4 36. Rxc5 Rxf6 37. a4 Ra6 38. a5 f5 39. Kb4 f4
+40. Rc8 Rf6 41. Kc3 Kf3 42. b4 Ke2 43. Re8+ Kd1 44. Rd8+ Ke2 45. b5 f3 46. a6
+1-0

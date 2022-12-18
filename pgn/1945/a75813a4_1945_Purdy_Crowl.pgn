@@ -1,0 +1,26 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Purdy, Cecil"]
+[Black "Crowl, Frank"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Balla variation"]
+[HashCode "a75813a4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 Qc7 11. a4 b4 12. Nbd2 Be6 13. d5 Bd7 14. cxb4 cxb4
+15. b3 Rc8 16. Ra2 O-O 17. Bd3 Ra8 18. Qe2 Qb7 19. Rc2 Rfc8 20. Bc4 Rc5 21.
+Bb2 Qc7 22. Rec1 Rc8 23. Ne1 Nxc4 24. Nxc4 Qb8 25. Nd3 R5c7 26. f4 Qa7+ 27.
+Kh1 Bg4 28. Qe1 exf4 29. e5 Bf5 30. exf6 Bxd3 31. fxe7 Rxe7 32. Qxb4 Bxc2
+33. Qc3 f6 34. Qxc2 Rce8 35. Qd2 Re2 36. Bd4 Qb7 37. Qxe2 Rxe2 38. Nxd6 Qb8
+39. Rc8+ Qxc8 40. Nxc8 Re1+ 41. Bg1 Kf8 42. h3 Rd1 43. Nb6 Kf7 44. Kh2 g5
+45. Bc5 h5 46. d6 g4 47. hxg4 hxg4 48. g3 f3 49. d7 f5 50. b4 Rd2+ 51. Kg1
+f4 52. Nc4 Rd1+ 53. Kf2 fxg3+ 54. Kxg3 Ke6 55. Nb6 Kf5 56. a5 Rd2 57. Bf2
+Rd1 58. b5 Rh1 59. Bd4 Rh3+ 60. Kf2 Ke4 61. d8=Q g3+ 62. Ke1 Rh1+ 63. Kd2
+Rh2+ 64. Kc3 f2 65. Qd5+ Kf4 66. Qe5+ Kf3 67. Qd5+ Ke2 68. Qe4+ Kf1 69. Qf3
+Rh3 70. Bxf2 g2 71. Bg3+ 1-0
+

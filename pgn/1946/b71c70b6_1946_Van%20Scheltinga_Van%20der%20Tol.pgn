@@ -1,0 +1,18 @@
+[Event "Leeuwarden"]
+[Site "Leeuwarden"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Van der Tol, T."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[HashCode "b71c70b6"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bxc5 6. Bd3 f5 7. exf6 Nxf6 8.
+O-O O-O 9. c4 e5 10. cxd5 e4 11. dxc6 Qxd3 12. Qxd3 exd3 13. Ne5 bxc6 14. Nxd3
+Bd4 15. Be3 Bxe3 16. fxe3 Ba6 17. Rd1 Rad8 18. Nf2 Rxd1+ 19. Nxd1 Ne4 20. Nf2
+Nxf2 0-1

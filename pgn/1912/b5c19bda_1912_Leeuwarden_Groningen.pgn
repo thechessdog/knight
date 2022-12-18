@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Leeuwarden"]
+[Black "Groningen"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "b5c19bda"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxd4 12. cxd4 h6 13. Bc2 f5 14. exf6
+Bd6 15. Bxe4 dxe4 16. Be3 Qxf6 17. Nd2 Qh4 18. g3 Qh3 19. Qe2 Rae8 20. a3
+Bg4 21. Qf1 Qh5 22. Rac1 Re6 23. Rc2 Rf5 24. b4 Bh3 25. Qe2 Qg6 26. Kh1 h5
+27. Rg1 Bg4 28. Qe1 h4 29. gxh4 Rh5 30. Rg2 Rxh4 31. Rc5 Bxc5 32. bxc5 Qf5
+33. Kg1 Bf3 34. Rg3 Rg6 35. Nf1 Kh7 0-1
+

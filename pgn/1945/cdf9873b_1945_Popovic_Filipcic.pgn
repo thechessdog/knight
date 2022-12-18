@@ -1,0 +1,25 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "13"]
+[White "Popovic, Zarko"]
+[Black "Filipcic, Milan"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "cdf9873b"]
+[Epoch "Knight"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d6 11. Qc2 c5 12. Be3 Nc6 13. Rfd1 cxd4 14. Bxd4 Nxd4
+15. Rxd4 Qc7 16. Ne3 Rac8 17. Qe4 Rfd8 18. Rad1 Qc5 19. b3 b5 20. R4d3 bxc4 21.
+bxc4 Rd7 22. Rb3 Bd8 23. Rb5 Qc6 24. Qxc6 Rxc6 25. Rb8 Kf8 26. Rdb1 Ke7 27.
+R8b7 Bb6 28. Rxd7+ Kxd7 29. Rb4 Rc5 30. Nc2 Ra5 31. a4 Kc7 32. c5 Rxc5 33. Nd4
+Rc1+ 34. Kg2 Bxd4 35. Rxd4 d5 36. Rh4 h6 37. a5 Rc4 38. Rh5 Kd6 39. f4 f6 40.
+Kf3 Ra4 41. g4 Rxa5 42. g5 Ra3+ 43. Kf2 hxg5 44. fxg5 Ke7 45. g6 f5 46. Rh8 Kf6
+47. Re8 Rh3 48. Kg2 Re3 49. Kf2 Re4 50. Ra8 Kxg6 51. Rxa7 Kf6 52. Ra8 g5 53.
+Ra7 g4 54. Rh7 Ra4 55. h3 gxh3 56. Rxh3 Ke5 57. Rh6 d4 58. Kf3 Ra3+ 59. Kf2 f4
+60. Rh1 Ke4 61. Rd1 e5 62. Rd2 f3 63. Rb2 fxe2 64. Rxe2+ Kd5 65. Rb2 e4 66. Rb8
+Kc4 0-1

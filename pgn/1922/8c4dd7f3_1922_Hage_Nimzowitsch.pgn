@@ -1,0 +1,16 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Hage, Poul"]
+[Black "Nimzowitsch, Aron"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "8c4dd7f3"]
+[Epoch "Knight"]
+[BlackCountry "DAN"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 e6 5. Nc3 Nxc3 6. bxc3 c5 7. Be3 Qa5 8.
+Qc1 Qxc3+ 9. Bd2 Qxa1 10. Qxa1 1-0

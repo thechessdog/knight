@@ -1,0 +1,27 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Khavin, Abram Leonidovich"]
+[Black "Goldberg, Grigory Abramovich"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "closed (Breyer) variation"]
+[HashCode "488c97c3"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. g3 Bg7 5. Bg2 Nf6 6. Qe2 O-O 7. Ngf3 dxe4 8.
+Nxe4 Nxe4 9. Qxe4 Nd7 10. O-O Nf6 11. Qh4 Bg4 12. Re1 Re8 13. Ne5 Be6 14. Bh6
+Bh8 15. Rad1 Qa5 16. a4 Rad8 17. Re2 Nd7 18. Bd2 Qb6 19. Nf3 Bf6 20. Ng5 Nf8
+21. Bc3 Bxc3 22. bxc3 Qa5 23. Qf4 Qxc3 24. Rb1 Rb8 25. h4 Qf6 26. Qxf6 exf6 27.
+Ne4 Rec8 28. Nxf6+ Kg7 29. Ne4 Bd5 30. Nd6 Rd8 31. Rxb7 Rxb7 32. Nxb7 Rd7 33.
+Nc5 Rc7 34. Bh3 f5 35. c4 Bf7 36. Bg2 Kf6 37. Rb2 Nd7 38. Na6 Rc8 39. Rb7 Ne5
+40. Nc5 Rd8 41. Rxa7 Nxd3 42. Nxd3 Rxd3 43. Bxc6 Bxc4 44. Rxh7 Rd1+ 45. Kh2 Rd6
+46. Rc7 Rd2 47. Bb7 Rxf2+ 48. Kg1 Rf1+ 49. Kg2 Rb1 50. Rxc4 Rxb7 51. Rc2 Ra7
+52. Ra2 Ra5 53. Kf3 Kg7 54. Kf4 Kh6 55. Ra1 Kh5 56. Ra3 Kh6 57. Ke3 Kh5 58. Kd4
+Kg4 59. Kc4 f4 60. gxf4 Kxh4 61. Ra1 Kh3 62. Kb3 Kg2 63. Rc1 Ra6 64. Rc4 Kf3
+65. Kb4 Ke3 66. Kb5 Rf6 67. a5 Kd3 68. Rc6 Rxf4 69. Rxg6 Rf1 70. a6 Ra1 71. Rg7
+Kd4 72. a7 Kd5 73. Kb6 Kd6 74. Rg6+ Kd7 75. Kb7 Rb1+ 76. Rb6 1-0

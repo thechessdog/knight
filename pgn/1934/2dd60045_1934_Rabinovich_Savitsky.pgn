@@ -1,0 +1,16 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1934.12.01"]
+[Round "1"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Savitsky, Leonid"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "2dd60045"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. O-O Qf6 6. d4 exd4 7. Nxd4 Bb7 8.
+Nc3 Bc5 9. e5 Qg6 10. Nde2 Ne7 11. Nf4 Qf5 12. g4 1-0

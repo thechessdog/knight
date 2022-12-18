@@ -1,0 +1,19 @@
+[Event "corr USA"]
+[Site "corr USA"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Howell, C."]
+[Black "Hald"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lipke variation"]
+[HashCode "683d7bc9"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Bg5 f6 7. Bh4 g5
+8. Bf2 Nxf2 9. Kxf2 g4 10. Ne1 f5 11. Qd3 O-O 12. Nd2 Be6 13. Nc4 Bxc4 14.
+Qxc4+ Kh8 15. e3 Nd7 16. g3 Nf6 17. Nd3 Ne4+ 18. Kg2 Qe7 19. Nf4 Nxg3 20.
+Ng6+ hxg6 21. hxg3+ Kg7 22. Qd3 Rh8 23. Be2 Rh3 24. Rxh3 gxh3+ 25. Kxh3
+Rh8+ 26. Kg2 Qg5 27. Rg1 Bxg3 0-1
+

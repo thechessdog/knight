@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Korody Keresztely, Imre"]
+[Black "Balogh, Janos"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "4374ff7b"]
+[Epoch "Knight"]
+[BlackCountry "ROU"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Bg4 6. Qa4 Qd7 7. Nbd2 f6 8. exf6
+Nxf6 9. h3 Bh5 10. Qb5 Bg6 11. Ne5 Nxe5 12. Qxe5+ Be7 13. Nf3 O-O-O 14. Qa5 Kb8
+15. Bf4 Bd6 16. Ne5 Qf5 17. e3 Rhe8 18. g4 Qe4 19. f3 Rxe5 20. Qxe5 Qxf3 21.
+Qg5 dxe3 0-1

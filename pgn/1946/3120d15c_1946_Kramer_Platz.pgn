@@ -1,0 +1,26 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Kramer, George Mortimer"]
+[Black "Platz, Joseph"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "3120d15c"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. dxc5 Bxc5 7. Bb5 Qe7+
+8. Qe2 Qxe2+ 9. Kxe2 Ne7 10. Nb3 Bd6 11. Nbd4 Bd7 12. Be3 a6 13. Bxc6 bxc6 14.
+Nb3 Nf5 15. Bc5 Bc7 16. Kd3 f6 17. Rhe1+ Kf7 18. a4 a5 19. Nbd4 Nd6 20. Nd2
+Rhe8 21. c3 Re5 22. Re2 Rae8 23. Rae1 g5 24. b4 Nb7 25. N2b3 Ra8 26. Nf3 Bf5+
+27. Kd2 Rxe2+ 28. Rxe2 Bf4+ 29. Kd1 Nxc5 30. Nxc5 Bd6 31. Nd4 Bg4 32. f3 Bxc5
+33. bxc5 Bd7 34. Rb2 Ra7 35. Rb8 g4 36. f4 Kg6 37. g3 Bf5 38. Nxc6 Rc7 39. Rb6
+Bd7 40. Ne5+ Kf5 41. Nxd7 Rxd7 42. Rb5 Ke4 43. Rxa5 Kf3 44. c6 Rc7 45. Rc5 Kg2
+46. Ke2 h5 47. c4 dxc4 48. Rxc4 Kxh2 49. Kf2 h4 50. gxh4 g3+ 51. Kf3 f5 52. h5
+g2 53. Rc2 Rg7 54. Rxg2+ Rxg2 55. h6 Rg8 56. Ke3 Kg3 57. h7 Re8+ 58. Kd4 Kxf4
+59. c7 Kg5 60. Kc5 f4 61. Kb6 Rh8 62. Kb7 Rxh7 63. Kb8 Rh8+ 64. c8=Q Rxc8+ 65.
+Kxc8 f3 66. a5 f2 67. a6 f1=Q 68. a7 1/2-1/2

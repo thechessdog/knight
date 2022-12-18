@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1936.??.??"]
+[Round "2"]
+[White "Pelikán, Jiří (Jorge)"]
+[Black "Frydman, Paulino"]
+[Result "0-1"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "74b86610"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d5 7. Bg5 h6 8. Bh4
+Nbd7 9. e3 c5 10. Bd3 cxd4 11. cxd4 e5 12. Ne2 exd4 13. exd4 dxc4 14. Bxc4 Nb6
+15. Bd3 Nbd5 16. Qd2 Re8 17. O-O Qe7 18. Bf2 Bf5 19. Rfe1 Bxd3 20. Qxd3 Rac8
+21. Rab1 Qc7 22. Rec1 Qd7 23. Rxc8 Rxc8 24. Qb3 b6 25. g3 Qf5 26. Rb2 h5 27. h4
+g5 28. hxg5 Qxg5 29. Rc2 Re8 30. Qd3 h4 31. Qd2 Qf5 32. gxh4 Qxf3 0-1

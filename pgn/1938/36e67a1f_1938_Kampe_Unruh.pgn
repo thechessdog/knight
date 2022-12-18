@@ -1,0 +1,15 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Kampe"]
+[Black "Unruh"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "36e67a1f"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e5 4. dxe5 d4 5. a3 Be6 6. b3 a5 7. Bb2 Bc5 8.
+Nbd2 f5 9. exf6 Nxf6 10. Qc2 O-O 11. g3 Ng4 12. Rd1 Nxf2 0-1
+

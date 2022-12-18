@@ -1,0 +1,21 @@
+[Event "Kharkov"]
+[Site "Kharkov"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Rauser"]
+[Black "Kirilov"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "d321c98e"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 Bb7 8.
+axb5 Bxc3 9. Bxc3 cxb5 10. d5 f6 11. dxe6 Qxd1+ 12. Rxd1 a6 13. Ng5 Nh6 14.
+Be2 O-O 15. h4 Re8 16. Kf1 Nc6 17. Rd7 Re7 18. Bf3 Rxd7 19. exd7 fxg5 20.
+hxg5 Nf7 21. Be4 Nxg5 22. Bd5+ Nf7 23. Rh4 Rd8 24. Re4 Kf8 25. Re6 Ng5 26.
+Rxc6 Rxd7 27. Bb4+ Ke8 28. Bd6 Bxc6 29. Bxc6 Kd8 30. Bxd7 Kxd7 31. Bb4 Kc6
+32. f3 Ne6 33. Ke2 Kb6 34. f4 a5 35. Be7 Kc6 36. Kf3 Kd7 37. Bh4 Nc5 38. f5
+Nd3 39. f6 gxf6 40. Bxf6 Ke6 41. Bd4 b4 42. e4 c3 0-1
+

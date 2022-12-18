@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Tchinenoff, N."]
+[Black "Maillard, R."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "8869f332"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. fxe5 Qh4+ 4. Ke2 Qxe4# 0-1
+

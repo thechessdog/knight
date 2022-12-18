@@ -1,0 +1,19 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Schindler"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "E49"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Botvinnik system"]
+[HashCode "59c65e6b"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 d5 6. e3 O-O 7. Bd3 c5 8. Ne2
+b6 9. O-O Ba6 10. cxd5 Bxd3 11. Qxd3 exd5 12. f3 Re8 13. dxc5 bxc5 14. Rd1 Nbd7
+15. Nf4 Nb6 16. a4 g5 17. a5 gxf4 18. axb6 axb6 19. Rxa8 Qxa8 20. Qf5 Qa4 21.
+Qg5+ Kf8 22. Qh6+ Ke7 23. Re1 Qc2 24. exf4+ Kd7 25. Qh3+ Kc7 26. Rf1 Qxc3 27.
+f5 Qd4+ 28. Kh1 Qf2 0-1

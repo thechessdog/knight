@@ -1,0 +1,23 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "2"]
+[White "Stulik, Vlastimil"]
+[Black "Sajtar, Jaroslav"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "a837d7df"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. a3 cxd4 8. axb4
+dxc3 9. bxc3 dxc4 10. Bxc4 Qxd1+ 11. Kxd1 Nc6 12. Ng3 Bd7 13. f3 Ne5 14. Be2
+Rfc8 15. Ra5 Nc4 16. Bxc4 Rxc4 17. Bd2 a6 18. e4 Bb5 19. Kc1 Nd7 20. Ne2 Rac8
+21. Kb2 Nb6 22. Kb3 R4c7 23. Rxb5 axb5 24. Bf4 Rc4 25. Rd1 f6 26. Be3 Na4 27.
+Rd3 e5 28. Bd2 Nb6 29. Be3 R4c6 30. Bxb6 Rxb6 31. Rd5 Rc7 32. Nc1 Kf7 33. Kc2
+Ke7 34. Ne2 Rd7 35. Kb3 Rxd5 36. exd5 Ra6 37. g4 Ra1 38. Ng3 Rd1 39. Nf5+ Kd7
+40. Nxg7 Rxd5 41. Kc2 Rd6 42. Nf5 Ra6 43. Kb2 Ke6 44. Ne3 Ra8 45. h3 h5 46. Nf5
+Rg8 0-1

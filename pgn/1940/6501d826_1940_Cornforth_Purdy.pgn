@@ -1,0 +1,17 @@
+[Event "corr ch-AUS"]
+[Site "corr ch-AUS"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Cornforth"]
+[Black "Purdy"]
+[Result "0-1"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "6501d826"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. e3 O-O 7. Bd3 c6 8.
+Ne2 Re8 9. Bd2 Nbd7 10. Ng3 Nf8 11. O-O a6 12. Na4 Bd6 13. Rfc1 Ng4 14. Be1
+Qh4 15. h3 Nxe3 16. Qd2 Nxg2 17. Kxg2 Bxh3+ 0-1
+

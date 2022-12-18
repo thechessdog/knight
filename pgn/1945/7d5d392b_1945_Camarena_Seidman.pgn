@@ -1,0 +1,19 @@
+[Event "Pan American"]
+[Site "Hollywood"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Camarena, Joaquin"]
+[Black "Seidman, Herbert"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "7d5d392b"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Ne4 4. Be3 d5 5. Nfd2 Nd6 6. f3 Bg7 7. c3 O-O 8. Na3
+Re8 9. Qb3 c6 10. g4 e5 11. O-O-O b5 12. h4 a5 13. Bg5 Qb6 14. e3 Nd7 15. h5
+Bb7 16. hxg6 hxg6 17. Qc2 c5 18. dxc5 Nxc5 19. Nb3 Ne6 20. Bh6 a4 21. Bxg7 Kxg7
+22. Nd4 exd4 23. exd4 b4 24. Nb5 Nxb5 25. Bxb5 Qxb5 26. Qh2 bxc3 27. bxc3 Rac8
+28. Qh6+ Kf6 29. Kc2 a3 0-1

@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Ilyin Zhenevsky, Alexander"]
+[Black "Zubarev, Nikolay"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "b3adc035"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[BlackID "54186412"]
+[WhiteCountry "RUS"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Bb4 6. Bd2 Nc6 7. a3 Nd4 8.
+Nge2 Bg4 9. f3 Bxf3 10. axb4 Qxa1 11. Qxa1 Nxc2+ 12. Kd1 Nxa1 13. gxf3 O-O-O
+14. Nc1 Ne7 15. Rg1 Nc6 16. f4 g6 17. Bc4 Rd7 18. Nd5 Rhd8 19. Rg3 b5 20. Ba2
+Nb8 21. Rc3 Na6 22. Ra3 Kb7 23. Nd3 c6 24. Rxa6 Kxa6 25. Nc5# 1-0

@@ -1,0 +1,20 @@
+[Event "Coburg"]
+[Site "Coburg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Nyholm, Gustaf"]
+[Black "Neumann, Augustin"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "2c63d1d9"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 Nf6 6. Nc3 Bb4 7. Nf3 Qh5 8.
+Qe2 O-O 9. Bb3 Nc6 10. d3 Bg4 11. Qf2 g5 12. Nd5 Nxd5 13. Bxd5 Bd7 14. Bxc6
+Bxc6 15. Qd4 Bd6 16. Qf6 h6 17. b3 Kh7 18. Bb2 Qg6 19. Ke2 Qxf6 20. Bxf6 Rae8
+21. Kd2 Kg6 22. Bc3 f5 23. exf5+ Rxf5 24. Nd4 Bxg2 25. Nxf5 Kxf5 26. Rhg1 f3
+0-1

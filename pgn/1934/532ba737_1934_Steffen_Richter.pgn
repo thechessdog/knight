@@ -1,0 +1,19 @@
+[Event "Stargard"]
+[Site "Stargard"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Steffen"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "Bradley Beach variation"]
+[HashCode "532ba737"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 e4 5. Nd2 Bb4 6. g3 Qe7 7. Nb3 d5 8. cxd5
+Nxd5 9. Bd2 Bxc3 10. Bxc3 e3 11. f3 Bf5 12. Nc5 O-O-O 13. a4 Ndb4 14. Bxb4 Nxb4
+15. Rc1 b6 16. Nb3 h5 17. h4 Kb8 18. a5 Qe5 19. dxe5 Rxd1+ 20. Kxd1 Rd8+ 21.
+Ke1 Nc2+ 0-1

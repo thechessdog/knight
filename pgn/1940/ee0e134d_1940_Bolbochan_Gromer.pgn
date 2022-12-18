@@ -1,0 +1,23 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Bolbochan, Jacobo"]
+[Black "Gromer"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "ee0e134d"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Qc8 6. O-O Be7 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. b3 O-O 10. Bb2 d6 11. Ne1 Bxg2 12. Nxg2 Nd7 13. e4 c5 14. Qe2 Re8 15.
+Rfe1 a5 16. Rad1 Bf8 17. Ne3 a4 18. d5 e5 19. Rf1 Qb7 20. f3 b5 21. Bc1 axb3
+22. axb3 bxc4 23. bxc4 Ra4 24. Qc2 Qa6 25. Bb2 Nb6 26. Ra1 Ra8 27. f4 exf4 28.
+gxf4 Qc8 29. Nf5 f6 30. e5 fxe5 31. fxe5 dxe5 32. Bxe5 Qe8 33. Rae1 Qg6+ 34.
+Kh1 Ra2 35. Qe4 R8a7 36. Rg1 Qh5 37. d6 Rf7 38. Ne7+ Bxe7 39. dxe7 Rxe7 40. Qf4
+Qe8 41. Qf3 Rxe5 42. Rxg7+ Kxg7 43. Qg3+ Kh8 44. Rxe5 Qa8+ 45. Kg1 Ra1+ 46. Re1
+Rxe1+ 47. Qxe1 Qg8+ 48. Kh1 Qa8+ 49. Kg1 Qg8+ 50. Kh1 Qg5 51. h4 Qf6 52. Qg3
+Nd7 0-1

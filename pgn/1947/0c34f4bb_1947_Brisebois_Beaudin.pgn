@@ -1,0 +1,19 @@
+[Event "Quebec op"]
+[Site "Quebec op"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Brisebois, E."]
+[Black "Beaudin, L."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "0c34f4bb"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Nf6 6. Nd2 Be6 7. O-O Nbd7
+8. f4 Bg4 9. h3 Bxe2 10. Qxe2+ Qe7 11. Qd1 O-O-O 12. Nf3 Rde8 13. Ne5 h6
+14. c4 c5 15. Qa4 Kb8 16. cxd5 Nb6 17. Qb3 Nfxd5 18. Bd2 Rc8 19. Rac1 f6
+20. Ng6 Qe6 21. Nxh8 c4 22. Bxc4 Nxc4 23. Rxc4 Rxh8 24. Rcc1 Qe4 25. Qc4
+Bxf4 26. Bxf4+ Nxf4 27. Qc7+ Ka8 28. Qc8+ Rxc8 29. Rxc8# 1-0
+

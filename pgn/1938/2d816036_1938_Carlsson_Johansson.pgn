@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Carlsson, Sven"]
+[Black "Johansson, Martin"]
+[Result "0-1"]
+[ECO "D72"]
+[Opening "Neo-Gruenfeld, 5.cd, main line"]
+[HashCode "2d816036"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 c5 8. d5
+O-O 9. Qc2 Na6 10. a3 e6 11. Nbc3 exd5 12. exd5 Bf5 13. Qd1 c4 14. O-O Nc5 15.
+Be3 Nb3 16. Ra2 Qd7 17. Re1 Rfe8 18. Nc1 Nxc1 19. Qxc1 Na4 20. Bd2 Nc5 21. Qd1
+Rxe1+ 22. Bxe1 Re8 23. Bd2 Nb3 24. Be3 b5 25. Ne2 Be4 26. Bxe4 Rxe4 27. Nc3 Re8
+28. d6 a6 29. Qd5 Rc8 30. Ne4 h6 31. Bxh6 Qf5 32. Qxf5 gxf5 33. Bg5 fxe4 34. d7
+Ra8 35. d8=Q+ Rxd8 36. Bxd8 Nc1 37. Ra1 Bxb2 0-1

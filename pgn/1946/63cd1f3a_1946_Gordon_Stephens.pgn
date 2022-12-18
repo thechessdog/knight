@@ -1,0 +1,20 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gordon, A."]
+[Black "Stephens, M."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "63cd1f3a"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bf4 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 Bd6 9. Bg5 O-O 10. Nf3 Be7 11. O-O Nd5 12. Bd2 Bd7 13. Ne5 Nf6 14. Bg5
+Nd5 15. Qh5 g6 16. Bxe7 Qxe7 17. Qf3 c6 18. Ng4 Kg7 19. c3 Rae8 20. Rfe1 Nf6
+21. Ne5 Bc8 22. Rad1 Nd7 23. Nc4 Nb6 24. Ne5 Nd7 25. Ng4 Nf6 26. Ne5 Nd7 27.
+Bc2 Nxe5 28. Rxe5 Qf6 29. Qe4 Qd8 30. Qe2 b6 31. Qg4 Qc7 32. h4 f6 33. Re3 e5
+34. Qg3 Qe7 35. Rde1 Qd8 36. dxe5 fxe5 37. Rxe5 Rxe5 38. Rxe5 Qd2 39. Re7+ Kf6
+40. Qe5# 1-0

@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1935.01.01"]
+[Round "16"]
+[White "Guimard, Carlos E"]
+[Black "Pleci, Isaias"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "c1cc03c7"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be6 6. a3 Qd7 7. b4 Nge7 8. b5
+Na5 9. Qa4 b6 10. Bb2 Nf5 11. g4 Ne3 12. fxe3 dxe3 13. Bg2 exd2+ 14. Nxd2 O-O-O
+15. Nb3 Bxc4 16. O-O Bxb3 17. Qf4 Bc5+ 18. Kh1 g5 19. Qg3 Bd5 20. e6 fxe6 21.
+Bxh8 Rxh8 22. Rad1 Qxb5 23. e4 Bc4 24. Rf7 Bd6 25. e5 Qxe5 26. Qh3 Bd5 0-1

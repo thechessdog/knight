@@ -1,0 +1,19 @@
+[Event "Treybal mem"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "13"]
+[White "Guimard, Carlos E"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "0b31c26e"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. d5 b5 7. O-O bxc4 8. e4
+Nxe4 9. dxe6 fxe6 10. Ng5 d5 11. Nxe4 dxe4 12. Qh5+ g6 13. Qe5 Qd4 14. Qxe6+
+Be7 15. Nc3 Qd7 16. Qxc4 Qd4 17. Qb3 Qb4 18. Qe6 Qb6 19. Qe5 Rf8 20. Nd5 Qd6
+21. Qxe4 1-0

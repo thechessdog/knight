@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "10"]
+[White "Albin, Adolf"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "33c89add"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+[BlackCountry "IRE"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. c3 d6 5. h3 Nc6 6. Qf3 Ne7 7. Bg5 Ng6 8. Ne2
+Be6 9. Nd2 h6 10. Bxf6 Qxf6 11. Qxf6 gxf6 12. b4 Bb6 13. Bxe6 fxe6 14. Nc4 d5
+15. Nxb6 axb6 16. O-O dxe4 17. dxe4 O-O-O 18. Rad1 Rxd1 19. Rxd1 Rd8 20. Rxd8+
+Kxd8 21. f3 Ke7 22. g3 f5 23. Kf2 f4 24. h4 h5 25. Kg2 fxg3 26. Kxg3 Kf6 27. a4
+Ne7 28. Kf2 Ng6 29. Kg3 Ne7 30. Nc1 Ng6 31. Nd3 Ke7 32. c4 Kd6 33. c5+ bxc5 34.
+Nxc5 b6 35. Nd3 c5 36. bxc5+ bxc5 37. Nb2 Kc6 38. Nc4 Kb7 39. Kf2 Ka6 40. Kg3
+Kb7 41. Kf2 Ka6 42. Ke3 Kb7 43. Kf2 Ka6 1/2-1/2

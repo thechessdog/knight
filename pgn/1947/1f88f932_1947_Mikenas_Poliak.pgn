@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Mikenas, Vladas"]
+[Black "Poliak, Abram Borisovich"]
+[Result "0-1"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "1f88f932"]
+[Epoch "Knight"]
+[WhiteCountry "LTU"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Nxd4 c6 8.
+Nxe7 Nxe7 9. Qd2 d5 10. e3 O-O 11. cxd5 Qxd5 12. Bxe7 Re8 13. Ba3 Qxd4 14. Qxd4
+Bxd4 15. O-O-O Bf6 16. Bc4 Bf5 17. Bc5 Kg7 18. Rd2 b6 19. Bd6 Rad8 20. Rhd1 Bg4
+21. Be2 Be6 22. Be5 Rxd2 23. Bxf6+ Kxf6 24. Kxd2 Bxa2 25. Ra1 Bd5 26. Rxa7 Bxg2
+27. Ra6 Rb8 28. Bc4 Rb7 29. Ra1 Ke5 30. Rg1 Be4 31. b4 f6 32. Kc3 Bd5 33. Bxd5
+cxd5 34. Kd3 Ra7 35. f4+ Kd6 36. h4 Ra3+ 37. Kd4 Rb3 38. h5 Rxb4+ 39. Kd3 g5
+40. fxg5 fxg5 41. Rxg5 Rh4 42. Rf5 Kc5 43. e4 Rxe4 44. Rf7 h6 45. Rf6 Rh4 46.
+Rxh6 Rh3+ 47. Kd2 b5 48. Rh8 Kc4 49. h6 Rh2+ 50. Kc1 Kc3 51. Rc8+ Kb3 52. Rc5
+Rh1+ 53. Kd2 b4 54. Rc6 Rh3 55. Ra6 Kb2 56. Rb6 b3 57. Ra6 Kb1 58. Rb6 Rh2+ 59.
+Kd1 b2 60. Ra6 d4 61. Ra7 Rxh6 62. Kd2 Rh2+ 63. Kd1 d3 64. Ra8 Rc2 65. Ra7 d2
+66. Ra5 Rc1+ 67. Kxd2 Rc8 0-1

@@ -1,0 +1,25 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "0-1"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical (two knights) system"]
+[HashCode "3667c017"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. Bc4 O-O 6. O-O Nc6 7. Qe2 Bg4 8. Qe3
+Bxf3 9. gxf3 Nh5 10. Ne2 e5 11. c3 Kh8 12. dxe5 Nxe5 13. Bb3 f5 14. f4 Ng4 15.
+Qh3 Nh6 16. f3 Qe7 17. Bc2 fxe4 18. fxe4 d5 19. e5 Nf5 20. Bxf5 Rxf5 21. Nd4
+Rf7 22. Be3 Re8 23. Rad1 Bh6 24. Ne2 c6 25. b4 a6 26. a4 Kg8 27. Rf2 Qe6 28.
+Qg2 Qc8 29. Rdf1 Rxe5 30. fxe5 Bxe3 31. Kh1 Bxf2 32. Rxf2 Re7 33. Qf3 Qe8 34.
+b5 axb5 35. axb5 Rxe5 36. bxc6 bxc6 37. Nd4 c5 38. Nb3 Rf5 39. Qe2 Qxe2 40.
+Rxe2 c4 41. Nd4 Rf1+ 42. Kg2 Rf7 43. Re5 Nf6 44. Nc6 Kf8 45. Re3 Rc7 46. Nd8
+Re7 47. Rf3 Kg7 48. h3 Re8 49. Nc6 Re2+ 50. Kf1 Rc2 51. Nd4 Rc1+ 52. Ke2 Ne4
+53. Rf4 g5 54. Ne6+ Kg6 55. Nf8+ Kh5 56. Rf5 Ng3+ 57. Kd2 Nxf5 58. Kxc1 h6 59.
+Ne6 Kh4 60. Nc7 d4 61. cxd4 Nxd4 62. Nd5 Kxh3 0-1

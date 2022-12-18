@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Gerbec"]
+[Black "Weil, Wolfgang"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "0b24bdb4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 Ne7 8.
+Re1 Nd6 9. Nxe5 bxa4 10. Nc3 Bb7 11. Bg5 h6 12. Qh5 hxg5 13. Qxh8 Qb8 14.
+Ng6 fxg6 15. Qg8 Qa7 16. Rxe7+ Kxe7 17. Re1+ Kf6 18. g4 Nf7 19. Ne4+ Ke5
+20. Qxf7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Guimard, Carlos E"]
+[Black "Bolbochan, Jacobo"]
+[Result "1/2-1/2"]
+[ECO "D75"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3"]
+[HashCode "ee65da0b"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O c5 8. Nc3
+Nc6 9. Nxd5 Qxd5 10. Be3 cxd4 11. Nxd4 Qc4 12. Nxc6 bxc6 13. Rc1 Qxa2 14. Bxc6
+Rb8 15. Ra1 Qxb2 16. Rxa7 Bh3 17. Bg2 Bxg2 18. Kxg2 Rb7 19. Rxb7 Qxb7+ 20. Kg1
+Qc6 1/2-1/2

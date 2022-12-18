@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Brown, R."]
+[Black "Rockel, R."]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Tarrasch variation"]
+[HashCode "f37b69a4"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Bd3 O-O
+8. Nf3 a6 9. Qd2 c5 10. Qe3 Nc6 11. O-O cxd4 12. Nxd4 Ncxe5 13. Rad1 Nxd3
+14. Rxd3 Nf6 15. Nf5 Qd8 16. Nxg7 Nd7 17. Nh5 Qh4 18. Qh6 1-0
+

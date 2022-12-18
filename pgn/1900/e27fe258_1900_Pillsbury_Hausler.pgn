@@ -1,0 +1,18 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Hausler, H."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "e27fe258"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. d4 g5 6. h4 Bg4 7. Bb5 a6 8. Bxc6+
+bxc6 9. hxg5 Ne7 10. Bxf4 Ng6 11. Qd2 Bg7 12. O-O-O Qc8 13. e5 Qf5 14. Bh2 dxe5
+15. dxe5 O-O 16. Nd4 Qd7 17. Ne4 Bxd1 18. Nf6+ Bxf6 19. gxf6 Qg4 20. Qh6 Nh8
+21. Nf5 Rfe8 22. Rxd1 Qg6 23. Rd7 Qxh6+ 24. Nxh6+ Kf8 25. Rxc7 Rac8 26. Rd7
+Rcd8 27. e6 1-0

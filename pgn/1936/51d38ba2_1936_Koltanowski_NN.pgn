@@ -1,0 +1,18 @@
+[Event "Zurich simul"]
+[Site "Zurich simul"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Colle system"]
+[HashCode "51d38ba2"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. c3 c4 6. Bc2 Nc6 7. Nbd2 Bd6 8. e4
+dxe4 9. Nxe4 b5 10. O-O Nxe4 11. Bxe4 Bb7 12. Qe2 g6 13. a4 a6 14. b3 cxb3 15.
+axb5 axb5 16. Rxa8 Qxa8 17. Qxb5 O-O 18. Qxb3 Na5 19. Bxb7 Nxb3 20. Bxa8 Nxc1
+21. Rxc1 Rxa8 22. c4 f6 23. Kf1 e5 24. c5 Rc8 25. Ke2 exd4 26. cxd6 Rxc1 27. d7
+d3+ 28. Kd2 1-0

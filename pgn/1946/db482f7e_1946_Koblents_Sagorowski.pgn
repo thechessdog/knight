@@ -1,0 +1,16 @@
+[Event "Vilnius"]
+[Site "Vilnius"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Koblents"]
+[Black "Sagorowski"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "db482f7e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Qe2 g6 6. d4 Bg7 7. g4 fxg3 8.
+Bg5 f6 9. exf6+ Kf7 10. fxg7 1-0
+

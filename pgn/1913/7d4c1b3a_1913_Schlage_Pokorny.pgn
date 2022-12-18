@@ -1,0 +1,18 @@
+[Event "Berlin-Prague"]
+[Site "Berlin"]
+[Date "1913.??.??"]
+[Round "2"]
+[White "Schlage, Willi"]
+[Black "Pokorny, Amos"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "7d4c1b3a"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. d4 exd4 6. Nxd4 Bd7 7. Nc3 Be7 8.
+h3 O-O 9. Bf4 Nxd4 10. Qxd4 Bxb5 11. Nxb5 a6 12. Nc3 Nh5 13. Bh2 Bf6 14. Qd3
+Bxc3 15. bxc3 Qg5 16. f4 Qc5+ 17. Kh1 f5 18. exf5 Rxf5 19. g4 Rd5 0-1

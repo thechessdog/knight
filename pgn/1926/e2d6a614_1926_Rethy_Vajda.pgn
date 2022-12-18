@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Rethy, Pal"]
+[Black "Vajda, Arpad"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Rubinstein variation"]
+[HashCode "e2d6a614"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qd5 Bxc3+
+8. bxc3 f6 9. exf6 Nxf6 10. Qd3 d6 11. e3 Ne4 12. Qc2 Nc5 13. Nd4 O-O 14. Be2
+Ne5 15. O-O Qf7 16. f3 Nxc4 17. Nb3 Nxb3 18. axb3 Nb6 19. Bd3 Bf5 20. Bxf5 Qxf5
+21. Qxf5 Rxf5 22. Bg3 Rd5 23. Rfd1 a5 24. Rd4 Kf7 25. Kf1 Ke6 26. Ke2 a4 27.
+Re4+ Kd7 28. b4 Rb5 29. Rf4 Nd5 30. Rf7+ Ke6 31. Rxg7 Nxc3+ 32. Kd3 Nd5 33. Be1
+c6 34. Rg4 c5 35. Kc4 Rxb4+ 36. Bxb4 Nxe3+ 37. Kb5 Nxg4 38. Bxc5 dxc5 39. fxg4
+Kd5 40. Rd1+ Ke4 41. Kxc5 a3 42. Kc4 a2 43. Ra1 Kf4 44. Kb3 Kxg4 45. Kb2 Ra6
+46. Kc2 Rf6 47. Kb3 Rf2 0-1

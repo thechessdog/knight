@@ -1,0 +1,18 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "1"]
+[White "Skalicka, Karel"]
+[Black "Michel, W."]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Capablanca anti-Cambridge Springs variation"]
+[HashCode "b17545d3"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c6 5. e3 Nbd7 6. a3 Be7 7. Nf3 O-O 8. Bd3
+dxc4 9. Bxc4 c5 10. O-O b6 11. Qe2 Bb7 12. Rfd1 cxd4 13. Nxd4 Nd5 14. Bxe7 Nxc3
+15. Qg4 Qxe7 16. Nxe6 fxe6 17. Rxd7 Qf6 18. Qxe6+ Qxe6 19. Bxe6+ Kh8 20. Rxb7
+Ne4 21. Rf7 Rxf7 22. Bxf7 Nxf2 23. Kxf2 Rf8 24. Ke2 Rxf7 25. Rf1 1-0

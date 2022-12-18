@@ -1,0 +1,16 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Elsas, H."]
+[Black "Ernst, Erno"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Janowski variation"]
+[HashCode "964ab24b"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6 Qxf6 7. g3 Bg4 8.
+Bg2 O-O-O 9. a3 d3 10. O-O dxe2 11. Qxe2 Nd4 12. Qe5 Bxf3 13. Qxf6 Ne2+ 14. Kh1
+Bxg2+ 15. Kxg2 Nxf6 0-1

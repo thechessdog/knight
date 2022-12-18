@@ -1,0 +1,19 @@
+[Event "USA-ch prel-V"]
+[Site "Boston"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Garfinkel, B."]
+[Black "Wolck, B."]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "975aa337"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 f5 8. exf6
+Nxf6 9. Nf3 c5 10. a3 cxd4 11. axb4 dxc3 12. bxc3 e5 13. Nxe5 Qe7 14. f4 Nc6
+15. O-O Nxe5 16. fxe5 Qxe5 17. Bf4 Qh5 18. cxd5 Nxd5 19. Ra5 b6 20. Rxd5 Qxd5
+21. Bxh7+ Kh8 22. Be4 Qf7 23. Bxa8 Ba6 24. Rf3 Rxa8 25. Rh3+ Kg8 26. Qh7+ Kf8
+27. Bd6+ Ke8 28. Rf3 Qe6 29. Qh8+ Kd7 30. Qxg7+ Kc6 31. Bg3 Rd8 32. Qc7+ Kb5
+33. Qxd8 Ka4 34. Qd1+ Kb5 35. Qd3+ Kc6 36. Qxa6 Qd5 37. Rf6+ 1-0

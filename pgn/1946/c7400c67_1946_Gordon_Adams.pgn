@@ -1,0 +1,20 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gordon, A."]
+[Black "Adams, Weaver Warren"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "c7400c67"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. g3 Nc6 5. Nf3 Be6 6. Qc2 h6 7. a3 a5 8. Bg2 Bc5
+9. O-O Nge7 10. Nbd2 Bf5 11. Ne4 Ba7 12. Bf4 Qc8 13. Rad1 Qe6 14. Bc1 O-O 15.
+e3 Bg4 16. Nxd4 Bxd1 17. Rxd1 Qxe5 18. f4 Qh5 19. Nb5 Rad8 20. Re1 Rd7 21. Nf2
+f5 22. Nxa7 Nxa7 23. Qa4 Nac6 24. b4 axb4 25. axb4 Rdd8 26. b5 Ra8 27. Qc2 Na5
+28. Bd2 c6 29. Qa4 b6 30. c5 Qf7 31. cxb6 Nc4 32. Qb4 c5 33. b7 cxb4 34. bxa8=Q
+Rxa8 35. Bxa8 Nxd2 36. b6 b3 37. Nd3 b2 38. Nxb2 Qa2 0-1

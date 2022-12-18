@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Napier, William Ewart"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Nyholm attack"]
+[HashCode "6a774b8d"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O Be7 6. e5 Ne4 7. Nxd4 Nc5 8.
+Nf5 Ne6 9. Re1 g6 10. Nxe7 Nxe7 11. Nc3 a6 12. Bc4 b5 13. Bxe6 fxe6 14. Qf3 Nc6
+15. Ne4 Qe7 16. Bg5 Qf7 17. Nf6+ Kf8 18. Bh6+ Ke7 19. Rad1 Rd8 20. Bg5 Kf8 21.
+Qxc6 dxc6 22. Rxd8+ Kg7 23. Ng4 h5 24. Bf6+ Qxf6 25. Nxf6 Kf7 26. Red1 g5 27.
+Rh8 Bb7 28. Rxa8 Bxa8 29. Rd8 Bb7 30. Rb8 1-0

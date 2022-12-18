@@ -1,0 +1,20 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Cohn, E."]
+[Black "Suechting, Hugo"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "f9eb39d9"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c4 e6 5. Nc3 Bd6 6. Bg3 O-O 7. Nf3 Nc6 8. Bd3
+Ne7 9. O-O Bxg3 10. hxg3 b6 11. dxc5 bxc5 12. Rc1 Bd7 13. Ne5 Qc7 14. Nxd7 Nxd7
+15. Qc2 g6 16. Rfd1 Rab8 17. Be2 Rfd8 18. cxd5 exd5 19. Nxd5 Qe5 20. Nxe7+ Qxe7
+21. Rd5 Rdc8 22. b3 Rc7 23. e4 Rb4 24. Bf3 a5 25. Rcd1 Nf6 26. Rd8+ Kg7 27. Qc3
+c4 28. e5 Ne8 29. e6+ Nf6 30. R8d7 Rxd7 31. exd7 Rb8 32. bxc4 Rd8 33. Bc6 Kg8
+34. Qd4 1-0

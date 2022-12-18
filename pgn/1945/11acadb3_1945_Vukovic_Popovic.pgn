@@ -1,0 +1,28 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "6"]
+[White "Vukovic, Sava"]
+[Black "Popovic, Vojislav"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "11acadb3"]
+[Epoch "Knight"]
+[WhiteID "941387"]
+[WhiteCountry "SRB"]
+[BlackID "990639"]
+[BlackCountry "SRB"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nf3 Bg4 6. Be3 c6 7. Be2 e6 8. O-O
+Nbd7 9. Nc3 Be7 10. h3 Bh5 11. Ne5 Bxe2 12. Qxe2 Nxe5 13. dxe5 Nd7 14. Rad1 Qc7
+15. f4 O-O 16. Ne4 Rfd8 17. Nd6 Nb6 18. c5 Nd5 19. f5 exf5 20. Rxf5 f6 21. Qf3
+Nxe3 22. Qxe3 Rf8 23. Rf2 Rad8 24. Kh2 h6 25. Qb3+ Kh7 26. Qd3+ g6 27. e6 Qa5
+28. Qe3 f5 29. a3 Qc7 30. Qg3 Rf6 31. Qe5 Rff8 32. Rfd2 f4 33. Rd3 Rf5 34. Qc3
+f3 35. gxf3 Rf6 36. Qe5 Rdf8 37. Qe3 b6 38. b4 Rf4 39. Kh1 Rh4 40. Kg2 Bg5 41.
+Qe2 Kg8 42. Nf7 Qf4 43. Rd4 Qf6 44. Rxh4 Bxh4 45. Qe5 Qxe5 46. Nxe5 bxc5 47.
+Nxg6 Rf6 48. Nxh4 Rxe6 49. bxc5 Re2+ 50. Kg3 Rc2 51. Rd8+ Kf7 52. Rd7+ Kg8 53.
+Rxa7 Rxc5 54. f4 Rc3+ 55. Kg4 h5+ 56. Kxh5 Rxh3 57. Kg6 Kf8 58. Kf6 Ke8 59. Nf5
+Kd8 60. Nd4 Kc8 61. Ne6 Kb8 62. Rc7 Rxa3 63. Rxc6 Kb7 64. Rc4 Rf3 65. f5 Rf1
+66. Nf4 1-0

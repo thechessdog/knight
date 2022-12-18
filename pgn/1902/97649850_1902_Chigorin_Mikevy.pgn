@@ -1,0 +1,20 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Mikevy"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "97649850"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. d4 Nf6 6. Be2 O-O 7. O-O c6 8. Nc3
+Qc7 9. Be3 Nbd7 10. Qe1 Nb6 11. Nd1 Nfd5 12. c4 Nxe3 13. Nxe3 c5 14. dxc5 Bxc5
+15. Qg3 Bd4 16. Rad1 Qc5 17. b4 Bxe3+ 18. Kh1 Qxb4 19. Qxe3 f6 20. c5 fxe5 21.
+cxb6 axb6 22. fxe5 Be6 23. Rxf8+ Rxf8 24. h3 Bxa2 25. Rd4 Qe1+ 26. Kh2 Rf1 27.
+Rd8+ Kf7 28. Rf8+ Kxf8 29. Qa3+ Ke8 30. Bb5+ Kf7 31. Qxa2+ Ke7 32. Qa3+ Ke6 33.
+Qd6+ Kf5 34. Bxf1 Kf4 35. e6+ Ke3 36. Qg3+ 1-0

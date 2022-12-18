@@ -1,0 +1,20 @@
+[Event "corr IFSB"]
+[Site "corr IFSB"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Warnecke"]
+[Black "Feilitzsch"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "f074f829"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 g5 10. Nbd2 Nxd2 11. Qxd2 g4 12. Ng5 Nxe5 13. Nxe6 fxe6 14.
+Qe2 Qf6 15. Be3 c5 16. a4 Bd6 17. f4 gxf3 18. gxf3 Rb8 19. axb5 axb5 20.
+Ra6 Kd7 21. Kh1 Nc4 22. Bxc4 bxc4 23. Qf2 Rb5 24. Rfa1 Rhb8 25. Ra7+ Kc6
+26. R1a6+ R8b6 27. Rxb6+ Rxb6 28. Rxh7 Qf5 29. Rh6 Rb8 30. Qg2 e5 31. Qg4
+Qxg4 32. fxg4 d4 33. Bg5 Kd5 34. cxd4 cxd4 0-1
+

@@ -1,0 +1,28 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Nielsen, Bjorn"]
+[Black "Poulsen, Christian"]
+[Result "1-0"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "d00b53a3"]
+[Epoch "Knight"]
+[WhiteID "1416839"]
+[WhiteCountry "DEN"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 Nbd7 8.
+Rc1 c6 9. e3 Re8 10. Nf3 Ne4 11. Bxd8 Nxc3 12. Bh4 Ne4 13. Bd3 f5 14. O-O h6
+15. Rfd1 a5 16. Nd2 Ndf6 17. f3 Nxd2 18. Rxd2 Kf7 19. Bg3 Bd7 20. Be5 Rec8 21.
+h3 h5 22. Rf2 a4 23. e4 g6 24. g4 Ke7 25. g5 Ne8 26. exf5 exf5 27. Re1 Kf7 28.
+Rfe2 Be6 29. c5 Ra5 30. h4 Raa8 31. Kf2 Ra5 32. Re3 Raa8 33. f4 Rd8 34. R1e2
+Rac8 35. Ke1 Ra8 36. Kd2 Rdc8 37. Kc3 Ra5 38. Kb4 Raa8 39. Bc2 b5 40. cxb6 Ra6
+41. Bxa4 Rxb6+ 42. Kc3 Ra6 43. Bd1 c5 44. dxc5 Rxc5+ 45. Kd2 Nd6 46. Bxd6 Rxd6
+47. Rc3 Rc4 48. Rf2 Rdc6 49. Rxc4 Rxc4 50. Bc2 Ke7 51. b3 Rc7 52. Rf3 Kd6 53.
+Rc3 Ra7 54. b4 Bd7 55. Ke3 Bb5 56. Kd4 Re7 57. a4 Bxa4 58. Bxa4 Re4+ 59. Kd3
+Rxb4 60. Rc6+ Ke7 61. Bd1 Rxf4 62. Rxg6 Rxh4 63. Rf6 Rh1 64. Bf3 Rg1 65. Rg6 h4
+66. Ke3 d4+ 67. Kxd4 h3 68. Ke5 h2 69. Rg7+ Kf8 70. Rh7 Rxg5 71. Kf6 Rg1 72.
+Rh8+ Rg8 73. Rxh2 Ke8 74. Bd5 Rg1 75. Be6 1-0

@@ -1,0 +1,19 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Christiansen, Johan"]
+[Black "Villadsen, Alex"]
+[Result "0-1"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "7fc2b603"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c6 4. Bd3 Bg4 5. Nbd2 Nbd7 6. c4 e5 7. cxd5 cxd5
+8. dxe5 Nxe5 9. Qa4+ Bd7 10. Bb5 Nd3+ 11. Ke2 Nc5 12. Bxd7+ Nfxd7 13. Qd4
+Qa5 14. Ne5 Qa6+ 15. Kd1 Nxe5 16. Qxe5+ Be7 17. Qxg7 Bf6 18. Qg3 O-O-O 19.
+a4 Ne4 20. Qg4+ Kb8 21. Qe2 Qc6 22. f3 Nc5 23. Qb5 Qd6 24. Ra2 a6 25. Qe2
+Qb6 26. Ke1 Rhe8 27. Kf2 d4 28. e4 Nxe4+ 29. Nxe4 d3+ 30. Be3 Bd4 31. Qxd3
+Bxe3+ 32. Qxe3 Rd2+ 0-1
+

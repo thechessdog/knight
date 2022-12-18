@@ -1,0 +1,16 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Ziegler"]
+[Black "Wiede"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "75f8d52f"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. e5 Nc6 4. Nf3 Bd7 5. Bb5 Nxe5 6. Nxe5 Bxb5 7. Qf3 Qf6
+8. Qb3 Ba6 9. Qa4+ c6 10. Nxc6 Bd6 11. Ne5+ Ke7 12. Qd7+ 1-0
+

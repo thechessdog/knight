@@ -1,0 +1,24 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Enevoldsen, Harald"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "D81"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "41414aa5"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. Bf4 c6 7. Nf3 O-O 8. e3
+Nbd7 9. h3 Nb6 10. Qb3 Be6 11. Qc2 Nbd5 12. Be5 Nb4 13. Qd2 Qa5 14. Be2 c5 15.
+O-O cxd4 16. Bxd4 Rac8 17. Rfc1 Nc6 18. Nb5 Qxd2 19. Nxd2 a6 20. Nc3 Nxd4 21.
+exd4 Rfd8 22. Nf3 Nh5 23. Ng5 Nf4 24. Nxe6 Nxe6 25. Bf3 Rc7 26. Ne2 Rcd7 27. g3
+Bxd4 28. Nxd4 Nxd4 29. Bd1 Kg7 30. Kg2 e5 31. Rc4 Nf5 32. Bg4 Rd2 33. Bxf5 gxf5
+34. Rb4 Re2 35. Rxb7 Rdd2 36. Rf1 Rxb2 37. Rxb2 Rxb2 38. Ra1 e4 39. Kf1 Kf6 40.
+a4 Rb4 41. a5 Rb5 42. Ke2 f4 43. gxf4 Kf5 44. Rg1 f6 45. Rg7 h5 46. Ke3 Rxa5
+47. Rh7 Ra3+ 48. Ke2 Rxh3 0-1

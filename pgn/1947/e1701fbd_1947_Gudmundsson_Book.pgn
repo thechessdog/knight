@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Gudmundsson, Gudbjartur"]
+[Black "Book, Eero"]
+[Result "0-1"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5...Nd7"]
+[HashCode "e1701fbd"]
+[Epoch "Knight"]
+[WhiteID "2305119"]
+[WhiteCountry "ISL"]
+[BlackCountry "FIN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. b3 Bb4 7. Bd2 O-O 8. Bd3
+dxc4 9. bxc4 e5 10. dxe5 Ng4 11. h3 Ngxe5 12. Nxe5 Nxe5 13. Bxh7+ Kxh7 14. Qh5+
+Kg8 15. Qxe5 Re8 16. Qh5 Qd3 17. Qe2 Qxc3 18. Bxc3 Bxc3+ 19. Kd1 Bxa1 20. g4
+Be6 21. Kc2 Bf6 22. f4 b5 23. e4 Bxc4 24. Qe3 Bd5 0-1

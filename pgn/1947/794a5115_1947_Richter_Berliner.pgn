@@ -1,0 +1,21 @@
+[Event "Friedenau"]
+[Site "Friedenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Berliner, Hans Jack"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "794a5115"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 Nc6 2. d4 d6 3. d5 Nb8 4. f4 e5 5. dxe6 Bxe6 6. Nf3 d5 7. e5 Bc5 8. Bd3
+Ne7 9. Qe2 c6 10. Nbd2 Nd7 11. Nb3 Qb6 12. c3 O-O-O 13. Nbd4 Bg4 14. Be3 Bxd4
+15. cxd4 Nf5 16. Bxf5 Bxf5 17. O-O h6 18. a4 Nf8 19. a5 Qb5 20. Qxb5 cxb5 21.
+a6 b6 22. Nh4 Bd3 23. Rfc1+ Kb8 24. Rc3 Be4 25. Rac1 Ne6 26. f5 Ng5 27. Bf4 Ka8
+28. Rc7 g6 29. e6 fxe6 30. Nxg6 Rhg8 31. Bxg5 hxg5 32. Ne7 1-0

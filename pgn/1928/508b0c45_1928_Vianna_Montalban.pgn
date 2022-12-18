@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Vianna"]
+[Black "Montalban, J."]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "508b0c45"]
+[Epoch "Knight"]
+
+1. d4 c5 2. dxc5 Qa5+ 3. Nc3 e6 4. Bd2 Bxc5 5. Ne4 Qb6 6. Nxc5 Qxc5 7. Bc3
+f6 8. e4 Nc6 9. Nf3 Nge7 10. Be2 e5 11. Nd2 d5 12. exd5 Qxd5 13. O-O Be6
+14. Nc4 Rd8 15. Qxd5 Nxd5 16. Bd2 Nb6 17. Nxb6 Rxd2 18. Bc4 Bxc4 19. Nxc4
+Rxc2 20. Rac1 Rxc1 21. Rxc1 Ke7 22. Rd1 Nd4 23. Kf1 Rc8 24. b3 b5 25. Ne3
+Ke6 26. Ke1 Nc2+ 27. Nxc2 Rxc2 28. Ra1 a5 29. a3 Rb2 30. b4 axb4 31. axb4
+h5 0-1
+

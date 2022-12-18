@@ -1,0 +1,21 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Yankovich, Boris"]
+[Black "Gregory, Bernhard"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "c3ff2e09"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. Nb3 Bg4 12. Qf1 c6 13. Nxc5 Qa5+ 14. Nc3 Qxc5
+15. h3 Bd7 16. Be3 Qa5 17. O-O-O c5 18. Kb1 Rfc8 19. Bd2 Qc7 20. g4 Re8 21. Qg2
+Qe5 22. Rhe1 Kf8 23. Ne2 Qd6 24. Ng3 b5 25. Nxe4 Nxe4 26. Rxe4 Rxe4 27. Qxe4
+Kg8 28. Bf4 Qg6 29. Qe7 Bxg4 30. Rg1 f5 31. hxg4 Re8 32. Qxc5 fxg4 33. cxb5 Qf5
+34. Be3 Rc8 35. Qd6 Qxc2+ 36. Ka1 0-1

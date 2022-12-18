@@ -1,0 +1,21 @@
+[Event "Krakow"]
+[Site "Krakow"]
+[Date "1938.??.??"]
+[Round "?"]
+[White "Pope, John"]
+[Black "Sajtar, Jaroslav"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Wade variation"]
+[HashCode "0553d5bc"]
+[Epoch "Knight"]
+[WhiteID "2006820"]
+[WhiteCountry "USA"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 Bb5 7. Nbd2 Bxf1 8. Nxf1
+Nc6 9. Rb1 cxd4 10. Nxd4 Nxe5 11. Qe2 Bd6 12. Bf4 Nd3+ 13. Qxd3 Bxf4 14. Ne3
+Nf6 15. O-O Rd8 16. g3 Bc7 17. b4 e5 18. Ndf5 g6 19. Ne7 Kxe7 20. Qd2 Rhe8 21.
+g4 Kf8 22. f3 d4 23. cxd4 Rxd4 24. Qc3 e4 25. Qc5+ Kg7 26. h4 exf3 27. Qc3
+Rxg4+ 28. Kf2 Rxe3 29. Qxe3 Rg2+ 30. Ke1 Qxe3+ 31. Kd1 Qd2# 0-1

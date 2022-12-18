@@ -1,0 +1,16 @@
+[Event "Hilversum zt"]
+[Site "Hilversum zt"]
+[Date "1947.07.01"]
+[Round "7"]
+[White "O'Sullivan, Bartholomew"]
+[Black "Rossolimo, Nicolas"]
+[Result "0-1"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "3cc15d36"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Ng5 Nxe2+ 10. Qxe2 Bxg2 0-1

@@ -1,0 +1,19 @@
+[Event "Parnu"]
+[Site "Parnu"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Hasselblatt"]
+[Black "Akler"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "faf23ac9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Bc4 Nh6 6. Qh5 O-O 7. O-O Nc6
+8. h3 Bxe5 9. fxe5 Qd4+ 10. Kh1 Qxc4 11. d3 exd3 12. Bxh6 gxh6 13. Nd2 Qxc2
+14. Ne4 Be6 15. Qxh6 d2 16. Rf4 d1=Q+ 17. Rxd1 Qxd1+ 18. Kh2 Qd3 19. Qg5+
+Kh8 20. Qf6+ Kg8 21. Rh4 Nxe5 22. Qg5+ Kh8 23. Rxh7+ Kxh7 24. Nf6+ Kh8 25.
+Qh6+ 1-0
+

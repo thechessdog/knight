@@ -1,0 +1,20 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Moritz, Bruno"]
+[Black "Gruenfeld, Ernst"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "20e1740d"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "ECU"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e3 O-O 7. Bc4 Nxc3 8.
+bxc3 c5 9. O-O Qc7 10. Qe2 Nc6 11. Ba3 Na5 12. Bd3 b6 13. Rac1 Bb7 14. Bb4 cxb4
+15. cxb4 Nc6 16. b5 Qd7 17. bxc6 Bxc6 18. Rc3 Rac8 19. Ba6 Bxf3 20. Bxc8 Qxc8
+21. Rxc8 Bxe2 22. Rxf8+ Bxf8 23. Rc1 e6 24. f3 b5 25. Kf2 Bc4 26. Rc2 a5 27. e4
+Bd6 28. g3 a4 29. Ke3 Bb4 30. f4 f5 31. e5 Kf7 0-1

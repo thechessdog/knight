@@ -1,0 +1,20 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Ulvestad, Olaf"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "25cf3c93"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. Nc3 d6 11. h3 Be6 12. Nd5 Bxd5 13. exd5 Nb4 14. d4 e4 15.
+Ng5 Nbxd5 16. Nxe4 Ra8 17. Rxa8 Qxa8 18. Qf3 Nb6 19. Bg5 Qa5 20. Kf1 Nbd7 21.
+Ng3 Bd8 22. Nf5 b4 23. h4 g6 24. Ne7+ Kg7 25. Qf4 Ng8 26. Nxg8 Bxg5 27. Qxg5
+Qa6+ 28. Kg1 Kxg8 29. Re7 Qc8 30. h5 c5 31. h6 Qd8 32. Ba4 Nb6 33. Qf6 1-0

@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Pitschak, Rudolf"]
+[Black "Rejfir, Josef"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "b6e52bee"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Bb5 Qa5 9. Qb3 Bxf3 10. gxf3 Rd8 11. Bd2 Qb4 12. Nxd5 Qxb3 13. Bxc6+ bxc6 14.
+Nc7+ Kd7 15. axb3 Kxc7 16. Ba5+ 1-0

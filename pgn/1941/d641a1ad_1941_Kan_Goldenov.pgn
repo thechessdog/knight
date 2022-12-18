@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Kan, Ilya"]
+[Black "Goldenov, Boris Petrovich"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[HashCode "d641a1ad"]
+[Epoch "Knight"]
+[WhiteID "24187372"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O Qc7 8. f4
+Nc6 9. Be3 Be7 10. Qe1 O-O 11. Rd1 Bd7 12. Qg3 Rfd8 13. a3 Be8 14. Kh1 Rac8 15.
+Qf2 Qb8 16. Nb3 b5 17. Bf3 Nd7 18. Ne2 Bf6 19. c3 Be7 20. Ng3 a5 21. Nh5 b4 22.
+axb4 axb4 23. c4 g6 24. Ng3 Qc7 25. Ra1 Ra8 26. Rfc1 Nc5 27. Rxa8 Rxa8 28. Nxc5
+dxc5 29. e5 Ra2 30. Ne4 Na5 31. h3 Nb3 32. Rd1 Bc6 33. Nf6+ Bxf6 34. exf6 Bxf3
+35. Qxf3 Ra6 36. Qb7 1-0

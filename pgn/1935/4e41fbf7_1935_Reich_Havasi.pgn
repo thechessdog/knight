@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Reich"]
+[Black "Havasi, Kornel"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "4e41fbf7"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 Nbd7 5. cxd5 cxd5 6. Qb3 e6 7. Bg5 Be7 8.
+e3 O-O 9. Bd3 b6 10. Qa4 a6 11. Ne5 Nxe5 12. dxe5 Nd7 13. Qh4 1-0

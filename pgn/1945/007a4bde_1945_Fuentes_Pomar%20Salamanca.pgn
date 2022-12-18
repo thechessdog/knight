@@ -1,0 +1,17 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Fuentes"]
+[Black "Pomar Salamanca, Arturo"]
+[Result "0-1"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "007a4bde"]
+[Epoch "Knight"]
+[BlackCountry "EST"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Nbd2 Nbd7 5. Bd3 b6 6. O-O Bb7 7. c4 dxc4 8.
+Nxc4 Be7 9. Nfe5 O-O 10. Qc2 c5 11. Nxd7 Qxd7 12. Rd1 Qd5 13. Bf1 Rfd8 14. b3
+Rac8 15. Qe2 Ne4 16. Bb2 Bh4 17. f4 Bf2+ 18. Kh1 Qf5 19. d5 Rxd5 20. g4 Rxd1
+21. gxf5 Ng3# 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Pap, T."]
+[Black "Fejer, J."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "5eaeb533"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. fxe5 dxe5 6. d4 exd4 7. O-O Be6
+8. Bxe6 fxe6 9. Bg5 h6 10. Bh4 g5 11. Bf2 Nc6 12. c3 Nxe4 13. Bxd4 Qd5 14.
+Na3 O-O-O 15. Nc2 Nxd4 16. cxd4 e5 17. dxc5 Qxc5+ 18. Nfd4 exd4 19. Qg4+
+Kb8 20. Qxe4 d3+ 21. Rf2 Rhf8 0-1
+

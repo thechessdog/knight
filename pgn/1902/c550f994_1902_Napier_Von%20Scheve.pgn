@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Napier, William Ewart"]
+[Black "Von Scheve, Theodor"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Trifunovic variation"]
+[HashCode "c550f994"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 Nxe4 5. O-O Be7 6. Qe2 d5 7. Nxe5 Bd7 8.
+Bxc6 Bxc6 9. Re1 Kf8 10. Nc3 Nxc3 11. bxc3 Be8 12. Rb1 b6 13. c4 f6 14. Nd3 g5
+15. cxd5 Bf7 16. c4 Qd7 17. Qf3 Kg7 18. Bxg5 Bg6 19. Bh4 Rae8 20. Re6 Rhf8 21.
+Rbe1 Bd8 22. Nf4 1-0

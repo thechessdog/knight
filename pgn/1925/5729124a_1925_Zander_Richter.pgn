@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Zander"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "5729124a"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. Nc3 f5 5. Bf4 Nf6 6. e3 Bd6 7. Bd3 O-O 8. O-O
+Ne4 9. Qc2 Nd7 10. Bxe4 fxe4 11. Bxd6 exf3 12. Bxf8 Qg5 13. g3 Qg4 14. Qd1 Nxf8
+15. Kh1 Ng6 16. Rg1 Bd7 17. Qf1 Rf8 18. h3 Qg5 19. e4 e5 20. exd5 exd4 21. Ne4
+Qh6 22. Kh2 Ne5 23. Rh1 Bf5 24. Nc5 Nxc4 25. Kg1 cxd5 26. Qd1 b6 27. Nd3 Be4
+28. b3 Ne3 29. Qd2 Qd6 30. Rc1 h5 31. Qb4 Qh6 32. Ne5 h4 33. Rc6 Qg5 34. Nd7
+Re8 35. Qd6 hxg3 36. Qxg3 Qxg3+ 37. fxg3 f2+ 38. Kxf2 Bxh1 0-1

@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1908.01.01"]
+[Round "4"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Důras, Oldřich"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "e2d6dd6e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Be3 Re8 9. Qf3 Be6 10. Ne2 Qc8 11. h3 Bd5 12. Qh5 Be4 13. Bc4 Re7 14. O-O Qc7
+15. Rad1 Nd7 16. Qh4 Rae8 17. Bf4 Nb6 18. Bb3 Bxg2 19. Kxg2 Rxe2 20. Bc1 R8e4
+21. Qh5 g6 22. Qf3 f5 23. Kh1 Bf4 24. Rg1 Bxc1 25. Qxf5 Qf4 26. Bxf7+ Kh8 27.
+Rxg6 hxg6 0-1

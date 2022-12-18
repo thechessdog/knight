@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Palme, Rudolf"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "0e81b65c"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 e6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 b6
+8. Qe2 Bb7 9. Bd2 Bd6 10. O-O-O O-O 11. g4 Re8 12. g5 Nd7 13. Rhg1 e5 14. Bxh7+
+Kxh7 15. g6+ fxg6 16. Ng5+ Qxg5 17. Rxg5 exd4 18. Qd3 Ne5 19. Qh3+ Kg8 20. f4
+Nf3 21. Rxg6 Re2 22. Qg4 Re7 23. f5 Rf8 24. f6 1-0

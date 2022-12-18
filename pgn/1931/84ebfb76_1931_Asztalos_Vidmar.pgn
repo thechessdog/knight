@@ -1,0 +1,18 @@
+[Event "Bled"]
+[Site "Bled"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Asztalos, Lajos"]
+[Black "Vidmar, Milan Sr"]
+[Result "1/2-1/2"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "84ebfb76"]
+[Epoch "Knight"]
+[BlackCountry "SVN"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Be3 Nxd4 8.
+Bxd7+ Qxd7 9. Bxd4 Bxd4 10. Qxd4 Nf6 11. e5 dxe5 12. Qxe5+ Qe7 13. Qxe7+ Kxe7
+14. Re1+ Kd7 15. Nc3 Rhe8 1/2-1/2

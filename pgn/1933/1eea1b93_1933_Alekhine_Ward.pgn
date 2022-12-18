@@ -1,0 +1,17 @@
+[Event "Palembang sim"]
+[Site "Palembang"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Ward, AB."]
+[Result "1-0"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "Marshall defence"]
+[HashCode "1eea1b93"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Qxd5 4. Nc3 Qa5 5. Nf3 c6 6. Bd2 Qc7 7. e4 Bg4 8.
+Rc1 Qb6 9. e5 Nd5 10. h3 Bxf3 11. Qxf3 Qxd4 12. Nxd5 Qxe5+ 13. Ne3 Qxb2 14. Nc4
+Qxa2 15. Bd3 Nd7 16. O-O e6 17. Ra1 1-0

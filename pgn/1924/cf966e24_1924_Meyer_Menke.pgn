@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Meyer, E."]
+[Black "Menke, G."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "cf966e24"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 Nc6 5. Nf3 d6 6. Bf4 Bg4 7. Bc4
+Bxf3 8. Qxf3 dxe5 9. Bg5 f6 10. Qf5 e6 11. Bxe6 Qe7 12. O-O-O Rd8 13. Bh4
+Rd6 14. Bd5 Nd8 15. Qc8 Rb6 16. Bf7+ Kxf7 17. Rd7 1-0
+

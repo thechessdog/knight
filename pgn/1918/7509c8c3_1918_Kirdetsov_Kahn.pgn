@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Kirdetsov"]
+[Black "Kahn, Victor"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[HashCode "7509c8c3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qd1 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. Bg5 Re8
+8. Nf3 Nxe4 9. Bxe4 Bxc3+ 10. Kf1 Bf6 11. Bxf6 Qxf6 12. Qd3 Nb4 13. Qc4 d5
+14. Bxh7+ Kxh7 15. Qxb4 c5 16. Qxc5 Qxf3 17. gxf3 Bh3+ 18. Kg1 Re6 19. Qc7
+Rae8 20. Rf1 Re1 0-1
+

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Kipke"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e8abad8b"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nc6 4. d5 Ne5 5. f4 exf3 6. Nxf3 Nxf3+ 7. Qxf3 Nf6
+8. Bg5 Bd7 9. O-O-O g6 10. Bxf6 exf6 11. Re1+ Be7 12. Qxf6 Rg8 13. d6 cxd6 14.
+Nd5 Be6 15. Rxe6 fxe6 16. Bb5+ 1-0

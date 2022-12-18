@@ -1,0 +1,17 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Morton, H."]
+[Black "Horowitz, Israel Albert"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "24ece53d"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nf3 c5 3. dxc5 e6 4. e4 Bxc5 5. Bb5+ Nc6 6. exd5 exd5 7. O-O Nf6 8.
+Bg5 O-O 9. Bxf6 Qxf6 10. Qxd5 Qxb2 11. Qxc5 Qxa1 12. Nc3 Qb2 13. Bd3 Qb4 14.
+Qe3 Qe7 15. Qxe7 Nxe7 16. Re1 Nc6 17. Nb5 Bg4 18. Ng5 h6 19. Ne4 Rad8 20. Nc5
+a6 21. Nc3 Nb4 22. Bf1 Nxc2 0-1

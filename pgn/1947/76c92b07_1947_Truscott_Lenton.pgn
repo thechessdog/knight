@@ -1,0 +1,19 @@
+[Event "Harrogate"]
+[Site "Harrogate"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Truscott"]
+[Black "Lenton"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Milner-Barry variation"]
+[HashCode "76c92b07"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. Nc3 d4 4. Nce2 Nc6 5. Nf3 Bd6 6. fxe5 Bxe5 7. d3 Nf6
+8. c3 dxc3 9. bxc3 Bd6 10. Nf4 O-O 11. Be2 Re8 12. O-O Qe7 13. Be3 Bd7 14.
+Qb3 b6 15. Rae1 Rad8 16. Nd5 Nxd5 17. Qxd5 Qe6 18. Qh5 g6 19. Qh4 Qg4 20.
+Qf2 Bf4 21. Ne5 Bxe3 22. Qxe3 Qe6 23. Nxf7 Ra8 24. Qh6 Re7 25. Ng5 Qxa2 26.
+d4 a5 27. Rf4 Rg7 28. Rh4 Rf8 29. Nxh7 Rff7 30. Ng5 Rf6 31. Qh8# 1-0
+

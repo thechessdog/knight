@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "f43732cc"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Qd3 g6 8. h4
+Nh6 9. Nc3 Nf7 10. Be3 Bg7 11. O-O-O O-O 12. h5 exd4 13. hxg6 hxg6 14. Bxd4
+Bh6+ 15. Kb1 Kg7 16. Nh4 Qe8 17. Nxg6 Kxg6 18. Qf3 Kh7 19. Qxf6 Rg8 20. e5 Rg6
+21. Ne4 d5 22. e6 Bxe6 23. Ng5+ Nxg5 24. Rxh6+ Kxh6 25. Rh1+ Bh3 26. Rxh3+ Nxh3
+27. Qh4# 1-0

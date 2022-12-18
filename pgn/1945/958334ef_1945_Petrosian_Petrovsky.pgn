@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Petrosian, Tigran"]
+[Black "Petrovsky"]
+[Result "1-0"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[HashCode "958334ef"]
+[Epoch "Knight"]
+[WhiteCountry "GEO"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Bd6 5. Nf3 c6 6. b3 Nbd7 7. Bb2 O-O 8. O-O
+b6 9. Nbd2 Ba6 10. Re1 Rc8 11. Ne5 Bb4 12. a3 Bxd2 13. Qxd2 Ne4 14. Bxe4 dxe4
+15. Qe3 f5 16. Rad1 Nf6 17. f3 Nh5 18. fxe4 f4 19. Qf3 Qg5 20. g4 Rf6 21. Kh1
+Ng3+ 22. hxg3 fxg3 23. Qxg3 Rh6+ 24. Kg2 Rh4 25. Rh1 Rxh1 26. Kxh1 Rf8 27. Kg2
+Rf4 28. Bc1 1-0

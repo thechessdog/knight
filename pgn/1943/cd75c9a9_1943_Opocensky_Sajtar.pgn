@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Opocensky, Karel"]
+[Black "Sajtar, Jaroslav"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[HashCode "cd75c9a9"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. d5 d6 5. Bg2 Bg7 6. Nc3 O-O 7. Nf3 e5 8. O-O Qc7
+9. Ne1 Ne8 10. e4 f5 11. Nd3 Nd7 12. Be3 Ndf6 13. c5 cxd5 14. Qb3 Kh8 15. Nb5
+Qf7 16. exd5 f4 17. gxf4 e4 18. Ne5 dxe5 19. fxe5 Nxd5 20. Nd6 Nxd6 21. exd6
+Bf5 22. Rad1 Nxe3 23. Qxe3 Qxa2 24. f3 Qxb2 25. fxe4 Bd7 26. e5 Bxe5 27. Rd2
+Rxf1+ 28. Bxf1 Qc3 29. Rd3 Qa1 0-1

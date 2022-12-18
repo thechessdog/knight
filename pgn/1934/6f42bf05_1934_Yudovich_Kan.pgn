@@ -1,0 +1,28 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1934.12.01"]
+[Round "1"]
+[White "Yudovich, Mikhail Sr"]
+[Black "Kan, Ilya"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "6f42bf05"]
+[Epoch "Knight"]
+[BlackID "24187372"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Bf6 10. Qc2 Nc6 11. Rd1 d5 12. Bf4 Qe7 13. cxd5 exd5 14. Rac1 Rfe8
+15. Be3 Nb4 16. Qb3 Rad8 17. Rd2 Na6 18. Qc2 c6 19. a3 Nc7 20. Qa4 Ra8 21. Ne1
+Ne6 22. Nd3 Rec8 23. Bh3 Rc7 24. Bxe6 Qxe6 25. Bf4 Rcc8 26. Be5 Be7 27. Qd1 Re8
+28. Nf4 Qf5 29. Ng2 c5 30. Bf4 c4 31. f3 b5 32. Ne3 Qd7 33. Ng4 f6 34. Nf2 g5
+35. Be3 Bd8 36. Rc3 Ba5 37. Ng4 Kf7 38. Bf2 Bxc3 39. bxc3 Re6 40. Nh6+ Kg7 41.
+Nf5+ Kg8 42. g4 a5 43. Rb2 Rb6 44. Kg2 Kh8 45. h4 gxh4 46. Bxh4 Re8 47. Qd2
+Ree6 48. Rb1 Ba6 49. Qf4 b4 50. axb4 axb4 51. Rxb4 Rxb4 52. cxb4 c3 53. e4 Bb7
+54. exd5 Bxd5 55. Qb8+ Re8 56. Bxf6+ Kg8 57. Qf4 Bf7 58. Be5 Qe6 59. Qc1 Bg6
+60. Nh6+ Kf8 61. Qxc3 Rc8 62. Qe3 Ke8 63. b5 Kd7 64. Qa3 Qb6 65. Kg3 Be4 66.
+Nf7 Bd5 67. Nd6 Rf8 68. f4 h5 69. g5 Ra8 70. Qd3 Qd8 71. Ne4 Bxe4 72. Qxe4 Qa5
+73. Qc6+ Ke7 74. Bf6+ Kf7 75. Qd7+ Kg6 76. f5# 1-0

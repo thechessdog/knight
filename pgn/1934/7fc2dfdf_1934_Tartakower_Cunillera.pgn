@@ -1,0 +1,17 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Cunillera"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Hastings variation"]
+[HashCode "7fc2dfdf"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Qb3 Nd7 8. e4
+dxe4 9. Nxe4 Qf4 10. Bd3 e5 11. O-O exd4 12. Nxd4 Ne5 13. Bc2 Be7 14. g3 Qg4
+15. f4 Ng6 16. f5 Bc5 17. Qe3 Bxd4 18. Qxd4 1-0

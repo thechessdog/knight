@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Botvinnik, Mikhail"]
+[Black "Sorokin, N."]
+[Result "1-0"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[HashCode "de5d0fa1"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 Qd6 7. e3 Ne4 8.
+Bf4 Qg6 9. Qb3 c5 10. f3 Nxc3 11. bxc3 Ba5 12. Bxb8 Rxb8 13. Qa4+ 1-0

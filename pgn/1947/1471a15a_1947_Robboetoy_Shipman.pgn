@@ -1,0 +1,18 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Robboetoy"]
+[Black "Shipman, Walter"]
+[Result "0-1"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "1471a15a"]
+[Epoch "Knight"]
+[BlackID "2001357"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. c3 f6 7. exf6 Qxf6 8. Bd3
+Bd6 9. Qe2 O-O 10. Nf1 e5 11. Bg5 Qf7 12. dxe5 Ndxe5 13. Nxe5 Nxe5 14. Be3 Bg4
+15. Qc2 Nxd3+ 16. Qxd3 Rae8 17. Qd2 d4 18. cxd4 Bb4 19. Qxb4 Qxf2# 0-1

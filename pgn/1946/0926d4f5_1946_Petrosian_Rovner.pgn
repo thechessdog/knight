@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Petrosian, Tigran"]
+[Black "Rovner, Dmitry Osipovich"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "0926d4f5"]
+[Epoch "Knight"]
+[WhiteCountry "GEO"]
+[BlackCountry "RUS"]
+
+1. Nf3 e6 2. d4 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 d6 8. d5
+Nbd7 9. dxe6 fxe6 10. Nd4 Bxg2 11. Nxe6 Qc8 12. Kxg2 Re8 13. b3 Ne5 14. Nf4 c6
+15. Bb2 Qf5 16. Rc1 g5 17. Nd3 Rad8 18. Qc2 Ng6 19. f3 d5 20. cxd5 cxd5 21. Nb5
+Qd7 22. Qc6 Qxc6 23. Rxc6 Kf7 24. Bxf6 1-0

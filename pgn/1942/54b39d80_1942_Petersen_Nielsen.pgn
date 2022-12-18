@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Petersen, Carl"]
+[Black "Nielsen, Julius"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "54b39d80"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. Nc3 Nc6 5. e3 Nf6 6. Be2 Bd6 7. O-O O-O 8.
+a3 b6 9. b3 Bb7 10. Bb2 Rc8 11. Rc1 Qe7 12. dxc5 bxc5 13. cxd5 exd5 14.
+Nxd5 Nxd5 15. Qxd5 Nd4 16. Qc4 Bd5 17. Qd3 Bxf3 18. gxf3 Bxh2+ 19. Kxh2
+Qh4+ 20. Kg2 Qg5+ 0-1
+

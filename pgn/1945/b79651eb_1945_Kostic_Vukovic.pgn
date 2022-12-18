@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Vukovic, Sava"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "b79651eb"]
+[Epoch "Knight"]
+[BlackID "941387"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. Nd5
+Na5 9. Nxe7 Qxe7 10. d4 O-O 11. Re1 c5 12. c3 Nxb3 13. axb3 cxd4 14. cxd4 Bg4
+15. Bg5 h6 16. Bh4 Rfc8 17. Re3 Bxf3 18. Bxf6 Qxf6 19. Rxf3 Qe7 20. Rc3 Rxc3
+21. bxc3 a5 22. g3 Qe8 23. dxe5 Qxe5 24. Qd5 Qxd5 25. exd5 Kf8 1/2-1/2

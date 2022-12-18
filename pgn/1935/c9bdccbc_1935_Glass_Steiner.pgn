@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1935.01.01"]
+[Round "11"]
+[White "Glass, Eduard"]
+[Black "Steiner, Lajos"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "c9bdccbc"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Qc8 6. O-O c5 7. Nc3 cxd4 8. Qxd4
+Bc5 9. Qd3 d5 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. Bd2 Qa6 13. Qc2 Nd7 14. Bc3 Rc8
+15. Qd2 O-O 16. e4 Bxe4 17. Rfd1 Rfd8 18. Ne5 Bd5 19. Bxd5 Nxe5 20. Bc4 Nf3+
+21. Kg2 Rxd2 22. Bxa6 Rxf2+ 23. Kh3 Rxh2+ 24. Kg4 f5+ 0-1

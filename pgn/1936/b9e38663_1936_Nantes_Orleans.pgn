@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Nantes"]
+[Black "Orleans"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "b9e38663"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. Be2 Nf6 4. Nc3 d5 5. exd5 Nxd5 6. Ne4 e5 7. O-O f5
+8. Ng3 a6 9. c3 Bd6 10. d4 cxd4 11. cxd4 e4 12. Ng5 Be7 13. Bc4 b5 14. Bb3
+Na5 15. f3 Nxb3 16. Qxb3 h6 17. Nf7 1-0
+

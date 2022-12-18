@@ -1,0 +1,17 @@
+[Event "Indianapolis"]
+[Site "Indianapolis"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Marshall, Frank James"]
+[Black "Barnhardt"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "2bffe64c"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Nf6 6. d4 exd4 7. cxd4 Bb6 8. h3
+O-O 9. Nc3 h6 10. Be3 Ne7 11. Qd2 Be6 12. Bd3 Ng6 13. Bxh6 gxh6 14. Qxh6 Re8
+15. e5 Nh7 16. Ne4 Bf5 17. Neg5 Nxg5 18. Nxg5 Qd7 19. Nh7 Re6 20. Nf6+ Rxf6 21.
+exf6 1-0

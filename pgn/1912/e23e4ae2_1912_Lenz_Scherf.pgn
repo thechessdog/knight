@@ -1,0 +1,17 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Lenz"]
+[Black "Scherf"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Bernstein variation"]
+[HashCode "e23e4ae2"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. d4 Bd7 6. O-O Be7 7. Bg5 exd4
+8. Nxd4 Ne5 9. f4 Bxb5 10. fxe5 Bxf1 11. exf6 gxf6 12. Bh6 Ba6 13. Nf5 Qd7
+14. Nd5 Bd8 15. Ng7+ Kf8 16. Nh5+ Ke8 17. Nhxf6+ Bxf6 18. Nxf6+ 1-0
+

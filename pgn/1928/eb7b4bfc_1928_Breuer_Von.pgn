@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Breuer"]
+[Black "Von Feilitzsch"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[HashCode "eb7b4bfc"]
+[Epoch "Knight"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. dxc3
+Bd6 8. e4 O-O 9. Be3 Bg4 10. Bc4 Qf6 11. O-O-O Be6 12. Bxe6 Qxe6 13. c4 a5
+14. h4 f6 15. h5 a4 16. Nh4 Na5 17. c5 Ra6 18. Kb1 Be7 19. Nf5 Nb3 20. Rh3
+Kf7 21. Rg3 Rg8 22. Bh6 g6 23. hxg6+ hxg6 24. Be3 Rh8 25. Nh6+ Kg7 26. Rh1
+g5 27. Nf5+ Kg8 28. Rxh8+ Kxh8 29. Qd1 1-0
+

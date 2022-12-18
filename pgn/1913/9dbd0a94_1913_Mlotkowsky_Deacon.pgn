@@ -1,0 +1,16 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Mlotkowski, Stasch"]
+[Black "Deacon, (Knight Era)"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit"]
+[HashCode "9dbd0a94"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. Nc3 Bb4 7. e6 Bxc3+ 8.
+bxc3 Nh6 9. Qh5+ Kf8 10. Ba3+ Kg8 11. Qf7+ Nxf7 12. exf7# 1-0

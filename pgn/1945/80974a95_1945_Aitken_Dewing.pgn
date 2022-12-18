@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Dewing"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "80974a95"]
+[Epoch "Knight"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Qe2 O-O 11. Nbd2 Nc5 12. Nd4 Nxb3 13. N2xb3 Qd7 14. Nxe6 Qxe6
+15. f4 f6 16. Nd4 Bc5 17. Be3 Bxd4 18. cxd4 fxe5 19. fxe5 Ne7 20. Rfc1 c6 21.
+Rc5 Qf5 22. Qc2 Qg4 23. Bf2 Rf4 24. h3 Qe6 25. Rd1 Raf8 26. Be3 R4f5 27. Qe2
+Qg6 28. Qg4 Qf7 29. Bg5 g6 30. Bxe7 Qxe7 31. Rxc6 Rf2 32. Rc8 Rxb2 33. Rxf8+
+Kxf8 34. Rf1+ Kg7 35. e6 h5 36. Qf4 Qxe6 37. Qf8+ 1-0

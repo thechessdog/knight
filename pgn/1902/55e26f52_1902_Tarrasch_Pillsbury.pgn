@@ -1,0 +1,23 @@
+[Event "Monaco"]
+[Site "Monaco"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Tarrasch & allies"]
+[Black "Pillsbury & NN"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "55e26f52"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nf3 Qh5 7. Nc3 Bg7
+8. d4 Ne7 9. h4 Nbc6 10. Nxg5 Qxd1+ 11. Nxd1 Nxd5 12. exd5 Nxd4 13. Bxf4
+Nxc2 14. Rc1 Bf5 15. Ne3 Nxe3+ 16. Bxe3 h6 17. Nf3 O-O-O 18. Bf4 Rd7 19. d6
+c6 20. Ne5 Rxd6 21. Nxf7 Rf6 22. Nd6+ Kd7 23. Be5 Rxd6 24. Bxg7 Rg8 25. Bc3
+Be4 26. Rh2 Bd5 27. a3 Re6 28. Re1 Reg6 29. Rd1 Kc8 30. Rd2 Re6 31. Rf2
+Bc4+ 32. Kg1 Re3 33. Bd2 Rd3 34. Rh1 Rg4 35. Rf4 h5 36. Rf2 Bd5 37. Bg5
+Rdg3 38. Rh2 b6 39. Bf6 a5 40. Re2 Kb7 41. Be5 Rd3 42. g3 Rd1+ 43. Kf2 Bc4
+44. Re3 c5 45. Bc3 Ka6 46. Re1 Rd3 47. Be5 b5 48. Kg1 b4 49. axb4 cxb4 50.
+Rf2 Bd5 51. Rf5 1/2-1/2
+

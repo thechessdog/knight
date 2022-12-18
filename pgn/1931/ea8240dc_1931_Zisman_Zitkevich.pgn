@@ -1,0 +1,18 @@
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Zisman, Boris"]
+[Black "Zitkevich"]
+[Result "0-1"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Nimzovich variation"]
+[HashCode "ea8240dc"]
+[Epoch "Knight"]
+[WhiteID "2006910"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 5. Bb5 dxe4 6. Nxc6 Qxd1+ 7. Kxd1 a6
+8. Nd4+ axb5 9. Nxb5 Bg4+ 10. Ke1 Rc8 11. N1c3 e5 12. Nxe4 Rxc2 13. Nec3 Bc5
+14. Rf1 Bb4 15. Nc7+ Kd7 16. Nd5 Re2+ 17. Kd1 Rxf2+ 18. Ke1 Re2+ 0-1

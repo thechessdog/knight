@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Schiede"]
+[Black "Geier, V."]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Janowski variation"]
+[HashCode "6c07b382"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 f6 6. exf6 Nxf6 7. g3 Bf5
+8. a3 a5 9. Bg2 Qd7 10. O-O Bh3 11. Nb3 Bxg2 12. Kxg2 O-O-O 13. Bd2 h5 14.
+Nxa5 h4 15. Nxh4 Nxa5 16. Bxa5 g5 17. Nf3 Qh3+ 18. Kg1 Ng4 19. Qd3 Nxh2 20.
+Rfd1 Nf1 0-1
+

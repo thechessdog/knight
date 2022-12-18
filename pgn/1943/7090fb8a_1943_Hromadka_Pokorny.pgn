@@ -1,0 +1,26 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Hromadka, Karel"]
+[Black "Pokorny, Amos"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "7090fb8a"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 d6 3. Nc3 Nbd7 4. Bf4 c5 5. d5 Qa5 6. Nd2 a6 7. e4 b5 8. Be2
+g6 9. a4 b4 10. Ncb1 Bg7 11. O-O Qc7 12. a5 O-O 13. Bf3 Bb7 14. Nc4 Rad8 15.
+Nbd2 Ne5 16. Bxe5 dxe5 17. Qe2 Ne8 18. Nb6 Nd6 19. c4 Bc8 20. Nb3 Bd7 21. Qe3
+Nb7 22. Nxd7 Rxd7 23. Bg4 Rdd8 24. Rac1 Qd6 25. Rc2 f5 26. Bh3 Kh8 27. f3 Rc8
+28. g3 Rc7 29. Kg2 f4 30. Qf2 Nd8 31. Nc1 Nb7 32. Nb3 Nd8 33. Ra1 Nf7 34. Kh1
+fxg3 35. Qxg3 Bh6 36. Bg2 Bf4 37. Qh4 Nd8 38. Bh3 Qf6 39. Qxf6+ Rxf6 40. Nc1
+Bxc1 41. Rcxc1 Rxf3 42. Rf1 Rxf1+ 43. Rxf1 Nb7 44. Be6 Nd6 45. Rf8+ Kg7 46. Ra8
+Nxc4 47. Rxa6 Nxb2 48. Rc6 Ra7 49. Rxc5 Na4 50. Rb5 Nc3 51. Rxb4 Rxa5 52. Rc4
+Ne2 53. Rc7 Kf6 54. Bc8 Ra1+ 55. Kg2 Nf4+ 56. Kg3 Ra3+ 57. Kf2 Ra2+ 58. Kg3
+Rg2+ 59. Kf3 Rxh2 60. Rc6+ Kf7 61. Rc7 Rd2 62. Rc6 Rd3+ 63. Kf2 Rd2+ 64. Kf3 h5
+65. Be6+ Kg7 66. Rc7 Kf6 67. Rc6 Kg5 68. Bd7 h4 69. Ke3 Rd3+ 70. Kf2 h3 71. Rc1
+Rd2+ 72. Kf3 h2 73. Rh1 Kh4 74. Be8 Nh5 0-1

@@ -1,0 +1,17 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Falcon, Enrique"]
+[Black "Sanguinetti, Renato"]
+[Result "0-1"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[HashCode "d81c62d1"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. h3 O-O 6. e3 c5 7. Nf3 Nc6 8. dxc5
+Qa5 9. Qb3 Ne4 10. Rc1 e5 11. cxd5 exf4 12. dxc6 bxc6 13. Qc4 Nxc3 14. bxc3
+fxe3 15. a4 Rb8 16. fxe3 Be6 17. Qa6 Qxc5 18. Kf2 Rb2+ 19. Kg3 Qxe3 0-1

@@ -1,0 +1,20 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.??.??"]
+[Round "8"]
+[White "Marco, Georg"]
+[Black "Swiderski, Rudolf"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "d5122440"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 O-O 12. Rxe5 Qxh4 13. Rxh5 Qxh5 14. Bxf4 Nd7
+15. Bxc7 Nb6 16. Bxb6 axb6 17. Nd2 Bd7 18. Qb3 Qh6 19. Nf1 f5 20. d6+ Kh8 21.
+Qxb6 f4 22. Qxb7 f3 23. gxf3 gxf3 24. Qxd7 Qg6+ 25. Kf2 Qc2+ 26. Kg3 Qg2+ 27.
+Kh4 Rf4+ 0-1

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Crown"]
+[Black "Leeson"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Spielmann variation"]
+[HashCode "410194d9"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 fxe6 5. d4 c5 6. dxc5 Nc6 7. Nf3 Nxc5
+8. Bb5 Qd6 9. g3 Nd7 10. O-O g6 11. Re1 Bg7 12. Ng5 Bxc3 13. Rxe6 Qc5 14.
+Bxc6 bxc6 15. bxc3 h6 16. Qe2 Nf8 17. Be3 Qc4 18. Rxe7+ Kd8 19. Bb6+ axb6
+20. Nf7# 1-0
+

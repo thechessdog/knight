@@ -1,0 +1,27 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1943.01.01"]
+[Round "12"]
+[White "Kan, Ilya"]
+[Black "Zagoriansky, Evgeny"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "6b15f7f5"]
+[Epoch "Knight"]
+[WhiteID "24187372"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. c3 Bf5 5. Nd2 Nd7 6. f3 Ngf6 7. e3 e5 8. Ne2
+Be7 9. Bf2 O-O 10. Qb3 c5 11. Ng3 Bg6 12. Be2 exd4 13. exd4 cxd4 14. Bxd4 Nc5
+15. Qd1 Nd3+ 16. Bxd3 Bxd3 17. Kf2 Nd7 18. Re1 Bg6 19. Qe2 Bc5 20. Nb3 Bxd4+
+21. Nxd4 Nc5 22. Rad1 Qd7 23. Kg1 Rfe8 24. Qb5 Qxb5 25. Nxb5 Rxe1+ 26. Rxe1 Ne6
+27. Rd1 Rd8 28. Ne2 a6 29. Nbd4 Kf8 30. Rd2 Ke7 31. Kf2 Kd6 32. Rd1 Bh7 33. Ng3
+Nxd4 34. Rxd4 Bb1 35. a3 g6 36. Ne2 Ba2 37. Rf4 f5 38. h4 Ke5 39. Rd4 g5 40.
+hxg5 hxg5 41. Rb4 b5 42. Nd4 Rc8 43. a4 Bc4 44. axb5 axb5 45. Nxb5 Bxb5 46.
+Rxb5 Rc4 47. g3 Ra4 48. Ke3 f4+ 49. gxf4+ Rxf4 50. b3 Kd6 51. Rb8 Kc5 52. Rc8+
+Kd6 53. Rg8 Rf5 54. Rg6+ Kc5 55. b4+ Kc4 56. Rc6+ Kb5 57. Rc5+ Kb6 58. Ke2 Kb7
+59. Ke3 Kb6 60. Ra5 Kb7 61. Rb5+ Kc6 62. c4 d4+ 63. Kxd4 Rf4+ 64. Ke3 Rxc4 65.
+Rc5+ Rxc5 66. bxc5 Kd5 67. Kd3 Kxc5 68. Ke4 Kd6 69. Kf5 Ke7 70. Kxg5 Kf7 71.
+Kf5 1-0

@@ -1,0 +1,20 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Brinckmann, Alfred"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "2914960a"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Nxf6+ Bxf6
+8. Qd2 b6 9. Bb5 Bxg5 10. Nxg5 Bb7 11. O-O-O h6 12. d5 e5 13. Ne6 fxe6 14. dxe6
+O-O 15. Qxd7 Qg5+ 16. Kb1 Rae8 17. Qxc7 Re7 18. Rd7 Qxg2 19. Rc1 Rc8 20. Rd8+
+1-0

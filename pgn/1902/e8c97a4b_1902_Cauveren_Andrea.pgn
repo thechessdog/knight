@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Cauveren, J."]
+[Black "Andrea, D."]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Gledhill attack"]
+[HashCode "e8c97a4b"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Qg4 c5 6. Nf3 Nc6 7. Nb5 g6 8.
+Ng5 Ndb8 9. Qf4 Qd7 10. Qf6 Rg8 11. Nxh7 Be7 12. Qf4 g5 13. Qg3 Qd8 14.
+Nf6+ Bxf6 15. exf6 Na6 16. Bxg5 Qd7 17. dxc5 e5 18. O-O-O 1-0
+

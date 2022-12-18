@@ -1,0 +1,25 @@
+[Event "Trebitsch mem17"]
+[Site "Vienna"]
+[Date "1934.12.14"]
+[Round "13"]
+[White "Beutum, Sigmund"]
+[Black "Podhorzer, David"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "decf9ee2"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Bc4 e6 9. O-O Be7 10. Be3 O-O 11. h3 Bh5 12. Rc1 f5 13. Re1 Kh8 14. Nxd5
+exd5 15. Be2 f4 16. Bd2 Bxf3 17. Bxf3 Nxd4 18. Bc3 Nxf3+ 19. Qxf3 Bf6 20.
+Bb4 Re8 21. Rxe8+ Qxe8 22. Qxd5 Rd8 23. Qxb7 Rb8 24. Qc6 Qxc6 25. Rxc6 Bxb2
+26. Bd6 Rd8 27. Bxf4 Rd1+ 28. Kh2 h6 29. Be3 a5 30. a4 Ra1 31. Rc4 Be5+ 32.
+g3 Bd6 33. Rc6 Bb4 34. Rxh6+ Kg8 35. Rh4 Rxa4 36. Bd2 Ra2 37. Bxb4 axb4 38.
+Kg2 b3 39. Kf3 Rb2 40. Rf4 Rb1 41. Rb4 Kf7 42. Rb6 Ke7 43. Kg4 Kd7 44. Kg5
+Kc7 45. Rb4 Kc6 46. g4 Kc5 47. Rb7 b2 48. h4 Kc4 49. h5 Kc3 50. Kg6 Rg1 51.
+g5 b1=Q+ 52. Rxb1 Rxb1 53. Kxg7 Kd4 54. h6 Ke5 55. h7 Rb7+ 56. Kh6 Rb8 57.
+Kg6 Rb6+ 58. Kh5 Rb8 59. Kg6 Rb6+ 60. Kg7 Rb7+ 61. Kh6 Rb8 62. f4+ Kf5 63.
+g6 Kf6 64. g7 Rb1 65. g8=N+ Kf5 1/2-1/2
+

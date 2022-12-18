@@ -1,0 +1,25 @@
+[Event "USA-07.Congress"]
+[Site "St Louis"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Kemeny, M."]
+[Black "Eisenberg, Louis R."]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "ab37bae6"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. Be2 O-O 8. O-O
+Ne8 9. Bxe7 Qxe7 10. e4 dxe4 11. Nxe4 f5 12. Nc3 e5 13. dxe5 Nxe5 14. Qd4 Nxf3+
+15. Bxf3 Qf6 16. Rad1 Qxd4 17. Rxd4 Nc7 18. b3 Be6 19. Rfd1 Rae8 20. Na4 Bc8
+21. Rd6 Re5 22. Kf1 Ne6 23. Be2 Nf4 24. Nc3 Rfe8 25. Bf3 Kf7 26. g3 Ne6 27. Be2
+Nc5 28. f3 Re3 29. Rc1 Ke7 30. Rd2 Rd8 31. Rxd8 Kxd8 32. b4 Nd7 33. Kf2 Re7 34.
+Rd1 Kc7 35. a4 Nf6 36. a5 b6 37. axb6+ axb6 38. c5 bxc5 39. bxc5 Re5 40. Na4
+Be6 41. Rb1 Nd7 42. f4 Re4 43. Nc3 Nxc5 44. Nxe4 Nxe4+ 45. Ke3 Nc3 46. Ra1 Nxe2
+47. Kxe2 Kd6 48. Ra7 Bd7 49. Kd3 h6 50. Ra8 Ke7 51. Kd4 Ke6 52. Kc5 Ke7 53. Ra7
+Ke6 54. Ra1 Be8 55. Re1+ Kd7 56. Re5 g6 57. Re1 Bf7 58. Ra1 Bd5 59. Ra7+ Ke6
+60. Rg7 Kf6 61. Rh7 h5 62. Kd6 Bf3 63. Re7 Be4 64. h4 Bd5 65. Re5 Be4 66. Re6+
+Kf7 67. Ke5 c5 68. Ra6 c4 69. Ra7+ Ke8 70. Rc7 Kd8 71. Rxc4 1-0

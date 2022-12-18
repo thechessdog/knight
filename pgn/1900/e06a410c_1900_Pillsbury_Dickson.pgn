@@ -1,0 +1,16 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Dickson"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish, classical defence"]
+[HashCode "e06a410c"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bc5 5. O-O O-O 6. Nxe5 Qe7 7. Nxc6 dxc6
+8. Bd3 Qe5 9. h3 Bxh3 10. gxh3 Qg3+ 11. Kh1 Qxh3+ 12. Kg1 Ng4 0-1

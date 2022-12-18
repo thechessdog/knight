@@ -1,0 +1,18 @@
+[Event "Brno Morava"]
+[Site "Brno Morava"]
+[Date "1907.01.01"]
+[Round "5"]
+[White "Treybal, Karel"]
+[Black "Rasovsky, J."]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "2c556885"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. h4 h6 8. Ne5
+Bh7 9. Bc4 Nd7 10. Qe2 Nxe5 11. dxe5 Qc7 12. O-O Bc5 13. Qg4 Qxe5 14. Bf4 Nf6
+15. Qxg7 Qxf4 16. Qxh8+ Ke7 17. Qxa8 Qxg3 18. Rad1 Nd5 19. Qxb7+ Kd8 20. Bxd5
+cxd5 21. Qb3 Qg7 22. Rxd5+ exd5 23. Qxd5+ Kc7 24. Qxc5+ Kb7 25. Re1 1-0

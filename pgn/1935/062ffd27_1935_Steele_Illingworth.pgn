@@ -1,0 +1,23 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Steele"]
+[Black "Illingworth"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "062ffd27"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Ne4 7. Bxe7 Qxe7
+8. Qc2 c6 9. Bd3 f5 10. O-O Nd7 11. Rac1 Rf6 12. Nd2 Rh6 13. f3 Qh4 14.
+fxe4 Qxh2+ 15. Kf2 fxe4 16. Ncxe4 dxe4 17. Bxe4 Nf6 18. Bf3 Bd7 19. Rh1
+Qxh1 20. Rxh1 Rxh1 21. g4 Rh3 22. Kg2 Rh6 23. Qb3 Rg6 24. Qxb7 Rf8 25. Kf2
+e5 26. Ke2 exd4 27. exd4 Bc8 28. Qxc6 Nxg4 29. Qc7 Re8+ 30. Kd3 Re3+ 31.
+Kc2 Bf5+ 32. Kc1 h5 33. Qd8+ Kh7 34. Qh4 Nf6 35. Qf2 Rd3 36. Bxh5 Rg5 37.
+Bf3 Kg6 38. d5 Ng4 39. Bxg4 Rxg4 40. b3 Rgg3 41. d6 Rc3+ 42. Kb2 Rc2+ 43.
+Ka3 Rd3 44. Qg2+ Kh6 45. Qh1+ Kg6 46. Nf3 Rxd6 47. Qg1+ Kf6 48. Qg4 Ke6 49.
+Qxg7 1-0
+

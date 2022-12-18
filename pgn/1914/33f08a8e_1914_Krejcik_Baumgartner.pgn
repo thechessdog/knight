@@ -1,0 +1,15 @@
+[Event "Troppau"]
+[Site "Troppau"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "Baumgartner"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "King's knight opening"]
+[HashCode "33f08a8e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Bc5 3. Nxe5 Bxf2+ 4. Kxf2 Qh4+ 5. g3 Qxe4 6. Qe2 Qxh1 7.
+Bg2 1-0
+

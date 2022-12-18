@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "00743f47"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 O-O 9. Bd3 d5 10. exd5 exd5 11. O-O Bg4 12. f3 Bh5 13. Bg5 Qb6+ 14. Kh1
+Ne7 15. Re1 Qc5 16. Qd2 Rfe8 17. Bxf6 gxf6 18. Re2 Red8 19. b4 Qc7 20. Nb5 Qd7
+21. Nd4 Bg6 22. g4 Kh8 23. Rae1 Nc6 24. Bxg6 fxg6 25. Nxc6 Qxc6 26. Re7 d4 27.
+Kg2 g5 28. Qd3 f5 29. Qxf5 Qg6 30. Qxg6 hxg6 31. Rxb7 Rdc8 32. Re2 Rc3 33. a4
+Rc4 34. a5 a6 35. Kg3 Rd8 36. b5 axb5 37. Rxb5 d3 38. cxd3 Rxd3 39. Rb7 Rc8 40.
+Ree7 Ra3 41. Rh7+ Kg8 42. Rbg7+ Kf8 43. Rf7+ Kg8 44. Rfg7+ Kf8 45. Rxg6 Rcc3
+46. Rf6+ Kg8 47. Ra7 Rc2 48. Rd6 Rc8 49. Rdd7 Re8 50. Rg7+ Kh8 51. Rh7+ Kg8 52.
+Rag7+ Kf8 53. Rxg5 1-0

@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Lilienthal, Andor Arnoldovich"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "d4a8f0da"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nc3 c6 6. Nge2 Ne7 7. Bg5 Qc7 8.
+Qd2 f6 9. Bf4 Be6 10. Qe3 Bf7 11. Qg3 Bxf4 12. Nxf4 g5 13. Nh5 Qxg3 14. Nxf6+
+Kf8 15. hxg3 h5 16. Nh7+ 1-0

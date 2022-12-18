@@ -1,0 +1,21 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1925.01.01"]
+[Round "17"]
+[White "Verlinsky, Boris"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1-0"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "8e0775b4"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. e3 O-O 8. Bd2
+Nxd2 9. Nxd2 f5 10. Be2 Bxc5 11. O-O-O b6 12. Nf3 Bb7 13. Kb1 Qe7 14. Rd2 Rac8
+15. Rhd1 Rfd8 16. a3 f4 17. exf4 Bxf2 18. Ne4 Na5 19. Qd3 Bc5 20. Neg5 g6 21.
+b4 Nxc4 22. Qxc4 Be3 23. Qb5 Bxd2 24. Rxd2 h6 25. Nh3 Qf6 26. Qe5 Qxe5 27. fxe5
+Rc3 28. Kb2 Rdc8 29. Nf4 g5 30. Nh5 R8c7 31. Nf6+ Kf8 32. Nd4 Rc8 33. Nb5 Re3
+34. Ng4 1-0

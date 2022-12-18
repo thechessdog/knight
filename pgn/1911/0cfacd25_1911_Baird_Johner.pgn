@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1911.01.01"]
+[Round "11"]
+[White "Baird, David Graham"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[HashCode "0cfacd25"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 Bg4 6. d5 b5 7. dxc6 bxa4 8. c4
+Ne7 9. h3 Bxf3 10. Qxf3 Nxc6 11. Qa3 Nd4 12. Qxa4+ Qd7 13. Qxd7+ Kxd7 14. Kd2
+g6 15. Nc3 f5 16. Kd3 Rb8 17. b3 Bg7 18. f3 f4 19. Bb2 c6 20. Rhd1 g5 21. Na4
+c5 22. Nc3 Bf6 23. Nd5 Bd8 24. Nc3 Ke6 25. Na4 h5 26. Rh1 Rb7 27. Rh2 Ba5 28.
+Bc3 Bxc3 29. Nxc3 Rbh7 30. Rah1 Nc6 31. Nd5 a5 32. Kc3 Rg8 33. Rg1 Nd4 34. Kd3
+Rhg7 35. Nc3 g4 36. hxg4 hxg4 37. Rh6+ Rg6 38. Rxg6+ Rxg6 39. Rh1 gxf3 40. gxf3
+Nxf3 41. Rh7 Rg2 42. Nd5 Ne1+ 43. Kc3 Rc2# 0-1

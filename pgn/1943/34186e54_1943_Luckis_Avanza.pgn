@@ -1,0 +1,19 @@
+[Event "La Plata"]
+[Site "La Plata"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Luckis, Marcos"]
+[Black "Avanza"]
+[Result "1-0"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[HashCode "34186e54"]
+[Epoch "Knight"]
+[WhiteCountry "LTU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. a3 Bxc3+ 8. bxc3
+b6 9. cxd5 exd5 10. O-O Bb7 11. a4 Nbd7 12. a5 Ne4 13. Bb2 Ndf6 14. Ne5 c4 15.
+Bc2 bxa5 16. f3 Nd6 17. Ba3 Qc7 18. Qe1 Rfe8 19. Qh4 h6 20. Rab1 Bc6 21. Qf4
+Nb5 22. Bb2 a4 23. Nxc6 Qxc6 24. Bxa4 a6 25. Rfe1 Re6 26. Bc1 Rae8 27. Qf5 Qd7
+28. Qc2 Qc6 29. Rb4 Nd7 30. Bd2 Rg6 31. Reb1 Qf6 32. Bxb5 Qxf3 33. Qxg6 1-0

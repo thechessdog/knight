@@ -1,0 +1,21 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Valentiner"]
+[Black "Szekely, Peter"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "1efcd14b"]
+[Epoch "Knight"]
+[BlackID "14937492"]
+[BlackCountry "SVK"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. b3 f6 7. exf6 Nxf6 8. Bg2
+h6 9. O-O Qd7 10. a3 a5 11. Bf4 Bd6 12. Bxd6 Qxd6 13. Nh4 g5 14. Nf3 a4 15.
+Nbd2 Na5 16. c5 Qd8 17. b4 Nc6 18. b5 Ne7 19. Ne5 Nfd5 20. e3 O-O 21. exd4 Nf5
+22. Re1 Nxd4 23. Ndf3 Nb3 24. Nd4 Qf6 25. Nxe6 Qxf2+ 26. Kh1 Ne3 27. Rxe3 Qxe3
+28. Qd5 c6 29. bxc6 bxc6 30. Nxc6 Nxa1 31. Ne7+ Kf7 32. Nf4+ Kg7 33. Nh5+ Kh8
+34. Ng6+ Kh7 35. Nxf8+ Kh8 36. Ng6+ Kh7 37. Qf7# 1-0

@@ -1,0 +1,18 @@
+[Event "Dusseldorf"]
+[Site "Dusseldorf"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "f0e2f63c"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 f5 8. Be3
+Qxd5 9. Bxc5 Qxc5 10. Nc3 Qe7 11. Nd5 Qd6 12. O-O-O c6 13. Nc3 Qxf4+ 14. Nd2
+O-O 1-0

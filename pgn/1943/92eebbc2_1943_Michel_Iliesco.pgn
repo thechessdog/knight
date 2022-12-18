@@ -1,0 +1,15 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1943.03.01"]
+[Round "1"]
+[White "Michel, Paul"]
+[Black "Iliesco, Juan Traian"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "92eebbc2"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 b6 4. dxc5 bxc5 5. Qd5 1-0

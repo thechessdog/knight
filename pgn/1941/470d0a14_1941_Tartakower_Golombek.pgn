@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "470d0a14"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 c5 6. c3 Nbd7 7. Bd3 b6 8. O-O
+Bb7 9. Qc2 h6 10. Bh4 O-O 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bg3 f6 14. exf6 Bxf6
+15. e4 Bh4 16. Rae1 Bxg3 17. hxg3 c4 18. Be2 Nc5 19. exd5 exd5 20. Nf3 Qf6 21.
+Nd4 Rae8 22. Bh5 Rxe1 23. Rxe1 Ne4 24. Bf3 a6 25. Re2 b5 26. Bxe4 dxe4 27. Qd2
+Rd8 28. Qe3 b4 29. Rd2 a5 30. Qe2 Qf7 31. Qg4 Kh8 32. Kh2 Rd5 33. Kg1 Rd8 34.
+Qf4 Qxf4 35. gxf4 Kg8 36. Kf1 Kf7 37. g3 Kf6 38. Ke2 g5 39. fxg5+ hxg5 40. Ke3
+Rd6 41. Nb3 cxb3 42. Rxd6+ Ke5 43. Rb6 bxa2 44. Rb5+ 1-0

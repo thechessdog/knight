@@ -1,0 +1,25 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "9"]
+[White "Hromadka, Karel"]
+[Black "Stulik, Vlastimil"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "8259acc4"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 e6 2. Qe2 Nc6 3. Nf3 e5 4. g3 Bc5 5. Bg2 d6 6. c3 Nge7 7. d3 f5 8. h3 O-O
+9. Nbd2 Kh8 10. b4 Bb6 11. a4 a6 12. Nc4 Ba7 13. Bg5 h6 14. Bd2 Be6 15. b5 fxe4
+16. dxe4 Nb8 17. O-O axb5 18. axb5 Nd7 19. Rfb1 Bc5 20. Ne3 Qe8 21. Be1 Qh5 22.
+g4 Qf7 23. Nh4 g6 24. Nf3 Nb6 25. Nh2 Kh7 26. Nhf1 Nc4 27. Rxa8 Rxa8 28. Nxc4
+Bxc4 29. Qd2 Qe8 30. Ne3 Ra2 31. Qd1 Bxe3 32. fxe3 b6 33. Qf3 Qf7 34. Qxf7+
+Bxf7 35. Bf1 Ng8 36. Rb4 Nf6 37. Bd3 Nd7 38. Bb1 Ra5 39. Kf2 Nc5 40. Kf3 Bb3
+41. Bh4 g5 42. Bg3 Ra1 43. Bd3 Rc1 44. c4 Bd1+ 45. Be2 Bxe2+ 46. Kxe2 Nxe4 47.
+Be1 Nc5 48. Bd2 Rh1 49. e4 Rh2+ 50. Kd1 Nxe4 51. Be1 Nc5 52. Rb1 Rxh3 53. Ra1
+Kg6 54. Ra8 Rd3+ 55. Ke2 Rd4 56. Rc8 Rxc4 57. Rxc7 Rxg4 58. Rc6 Re4+ 59. Kf1
+Rf4+ 60. Ke2 Na4 61. Bf2 Kh5 62. Rxd6 Nc3+ 63. Ke3 Rxf2 0-1

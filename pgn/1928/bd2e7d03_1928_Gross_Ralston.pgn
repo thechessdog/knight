@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Gross, Henry"]
+[Black "Ralston, Henry"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "bd2e7d03"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. h3 h6 8.
+Be3 Re8 9. Qd3 Bf8 10. Rad1 Qe7 11. Nh4 Kh8 12. Nf5 Qd8 13. Bxf7 exd4 14.
+Bxd4 Ne5 15. Bxe5 Rxe5 16. f4 Rxe4 17. Nh4 g6 18. Nxe4 Nxe4 19. Nxg6+ Kg7
+20. Qxe4 Kxf7 21. Ne5+ 1-0
+

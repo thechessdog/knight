@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Calcutta"]
+[Black "Simla"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "fb5cb17f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nf6 5. Nxc3 Bb4 6. Ne2 Bxc3+ 7. Nxc3
+h6 8. e5 Ng8 9. Qf3 Qe7 10. O-O c6 11. Ne4 d5 12. Nd6+ Kf8 13. Nxc8 Qe6 14.
+Qa3+ Ne7 15. Nxe7 Qxe7 16. Qxe7+ Kxe7 17. Bb3 Nd7 18. f4 Nc5 19. Bd1 Rad8
+20. f5 Nd7 1-0
+

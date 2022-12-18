@@ -1,0 +1,21 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Katz, F."]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "47213aea"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. Nf3 f6 6. a3 Bxd2+ 7. Nxd2 Nxd2 8.
+Qxd2 fxe5 9. Qg5 Qf6 10. Qxf6 gxf6 11. g3 Nc6 12. Be3 d6 13. Bg2 Ne7 14. O-O h5
+15. Rfd1 Nf5 16. Bd2 Nd4 17. Kf1 Nb3 18. Rab1 Bf5 19. e4 Be6 20. Be3 Bxc4+ 21.
+Ke1 a5 22. Bf1 Bxf1 23. Kxf1 Ke7 24. Rd3 a4 25. Rbd1 b6 26. f3 Ke6 27. Bxb6
+cxb6 28. Rxd6+ Kf7 29. Rxb6 Rhd8 30. Rd5 Rxd5 31. exd5 Rd8 32. Rb4 Nd4 33. Rc4
+Nxf3 34. Rxa4 Rxd5 35. Kg2 Ng5 36. b4 Rd2+ 37. Kf1 Nf3 38. b5 Nxh2+ 39. Ke1
+Nf3+ 40. Kf1 f5 41. b6 e4 42. Ra5 Kg6 43. b7 e3 44. Re5 Rf2# 0-1

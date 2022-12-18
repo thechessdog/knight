@@ -1,0 +1,26 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Verlinsky, Boris"]
+[Black "Duz-Khotimirsky, Fedor Ivanovich"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz, Rosenthal variation"]
+[HashCode "9ce41bfc"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nd5 Bg7 6. Bg5 Nce7 7. Nxd4 c6 8.
+Nxe7 Nxe7 9. c3 d5 10. Bd3 h6 11. Be3 dxe4 12. Bxe4 Nd5 13. Bd2 O-O 14. O-O Qh4
+15. Re1 Rd8 16. Qb3 Qf6 17. Rad1 Nc7 18. Be3 Ne6 19. Nxe6 Bxe6 20. Qxb7 Rab8
+21. Qxc6 Rxb2 22. Rxd8+ Qxd8 23. a4 Qa5 24. Bxg6 Qxc3 25. Qe8+ Bf8 26. Rc1 Re2
+27. h3 Qg7 28. Be4 Bxh3 29. Kf1 Bg4 30. Bd5 Bh5 31. Bc4 Rb2 32. Bxa7 Qg5 33.
+Be3 Qf5 34. Kg1 Rb1 35. Rxb1 Qxb1+ 36. Kh2 Qb4 37. Qc6 Qe7 38. g3 Qe5 39. Qd5
+Qc7 40. Bd4 Bg6 41. Qe5 Qxe5 42. Bxe5 Bc5 43. f3 Kf8 44. a5 Ke7 45. Bb8 Kd7 46.
+a6 Ke7 47. a7 Bxa7 48. Bxa7 h5 49. Kh3 Kf6 50. Bd4+ Kg5 51. Be3+ Kf6 52. Kh4
+Kg7 53. Be2 f6 54. f4 Be4 55. Bxh5 Bc2 56. Bd4 Be4 57. g4 Kh6 58. Bxf6 Bc2 59.
+Bf7 Bd3 60. f5 Kh7 61. Be5 Bc2 62. Be6 Kh6 63. g5+ Kh7 64. g6+ Kh6 65. g7 Bxf5
+66. g8=Q Bh7 67. Qg7# 1-0

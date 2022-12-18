@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Hohensee"]
+[Result "1-0"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[HashCode "b21705b0"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 Nbd7 4. f4 g6 5. Nf3 Bg7 6. e5 Ng4 7. Ng5 Nb6 8. e6
+Nh6 9. f5 f6 10. Nxh7 Rxh7 11. fxg6 Rh8 12. d5 c6 13. a4 a5 14. Be3 cxd5 15.
+Nxd5 Nxd5 16. Qxd5 Qc7 17. Be2 Rb8 18. Ra3 b6 19. Rc3 Qd8 20. Qc6+ Kf8 21. Bxb6
+Qxb6 22. Qxb6 1-0

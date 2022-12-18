@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Schaefer"]
+[Black "Breuer"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, Karlsbad variation"]
+[HashCode "5ef466f5"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2
+8. Nxd2 Bxc5 9. Nde4 b6 10. e3 f5 11. Nxc5 bxc5 12. Be2 Rb8 13. Qc2 O-O 14.
+O-O Bb7 15. Bf3 Qh4 16. b3 Rf6 17. g3 Nd4 18. exd4 Bxf3 19. Qd3 Qxh2+ 20.
+Kxh2 Rh6+ 21. Kg1 Rh1# 0-1
+

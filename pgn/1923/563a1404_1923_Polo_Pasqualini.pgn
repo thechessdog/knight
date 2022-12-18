@@ -1,0 +1,16 @@
+[Event "Ferrara"]
+[Site "Ferrara"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Polo"]
+[Black "Pasqualini"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "563a1404"]
+[Epoch "Knight"]
+[WhiteID "7119127"]
+[WhiteCountry "INA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nd7 6. Bxf7+ Kxf7 7. Ne6 Qe8
+8. Nxc7 Qf8 9. Qh5+ g6 10. Qd5+ Kf6 11. Bg5+ Kg7 12. Ne6+ 1-0

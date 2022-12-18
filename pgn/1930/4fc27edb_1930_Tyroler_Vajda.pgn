@@ -1,0 +1,20 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Tyroler, Alexandru"]
+[Black "Vajda, Arpad"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "4fc27edb"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 Qa5 7. Bd2 d6 8. e4
+Nbd7 9. Bd3 e5 10. d5 Nb6 11. Ne2 Bd7 12. O-O Ba4 13. Qb1 Qa6 14. Qa2 O-O 15.
+Ng3 Rae8 16. Rae1 Nbd7 17. Nf5 Nh5 18. Rb1 Nf4 19. Bc2 Bxc2 20. Qxc2 g6 21. Ng3
+Nb6 22. Qc1 Nxc4 23. Bxf4 exf4 24. Qxf4 f6 25. h4 Re7 26. Qc1 b5 27. Ra1 Qb6
+28. Rf2 Ne5 29. Qd1 c4 30. Kf1 Nd3 31. Rd2 Qe3 32. Nh1 f5 33. Re2 Qh6 34. exf5
+Qxh4 35. Rxe7 Qxh1+ 36. Ke2 Qxg2+ 37. Ke3 Qf2+ 38. Ke4 gxf5# 0-1

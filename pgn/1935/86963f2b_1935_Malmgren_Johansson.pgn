@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Malmgren"]
+[Black "Johansson, Martin"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik, Reifir (Spielmann) variation"]
+[HashCode "86963f2b"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6 7. cxd5 Nxd5 8.
+Nge2 Qxb2 9. Rb1 1-0

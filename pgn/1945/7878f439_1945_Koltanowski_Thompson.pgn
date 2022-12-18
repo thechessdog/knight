@@ -1,0 +1,19 @@
+[Event "Washington,DC simul"]
+[Site "Washington,DC simul"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Thompson, Leroy"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Russian variation"]
+[HashCode "7878f439"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Qg4 Kf8 6. Bd2 cxd4 7. Qxd4 Nc6 8. Qf4
+f5 9. h4 Nge7 10. h5 Bd7 11. Nf3 Qb6 12. a3 Bxc3 13. Bxc3 Rc8 14. Rd1 Na5 15.
+Nd4 Nec6 16. b4 Nc4 17. Bxc4 Ne7 18. Bb2 Rxc4 19. g4 Qd8 20. Rd3 Rg8 21. Rg3 a6
+22. Rc3 Qc7 23. Rxc4 Qxc4 24. Rh4 Ke8 25. gxf5 exf5 26. e6 Bb5 27. Qb8+ Nc8 28.
+Nxb5 Qxh4 29. Nd6+ Kd8 30. Qxc8+ Ke7 31. Qd7+ Kf8 32. Qf7# 1-0

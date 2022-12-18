@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Bronin"]
+[Black "Cotkin"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "2ebb845f"]
+[Epoch "Knight"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. h4 e6 5. g4 Be4 6. f3 Bg6 7. h5 1-0
+

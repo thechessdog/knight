@@ -1,0 +1,20 @@
+[Event "Essen"]
+[Site "Essen"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Rautenberg, Wilhelm"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "42a22cf1"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nd4 Nxe5 11. f3 Nc5 12. Bc2 Bd7 13. f4 Nc4 14. Qh5 c6 15. f5
+Bf6 16. Bf4 Ne4 17. Bxe4 dxe4 18. b3 c5 19. Ne6 g6 20. Nxd8 gxh5 21. Nb7 Bc6
+22. Nxc5 Be7 23. Nxe4 Bxe4 24. Re1 Bxf5 25. Bg5 Be6 26. Bxe7 Kxe7 27. bxc4 bxc4
+28. Nd2 Rhd8 29. Nxc4 Rac8 30. Ne5 Rxc3 31. Re2 Kf6 32. Rf1+ Kg7 33. Ref2 Rdc8
+34. Nxf7 Bc4 35. Nd6 Bxf1 36. Nxc8 Bb5 37. g4 Rxc8 38. gxh5 Kh6 39. Rd2 Rc4 0-1

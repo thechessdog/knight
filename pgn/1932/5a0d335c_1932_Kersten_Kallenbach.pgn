@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Kersten & Sonnenber"]
+[Black "Kallenbach & Mulder"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "5a0d335c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 g5 10. Nbd2 Nc5 11. Bc2 g4 12. Nd4 Nxe5 13. f4 gxf3 14.
+N2xf3 Bd6 15. Nxe5 Bxe5 16. Nxe6 Nxe6 17. Qh5 Qd6 18. Qxf7+ Kd8 19. Bf5 Rf8
+20. Qxe6 Bxh2+ 21. Kh1 Qxe6 22. Bg5+ Kd7 23. Bxe6+ Kxe6 24. Kxh2 Rxf1 25.
+Rxf1 1-0
+

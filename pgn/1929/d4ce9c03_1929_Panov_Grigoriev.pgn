@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Grigoriev, Nikolay Dmitrievich"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "d4ce9c03"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Be2 Be7 6. h3 c6 7. Be3 Qc7 8. Qd2
+O-O 9. O-O Re8 10. Rad1 Bf8 11. Rfe1 a6 12. a3 b5 13. Nh2 Bb7 14. f3 Rad8 15.
+Nf1 exd4 16. Bxd4 c5 17. Bxf6 Nxf6 18. Ne3 d5 19. Ncxd5 Nxd5 20. Nxd5 Qg3 21.
+Qf4 Bd6 22. Qg4 Bxd5 23. exd5 Qh2+ 24. Kf2 h5 25. Qh4 Bf4 0-1

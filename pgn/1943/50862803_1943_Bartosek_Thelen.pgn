@@ -1,0 +1,24 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Bartosek, Milan"]
+[Black "Thelen, Bedrich"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "50862803"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Bg4 4. Ne5 Bh5 5. Qa4+ Nd7 6. Nc3 c6 7. Qxc4
+Nxe5 8. dxe5 Qa5 9. e6 fxe6 10. e4 e5 11. Qb3 Qb6 12. Qe6 Qc5 13. Be3 Qd6
+14. Qh3 Nf6 15. f3 Bf7 16. Be2 Qe6 17. Qh4 h6 18. O-O Nh5 19. f4 Nxf4 20.
+Bxf4 exf4 21. Qxf4 g5 22. Qg3 Bg7 23. h4 Bd4+ 24. Kh1 gxh4 25. Qxh4 Bf6 26.
+Qf2 O-O 27. Bf3 Qe5 28. Rad1 Qg5 29. g4 Rad8 30. Rxd8 Rxd8 31. Rd1 Rxd1+
+32. Bxd1 Qc1 33. Qe2 Be5 34. Kg2 Qf4 35. Bb3 Qh2+ 36. Kf1 Qh1+ 37. Kf2 Bd4+
+38. Kg3 Qg1+ 39. Kf4 Qc1+ 40. Kf3 e6 41. Nd1 Be5 42. Qe3 Qxe3+ 43. Kxe3 Kg7
+44. Bc2 Kf6 45. b3 Kg5 46. Nf2 Bg3 47. Nh1 Bc7 48. Kf3 h5 49. gxh5 Bxh5+
+50. Kg2 Kf4 51. Nf2 Bf3+ 52. Kf1 Ke3 53. b4 Bg3 54. Nh3 Bxe4 55. Bxe4 Kxe4
+56. Ng5+ Kd5 57. Ke2 Bf4 58. Nf3 Kc4 59. Ne1 Bd6 60. Nd3 Bxb4 0-1
+

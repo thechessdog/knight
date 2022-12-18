@@ -1,0 +1,18 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Eppelsheim"]
+[Black "Dyckhoff, Eduard"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Greco gambit"]
+[HashCode "ccbba4cc"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Bc4 Nf6 3. f4 d5 4. exd5 e4 5. d3 Bc5 6. Ne2 exd3 7. Qxd3 O-O
+8. h3 Re8 9. Nc3 a6 10. a4 Nh5 11. g4 Qh4+ 12. Kd1 Bxg4 13. Bd2 Nf6 14. Be1
+Qh6 15. Rf1 Re3 16. hxg4 Rxd3+ 17. cxd3 Nxg4 18. Bd2 Nd7 19. Ne4 Be3 20.
+N2g3 Bxd2 21. Kxd2 Nde5 22. Ba2 Nh2 23. Rf2 Nef3+ 24. Ke3 Qb6+ 0-1
+

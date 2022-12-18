@@ -1,0 +1,26 @@
+[Event "Hastings3839"]
+[Site "Hastings"]
+[Date "1938.12.01"]
+[Round "9"]
+[White "Landau, Salo"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Keres variation"]
+[HashCode "cae5fd7d"]
+[Epoch "Knight"]
+[BlackCountry "SVN"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O b6 8. cxd5
+exd5 9. dxc5 bxc5 10. Qc2 Qe7 11. Rd1 Rd8 12. Bd2 Nc6 13. a3 c4 14. Bf1 Bd6 15.
+Nb5 Bg4 16. Nxd6 Rxd6 17. Be2 Ne4 18. Bc3 Re8 19. Nd4 Nxf2 20. Bxg4 Nxg4 21.
+Nf5 Qg5 22. Nxd6 Qxe3+ 23. Kh1 Qf4 24. g3 Qxd6 25. Re1 Nge5 26. Rad1 Rd8 27.
+Qf5 Nd3 28. Rf1 f6 29. Rf3 d4 30. Rfxd3 cxd3 31. Rxd3 Qd5+ 32. Qxd5+ Rxd5 33.
+b4 Kf7 34. Kg2 Ke6 35. Bb2 a6 36. Rd1 Kf5 37. Kf2 h5 38. Ke2 Ke4 39. Rf1 Re5
+40. Kd2 h4 41. Rf4+ Kd5 42. Rxh4 Re4 43. Rxe4 Kxe4 44. Bc1 Ne5 45. a4 Kd5 46.
+b5 axb5 47. axb5 Kc5 48. Ba3+ Kxb5 49. Bf8 g6 50. Bg7 Kc4 51. Bxf6 Ng4 52. Bg5
+Nxh2 53. Ke2 Kd5 54. Kd3 Ng4 55. Bd2 Ne5+ 56. Ke2 Ke4 57. Bf4 Nc4 58. Bg5 d3+
+59. Kd1 Kf3 60. Bf4 Kf2 61. Bc7 g5 62. Bd8 g4 63. Bc7 d2 64. Bf4 Kf3 65. Bg5
+Kxg3 66. Ke2 Kh3 0-1

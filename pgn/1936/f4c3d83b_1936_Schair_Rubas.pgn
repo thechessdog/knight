@@ -1,0 +1,15 @@
+[Event "Podebrady"]
+[Site "Podebrady"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Schair"]
+[Black "Rubas"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "f4c3d83b"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Nc3 Nbd7 5. Qe2 c6 6. Ngxe4 g6 7. Nd6#
+1-0
+

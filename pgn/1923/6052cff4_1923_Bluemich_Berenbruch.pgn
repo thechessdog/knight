@@ -1,0 +1,19 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Bluemich, Max"]
+[Black "Berenbruch"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "6052cff4"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O d5 9. exd5 cxd5 10. Bg5 O-O 11. Qf3 Be7 12. Rfe1 Rb8 13. Qh3 g6 14. Qh4 Re8
+15. Rab1 Nh5 16. Bxe7 Qxe7 17. Qxe7 Rxe7 18. Nxd5 Rbb7 19. Ba6 Rbd7 20. Bxc8
+Rxd5 21. Ba6 Rd2 22. Rec1 Nf4 23. Kf1 Kg7 24. a3 e5 25. b4 e4 26. g3 Nh3 27.
+Be2 f5 28. Ke1 Red7 29. Rd1 Rxd1+ 30. Rxd1 Rxd1+ 31. Kxd1 1-0

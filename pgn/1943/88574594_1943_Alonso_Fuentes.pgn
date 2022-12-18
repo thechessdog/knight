@@ -1,0 +1,18 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Alonso, Juan"]
+[Black "Fuentes"]
+[Result "0-1"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "88574594"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Nf3 Ne4
+8. Qc2 a5 9. e3 Nc6 10. b3 f5 11. Bb2 Bd7 12. Rd1 Be8 13. Be2 g5 14. O-O g4
+15. Nd2 Qh4 16. Nxe4 fxe4 17. f3 exf3 18. gxf3 Qh3 19. fxg4 Qxe3+ 20. Kh1
+Bg6 21. Bd3 Rxf1+ 0-1
+

@@ -1,0 +1,20 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Kraussold"]
+[Black "Volt"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "cde1c2ce"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. dxc3
+O-O 8. Bf4 c5 9. O-O-O Qa5 10. Kb1 Be6 11. Qf2 d4 12. c4 b5 13. Nd2 bxc4
+14. Nxc4 Qc7 15. Qg3 Rd8 16. Bd3 Nc6 17. a3 Na5 18. Nd6 Qb6 19. Ne4 Rab8
+20. Bc1 Kh8 21. Ng5 Bxg5 22. Qxg5 c4 23. Be4 c3 24. Qh4 g6 25. Qf6+ Kg8 26.
+b4 Qxb4+ 27. axb4 Rxb4+ 28. Bb2 Rxb2+ 29. Kc1 Rdb8 30. Qd8+ Rxd8 31. Rdf1
+Rdb8 32. Kd1 Bc4 33. Bd3 Bxd3 34. cxd3 Rd2+ 0-1
+

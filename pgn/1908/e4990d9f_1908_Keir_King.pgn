@@ -1,0 +1,18 @@
+[Event "Lancashire"]
+[Site "Lancashire"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Keir"]
+[Black "King"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "e4990d9f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5
+8. Nxd4 Bd6 9. Be3 O-O 10. Nxc6 bxc6 11. Bxc6 Bxh2+ 12. Kxh2 Qd6+ 13. g3
+Qxc6 14. f3 Qd7 15. g4 Qd6+ 16. Kh1 Qg3 17. Qe2 Re8 18. Nc3 Ng5 19. Bf4
+Qh4+ 20. Qh2 Rxe1+ 21. Rxe1 Qxe1+ 22. Kg2 Ne6 23. Nxd5 Bb7 24. Nc3 Nd4 1-0
+

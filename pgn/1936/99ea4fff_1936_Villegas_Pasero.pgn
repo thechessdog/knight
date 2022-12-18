@@ -1,0 +1,24 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1936.01.01"]
+[Round "2"]
+[White "Villegas, Benito"]
+[Black "Pasero, Pedro"]
+[Result "1-0"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[HashCode "99ea4fff"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. d4 Nbd7 6. h3 e5 7. d5 Nc5 8. Qc2 a5
+9. Be3 b6 10. Nd2 O-O 11. g4 Ne8 12. Rg1 Bd7 13. O-O-O a4 14. Ndb1 c6 15. Na3
+cxd5 16. Nxd5 Bc6 17. f3 Bxd5 18. cxd5 Rc8 19. Kb1 Nb3 20. Qf2 Nc5 21. Bb5 Nc7
+22. Bc6 N7a6 23. Qd2 Qe7 24. Rc1 Rb8 25. Nb5 Rfc8 26. h4 Bf8 27. h5 Nc7 28.
+hxg6 hxg6 29. Rh1 Nxb5 30. Bxb5 Bg7 31. Qh2 Qf6 32. Rcf1 a3 33. b4 Qd8 34. Rc1
+Nd7 35. Bc6 Nf8 36. Rc3 Qf6 37. Bc1 Rc7 38. g5 Qe7 39. Rxa3 Ra7 40. Rxa7 Qxa7
+41. Bb2 b5 42. Qg1 Qa4 43. Bc3 Nh7 44. Qe3 Qa3 45. Bd2 Qa4 46. Rc1 Bf8 47. Qc3
+Be7 48. Rg1 Bd8 49. Be3 Qa6 50. Qd2 Bb6 51. Bxb6 Qxb6 52. Rh1 Qd4 53. Qxd4 exd4
+54. f4 f6 55. gxf6 Nxf6 56. e5 Ne4 57. e6 Kg7 58. e7 Nf6 59. Re1 Ne8 60. Kc2
+Kf7 61. Kd3 Rb6 62. Kxd4 Rb8 63. Re6 Ng7 64. e8=Q+ 1-0

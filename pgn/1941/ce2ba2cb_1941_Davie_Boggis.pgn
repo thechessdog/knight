@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Davie"]
+[Black "Boggis, A."]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "ce2ba2cb"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. Nf3 d6 5. h3 Be6 6. Bb5 d5 7. Bxc6+ bxc6
+8. Nxe5 Nxe4 9. Nxc6 Qd6 10. Nd4 Qc5 11. Ncb5 c6 12. Nc7+ Kd7 13. Ndxe6
+Qxf2# 0-1
+

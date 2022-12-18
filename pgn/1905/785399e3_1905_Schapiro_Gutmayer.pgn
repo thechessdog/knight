@@ -1,0 +1,20 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Schapiro, Morris"]
+[Black "Gutmayer, Franz"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "785399e3"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Be6 5. Nc3 a6 6. Ng5 Nc6 7. Qd1 Nf6 8. f4
+h6 9. Nf3 Bg4 10. Be2 Be7 11. O-O Qd7 12. h3 Bxf3 13. Bxf3 O-O 14. a3 Rad8 15.
+Qd3 Rfe8 16. Be3 Bf8 17. Rad1 Qc8 18. Ne2 Ne7 19. Bd4 Ng6 20. Bxf6 gxf6 21. Bg4
+Qb8 22. Ng3 Qa7+ 23. Kh1 d5 24. Nh5 dxe4 25. Qg3 Qb6 26. Bd7 Re7 27. f5 Rexd7
+28. Rxd7 Rxd7 29. fxg6 Rd6 30. g7 Be7 31. Qf4 f5 32. Qxf5 f6 33. Qg6 Qb5 34. c4
+Qd7 35. Qxh6 1-0

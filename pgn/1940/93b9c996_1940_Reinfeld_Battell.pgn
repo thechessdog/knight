@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Reinfeld, Fred"]
+[Black "Battell, J."]
+[Result "1-0"]
+[ECO "D25"]
+[Opening "QGA, 4.e3"]
+[HashCode "93b9c996"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 c5 5. Bxc4 cxd4 6. exd4 Qc7 7. Qb3 Be6
+8. Bxe6 Qxc1+ 9. Ke2 Qxh1 10. Bxf7+ Kd8 11. Qxb7 Qc1 12. Qxa8 Qxb2+ 13.
+Nbd2 Ne4 14. Qxe4 Qxa1 15. Qd5+ Kc7 16. Qc5+ Kd8 17. Be6 Nd7 18. Qc6 Nb6
+19. Ne5 1-0
+

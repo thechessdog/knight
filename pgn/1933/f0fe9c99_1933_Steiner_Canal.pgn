@@ -1,0 +1,20 @@
+[Event "Maehrisch-Ostrau"]
+[Site "Maehrisch-Ostrau"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Steiner, Lajos"]
+[Black "Canal, Esteban"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "f0fe9c99"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "PER"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. f3 Nd7 8. Nxc4
+e5 9. e4 exd4 10. exf5 dxc3 11. bxc3 Qf6 12. Qc2 Nb4 13. Qe4+ Be7 14. Bd2 O-O-O
+15. Qb1 Ne5 16. cxb4 Nxc4 17. Bxc4 Qh4+ 18. g3 Qxc4 19. Qe4 Qxe4+ 20. fxe4 Rd4
+21. b5 Rxe4+ 22. Kf2 Re5 23. g4 Rd8 24. Bf4 Bc5+ 25. Kg2 Re2+ 26. Kh3 Bd6 27.
+Bg3 Bxg3 28. hxg3 g5 29. bxc6 Rd6 30. cxb7+ Kb8 0-1

@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Enevoldsen, Harald"]
+[Black "Kupferstich, Moses"]
+[Result "1-0"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "1363a9be"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 dxc4 8.
+Nf3 b6 9. e3 Ba6 10. Ne5 Qd5 11. Bxf6 gxf6 12. Ng4 Qg5 13. Be2 Nd7 14. h4 Qa5
+15. b4 Qd5 16. Bf3 Qd6 17. Bxa8 Rxa8 18. Rh3 h5 19. Nh2 f5 20. Nf3 Nf6 21. Nd2
+b5 22. e4 fxe4 23. Qe3 Kf8 24. Nxe4 Nxe4 25. Qxe4 Rd8 26. Rd1 Qb6 27. Qf4 Bb7
+28. Rg3 a5 29. Qf6 Rd7 30. Rg5 Re7 31. Qh8# 1-0

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Simagin, Vladimir"]
+[Black "Leonovich"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "ba208b0b"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. e3 c5 7. a3 Bxc3+ 8.
+bxc3 O-O 9. Nf3 b6 10. Be2 Nc6 11. O-O Bb7 12. c4 Qe4 13. Bd3 Qg4 14. h3 Qh5
+15. Bb2 cxd4 16. exd4 Ne7 17. Ne5 Ng6 18. f4 Qh4 19. Nxg6 hxg6 20. Rae1 Kh7 21.
+Re5 Rh8 22. Rg5 Kg8 23. Qe2 Rh5 24. Qe3 Rxg5 25. fxg5 Nh7 26. Bc1 Rd8 27. d5
+exd5 28. Qe7 Rf8 29. Bf4 Ba6 30. Be2 f6 31. Qe6+ Kh8 32. g3 Nxg5 33. Qe7 Nxh3+
+34. Kg2 Nxf4+ 35. Rxf4 0-1

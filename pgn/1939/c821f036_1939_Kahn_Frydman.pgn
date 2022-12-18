@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Kahn, Victor"]
+[Black "Frydman, Paulino"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Schlechter variation"]
+[HashCode "c821f036"]
+[Epoch "Knight"]
+[BlackCountry "POL"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 g6 5. e3 Bg7 6. Qb3 O-O 7. Bd2 e6 8. Bd3
+Nbd7 9. cxd5 exd5 10. O-O Re8 11. Rfc1 Ne4 12. Be1 f5 13. Na4 Qf6 14. Nd2 Bf8
+15. Nxe4 fxe4 16. Bf1 Qg5 17. Bb4 Nf6 18. Qa3 Ng4 19. Bd6 Qf6 20. Bxf8 Qxf2+
+21. Kh1 Rxf8 0-1

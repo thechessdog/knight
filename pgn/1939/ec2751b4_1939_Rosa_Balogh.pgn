@@ -1,0 +1,20 @@
+[Event "corr Europe tt"]
+[Site "corr Europe tt"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Rosa"]
+[Black "Balogh"]
+[Result "0-1"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "ec2751b4"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Bd3 Be4 7. O-O Nbd7 8.
+Bxe4 Nxe4 9. Nxe4 dxe4 10. Nd2 f5 11. f3 exf3 12. Nxf3 Nf6 13. Ng5 Qd7 14.
+e4 O-O-O 15. exf5 exf5 16. b3 Bc5 17. Bb2 Ng4 18. Qd2 Bd6 19. h3 h6 20. Nf7
+Qxf7 21. hxg4 f4 22. Rac1 h5 23. g5 Qf5 24. d5 Rhe8 25. c5 Qg4 26. Rf3 Be7
+27. d6 Bxg5 28. Re1 Qf5 29. Rxe8 Rxe8 30. b4 g6 31. Kh2 Re4 32. Qc3 Re2 33.
+b5 Qg4 34. d7+ Kc7 0-1
+

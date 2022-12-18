@@ -1,0 +1,21 @@
+[Event "Duisburg simul"]
+[Site "Duisburg simul"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "b28b6499"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 c5 3. d5 Qc7 4. f4 exd5 5. exd5 Bd6 6. Nh3 Na6 7. c4 Nf6 8. Bd3
+Nb4 9. O-O Nxd3 10. Qxd3 h6 11. Re1+ Kf8 12. Nc3 b6 13. Ne4 Nxe4 14. Qxe4 Qd8
+15. f5 Rg8 16. f6 g5 17. Qf5 Rh8 18. b3 Ba6 19. Bb2 Qc7 20. Re7 Re8 21. Nxg5
+Bxh2+ 22. Kf1 hxg5 23. Rae1 Rd8 24. Rxf7+ Kxf7 25. Re7+ Kf8 26. Be5 Bxe5 27.
+Qg6 Rh1+ 28. Ke2 Re1+ 29. Kxe1 Bg3+ 30. Kd1 1-0

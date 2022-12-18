@@ -1,0 +1,29 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Becker, Albert"]
+[Black "Moritz, Bruno"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "2ff71511"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "ECU"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Nbd7 6. Qf4 Bxc2 7. Rc1 Bg6 8.
+e4 dxe4 9. fxe4 Qa5 10. e5 Nd5 11. Qd2 e6 12. Nf3 Be7 13. Bd3 Bxd3 14. Qxd3
+Nxc3 15. bxc3 Bxg5 16. Nxg5 Nxe5 17. Qg3 Ng6 18. O-O O-O 19. h4 h6 20. Nxf7 Qh5
+21. Nd6 b6 22. Rce1 Nxh4 23. Rxf8+ Rxf8 24. Rxe6 Nf5 25. Nxf5 Qxf5 26. Rxh6
+Qb1+ 27. Kh2 Rf1 28. Qb8+ Rf8 29. Qg3 Rf1 30. Qb8+ Rf8 31. Rh8+ Kxh8 32. Qxf8+
+Kh7 33. Qf3 Qg6 34. g4 Qd6+ 35. Kh3 b5 36. Qf5+ g6 37. Qf7+ Kh6 38. Qe8 Qf6 39.
+Qe3+ g5 40. Kg2 Qf7 41. Qe2 Qd5+ 42. Kf2 b4 43. cxb4 Qxd4+ 44. Kg3 Qc3+ 45. Qf3
+Qxb4 46. Qf6+ Kh7 47. Qf7+ Kh8 48. Qh5+ Kg7 49. Qxg5+ Kf7 50. Qf5+ Kg7 51. Qd7+
+Kg8 52. Qd8+ Kg7 53. Qc7+ Kg8 54. Qxa7 Qd6+ 55. Kh3 c5 56. Qa8+ Kg7 57. Qb7+
+Kh6 58. Qe4 Qa6 59. a4 Qa5 60. Qe6+ Kg7 61. Qd7+ Kg6 62. Qe8+ Kh6 63. Kh4 Qc3
+64. g5+ Kg7 65. Qe7+ Kg6 66. Qe6+ Kg7 67. Qe7+ Kg6 68. Qe4+ Kg7 69. Kg4 c4 70.
+Qe7+ Kg6 71. Qd8 Kf7 72. a5 Qe5 73. Qd7+ Kg6 74. Qc6+ Kh7 75. Qb7+ Kg6 76. Qb1+
+Kg7 77. Qb7+ Kg6 78. Qb6+ Kf7 79. Qb7+ Kg6 80. Qc6+ Kh7 81. Qb7+ Kg6 82. Qc6+
+Kh7 83. a6 c3 84. Qd7+ Kg6 85. Qd3+ Kg7 86. a7 Qe6+ 87. Kg3 Qc6 88. Qd4+ Kg6
+89. Qd3+ Kg7 90. Qd4+ Kg6 91. Qh8 Qd6+ 92. Kg4 Qe6+ 1/2-1/2

@@ -1,0 +1,25 @@
+[Event "Bern tt"]
+[Site "Bern tt"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Johner, Hans"]
+[Black "Boutteville, Cesar"]
+[Result "1-0"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "743cede2"]
+[Epoch "Knight"]
+[BlackID "600962"]
+[BlackCountry "FRA"]
+[WhiteCountry "CHE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. f4 Qc7 8. Bf3
+Be7 9. Qe2 Nbd7 10. Nb3 Rb8 11. a4 b6 12. Be3 Bb7 13. O-O O-O 14. Bd4 Nc5 15.
+Nd2 e5 16. Be3 Ne6 17. f5 Nd4 18. Qd3 Nxf3+ 19. Rxf3 Qc6 20. Rg3 Kh8 21. Bg5
+Rfc8 22. Kh1 Qc7 23. Rc1 Qd8 24. Rd1 Nh5 25. Rh3 Bxg5 26. Rxh5 Be7 27. Nc4 b5
+28. axb5 axb5 29. Ne3 Bf8 30. Rf1 Qb6 31. Ned5 Bxd5 32. Nxd5 Qd4 33. Qh3 h6 34.
+f6 Qxe4 35. fxg7+ Bxg7 36. Nf6 Qg6 37. Ng4 Kg8 38. Nxh6+ Bxh6 39. Rxh6 Qg7 40.
+Rxf7 Kxf7 41. Qe6+ Kf8 42. Qxd6+ Kg8 43. Qe6+ Qf7 44. Rg6+ Kf8 45. Rf6 Qxf6 46.
+Qxf6+ Kg8 47. Qxe5 Ra8 48. h4 Ra1+ 49. Kh2 Rc4 50. Qg5+ Kf7 51. b3 Rc6 52. Qxb5
+Raa6 53. c4 Rab6 54. Qd5+ Re6 55. c5 Rb4 56. g3 1-0

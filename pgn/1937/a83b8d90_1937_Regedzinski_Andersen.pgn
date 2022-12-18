@@ -1,0 +1,21 @@
+[Event "Jurata"]
+[Site "Jurata"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Regedzinski, Teodor"]
+[Black "Andersen, Erik"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "a83b8d90"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. e4 e5 7. d5 Bxc3+ 8. Qxc3
+Ne7 9. Bd3 O-O 10. h3 Nd7 11. g4 Nc5 12. Bc2 a5 13. Bg5 f6 14. Be3 b6 15. Nh4
+Bd7 16. Rg1 Kh8 17. Rg3 Rc8 18. Qd2 Nb7 19. Nf5 g6 20. Nxe7 Qxe7 21. O-O-O b5
+22. cxb5 Bxb5 23. Kb1 Bd7 24. f4 exf4 25. Bxf4 Nc5 26. Qd4 Rb8 27. Bd2 a4 28.
+Bc3 g5 29. Rf3 Kg7 30. Rdf1 Qe5 31. Qe3 1-0

@@ -1,0 +1,20 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Murdock"]
+[Black "Soudakoff, J."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "6b685d15"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 Nxd2 11. Qxd2 Na5 12. Bc2 c5 13. Qe2 O-O 14. h4
+Bxh4 15. Nxh4 Qxh4 16. f4 Bg4 17. Qd3 Rad8 18. g3 Qh5 19. Rf2 c4 20. Qe3 d4
+21. cxd4 f5 22. exf6 Rfe8 23. Qc3 b4 24. Qxb4 Qh3 25. Qc3 Re1+ 26. Qxe1
+Qxg3+ 27. Kf1 Bh3+ 28. Ke2 Re8+ 29. Kd2 c3+ 30. Kd1 Bg4+ 31. Re2 Bxe2+ 32.
+Qxe2 Qg1+ 0-1
+

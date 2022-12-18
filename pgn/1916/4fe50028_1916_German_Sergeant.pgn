@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "German, Eugenio Maciel"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "4fe50028"]
+[Epoch "Knight"]
+[WhiteCountry "BRA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nxc3 7. bxc3 c5 8.
+Qf2 O-O 9. d4 Nc6 10. Bd2 c4 11. Be2 f6 12. Qg3 fxe5 13. dxe5 Bf5 14. O-O Qe8
+15. Kh1 Qg6 16. Nd4 Nxd4 17. cxd4 Qxg3 18. hxg3 Bxc2 19. Bg4 Be4 20. Rf4 Rxf4
+21. gxf4 g6 22. Re1 Kf7 23. Rxe4 dxe4 24. d5 Bc5 25. Be6+ Ke7 26. Be1 e3 27. g4
+Bd4 28. Bh4+ Ke8 29. d6 c3 30. Bb3 e2 31. e6 Bf6 32. g5 Be7 33. dxe7 Rc8 34.
+Bc2 Rc4 35. Kg2 Rxf4 36. Be1 Rf1 37. Bxc3 e1=Q 0-1

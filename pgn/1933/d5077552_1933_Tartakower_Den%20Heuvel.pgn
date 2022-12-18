@@ -1,0 +1,17 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Den Heuvel, V."]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Rubinstein (anti-Meran) system"]
+[HashCode "d5077552"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Ne5 Be7 7. f4 O-O 8. Bd3
+dxc4 9. Bxc4 Nd5 10. O-O f5 11. g4 fxg4 12. Qxg4 N7f6 13. Qg3 c5 14. Kh1 Nb6
+15. Rg1 Ne8 16. Bb5 g6 17. Nxg6 1-0

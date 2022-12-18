@@ -1,0 +1,17 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Nilsson, Zandor"]
+[Black "Poulsen, Carl"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Blumenfeld counter-gambit"]
+[HashCode "76cdf4a1"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. e3 Bb7 6. dxe6 fxe6 7. cxb5 d5 8. Nc3
+Bd6 9. Be2 O-O 10. Qa4 Nbd7 11. Qh4 Qe7 12. g4 d4 13. g5 dxc3 14. gxf6 Qxf6 15.
+Qxf6 Rxf6 16. O-O Bxf3 17. Bxf3 Rxf3 18. Rd1 cxb2 19. Bxb2 Be5 20. Bxe5 Nxe5
+21. Rac1 c4 22. Rd4 Raf8 0-1

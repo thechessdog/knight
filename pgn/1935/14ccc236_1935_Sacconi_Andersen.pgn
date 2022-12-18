@@ -1,0 +1,21 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Sacconi, Antonio"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "A47"]
+[Opening "Queen's Indian"]
+[Variation "Marienbad system"]
+[HashCode "14ccc236"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Qxd4 Nc6 7. Qa4 g6 8. c3
+Bg7 9. Rd1 Qc8 10. Be3 O-O 11. Nd4 Ne5 12. Bg5 Bxg2 13. Kxg2 Qb7+ 14. Kg1 Ne4
+15. Bc1 Rac8 16. Nd2 Nc5 17. Qc2 b5 18. a3 a5 19. N4b3 Nxb3 20. Nxb3 a4 21. Nd4
+Nc4 22. b3 e5 23. Nxb5 Qxb5 24. bxc4 Rxc4 25. Qd3 Rfc8 26. Rb1 Qc6 27. Qxd7
+Qxd7 28. Rxd7 Rxc3 29. Bd2 Rxa3 30. Rbb7 Bf8 31. Rxf7 Ra1+ 32. Kg2 a3 33. Ra7
+Rd1 34. Rfd7 Rc2 35. Be3 Rxd7 36. Rxd7 a2 37. Ra7 Bg7 38. Ra8+ Kf7 0-1

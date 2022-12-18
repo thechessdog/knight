@@ -1,0 +1,22 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Von Scheve, Theodor"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "5e4c88b1"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Kf8 10. Rxe5 Nc6 11. d4 Nxe5 12. dxe5 Nh5 13. e6 Rg8 14. Nc3 fxe6
+15. Qd4 Qd6 16. Nb5 e5 17. Nxd6 exd4 18. Nb5 Rg7 19. b3 Ke8 20. Ba3 a6 21. Re1+
+Kd8 22. Nxd4 Bd7 23. Bd3 Kc8 24. c4 Kb8 25. c5 c6 26. d6 Ka7 27. Bb2 Nf6 28.
+Ne6 Rf7 29. Ng5 Rff8 30. Re7 Rad8 31. Bxf6 Rxf6 32. Nf7 Rf8 33. Ne5 Be6 34.
+Nxc6+ Ka8 35. Ne5 f3 36. Be4 f2+ 37. Kf1 Rb8 38. c6 Bc8 39. d7 Bxd7 40. cxd7
+Rd6 41. Kxf2 Rd8 42. Kg3 h5 43. Bf5 Kb8 44. Nf7 Kc7 45. Nxd8 1-0

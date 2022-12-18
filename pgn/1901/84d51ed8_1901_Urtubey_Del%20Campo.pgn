@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Urtubey, F."]
+[Black "Del Campo, C."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "84d51ed8"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. exf5 Bxf5 6. Be2 Qg5 7. Bf3
+Bd6 8. d4 Qh4 9. g3 Qh3 10. Bg5 Ne7 11. Qe2 O-O-O 12. Nc3 Rde8 13. O-O-O
+Nd5 14. Qd2 Nb4 15. a3 Nxc2 16. Ne2 Na1 17. Qc3 Bg6 18. g4 Rxe2 19. Bxe2
+Nb3+ 0-1
+

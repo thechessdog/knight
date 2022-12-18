@@ -1,0 +1,17 @@
+[Event "DSB-18.Kongress-C"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Prusse"]
+[Black "Wodicka"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "79310cdd"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 b6 5. Nf3 Bb7 6. Bd3 Be7 7. c3 Nd7 8. Bf4
+Ngf6 9. Qc2 Rc8 10. O-O-O a6 11. Rde1 Nd5 12. Bg3 b5 13. Ne5 N7b6 14. Nc5 Bxc5
+15. dxc5 Na4 16. c6 Ba8 17. Bxh7 g6 18. Nxf7 Kxf7 19. Qxg6+ Kf8 20. Rxe6 Nab6
+21. Qf5+ Kg7 22. Be5+ Nf6 23. Bxf6+ 1-0

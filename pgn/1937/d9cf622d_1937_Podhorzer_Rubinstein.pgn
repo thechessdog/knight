@@ -1,0 +1,24 @@
+[Event "Trebitsch mem3738"]
+[Site "Vienna"]
+[Date "1937.12.14"]
+[Round "2"]
+[White "Podhorzer, David"]
+[Black "Rubinstein, Simon"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Tartakower variation"]
+[HashCode "d9cf622d"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4
+8. Qe2 Nd7 9. O-O-O f5 10. Qh5+ g6 11. Qh6 Nb6 12. h4 Bd7 13. Qg5 Qxg5+ 14.
+hxg5 O-O 15. Rh4 Rad8 16. Nh3 Bc8 17. Be2 c5 18. c3 cxd4 19. cxd4 Rf7 20.
+Nf4 Nd5 21. g3 Nxf4 22. gxf4 Rfd7 23. Rh3 Rxd4 24. Rxd4 Rxd4 25. Rc3 Bd7
+26. Rc7 Bc6 27. Kc2 Rd7 28. Rxd7 Bxd7 29. Kc3 h6 30. gxh6 Kh7 31. Kd4 b6
+32. f3 exf3 33. Bxf3 Kxh6 34. Ke3 g5 35. Be2 g4 36. Kf2 a5 37. a3 a4 38.
+Kg1 Kg7 39. Kf2 Kf7 40. Ke3 Bc6 41. Kf2 Ke7 42. Bd1 Kd7 43. b3 axb3 44.
+Bxb3 b5 45. Ke3 Bd5 46. Bd1 Kc6 47. Kd4 g3 48. Ke3 Kc5 49. Bh5 g2 50. Kf2
+Kd4 51. Be8 Kc5 52. Bd7 Kb6 53. Kg1 Ka5 54. Kf2 Ka4 55. Kg1 Bc4 56. Kxg2
+Kxa3 0-1
+

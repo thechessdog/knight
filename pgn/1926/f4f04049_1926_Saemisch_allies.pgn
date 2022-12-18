@@ -1,0 +1,17 @@
+[Event "Hannover"]
+[Site "Hannover"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Saemisch, Fritz"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "f4f04049"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8.
+d3 Bh6 9. Nc3 Ne7 10. Bd2 c6 11. Rae1 Qc5+ 12. Kh1 d5 13. Qh5 Qd6 14. Bxd5 cxd5
+15. Nb5 Qb6 16. Bb4 1-0

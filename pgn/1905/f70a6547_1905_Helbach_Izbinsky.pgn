@@ -1,0 +1,24 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Helbach, Grigory"]
+[Black "Izbinsky, Stefan"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "f70a6547"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. c3 e6 7. Nf3 Bd6 8. Bd3
+Qc7 9. O-O Nd7 10. Ne1 Ne7 11. c4 c5 12. Be3 O-O 13. dxc5 Nxc5 14. Bxc5 Bxc5
+15. Qc2 Rfd8 16. Bxg6 Nxg6 17. Nf3 Qf4 18. Rfe1 Nh4 19. Nxh4 Qxh4 20. Re4 Qg5
+21. Re2 Rd4 22. Ne4 Qf5 23. a3 Rad8 24. h3 Bb6 25. Rf1 h6 26. b3 Qf4 27. c5 Bc7
+28. g3 Qf5 29. Kg2 Qd5 30. f3 Rd3 31. b4 Be5 32. Qa2 f5 33. Qxd5 R8xd5 34. Nf2
+Rxa3 35. Rd1 Bc3 36. Rxe6 Rxd1 37. Nxd1 Bxb4 38. Re8+ Kf7 39. Rb8 Bxc5 40.
+Rxb7+ Kf6 41. Rb2 a5 42. Rc2 Bd4 43. f4 Ke6 44. Rd2 Kd5 45. g4 g6 46. gxf5 gxf5
+47. Nf2 Kc4 48. Re2 a4 49. Nh1 Re3 50. Rc2+ Kb3 51. Rc8 a3 52. Ng3 a2 53. Ra8
+a1=Q 54. Rxa1 Bxa1 55. Nxf5 0-1

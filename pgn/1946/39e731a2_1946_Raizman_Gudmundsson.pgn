@@ -1,0 +1,23 @@
+[Event "46/47"]
+[Site "Hastings"]
+[Date "1946.12.01"]
+[Round "1"]
+[White "Raizman, M."]
+[Black "Gudmundsson, Gudbjartur"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "39e731a2"]
+[Epoch "Knight"]
+[BlackID "2305119"]
+[BlackCountry "ISL"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bg5 Nbd7 4. Nf3 e6 5. e3 Be7 6. Bd3 O-O 7. Ne5 Nxe5 8.
+dxe5 Nd7 9. Bf4 c5 10. Qh5 g6 11. Qg4 f5 12. Qg3 Kh8 13. h4 Rg8 14. O-O-O a6
+15. Bg5 Bxg5 16. hxg5 b5 17. Ne2 Qc7 18. f4 Rg7 19. c3 Bb7 20. Rh6 Nf8 21. Qh4
+Rd8 22. Kb1 Qa5 23. g4 fxg4 24. Qxg4 b4 25. cxb4 Qxb4 26. Rh2 Bc6 27. a3 Qb6
+28. Rc1 Rb8 29. Nc3 c4 30. Bf1 Qxe3 31. Qh4 Qc5 32. Ka2 d4 33. Qf2 Qb6 34. Nb1
+Bd5 35. Ka1 Rc7 36. Rd1 c3 37. bxc3 Qb3 38. Qxd4 Be4 39. Bd3 Qxd1 40. Bxe4 Qxd4
+41. cxd4 Rc4 42. Rd2 Rd8 43. Kb2 Rdxd4 44. Rxd4 Rxd4 45. Nc3 Nd7 46. Bc2 Rxf4
+47. Ne4 Kg7 48. Kb3 Rxe4 49. Bxe4 Nc5+ 50. Kb4 Nxe4 51. Ka5 h5 52. gxh6+ Kxh6
+53. Kxa6 g5 0-1

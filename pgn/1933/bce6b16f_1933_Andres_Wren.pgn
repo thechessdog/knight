@@ -1,0 +1,16 @@
+[Event "Buffalo"]
+[Site "Buffalo"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Andres, Miguel"]
+[Black "Wren"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "bce6b16f"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+
+1. c4 Nf6 2. Nf3 g6 3. d4 Bg7 4. g3 d5 5. b3 O-O 6. Bg2 Be6 7. Qc2 Nc6 8. Ba3
+Ne4 9. e3 Bf5 10. Qe2 Re8 11. Nbd2 Bg4 12. Rc1 e5 13. h3 Nxd4 14. exd4 Nc3 15.
+Rxc3 exd4 16. hxg4 Rxe2+ 17. Kxe2 dxc3 0-1

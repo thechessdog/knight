@@ -1,0 +1,18 @@
+[Event "Kautsky mem"]
+[Site "Prague"]
+[Date "1932.??.??"]
+[Round "2"]
+[White "Dobias, Josef"]
+[Black "Vecsey, Zoltan"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran variation"]
+[HashCode "b7e7d9db"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bb3 b4 9. Ne2 c5 10. O-O Ba6 11. Re1 Be7 12. Nf4 Qb6 13. e4 cxd4 14. e5 Ng8
+15. Nxd4 Bc5 16. Be3 Ne7 17. Ndxe6 fxe6 18. Nxe6 Nf5 19. Qf3 Bxe3 20. fxe3
+Nxe3 21. Rxe3 Ke7 22. Qg3 1-0
+

@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Dodge"]
+[Black "Hough_Teling"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "d74fa3b9"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qd1 Bf5 7. f3 Nb4 8.
+Qa4+ Qd7 9. Qxd7+ Kxd7 10. e4 dxe4 11. fxe4 Nxe4 12. Rb1 Nc2+ 13. Kd1 Nf2+
+14. Ke2 Bc5 15. Nf3 Bd3+ 16. Kd2 Be3# 0-1
+

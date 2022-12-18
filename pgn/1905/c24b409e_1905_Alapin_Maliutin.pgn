@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Maliutin, Boris Evgenievich"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "c24b409e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 c6 7. Nbd2 Nxd2 8.
+Qe2+ Be7 9. Bxd2 cxd5 10. O-O-O O-O 11. Bc3 Nc6 12. Qd3 Qc7 13. g3 a5 14. Kb1
+Nb4 15. Qd2 Bg4 16. Be2 Rfc8 17. Nd4 Bxe2 18. Qxe2 Bf6 19. a3 Qb6 20. Qb5 Qa7
+21. Rhe1 h6 22. Re2 Rc4 23. Re8+ Rxe8 24. Qxe8+ Kh7 25. Qxf7 Bxd4 26. Qf5+ Kg8
+27. axb4 Rxc3 28. Qxd5+ Kh8 29. bxc3 Bf6 30. Re1 axb4 31. Re8+ Kh7 32. Qf5+ g6
+33. Qxf6 Qg1+ 34. Kb2 bxc3+ 35. Kxc3 1-0

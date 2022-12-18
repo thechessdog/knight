@@ -1,0 +1,20 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Mikenas"]
+[Black "Goglidze"]
+[Result "0-1"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "182e128d"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Qc2 Nxc3 9. Qxc3 d6 10. Qc2 Qc8 11. Bg5 Bxg5 12. Nxg5 g6 13. d5 e5 14. f4
+Qd8 15. h4 exf4 16. gxf4 Nd7 17. h5 Qe7 18. Rf3 Rae8 19. hxg6 hxg6 20. Rg3
+Nf6 21. Ne6 Nh5 22. Rxg6+ fxg6 23. Qxg6+ Ng7 24. Ng5 Qe3+ 25. Kh1 Rxf4 26.
+Qh7+ Kf8 27. Qh8+ Ke7 28. Qxg7+ Kd8 29. Bf3 Qf2 30. Nh3 Qh4 31. Kg2 Rff8
+32. Ng5 Rg8 0-1
+

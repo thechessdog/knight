@@ -1,0 +1,18 @@
+[Event "corr Australia"]
+[Site "corr Australia"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Vaughn, F."]
+[Black "Purdy, C."]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "abd774c4"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. b3 c5 3. Bb2 Nc6 4. e3 e6 5. Bb5 Ne7 6. O-O a6 7. Bxc6+ Nxc6
+8. d4 cxd4 9. exd4 Be7 10. Nbd2 O-O 11. c4 dxc4 12. Nxc4 b5 13. Nce5 Bb7
+14. Qe2 Rc8 15. Rac1 Qd5 16. Nxc6 Bxc6 17. Qe5 f6 18. Qe3 a5 19. a3 Bd6 20.
+Rc2 Qf5 21. Re2 Bd5 22. Ne1 Qh5 0-1
+

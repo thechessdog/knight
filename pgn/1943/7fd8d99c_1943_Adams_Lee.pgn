@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Adams"]
+[Black "Lee"]
+[Result "1-0"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[HashCode "7fd8d99c"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bb4 7. Nd6+
+Ke7 8. Nf5+ Kf8 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Qg4 Ng5 12. h4 Ne6 13. Bb4+
+Kg8 14. Nh6# 1-0
+

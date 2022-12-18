@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Von Popiel, Ignatz"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "5799a675"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 e5 4. dxe5 Qxd1+ 5. Nxd1 Nc6 6. Bf4 Nge7 7. Bb5 Bd7
+8. e6 Bxe6 9. Bxc7 Nd5 10. Bxc6+ bxc6 11. Bg3 Bc5 12. Ne2 O-O 0-1

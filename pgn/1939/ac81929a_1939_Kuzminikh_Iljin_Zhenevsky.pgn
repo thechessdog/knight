@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Kuzminykh, Evgeny"]
+[Black "Ilyin Zhenevsky, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "ac81929a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O d5 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. Nd2 Re8 12. Re1 Bb7 13. f3 Qc7 14. Bb2 Rad8
+15. Re2 Qc8 16. Qb1 Ba6 17. Bf5 Qc7 18. Re1 Re7 19. e4 Qf4 20. Nb3 g6 21. e5 c4
+22. Bh3 cxb3 23. Bc1 Qh4 24. Be3 Ne8 25. Qxb3 Na5 26. Qb4 Rc7 27. Bf2 Qg5 28.
+e6 Bc8 29. Bg3 Rc4 30. Bf4 Qf6 31. Be5 Qg5 32. Bf4 Qf6 1/2-1/2

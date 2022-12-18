@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Hult, Gunnar"]
+[Black "Danielsson, Gosta"]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "affa8183"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5
+8. exd5 a6 9. Ba4 b5 10. Bb3 Nc5 11. Ne3 Nxb3 12. axb3 Bb7 13. c4 Bc5 14.
+O-O O-O 15. Nc3 Qb6 16. Qe2 Nh5 17. Kh1 f5 18. Ned1 Rac8 19. Be3 Bd4 20.
+Qd3 f4 21. Bxd4 Ng3+ 22. hxg3 Qh6+ 23. Kg1 fxg3 24. Re1 exd4 25. Ne2 Rce8
+26. Qxd4 Qh2+ 27. Kf1 Rxf3+ 28. gxf3 g2+ 0-1
+

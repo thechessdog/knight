@@ -1,0 +1,22 @@
+[Event "Sao Paulo"]
+[Site "Sao Paulo"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Salas Romo, Julio"]
+[Black "Luckis, Marcos"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "d3050d33"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Bg5 Nbd7 6. e3 b6 7. Bd3 Bb7 8. Ne2
+Bxg2 9. Rg1 Bb7 10. O-O-O d5 11. Bh4 g6 12. e4 dxe4 13. Nxe4 Be7 14. Ng5 Nf8
+15. d5 exd5 16. cxd5 Qd7 17. Nd4 Nxd5 18. Rge1 O-O-O 19. Bb5 Qd6 20. Rxe7 Qf4+
+21. Kb1 Qxh4 22. Rc1 Nd7 23. Bxd7+ Rxd7 24. Rxd7 Kxd7 25. Ndf3 Qf4 26. Nxf7 Re8
+27. N7g5 h6 28. Qxg6 hxg5 29. Nxg5 Re7 30. h4 Qf6 31. Qd3 Kc8 32. Qd2 Qf4 33.
+Qxf4 Nxf4 34. a3 Nd3 35. Rc2 Re1+ 36. Ka2 Nc1+ 37. Kb1 Nb3+ 38. Ka2 Bd5 39. Nf3
+Ra1# 0-1

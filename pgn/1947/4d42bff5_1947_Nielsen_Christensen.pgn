@@ -1,0 +1,19 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Nielsen, Tage"]
+[Black "Christensen, Alfred August"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[HashCode "4d42bff5"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 cxd4 5. exd4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 O-O
+8. Bd3 d5 9. b3 b6 10. Qc2 Nc6 11. a3 dxc4 12. Qxc4 Bb7 13. O-O Rc8 14. Rac1
+Ne5 15. Qb5 Nxd3 16. Qxd3 Qd5 17. Rce1 Nd7 18. Re3 Rc7 19. Ne4 h6 20. Nc3 Qxb3
+21. Qd2 Rfc8 22. d5 Rxc3 23. dxe6 Nf6 24. Nd4 Qc4 25. exf7+ Kxf7 26. Nf5 Qd5
+27. Re7+ Kf8 28. Qxd5 Bxd5 29. Rxa7 Rc1 30. Nxg7 R8c5 31. h3 Rxf1+ 32. Kxf1
+Bc4+ 33. Kg1 Rg5 34. Ra4 Bf7 35. Rb4 Kxg7 36. Rxb6 Ra5 0-1

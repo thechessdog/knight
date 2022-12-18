@@ -1,0 +1,17 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Labone"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "6cbdd60e"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 e5 4. Nf3 exd4 5. Nxd4 c5 6. Qe2+ Be7 7. Nb5
+Na6 8. N1c3 Qe6 9. Be3 Nf6 10. Qf3 O-O 11. Bd3 c4 12. Nd4 Qb6 13. Nf5 Qxb2
+14. Nxe7+ Kh8 15. Bd4 cxd3 16. Qxf6 Rg8 17. Qxf7 Be6 18. Qxe6 Qxa1+ 19. Kd2
+Qxh1 20. Ng6+ hxg6 21. Qh3# 1-0
+

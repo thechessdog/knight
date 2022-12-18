@@ -1,0 +1,17 @@
+[Event "Berlin op sf"]
+[Site "Berlin"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Hutter, R."]
+[Black "Maass, K."]
+[Result "0-1"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "5037bc92"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. Nc3 Ne7 7. d3 O-O 8.
+Ne2 f6 9. Ne1 Ng6 10. c3 Qe7 11. f4 f5 12. d4 fxe4 13. fxe5 Rxf1+ 14. Kxf1 Qf7+
+15. Kg1 Bg4 16. Be3 Rf8 17. Nc2 Qc4 18. Qd2 Bxe2 19. exd6 cxd6 20. b3 Qd3 21.
+Re1 Rf1+ 22. Rxf1 Bxf1 23. Qxd3 Bxd3 24. Ne1 Bb1 0-1

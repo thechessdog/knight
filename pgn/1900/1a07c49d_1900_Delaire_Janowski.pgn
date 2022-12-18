@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Delaire"]
+[Black "Janowski, Dawid Markelowicz"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "1a07c49d"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 Nc6 6. c3 O-O 7. b4 Bb6 8. a4 a6
+9. Na3 d5 10. fxe5 dxc4 11. exf6 cxd3 12. fxg7 Re8 13. Ng5 Rxe4+ 14. Nxe4 Qh4+
+15. Ng3 Bf5 16. Qh5 Re8+ 17. Kd1 d2 0-1

@@ -1,0 +1,17 @@
+[Event "Heilbronn"]
+[Site "Heilbronn"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Troeger, Paul"]
+[Black "Pelzer"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "83cd5869"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. Nf3 d6 2. d4 Nd7 3. e4 e5 4. c3 Ngf6 5. Qc2 Be7 6. Be2 O-O 7. O-O c6 8. h3
+Re8 9. Be3 a6 10. a4 b6 11. Nbd2 Bb7 12. dxe5 dxe5 13. Bc4 b5 14. Bxf7+ Kxf7
+15. Qb3+ Nd5 16. exd5 bxa4 17. Qxb7 1-0

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Klassen"]
+[Black "Pervago, R."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "042915e4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. d4 Bd7 7. d5 Ne7 8.
+Bb3 Ng6 9. O-O Ng4 10. Ne2 h5 11. h3 Qe7 12. hxg4 hxg4 13. Ng5 Nf4 14. Nxf4
+Qxg5 15. Ne2 Qh4 16. f3 gxf3 17. Re1 fxg2 0-1
+

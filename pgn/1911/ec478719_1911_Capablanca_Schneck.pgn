@@ -1,0 +1,18 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Schneck, E."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "ec478719"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+
+1. e4 e5 2. f4 Nf6 3. fxe5 Nxe4 4. Nf3 d5 5. d3 Nc5 6. d4 Ne4 7. Bd3 Nc6 8. c3
+Bg4 9. O-O Be7 10. Nbd2 f6 11. exf6 Nxf6 12. Qc2 O-O 13. Ne5 Bd6 14. Rxf6 Qxf6
+15. Nxg4 Qh4 16. Qd1 Rae8 17. Be2 Bxh2+ 18. Nxh2 Qf2+ 19. Kh1 Rxe2 20. Qg1 Re1
+21. Ndf1 Qh4 22. Ne3 Rxg1+ 23. Kxg1 Qf2+ 24. Kh1 Qe1+ 25. Nef1 Rxf1+ 0-1

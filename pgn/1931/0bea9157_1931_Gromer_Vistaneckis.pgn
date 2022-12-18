@@ -1,0 +1,17 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "4"]
+[White "Gromer, Aristide"]
+[Black "Vistaneckis, Isakas"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "0bea9157"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. Neg5 h6 8.
+Nh3 c5 9. Qe2 O-O 10. Bd2 cxd4 11. g4 Nxg4 12. Rg1 Ngf6 13. O-O-O e5 14. Nxe5
+Nxe5 15. Qxe5 Bd6 16. Qxd4 Bxh2 17. Rxg7+ Kxg7 18. Bxh6+ Kh8 19. Qh4 1-0

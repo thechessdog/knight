@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Beynon, F."]
+[Black "Důras, Oldřich"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "37fd134c"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2
+Qxe2+ 8. Kxe2 Bg4 9. Re1 O-O-O 10. h3 Bh5 11. d3 f5 0-1

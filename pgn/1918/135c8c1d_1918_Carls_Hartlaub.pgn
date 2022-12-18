@@ -1,0 +1,18 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Carls, Carl Johan Margot"]
+[Black "Hartlaub, Carl"]
+[Result "0-1"]
+[ECO "A21"]
+[Opening "English opening"]
+[HashCode "135c8c1d"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. c4 e5 2. Nc3 f5 3. d3 Bc5 4. e3 Nc6 5. Be2 Nf6 6. Nf3 e4 7. dxe4 fxe4 8. Nd4
+Ne5 9. O-O h5 10. Nf5 d5 11. Nxg7+ Kf7 12. Nxh5 Nf3+ 13. Bxf3 exf3 14. Nxf6
+fxg2 15. Re1 Qxf6 16. Nxd5 Qe5 17. Qf3+ Bf5 18. Qf4 Bd6 19. Bd2 Rag8 20. e4
+Rxh2 21. Kxh2 g1=Q+ 22. Rxg1 Qh8# 0-1

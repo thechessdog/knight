@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rovner, Dmitry Osipovich"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "8f9b1948"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. c3 f6 7. Nh4 Qe7 8. Bd3
+fxe5 9. Qh5+ Qf7 10. Bg6 hxg6 11. Qxh8 e4 12. Nb3 Nf6 13. f3 Bd7 14. fxe4 dxe4
+15. O-O O-O-O 16. g3 Bd6 17. Qh7 Ne7 18. Ng2 g5 19. Ne3 Nf5 20. Qh3 Nxe3 21.
+Bxe3 e5 22. Qg2 Qh5 23. dxe5 Bh3 24. Qf2 Bxe5 25. Rfe1 Bg4 26. Bd4 Bf3 27. Bxe5
+Ng4 28. Qc2 Rh8 29. Nd4 Nxh2 30. Rxe4 Bxe4 31. Qxe4 Ng4 32. Qg2 Nxe5 33. Re1 g4
+34. Re3 c5 35. Nb5 Nf3+ 36. Kf2 Qd5 37. c4 Qd2+ 38. Re2 Qc1 0-1

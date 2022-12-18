@@ -1,0 +1,21 @@
+[Event "Trade Unions"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "2"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Vasiliev, Victor Andreevich"]
+[Result "1-0"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "9f516952"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 cxd4 7. exd4 d5 8. O-O
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Bg5 h6 12. Bh4 Nbd7 13. Ne5 Be7 14. Rfe1 Nxe5
+15. dxe5 Nd5 16. Bxd5 Bxd5 17. Bxe7 Qxe7 18. Nxd5 exd5 19. Rad1 Rad8 20. Rd4
+Rfe8 21. f4 Qe6 22. Qd3 Rd7 23. f5 Qc6 24. h3 a5 25. Qd2 Rc8 26. Rg4 Kh7 27.
+Qd3 Qc2 28. Qg3 Rg8 29. f6 g6 30. e6 fxe6 31. Rxe6 d4 32. Kh2 d3 33. f7 Rxf7
+34. Rgxg6 1-0

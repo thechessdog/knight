@@ -1,0 +1,18 @@
+[Event "Washington,DC simul"]
+[Site "Washington,DC simul"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Kirsher, WK."]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "e1f43042"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Nf6 6. Bf4 O-O 7. O-O c5 8. c3
+b6 9. Nd2 Re8 10. Bxd6 Qxd6 11. Re1 Be6 12. Ng3 Nc6 13. Nf3 h6 14. Ne5 Nd7 15.
+f4 f6 16. Nxc6 Qxc6 17. Bg6 Bf7 18. Bxf7+ Kxf7 19. Nf5 Rxe1+ 20. Qxe1 Re8 21.
+Qg3 Rg8 22. Re1 Kf8 23. Qg6 1-0

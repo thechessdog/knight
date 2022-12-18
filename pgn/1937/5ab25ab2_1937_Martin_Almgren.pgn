@@ -1,0 +1,19 @@
+[Event "Providence"]
+[Site "Providence"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Almgren, Sven"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "5ab25ab2"]
+[Epoch "Knight"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. Re1 Nc5 10. Bg5 Nxb3 11. axb3 h6 12. Bh4 g5 13. Bg3 Nf5 14. Nc3 Nxg3 15.
+hxg3 c6 16. Nd4 b4 17. e6 bxc3 18. Qh5 Qf6 19. exf7+ Kd7 20. bxc3 Rh7 21. Re6
+Qxf7 22. Qg4 Kc7 23. Rxc6+ Kb7 24. Raxa6 Bc5 25. Qe2 1-0

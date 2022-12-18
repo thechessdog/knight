@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1925.01.01"]
+[Round "13"]
+[White "Sozin, Veniamin"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "c58139fe"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Ba3 O-O 8.
+Bd3 Nd7 9. Ne2 c5 10. O-O b6 11. Qa4 Qc7 12. Ba6 Bxa6 13. Qxa6 e5 14. Rfd1 exd4
+15. cxd4 Rfe8 16. f3 cxd4 17. Nxd4 Qc3 18. Qd3 Qxd3 19. Rxd3 Ne5 20. Rdd1 Nc4
+21. Bb4 Ne3 22. Nc6 Bxa1 23. Rxa1 Nc2 24. Rb1 Nxb4 25. Rxb4 Kf8 0-1

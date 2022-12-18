@@ -1,0 +1,18 @@
+[Event "Lasker mem"]
+[Site "Berlin"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "8a762158"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. e4 Bxc3+ 6. bxc3 O-O 7. Bd3 e5 8.
+Ne2 Qe7 9. O-O c5 10. f4 Nfd7 11. Ng3 Re8 12. Nf5 Qf8 13. fxe5 dxe5 14. Qf2 Nb6
+15. Nh6+ 1-0

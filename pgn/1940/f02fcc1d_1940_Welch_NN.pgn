@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Welch"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[HashCode "f02fcc1d"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. e5 Qa5+ 7. c3
+Ng8 8. Be3 e6 9. Nd2 Ne7 10. Nc4 Qd5 11. Nd6+ Kd8 12. Qb6+ axb6 13. Bxb6#
+1-0
+

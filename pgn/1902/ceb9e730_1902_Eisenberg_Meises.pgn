@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Eisenberg, Louis R."]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "ceb9e730"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 e6 3. c4 c6 4. e3 Bd6 5. Nc3 f5 6. Ne5 Qf6 7. f4 Ne7 8. Bd3 Nd7
+9. Ne2 Qh4+ 10. Ng3 Bxe5 11. dxe5 dxc4 12. Be2 b5 13. O-O Nd5 14. e4 fxe4 15.
+Nxe4 O-O 16. g3 Qd8 17. Bg4 Qb6+ 18. Kg2 Nc5 19. Nd6 Bd7 20. Qe2 Nd3 21. Bf3
+Qd4 22. Be4 Nxc1 23. Qh5 Ne3+ 24. Kh3 Nf5 25. Bxf5 exf5 26. Raxc1 Qxb2 27. Rcd1
+Be6 28. Qf3 g5 29. Qxc6 g4+ 30. Kh4 Qxh2+ 31. Kg5 Bf7 32. Nxf7 Rxf7 33. Rd7
+Raf8 34. Rfd1 Kh8 35. Rxf7 Rg8+ 36. Kxf5 Qc2+ 37. Qe4 Qxd1 38. e6 Qd3 39. Qxd3
+cxd3 40. Rd7 Rf8+ 41. Ke5 Kg8 42. e7 Re8 43. Ke6 Kg7 44. Rd8 d2 45. Rxd2 1-0

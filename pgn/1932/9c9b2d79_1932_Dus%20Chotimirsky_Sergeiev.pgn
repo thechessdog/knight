@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Sergeiev"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "9c9b2d79"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 b6 5. Bd3 Bb7 6. Nbd2 Be7 7. c3 Qc7 8. Qe2
+d5 9. O-O O-O 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bd6 13. dxc5 Bxc5 14. Rfd1 Re8
+15. Bf4 Qc8 16. Bxh7+ Kxh7 17. Ng5+ Kg6 18. Qg4 Bxf2+ 19. Kxf2 Qc5+ 20. Rd4 Qf5
+21. Qh4 Nc6 22. g4 Qc2+ 23. Rd2 Rh8 24. Nh7 1-0

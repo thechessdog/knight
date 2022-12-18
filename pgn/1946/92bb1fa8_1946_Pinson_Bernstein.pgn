@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Pinson, H."]
+[Black "Bernstein"]
+[Result "1-0"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "92bb1fa8"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Ne2 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O O-O 9. Nb3 a6 10. f4 Qc7 11. Bxf6 gxf6 12. Be2 Rd8 13. Qe3 Bd7 14.
+Rhf1 b5 15. Rf3 b4 16. Nd5 exd5 17. exd5 Re8 18. dxc6 Bxc6 19. Rh3 Bf8 20.
+Qg3+ Bg7 21. Bd3 Be4 22. Rh5 f5 23. Nd4 Rac8 24. Rg5 f6 25. Rxf5 Bxf5 26.
+Bxf5 Rb8 27. Qh4 h6 28. Qg4 Qa7 29. Qg6 Qf7 30. Qh7+ Kf8 31. Bg6 Qg8 32.
+Qxg8+ Kxg8 33. Bxe8 Rxe8 34. Nf5 Bf8 35. Rd4 Re2 36. Nh4 Re1+ 37. Kd2 Ra1
+38. Rxb4 Rxa2 39. Rb8 Kf7 40. Rb7+ Be7 41. Nf5 1-0
+

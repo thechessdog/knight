@@ -1,0 +1,17 @@
+[Event "Abbazia"]
+[Site "Abbazia"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Reti, Richard"]
+[Black "Frydmann, Sergey"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "4e0dbdbe"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 d5 7. exd5 Bd6 8.
+d4 Ne7 9. Bxf4 Bxf4 10. Qxf4 O-O 11. Nd2 Ng6 12. Qe3 Kg7 13. Rae1 Nd7 14. Ne4
+f5 15. Ng3 Nb6 16. Nh5+ Kh8 17. Qh6 Rg8 18. d6 Qf8 19. Re8 1-0

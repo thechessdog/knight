@@ -1,0 +1,24 @@
+[Event "ARG-ESP radio m"]
+[Site "ARG-ESP radio"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rico Gonzalez, Antonio"]
+[Black "Villegas, Benito"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "0e2e7d60"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O Be7 9. Bf4 O-O 10. Nc3 c6 11. h3 Bd6 12. Qd2 Rb8 13. b3 Bxf4 14. Qxf4
+Be6 15. Rad1 Qa5 16. Ne2 Qb4 17. Rfe1 Qxf4 18. Nxf4 Rfe8 19. Re3 Bd7 20. Rde1
+Kf8 21. Kf1 g5 22. Rxe8+ Rxe8 23. Rxe8+ Kxe8 24. Ne2 c5 25. Nc3 Ke7 26. Ke2 Bc6
+27. f3 h5 28. a4 Ke6 29. Bb5 Bb7 30. a5 a6 31. Bd3 h4 32. Na4 Kd6 33. c3 Nh5
+34. Ke3 Nf4 35. Bf1 Ne6 36. Nb6 Nd8 37. f4 f6 38. fxg5 fxg5 39. Be2 Nc6 40. Kf3
+Nxa5 41. Kg4 Nxb3 42. Kxg5 Nc1 43. Bf3 Bc6 44. Kxh4 a5 45. Bd1 Na2 46. c4 d4
+47. g4 Nc3 48. Bc2 a4 49. g5 a3 50. g6 Be8 51. g7 Bf7 52. Bb3 d3 53. Kg5 d2 54.
+Kf6 Bg8 55. Nc8+ Kd7 56. Bc2 Kxc8 57. Bf5+ Kc7 58. Be6 d1=Q 0-1

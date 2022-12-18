@@ -1,0 +1,20 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Steiner, Endre"]
+[Black "Walter, Max"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "8973631a"]
+[Epoch "Knight"]
+[BlackID "12931306"]
+[BlackCountry "GER"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 Bb4 7. Nxc6 bxc6 8.
+O-O d5 9. Bg5 h6 10. Bxf6 Qxf6 11. exd5 exd5 12. Qe1 Be7 13. Qd2 O-O 14. Rad1
+Rb8 15. Na4 Bd6 16. c4 Rd8 17. cxd5 cxd5 18. Nc3 d4 19. Nb5 d3 20. Bxd3 Rxb5
+21. Bxb5 Bxh2+ 22. Kxh2 Rxd2 23. Rxd2 Qf4+ 0-1

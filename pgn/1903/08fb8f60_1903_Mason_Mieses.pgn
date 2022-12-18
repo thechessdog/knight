@@ -1,0 +1,22 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "8"]
+[White "Mason, James"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "08fb8f60"]
+[Epoch "Knight"]
+[WhiteCountry "IRE"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. Bb5 a6 5. Bxc6 bxc6 6. d3 d5 7. O-O Nf6 8. Bf4
+Be7 9. Ne5 Bb7 10. Bg3 O-O 11. Qe2 Nd7 12. Nxd7 Qxd7 13. Na4 Qd8 14. c4 f6 15.
+f4 Bc8 16. b3 Bd7 17. Rae1 Bd6 18. e5 fxe5 19. fxe5 Be7 20. Rxf8+ Bxf8 21. Rf1
+Be7 22. Qg4 h6 23. Bf2 d4 24. Qg6 Qe8 25. Qe4 Rb8 26. Be1 Qh5 27. g4 Qg5 28. h4
+Qc1 29. Bb4 Qc2 30. Bxc5 Bxh4 31. Bxd4 Rf8 32. Nc5 Rxf1+ 33. Kxf1 Be8 34. Qe2
+Qc1+ 35. Kg2 Qf4 36. Bg1 Qg3+ 37. Kh1 Bg6 38. Bh2 Qh3 39. d4 h5 40. Qg2 Qc3 41.
+Nxe6 Qe1+ 0-1

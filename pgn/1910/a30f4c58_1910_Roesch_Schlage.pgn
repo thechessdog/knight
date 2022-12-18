@@ -1,0 +1,17 @@
+[Event "Hamburg Hauptturnier-B"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Roesch"]
+[Black "Schlage, Willi"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "a30f4c58"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 O-O 8. O-O
+d5 9. exd5 Nxd5 10. Nxe5 Nf4 11. Qe4 Nxe5 12. Qxa8 Qd3 13. Bd1 Bh3 14. Qxa6
+Bxg2 15. Re1 Qf3 0-1

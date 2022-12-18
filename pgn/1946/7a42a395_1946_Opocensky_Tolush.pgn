@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Opocensky, Karel"]
+[Black "Tolush, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "7a42a395"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 c5 9. O-O cxd4 10. exd4 Nc6 11. Be3 Na5 12. Bc2 Nac4 13. Qe2 Bg4 14. Bb3
+Rc8 15. Ne4 Bxf3 16. Qxf3 Nxb2 17. Ng5 N2c4 18. Qxb7 e6 19. Nf3 a5 1/2-1/2

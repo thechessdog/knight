@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Breithaupt"]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "1ae77f5b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bg4 5. d4 a6 6. Ba4 b5 7. Bb3 Nxd4 8.
+c3 Nxf3+ 9. gxf3 Bh3 10. Qd5 Qf6 11. Qxa8+ Ke7 0-1
+

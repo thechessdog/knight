@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Hatherall"]
+[Black "Hulsman"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "9766220b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Nd4 Nxd4 12. cxd4 Nxd2 13. Bxd2 c5 14.
+dxc5 Bxc5 15. Qe2 Qb6 16. Kh1 a5 17. f4 Bf5 18. Rac1 Rfd8 19. Bc2 Be4 20.
+Bxe4 dxe4 21. Qxe4 Ra6 22. Rfd1 h6 23. Be1 Be7 24. f5 Rxd1 25. Rxd1 b4 26.
+Bg3 a4 27. Qc4 Qc6 28. Qg4 Qc8 29. h3 b3 30. axb3 axb3 31. Kh2 Rb6 32. Rd3
+Rb4 33. f6 Rxg4 34. fxe7 Qe6 35. Rd8+ Kh7 36. e8=Q Qxe8 37. Rxe8 1-0
+

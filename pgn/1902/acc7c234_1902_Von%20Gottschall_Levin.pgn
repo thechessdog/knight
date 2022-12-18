@@ -1,0 +1,16 @@
+[Event "DSB-13.Kongress"]
+[Site "Hannover"]
+[Date "1902.01.01"]
+[Round "17"]
+[White "Von Gottschall, Hermann"]
+[Black "Levin, Alexander M"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "acc7c234"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Bc4 Bc5 6. d4 exd3 7. Qxd3 O-O 8. h3
+Re8+ 9. Nge2 a6 10. a4 c6 11. Bd2 cxd5 12. Bxd5 Qc7 13. Ne4 Bf5 14. Nxf6+ 1-0

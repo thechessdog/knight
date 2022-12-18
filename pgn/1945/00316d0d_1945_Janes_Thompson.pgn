@@ -1,0 +1,22 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Janes, William"]
+[Black "Thompson, James"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "00316d0d"]
+[Epoch "Knight"]
+[BlackID "150000010"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Na5 12. Bc2 c5 13. Nxe6 fxe6 14. Qg4 Nxf2 15.
+Qxe6+ Kh8 16. Rf1 c4 17. Be3 Ne4 18. Rxf8+ Bxf8 19. Bxe4 dxe4 20. Nd2 Qd3 21.
+Qb6 Nc6 22. Re1 Nxe5 23. Qb7 Rd8 24. Nxe4 Qd5 25. Qxd5 Rxd5 26. Bd4 Nd3 27. Re2
+Kg8 28. Nf2 Nc1 29. Re6 Kf7 30. Rxa6 Ne2+ 31. Kf1 Nxd4 32. cxd4 Rxd4 33. Rb6 b4
+34. Ke2 Bd6 35. h3 Ke6 36. Ke3 Ke5 37. Rc6 h5 38. Ke2 Kf4 39. Ra6 Bc5 40. Rc6
+Rd5 41. Re6 Re5+ 42. Rxe5 Kxe5 43. Nd1 Ke4 44. Kd2 Kf4 45. Ke2 g5 0-1

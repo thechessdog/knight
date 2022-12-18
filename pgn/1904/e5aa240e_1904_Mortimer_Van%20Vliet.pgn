@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Mortimer, James"]
+[Black "Van Vliet, Louis"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "e5aa240e"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d5 4. d4 cxd4 5. Nxd4 dxe4 6. Nxe4 Nc6 7. Nxc6 Qxd1+
+8. Kxd1 bxc6 9. Bd3 f5 10. Nc3 Bc5 11. Ke2 e5 12. Na4 Bd6 13. Be3 Nf6 14. Bc4
+Nd5 15. Rhd1 Be6 16. Bb3 Be7 17. Bc5 Bf6 18. Kf1 Kf7 19. Ba3 Rhd8 20. Nc5 Bc8
+21. Ba4 Rb8 22. Bxc6 Nb4 23. Ba4 Rxd1+ 24. Rxd1 Be7 25. Bb3+ Ke8 26. Ne6 Bxe6
+27. Bxe6 Nxc2 28. Bxe7 Kxe7 29. Bxf5 Nd4 30. Bxh7 Rxb2 31. Bg8 g5 32. h4 gxh4
+33. f4 Nc2 34. Rd3 exf4 0-1

@@ -1,0 +1,22 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Gessner"]
+[Black "Morrison, John"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "2a9c0e14"]
+[Epoch "Knight"]
+[BlackID "2406144"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Bg4 7. Nc3 Qxd4
+8. Nxd4 O-O-O 9. Be3 Bb4 10. f3 Bd7 11. O-O-O Ne7 12. Nb3 Rhe8 13. Bc5 Bxc3 14.
+bxc3 Ng6 15. Bd4 f6 16. g3 b6 17. c4 c5 18. Bc3 Be6 19. Nd2 Ne5 20. Bxe5 fxe5
+21. Kb2 Rd4 22. Kc3 Red8 23. Rhe1 a5 24. a4 Bf7 25. Re2 Bxc4 26. Nxc4 Rxd1 27.
+Nxe5 Ra1 28. Kb3 Rdd1 29. Nc4 Rdb1+ 30. Nb2 Re1 31. Rf2 Rf1 32. Rxf1 Rxf1 33.
+f4 Rf2 34. Nd3 Rxh2 35. g4 Rh3 36. Kc4 c6 37. Ne5 Re3 38. Nxc6 Rxe4+ 39. Kb5
+Kc7 0-1

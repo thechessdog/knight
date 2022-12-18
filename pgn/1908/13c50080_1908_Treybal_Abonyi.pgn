@@ -1,0 +1,18 @@
+[Event "Prague-B"]
+[Site "Prague"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Treybal, Karel"]
+[Black "Abonyi, Istvan"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "13c50080"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. O-O O-O 9. Ne5 c5 10. dxc5 Bxc5 11. Qe2 b6 12. Rd1 Qc7 13. Bf4 Bb7 14. Bg3
+Rfd8 15. Ng4 Bd6 16. Nxf6+ gxf6 17. Bxh7+ Kxh7 18. Qd3+ f5 19. Bxd6 Qc6 20.
+Qh3+ Kg6 21. Rd3 1-0

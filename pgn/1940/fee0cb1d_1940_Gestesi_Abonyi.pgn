@@ -1,0 +1,17 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Gestesi"]
+[Black "Abonyi, Istvan"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov, American attack"]
+[HashCode "fee0cb1d"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 Bb4 7. Nd6+
+Ke7 8. Nxc8+ Rxc8 9. Bd2 Bxc3 10. Bxc3 Nxe4 11. Bxg7 Rg8 12. Qg4 Rxg7 13.
+Qxg7 Qa5+ 14. c3 Nb4 15. Rc1 Qc5 16. Qh6 Qxf2+ 17. Kd1 Rc6 0-1
+

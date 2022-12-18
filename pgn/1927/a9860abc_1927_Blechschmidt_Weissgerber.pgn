@@ -1,0 +1,16 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Blechschmidt"]
+[Black "Weissgerber, Gerhard"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack, Wagner gambit"]
+[HashCode "a9860abc"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qb6 5. Nbd2 Qxb2 6. Nc4 Qb4+ 7. c3 Qxc3+ 8.
+Bd2 Qxa1 9. Qxa1 1-0

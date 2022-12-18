@@ -1,0 +1,16 @@
+[Event "New Haven"]
+[Site "New Haven"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Blackail"]
+[Black "Christian"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "d72ba696"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 b6 7. Neg5 Ngf6
+8. Nxf7 Kxf7 9. Ng5+ Kg8 10. Nxe6 Qe8 11. O-O Bd6 12. Bc4 Qf7 13. Qe2 1-0
+

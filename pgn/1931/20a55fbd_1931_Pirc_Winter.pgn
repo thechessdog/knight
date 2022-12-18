@@ -1,0 +1,19 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "10"]
+[White "Pirc, Vasja"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Abrahams variation"]
+[HashCode "20a55fbd"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. Bd2 b5 7. e3 a5 8. axb5
+Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bb2 Nf6 13. Bd3 Nbd7 14. O-O Ra7
+15. Re1 Qa8 16. e4 Bxe4 17. Bxe4 Nxe4 18. d5 Ndc5 19. Bxg7 Rg8 20. Bd4 exd5 21.
+Bxc5 1-0

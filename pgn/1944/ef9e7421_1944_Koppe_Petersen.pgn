@@ -1,0 +1,17 @@
+[Event "Wuppertal"]
+[Site "Wuppertal"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Koppe"]
+[Black "Holm Petersen, Sejer"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Spielmann variation"]
+[HashCode "ef9e7421"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 O-O 7. Bd3 f6 8. Qh5
+f5 9. Nh3 Nc6 10. Ne2 Nb4 11. Nef4 Nxd3+ 12. cxd3 Nb6 13. Bxe7 Qxe7 14. Ng5 g6
+15. Nxg6 hxg6 16. Qxg6+ Qg7 17. h5 Qxg6 18. hxg6 Kg7 19. Rh7+ Kxg6 20. Ke2 1-0

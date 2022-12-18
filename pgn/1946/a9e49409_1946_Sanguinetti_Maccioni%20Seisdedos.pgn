@@ -1,0 +1,22 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1946.03.01"]
+[Round "1"]
+[White "Sanguinetti, Renato"]
+[Black "Maccioni Seisdedos, Alejandro"]
+[Result "1-0"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "a9e49409"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "CHL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. O-O dxc4 8. Bxc4
+a6 9. a3 cxd4 10. axb4 dxc3 11. Nxc3 Nbd7 12. b5 Qc7 13. Be2 a5 14. Qa4 b6 15.
+e4 Bb7 16. Be3 Nc5 17. Qc4 Nfd7 18. Na4 Rac8 19. f3 Ne5 20. Qc3 Nxa4 21. Rxa4
+Qb8 22. Qd4 Rc5 23. Rd1 Rc2 24. Kf1 Bc8 25. Qd6 Bd7 26. Qxb8 Rxb8 27. Rad4 Be8
+28. Rd8 Rxd8 29. Rxd8 Kf8 30. Bxb6 Ke7 31. Rd1 Rxb2 32. Bc5+ Kf6 33. Bd4 Rb4
+34. f4 Rxd4 35. Rxd4 Nd7 36. e5+ Ke7 37. Ra4 f6 38. exf6+ gxf6 39. Rxa5 Bg6 40.
+Ra7 Kd6 41. Ra6+ Kd5 42. Bf3+ Kc5 43. Rxe6 Bd3+ 44. Be2 Kd5 1-0

@@ -1,0 +1,21 @@
+[Event "Rakovnik"]
+[Site "Rakovnik"]
+[Date "1940.??.??"]
+[Round "10"]
+[White "Pokorny, Amos"]
+[Black "Olexa, Vilem"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "b78b5d8b"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. d5 O-O 7. Nf3 e6 8. Bd3 exd5
+9. cxd5 Qb6 10. Rb1 Re8 11. Kf1 Na6 12. Be3 Nb4 13. Bf2 Bd7 14. a4 Re7 15. Bc2
+Nxc2 16. Qxc2 Nxe4 17. Nxe4 Bf5 18. Nfd2 Rae8 19. b4 Bxe4 20. Nxe4 Rxe4 21.
+bxc5 Qa6+ 22. Kg1 dxc5 23. Qxc5 Rxf4 24. g3 Qd3 25. Qb5 Qxb5 26. Rxb5 Rxa4 27.
+Rxb7 Ra2 28. Rxa7 Rxf2 29. Kxf2 Bd4+ 30. Kf3 Bxa7 31. Rb1 Kg7 32. Rb7 Bb8 33.
+h3 h5 34. g4 h4 35. g5 Bg3 36. Rd7 Re5 37. Kg4 Rf5 38. Rxf7+ Kxf7 39. d6 Rf4#
+0-1

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Mortlock, A."]
+[Black "Watson, GH."]
+[Result "0-1"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[HashCode "d0cbea75"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4
+8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nc6 12. O-O Qa5 13. Rfd1
+Qxd2 14. Rxd2 Na5 15. Be2 Rd8 16. Rc1 Bd7 17. Ne5 Kf8 18. Rc7 Be8 19. d5
+exd5 20. exd5 f6 21. Nc4 Nxc4 22. Bxc4 Rac8 23. Rxc8 Rxc8 24. Rd4 b5 25.
+Bb3 Rc1+ 26. Bd1 Bg6 0-1
+

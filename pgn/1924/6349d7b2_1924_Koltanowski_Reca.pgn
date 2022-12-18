@@ -1,0 +1,19 @@
+[Event "Paris f-B"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "4"]
+[White "Koltanowski, George"]
+[Black "Reca, Damian"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "6349d7b2"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Nc3 d5 6. Bd3 Bd6 7. O-O O-O 8. Qe2
+Ne4 9. Nd2 f5 10. cxd5 exd5 11. f3 Nxc3 12. bxc3 Nd7 13. e4 fxe4 14. fxe4 Rxf1+
+15. Nxf1 dxe4 16. Bxe4 Bxe4 17. Qxe4 Nf6 18. Qh4 Qe7 19. Bg5 Re8 20. Ne3 Qe4
+21. Re1 Qxh4 22. Bxh4 Bxh2+ 23. Kf1 Bd6 24. Nf5 Rxe1+ 25. Kxe1 Ne4 26. Nxd6
+cxd6 27. c4 g5 28. Bf2 Nxf2 29. Kxf2 h5 0-1

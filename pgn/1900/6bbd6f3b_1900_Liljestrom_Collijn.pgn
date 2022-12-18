@@ -1,0 +1,17 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Liljestrom"]
+[Black "Collijn"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "6bbd6f3b"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Bd3 Nc6 6. Be3 e5 7. Bb5 Bd7
+8. Nf3 exd4 9. Nxd4 Nxd4 10. Bxd4 c6 11. Bc4 Be7 12. Bxf6 Bxf6 13. Ne4 O-O
+14. Nxf6+ Qxf6 15. Qxd7 Rfe8+ 16. Kf1 Rad8 17. Qxb7 Rd2 18. Qxa7 c5 19.
+Bxf7+ Qxf7 20. Qxc5 Qe6 21. Qb5 Rxf2+ 22. Kxf2 Qe3+ 0-1
+

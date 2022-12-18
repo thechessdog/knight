@@ -1,0 +1,18 @@
+[Event "Bad Warmbrunn"]
+[Site "Bad Warmbrunn"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Maicherczyk"]
+[Black "Freitag"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "aa94e20c"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 d5 3. Nc3 e6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 a6 7. cxd5 Nxd5
+8. Bxe7 Qxe7 9. e4 Nxc3 10. bxc3 O-O 11. Bd3 c5 12. a4 cxd4 13. cxd4 Qb4+
+14. Qd2 Qxd2+ 15. Kxd2 Nf6 16. Rhc1 Bd7 17. Ne5 Rfc8 18. a5 Rxc1 19. Rxc1
+Rc8 20. Nxd7 1-0
+

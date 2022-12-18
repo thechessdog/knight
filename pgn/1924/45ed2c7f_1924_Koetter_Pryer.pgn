@@ -1,0 +1,20 @@
+[Event "cable"]
+[Site "cable"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Koetter"]
+[Black "Pryer"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "45ed2c7f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bc2 O-O 11. Nbd2 Nc5 12. Re1 d4 13. Ne4 dxc3 14.
+Qxd8 Raxd8 15. Nxc3 Nb4 16. Bb1 Ncd3 17. Bxd3 Rxd3 18. Bg5 Bxg5 19. Nxg5
+Bc4 20. Re4 h6 21. Nf3 Rfd8 22. a3 Nd5 23. Rc1 Nxc3 24. Rxc3 Rxc3 25. bxc3
+Rd3 26. Re3 Rxe3 27. fxe3 Kf8 28. Kf2 Ke7 29. e4 Ke6 30. Ke3 Bf1 31. Kf2
+Bd3 32. Ke3 Bb1 33. Kd4 Bc2 34. Ne1 1/2-1/2
+

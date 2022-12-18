@@ -1,0 +1,19 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Weibgerber"]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "bd6b6f16"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Bg6 5. e3 Nbd7 6. f4 e6 7. Nf3 Be7 8. Bd3
+c5 9. O-O c4 10. Bxg6 hxg6 11. Qe2 Bb4 12. e4 Bxc3 13. exd5 Bxb2 14. Rab1 Bxd4+
+15. Nxd4 Nb6 16. Qe5 Qxd5 17. Bxf6 gxf6 18. Qxf6 O-O 19. Nf3 Qf5 20. Qh4 Kg7
+21. Rbe1 Qc5+ 22. Kh1 Rh8 23. Qg3 Qa3 24. f5 exf5 25. Qe5+ Kg8 26. g4 Nd7 27.
+Qd4 fxg4 28. Ng5 Rf8 29. Qxd7 Qg3 30. Qxf7+ Rxf7 31. Re8+ 1-0

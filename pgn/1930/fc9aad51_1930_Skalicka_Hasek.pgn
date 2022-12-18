@@ -1,0 +1,18 @@
+[Event "Kautsky mem7"]
+[Site "Prague"]
+[Date "1930.??.??"]
+[Round "1"]
+[White "Skalicka, Karel"]
+[Black "Hasek, Josef"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "fc9aad51"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 d5 2. c4 e5 3. dxe5 dxc4 4. Qxd8+ Kxd8 5. e4 b5 6. a4 c6 7. Be3 Bb4+ 8.
+Nc3 Bxc3+ 9. bxc3 a6 10. Nf3 Kc7 11. Nd4 c5 12. Nf5 Bxf5 13. exf5 Kb7 14. Bxc5
+Nc6 15. axb5 axb5 16. Rxa8 Kxa8 17. g4 Nh6 18. Bg2 Kb7 19. h3 Rd8 20. O-O Rd3
+21. Rb1 Rxc3 22. Rxb5+ Kc7 23. Bd6+ 1-0

@@ -1,0 +1,18 @@
+[Event "Buffalo"]
+[Site "Buffalo"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Garfinkel, B."]
+[Black "Wren"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "59c0554f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. Nf3 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qf5
+8. d4 Nc6 9. c3 b6 10. g4 Nxe5 11. dxe5 Qxg4+ 12. Qxg4 Bc5+ 13. Kh1 Bb7+
+14. Rf3 Nh6 15. Qxf4 O-O-O 16. Nd2 Rhg8 17. h4 Rg1+ 18. Kh2 Ng4+ 19. Kh3
+Rg8 20. Qxf7 Nf2+ 21. Rxf2 Rh1+ 22. Rh2 Bg2# 0-1
+

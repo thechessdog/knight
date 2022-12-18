@@ -1,0 +1,27 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Mogilevsky, Vladimir"]
+[Black "Ivashin, Alexey"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "ec4829bc"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 Bd7 7. Re1 b5 8. Bb3
+Be7 9. a4 Bg4 10. c3 O-O 11. Bd5 Qd7 12. h3 Bh5 13. Qd3 Bxf3 14. Qxf3 bxa4 15.
+Qd1 Nxd5 16. exd5 Na5 17. Rxa4 Nb7 18. dxe5 dxe5 19. Rxe5 Bf6 20. Re3 Rfd8 21.
+c4 c6 22. Nc3 Bxc3 23. Rxc3 cxd5 24. c5 Rdc8 25. Be3 Rc6 26. Rd4 Rd8 27. b4 Rg6
+28. Qh5 h6 29. Rcd3 Qb5 30. Rxd5 Qxd3 31. Rxd3 Rxd3 32. Qf3 Nd8 33. Qa8 Rc6 34.
+Bf4 Rd7 35. Bd6 f6 36. f4 Kf7 37. f5 Ke8 38. Kf2 Rb7 39. Bf8 Rf7 40. Bd6 Rb7
+41. Bf8 Rf7 42. b5 axb5 43. Bd6 Rb7 44. Qa2 Kd7 45. Qg8 Kc8 46. Qe8 Rd7 47. Be7
+Rcc7 48. Bxd8 Rxd8 49. Qe6+ Kb8 50. Qb6+ Kc8 51. Qa6+ Kb8 52. Qxb5+ Rb7 53. Qc4
+Rc8 54. Ke3 Rbc7 55. Kd4 Rd8+ 56. Kc3 Rdc8 57. Qb4+ Rb7 58. Qf4+ Rcc7 59. Qd6
+Rb1 60. Qd8+ Rc8 61. Qe7 Rc7 62. Qf8+ Kb7 63. Kd4 Rd1+ 64. Ke4 Re1+ 65. Kd5
+Rd1+ 66. Ke4 Re1+ 67. Kd3 Rd1+ 68. Kc3 Rd5 69. Kb4 Rxf5 70. c6+ Kxc6 71. Qe8+
+Kd6 72. Qf8+ Ke5 0-1

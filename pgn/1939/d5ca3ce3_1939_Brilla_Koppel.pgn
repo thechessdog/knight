@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Brilla Banfalvi"]
+[Black "Koppel"]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "d5ca3ce3"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 Bxc3+ 5. bxc3 c5 6. e3 Qa5 7. Bd2 b6
+8. Bd3 Bb7 9. Qc2 Bxf3 10. gxf3 Nc6 11. Rb1 d6 12. Rg1 g6 13. d5 Ne5 14.
+Be2 Qa6 15. e4 exd5 16. cxd5 c4 17. Rb4 Nfd7 18. Be3 Nc5 19. Bxc5 bxc5 20.
+Qa4+ Qxa4 21. Rxa4 Ke7 22. Kd2 Rhb8 23. Kc2 Rb7 24. Rb1 Rxb1 25. Kxb1 a5
+26. Ra3 g5 27. Kc1 Kd8 28. Kd2 Kc7 29. Ke3 Kb6 30. Ra4 Kb5 31. Ra3 a4 32.
+f4 gxf4+ 33. Kxf4 Nd7 34. Bd1 Nb6 35. Kf5 Rg8 36. f4 Rg2 37. h3 Rh2 38. Bg4
+Rf2 39. Bh5 Rh2 40. Bg4 Rf2 41. Kg5 f6+ 42. Kxf6 Rxf4+ 43. Bf5 1-0
+

@@ -1,0 +1,15 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "Munz"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "Damiano's defence"]
+[HashCode "dc986334"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 Qe7 4. Nf3 d5 5. d3 dxe4 6. dxe4 Qxe4+ 7. Be2
+Bf5 8. c3 Bd6 9. Be3 Ne7 10. Nbd2 Qg4 11. Ng1 Qh4 12. g3 1-0
+

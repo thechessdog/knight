@@ -1,0 +1,18 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Finkelstein, Milton"]
+[Black "Kramer, Haije"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "b76486d5"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 e6 4. Nxd5 exd5 5. d4 d6 6. f4 dxe5 7. dxe5 c5 8.
+Nf3 Nc6 9. b3 Bg4 10. Bb2 c4 11. Be2 Bb4+ 12. c3 Bc5 13. Qd2 cxb3 14. axb3 Qb6
+15. b4 Bf2+ 16. Kf1 Be6 17. f5 Bxf5 18. Qxd5 O-O 19. Qb5 Qe3 20. Rd1 Rad8 21.
+Rxd8 Rxd8 22. Qc5 0-1

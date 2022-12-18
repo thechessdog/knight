@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "f72361bf"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e3 c5 2. b3 d5 3. Bb2 Nc6 4. Nf3 Bg4 5. Be2 Nf6 6. O-O e6 7. d4 cxd4 8. exd4
+Bd6 9. Nbd2 Qc7 10. c4 O-O-O 11. c5 Bf4 12. g3 Bxd2 13. Qxd2 Ne4 14. Qe3 g5 15.
+a3 h5 16. Ne5 Bh3 17. Rfc1 f5 18. Bf1 Bxf1 19. Kxf1 h4 20. Kg2 f4 21. gxf4 gxf4
+22. Qf3 Rdg8+ 23. Kh1 Qh7 24. Rg1 Nxe5 25. dxe5 Nxf2+ 26. Qxf2 Qe4+ 27. Rg2 h3
+28. Re1 hxg2+ 29. Kg1 Rxh2 0-1

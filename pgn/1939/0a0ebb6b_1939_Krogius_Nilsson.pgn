@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Krogius, Nikolai V"]
+[Black "Nilsson, Zandor"]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz, Steiner variation"]
+[HashCode "0a0ebb6b"]
+[Epoch "Knight"]
+[WhiteID "4100565"]
+[WhiteCountry "RUS"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2 Bb4+ 5. Nc3 d5 6. exd6 Bf5 7. Bd2 Bxc3 8.
+Bxc3 Ng3 9. e4 Bxe4 10. Bd3 Bxd3 11. Qxd3 Nxh1 12. Bxg7 cxd6 13. Qe4+ Qe7 14.
+Qxe7+ Kxe7 15. Bxh8 Nc6 16. Bc3 Rc8 17. Nf3 Nd8 18. Ke2 1-0

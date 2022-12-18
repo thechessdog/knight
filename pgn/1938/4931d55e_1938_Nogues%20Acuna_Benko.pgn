@@ -1,0 +1,24 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Nogues Acuna, Alejandro"]
+[Black "Benko, Francisco"]
+[Result "1-0"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[HashCode "4931d55e"]
+[Epoch "Knight"]
+[BlackID "101753"]
+[BlackCountry "ARG"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 d4 7. Bb2 Nc6 8. e3 e5
+9. exd4 exd4 10. d3 h6 11. Na3 a5 12. Nc2 Bc5 13. Qd2 Bf5 14. Rad1 Qd6 15. Qf4
+Qxf4 16. gxf4 Rfd8 17. Ne5 Nb4 18. Ne1 Nxa2 19. Ra1 Nb4 20. Bxb7 Ra7 21. Bg2
+Nd7 22. Nc6 Nxc6 23. Bxc6 Rb8 24. Ba3 Bxa3 25. Rxa3 Nc5 26. b4 Rxb4 27. Nc2 Rb6
+28. Nxd4 Bh3 29. Re1 Ne6 30. Nb5 Raa6 31. Bg2 Nxf4 32. Bxh3 Rg6+ 33. Kf1 Nxh3
+34. Re3 Rg1+ 35. Ke2 Nf4+ 36. Kd2 c5 37. Re5 Ne6 38. Nc3 Rg2 39. Ne4 Rxh2 40.
+Nxc5 Nxc5 41. Rxc5 Rf6 42. Rc8+ Kh7 43. c5 Rfxf2+ 44. Ke3 Ra2 45. Rxa2 Rxa2 46.
+d4 Kg6 47. c6 Kf6 48. Re8 Rc2 49. d5 a4 50. d6 Rxc6 51. d7 Rd6 52. d8=Q+ Rxd8
+53. Rxd8 Kf5 54. Ra8 g5 55. Rxa4 g4 56. Ra5+ Kg6 57. Kf4 h5 58. Rg5+ 1-0

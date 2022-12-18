@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Napier, William Ewart"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "4614c183"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. Be2 g6 4. O-O Bg7 5. c3 d5 6. exd5 Qxd5 7. Na3 Bf5 8. d4
+cxd4 9. Nb5 Rc8 10. cxd4 Nf6 11. Ne5 Nxe5 12. dxe5 Qxe5 13. Nxa7 Rd8 14. Bb5+
+Bd7 15. Re1 Qc7 16. Qf3 O-O 17. Bf4 Qa5 18. Qxb7 Bxb5 19. Nxb5 Nd5 20. Be5 Bxe5
+21. Rxe5 Nb4 22. Qa7 Qxa7 23. Nxa7 Rd7 24. Nb5 Nxa2 25. Kf1 Nb4 26. Nc3 Rb8 27.
+Raa5 Nd3 28. Reb5 Rdb7 29. b3 Nc1 30. b4 Rxb5 31. Nxb5 Nd3 1/2-1/2

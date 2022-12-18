@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Craddock"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "7afdae96"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bb4 5. e3 d6 6. Nge2 Bg4 7. Qb3 Rb8 8. Nd5
+Bc5 9. Nxf6+ Qxf6 10. Bxc6+ bxc6 11. Qxb8+ Ke7 12. Qxh8 Qf3 13. Kd1 Qxe2+ 14.
+Kc2 Qxc4+ 15. Kb1 Qd3# 0-1

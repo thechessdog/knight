@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Sergeiev"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "4.e4"]
+[HashCode "2cfc395e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. h3 Nbd7 7. Be3 e5 8. Qd2
+Re8 9. d5 Nh5 10. Be2 Qe7 11. g3 a6 12. O-O-O Ndf6 13. Bg5 Bd7 14. a4 Reb8 15.
+Kc2 Qe8 16. Ra1 c6 17. g4 Nf4 18. Bxf4 exf4 19. Qxf4 cxd5 20. cxd5 Rc8 21. Kd2
+Rxc3 0-1

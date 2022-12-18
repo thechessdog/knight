@@ -1,0 +1,19 @@
+[Event "Vienna Gambit"]
+[Site "Vienna"]
+[Date "1904.01.01"]
+[Round "8"]
+[White "Perlis, Julius"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "c0af7ca9"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 Nc6 6. d3 Bg4 7. Na4 Nd4 8. Nxc5
+dxc5 9. fxe5 Nxe4 10. O-O Bxf3 11. gxf3 Ng5 12. f4 Nge6 13. f5 Nf8 14. c3 b5
+15. Bxf7+ Kxf7 16. Qh5+ Kg8 17. f6 gxf6 18. exf6 Qd6 19. Bh6 Ne2+ 20. Kh1 Qd5+
+21. Qxd5+ Ne6 22. Qxe6# 1-0

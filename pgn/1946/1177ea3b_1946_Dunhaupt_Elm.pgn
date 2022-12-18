@@ -1,0 +1,19 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Duenhaupt, Heinz Wilhelm"]
+[Black "Elm"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Szabo variation"]
+[HashCode "1177ea3b"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. Qf3 Qb6 12. exf6 Bb7 13. Rd1 O-O-O 14. Be3 c5
+15. Ne4 Qa5+ 16. Bd2 Qxa2 17. Qf4 Qxb2 18. Ba5 Nb6 19. Ng5 Rxd4 20. Rxd4 Qxd4
+21. Qxd4 cxd4 22. Nxf7 Rg8 23. h4 Nd5 24. h5 Nxf6 25. h6 Nh7 26. Rh5 Bd5 27. f4
+b4 28. Ng5 b3 29. Kd2 Nxg5 30. Rxg5 Rxg5 31. fxg5 0-1

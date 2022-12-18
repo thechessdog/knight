@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "eabe74df"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4 5. Bxf7+ Kxf7 6. Nxe4 d5 7. Nfg5+
+Kg6 8. Qf3 dxe4 9. Qf7+ Kxg5 10. d3+ Kh4 11. g3+ Kh3 12. Qh5+ Kg2 13. Bg5 Bb4+
+14. c3 Qxd3 0-1

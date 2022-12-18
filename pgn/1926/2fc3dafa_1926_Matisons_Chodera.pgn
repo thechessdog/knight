@@ -1,0 +1,17 @@
+[Event "Bardejov"]
+[Site "Bardejov"]
+[Date "1926.07.26"]
+[Round "7"]
+[White "Matisons, Hermanis"]
+[Black "Chodera, Miroslav"]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "2fc3dafa"]
+[Epoch "Knight"]
+[WhiteCountry "LVA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1
+b5 9. Bc2 Ne8 10. a4 b4 11. d4 bxc3 12. bxc3 Bg4 13. d5 Nb8 14. h3 Bd7 15. g4
+a5 1-0

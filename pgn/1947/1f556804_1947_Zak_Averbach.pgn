@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Zak, Vladimir"]
+[Black "Averbakh, Yuri L"]
+[Result "0-1"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, ...b5 gambit"]
+[HashCode "1f556804"]
+[Epoch "Knight"]
+[BlackID "4101529"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 b5 7. dxe6 fxe6 8. e4
+O-O 9. Qc2 Qa5 10. Bxf6 Rxf6 11. cxb5 a6 12. e5 Rf7 13. Bd3 axb5 14. Bg6 Rf8
+15. Nf3 Bxc3+ 16. bxc3 Qa4 17. O-O Bb7 18. Nd2 Bd5 19. Qxa4 Rxa4 20. Bd3 c4 21.
+Be4 Nc6 22. Bxd5 exd5 23. Nf3 b4 24. Rfd1 bxc3 25. Rxd5 c2 26. Ne1 Rb8 0-1

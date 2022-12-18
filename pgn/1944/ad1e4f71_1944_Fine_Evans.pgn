@@ -1,0 +1,17 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Fine, Reuben"]
+[Black "Evans, Henry"]
+[Result "0-1"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Bogoljubow variation"]
+[HashCode "ad1e4f71"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8. Qc2
+O-O 9. Be2 e5 10. dxe5 Ne4 11. Ndxe4 dxe4 12. O-O Bxc3 13. bxc3 Nxe5 14. Bf4
+Re8 15. Qxe4 Bf5 0-1

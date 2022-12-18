@@ -1,0 +1,17 @@
+[Event "Melbourne"]
+[Site "Melbourne"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Watson, Charles"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "7343f546"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 c6 5. Nxc3 b5 6. Bb3 b4 7. Nce2 Qf6
+8. Nf3 h6 9. Be3 Qg6 10. Ne5 Qxg2 11. Qd4 Qxh1+ 12. Kd2 Qxa1 13. Bxf7+ Kd8
+14. Nf4 c5 15. Ne6+ Ke7 16. Qd5 Qxb2+ 17. Ke1 d6 18. f4 Nf6 19. Qxd6+ Kxd6
+20. Bxc5# 1-0
+

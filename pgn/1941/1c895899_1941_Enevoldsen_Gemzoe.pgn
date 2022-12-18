@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "Gemzoe, Jacob"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Noteboom variation"]
+[HashCode "1c895899"]
+[Epoch "Knight"]
+[BlackID "1412396"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 dxc4 5. g3 b5 6. Bg2 Bb7 7. Ne5 Qc7 8. Bf4
+Bd6 9. Ne4 Bb4+ 10. Kf1 Qc8 11. b3 cxb3 12. Qxb3 Be7 13. Rc1 a6 14. Bh3 h6 15.
+d5 f5 16. Ng6 exd5 17. Nxh8 Qe6 18. Nd2 g5 19. Bxb8 Rxb8 20. e4 g4 21. exf5
+Qxf5 22. Bg2 Kd7 23. Qc2 Qf6 24. Ng6 1-0

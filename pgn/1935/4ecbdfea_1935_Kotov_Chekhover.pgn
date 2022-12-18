@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Kotov, Alexander"]
+[Black "Chekhover, Vitaly"]
+[Result "1-0"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn variation"]
+[HashCode "4ecbdfea"]
+[Epoch "Knight"]
+[WhiteID "24145602"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Nbc6 10. Nf3 Qc7 11. Bb5 Bd7 12. Bxc6 Qxc6 13. O-O O-O-O 14.
+Bg5 Qxc3 15. Qxf7 Rdf8 16. Qxe7 Rxf3 17. gxf3 Qxf3 18. h4 Bb5 19. Qxe6+ Kc7 20.
+Qxg8 1-0

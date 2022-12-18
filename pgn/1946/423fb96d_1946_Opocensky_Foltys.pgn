@@ -1,0 +1,23 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Opocensky, Karel"]
+[Black "Foltys, Jan"]
+[Result "0-1"]
+[ECO "D03"]
+[Opening "Torre attack (Tartakower variation)"]
+[HashCode "423fb96d"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. Bf4 c5 5. e3 Nc6 6. dxc5 Bg4 7. h3 Bxf3 8.
+gxf3 Nxc5 9. Nc3 e5 10. Bg3 d4 11. exd4 exd4 12. Qe2+ Be7 13. O-O-O O-O 14. Ne4
+Ne6 15. Kb1 f5 16. Nd2 Qd7 17. h4 Nc5 18. Bf4 Kh8 19. Nb3 Nxb3 20. axb3 Bd6 21.
+Qd2 Rad8 22. Bg5 Be7 23. Bb5 Bf6 24. Rhe1 Qd5 25. Bxc6 Qxc6 26. Qd3 h6 27. f4
+Kg8 28. Bxf6 Qxf6 29. Qg3 Rd5 30. Re5 Rfd8 31. h5 Kh7 32. c4 R5d6 33. Qd3 Rf8
+34. c5 Rd7 35. b4 a6 36. b5 axb5 37. Qxb5 Qf7 38. Rd3 Rfd8 39. Rh3 d3 40. Re1
+Qd5 41. Rd1 d2 42. Re3 Ra8 43. Kc2 Rc8 44. Rc3 Qe4+ 45. Kb3 Rd4 46. f3 Qd5+ 47.
+Kc2 Rd8 48. Qe2 Qf7 49. Kb1 Qxh5 50. Rc2 Re4 51. Qf2 Rxf4 52. Rc3 Rfd4 53. Qe3
+Re4 54. Qf2 Red4 55. Qe3 f4 56. Qe6 Re8 0-1

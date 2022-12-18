@@ -1,0 +1,20 @@
+[Event "DEN-ch playoff"]
+[Site "Copenhagen"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Poulsen, Christian"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "cf0577b8"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 O-O 7. a3 Bxc5 8. e3
+Qe7 9. Be2 Rd8 10. O-O d5 11. cxd5 exd5 12. Rd1 d4 13. exd4 Nxd4 14. Nxd4 Bxd4
+15. Bf4 Be6 16. Bc4 Bxf2+ 17. Kf1 Bb6 18. Na4 Bd4 19. Rac1 Nh5 20. Bxe6 Nxf4
+21. Bc4 b5 22. Bxb5 Nd5 23. Rxd4 Qf6+ 24. Qf3 Qxd4 25. Nc3 Nxc3 26. bxc3 Qc5
+27. a4 Rac8 28. Qf2 Qa3 29. Qe3 Rd6 30. Bd3 Rxd3 0-1

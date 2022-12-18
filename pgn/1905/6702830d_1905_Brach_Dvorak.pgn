@@ -1,0 +1,17 @@
+[Event "Czechoslovakia"]
+[Site "Czechoslovakia"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Brach, J."]
+[Black "Dvorak, M."]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6702830d"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Bc5 6. Be3 Qf6 7. Nxe6 Bxe3
+8. Nc7+ Kf8 9. fxe3 Ra7 10. Bc4 Nh6 11. Rf1 Qh4+ 12. g3 Qxh2 13. Qd6+ Kg8
+14. Ne6 1-0
+

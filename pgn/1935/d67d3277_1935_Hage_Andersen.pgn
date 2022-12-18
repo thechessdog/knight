@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Hage, Poul"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "d67d3277"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 e5 6. dxe5 Nxe5 7. Bd2 O-O 8. a3
+Bxc3 9. Bxc3 d6 10. Nf3 Qe7 11. h3 Bd7 12. Be2 Ng6 13. O-O Ne4 14. Be1 Rae8 15.
+Bd3 f5 16. Nd4 Ne5 17. Rd1 Nxd3 18. Qxd3 Rf6 19. Ne2 Nc5 20. Qd5+ Be6 21. Qd4
+Qf7 22. Bc3 Bxc4 23. Rfe1 Bb3 24. Rc1 b6 25. Ng3 Rg6 26. Re2 Bc4 27. Rec2 Nb3
+0-1

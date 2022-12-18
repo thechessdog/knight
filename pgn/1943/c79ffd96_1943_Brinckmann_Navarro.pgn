@@ -1,0 +1,17 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "6"]
+[White "Brinckmann, Alfred"]
+[Black "Navarro, Roberto"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "c79ffd96"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. Bg5 Be7 8.
+O-O-O Nh5 9. Bxe7 Qxe7 10. Nd5 Qd8 11. e5 Be6 12. g4 dxe5 13. Qxe5 O-O 14. gxh5
+Qh4 15. Rg1 1-0

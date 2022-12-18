@@ -1,0 +1,23 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Araiza Munoz, Jose Joaquin"]
+[Black "Camarena, J."]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "bafe75fe"]
+[Epoch "Knight"]
+[WhiteID "5101093"]
+[WhiteCountry "MEX"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e3 d6 6. Be2 Nc6 7. Bd2 e5 8. d5
+Ne7 9. e4 a5 10. Qc2 Nd7 11. g4 Nc5 12. Rg1 Kh8 13. Qc1 Ng8 14. Be3 b6 15. Bg5
+f6 16. Be3 Bd7 17. Qd2 Qc8 18. Nh4 Ne7 19. Bh6 a4 20. Bxg7+ Kxg7 21. Rg3 Kh8
+22. Qh6 g5 23. Nf5 Bxf5 24. gxf5 Ng8 25. Qh5 Qe8 26. Qh3 Kg7 27. Qg2 a3 28. b3
+Kh8 29. Nb5 Qf7 30. b4 Na6 31. Rb1 Ne7 32. Rxa3 Rfd8 33. Rh3 c5 34. a3 Ng8 35.
+Bh5 Qg7 36. Rbb3 h6 37. Qg3 Rd7 38. Qc3 Qf8 39. Rg3 Nc7 40. bxc5 bxc5 41. Nxc7
+Rxc7 42. Qb2 Ne7 43. Rb5 Nc8 44. Rgb3 Qe7 45. Rb8 Raa7 46. R3b5 Kg7 47. Qb3 Kf8
+48. a4 Qg7 49. Bg6 Ke7 50. a5 Kd8 51. Qa4 Qd7 52. a6 Ke7 53. Qa5 Kd8 54. R5b7
+Ke7 55. Qb5 Kd8 56. Rxc8+ Rxc8 57. Qxd7# 1-0

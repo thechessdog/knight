@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Verlinsky, Boris"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "93b0bfca"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 dxc4 5. e3 c5 6. Bxc4 a6 7. a4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. Rd1 e5 11. exd4 exd4 12. Nxd4 Nxd4 13. Qe5 Qd6 14. Qxd4
+Qxd4 15. Rxd4 O-O 16. Bf4 Bf5 17. Bd6 Rfe8 18. Bxe7 Rxe7 19. Rad1 Kf8 20. f3
+1/2-1/2

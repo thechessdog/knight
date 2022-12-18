@@ -1,0 +1,20 @@
+[Event "Pasadena"]
+[Site "Pasadena"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Factor, Samuel"]
+[Black "Kashdan, Isaac"]
+[Result "0-1"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "6.Bd3"]
+[HashCode "fe88fff5"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Nbd7 6. Bd3 a6 7. a3 dxc4 8. Bxc4
+b5 9. Bd3 c5 10. dxc5 Nxc5 11. Bc2 Qxd1+ 12. Nxd1 Bb7 13. b4 Nce4 14. Bb2 Be7
+15. Rc1 O-O 16. Nc3 Nd6 17. Bd3 Rac8 18. O-O Nc4 19. Bxc4 Rxc4 20. Ne5 Rc7 21.
+Nxb5 Rxc1 22. Rxc1 axb5 23. Rc7 Rd8 24. h3 Rd1+ 25. Kh2 Bd6 26. Rxb7 Rd2 27.
+Bd4 Rxf2 28. Ra7 h5 29. Kg1 Ne4 30. g4 f6 31. Ra8+ Kh7 32. Nf7 Bh2+ 33. Kh1
+Ng3# 0-1

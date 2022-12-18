@@ -1,0 +1,17 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Schmid, Lothar Maximilian Lorenz"]
+[Black "Herzog"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "b61255d9"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. Nc3 O-O 10. d3 d6 11. Bg5 Bg4 12. Nd5 Nd4 13. Nxd4 Bxe2 14. Bxf6 gxf6
+15. Nc6 1-0

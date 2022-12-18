@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Patschurkowski"]
+[Black "Rohde"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "fd5d06a9"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Nf3 c5 6. Bb5+ Bd7 7. O-O Bxb5
+8. Nxb5 a6 9. Nc3 Be7 10. Be3 c4 11. a4 Qc7 12. Re1 O-O 13. Bf4 Bd6 14. Be5
+Nbd7 15. Bxd6 Qxd6 16. Ne5 Rfe8 17. f4 Nf8 18. Qf3 Qb6 19. Nxd5 Qxd4+ 20.
+Ne3 Ne6 21. Qxb7 Nxf4 22. Qxf7+ Kh8 23. Nf3 Qb6 24. a5 Qxb2 25. Nf5 Ne2+
+26. Kh1 Ng4 27. h3 Nf2+ 28. Kh2 Qb8+ 29. g3 Ra7 30. Qxc4 Rc7 31. Rab1 Qc8
+32. Qd5 Rc5 33. Rb8 Rxd5 34. Rxc8 Rxc8 35. Ne7 Rxc2 36. Nxd5 Nd3 37. Rd1
+Nd4+ 0-1
+

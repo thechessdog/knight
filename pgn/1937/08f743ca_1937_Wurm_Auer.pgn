@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Wurm"]
+[Black "Auer, Franz"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "08f743ca"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Bh7
+8. Qh5 g6 9. Qf3 Qd5 10. Qxd5 cxd5 11. Bb5+ 1-0
+

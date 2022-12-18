@@ -1,0 +1,21 @@
+[Event "corr IFSB"]
+[Site "corr IFSB"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Malmgren, H."]
+[Black "Weiss, E."]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "9363bc0f"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 c5 7. Rc1 cxd4 8.
+exd4 dxc4 9. Bxc4 Nb6 10. Bd3 Bd7 11. O-O Bc6 12. Qe2 h6 13. Bd2 O-O 14.
+Rcd1 Kh8 15. Bb1 Rc8 16. Bc1 Nbd5 17. Rfe1 Nxc3 18. bxc3 Ba4 19. Bc2 Qa5
+20. c4 Bb4 21. Rf1 Nd5 22. Bxa4 Nc3 23. Qc2 Nxa4 24. Rd3 Bd6 25. c5 Bb8 26.
+Ng5 f5 27. Nxe6 Rfe8 28. Nxg7 Kxg7 29. Ra3 Re1 30. Rxa4 Qc7 31. Rxe1 Qxh2+
+32. Kf1 Qh1+ 33. Ke2 Re8+ 34. Be3 Qh5+ 35. Kd3 f4 36. Bd2 f3 37. Rxe8 fxg2
+38. Re1 1-0
+

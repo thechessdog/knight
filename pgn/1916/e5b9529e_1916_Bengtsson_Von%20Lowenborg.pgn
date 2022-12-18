@@ -1,0 +1,17 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Bengtsson, Frans"]
+[Black "Lowenborg, Otto"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "e5b9529e"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 f5 5. d4 fxe4 6. Nxe4 d5 7. Ng3 e4 8. Ne5
+Nf6 9. Be2 Ne7 10. O-O g6 11. f5 Nxf5 12. Nxf5 Bxf5 13. Rxf5 gxf5 14. Bh5+ Ke7
+15. Bg5 Rg8 16. Qd2 Bg7 17. Rf1 Qc8 18. g4 a5 19. Rxf5 Ra6 20. Qc3 Rf8 21. Qc5+
+Ke6 22. Nc6 1-0

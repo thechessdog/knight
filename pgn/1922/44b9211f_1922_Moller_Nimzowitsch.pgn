@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Moller, Jorgen"]
+[Black "Nimzowitsch, Aron"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "44b9211f"]
+[Epoch "Knight"]
+[BlackCountry "DAN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Nc6 6. a3 Ba5 7. Bb5 Ne7 8.
+O-O O-O 9. Na4 Bb6 10. Nxb6 axb6 11. Bd3 Bf5 12. Re1 Qd7 13. Ne5 Nxe5 14. Rxe5
+Rae8 15. Qe2 f6 16. Re3 c5 17. c3 c4 18. Bc2 g5 19. b3 Bxc2 20. Qxc2 Nf5 21.
+Rxe8 Rxe8 22. Bd2 Nh4 23. Qd1 cxb3 24. Qxb3 Re2 25. Be3 Qf5 26. Qb5 Qe4 27. Kf1
+Rxe3 0-1

@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Traub, E."]
+[Black "Hearst, Eliot"]
+[Result "0-1"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[HashCode "4fcdbc7c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. exf5 Nf6 5. Bxc6 dxc6 6. Nxe5 Bxf5 7. O-O
+Bd6 8. Qf3 Be4 9. Qe2 O-O 10. f3 Bxe5 11. fxe4 Bd4+ 12. Kh1 Nxe4 13. Rf3
+Nf2+ 14. Kg1 Kh8 15. Kf1 Re8 16. Qc4 Qe7 0-1
+

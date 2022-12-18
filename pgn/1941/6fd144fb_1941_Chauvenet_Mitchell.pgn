@@ -1,0 +1,18 @@
+[Event "Atlanta"]
+[Site "Atlanta"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Chauvenet, L."]
+[Black "Mitchell, W."]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "6fd144fb"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 Ne7 7. Nc3 c6 8.
+Ne5 d5 9. Nxf7 Kxf7 10. Bxf4 gxf4 11. Qh5+ Kg8 12. exd5 Bxd4+ 13. Kh1 Kg7
+14. Rxf4 Bf6 15. Rxf6 Kxf6 16. Ne4+ Kg7 17. Qe5+ Kg6 18. Qf6+ Kh7 19. Qf7#
+1-0
+

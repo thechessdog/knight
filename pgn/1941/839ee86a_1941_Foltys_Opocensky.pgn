@@ -1,0 +1,18 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "9"]
+[White "Foltys, Jan"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "839ee86a"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 e6 7. c5 Be7 8. Bb5
+O-O 9. O-O Ne4 10. Bxc6 Nxc3 11. bxc3 bxc6 12. Qa4 Qc7 13. Ne5 Bxc5 14. dxc5
+Qxe5 15. Qxc6 Rb8 16. Qd6 Qe2 17. Be3 Ba6 18. Bd4 Rfe8 19. Rfe1 Qc4 20. c6 1-0

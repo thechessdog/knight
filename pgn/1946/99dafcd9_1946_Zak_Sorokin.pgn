@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Zak"]
+[Black "Sorokin"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "99dafcd9"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. exf6 gxh4 10. Ne5 Qxf6 11. a4 Bb7 12. Be2 c5 13. Nxb5 Na6 14. Bh5 Rh7
+15. O-O Rg7 16. g3 cxd4 17. Qxd4 Rd8 18. Qxa7 Qxe5 19. Qxb7 hxg3 20. Bf3
+gxf2+ 21. Kh1 Bc5 22. Qxa6 Rg1+ 23. Rxg1 fxg1=Q+ 24. Rxg1 Bxg1 25. Qc6+ Kf8
+26. Kxg1 Qe1+ 27. Kg2 Rd2+ 28. Kh3 Qe5 0-1
+

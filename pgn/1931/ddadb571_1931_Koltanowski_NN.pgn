@@ -1,0 +1,17 @@
+[Event "Antwerp"]
+[Site "Antwerp"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Alekhine gambit"]
+[HashCode "ddadb571"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Qxd4 6. Nf3 Qd8 7. Qe2 Bf5 8.
+Nxf6+ gxf6 9. Bxf5 Qa5+ 10. Bd2 Qxf5 11. O-O-O Qe6 12. Qd3 Qxa2 13. Qd8+ Kxd8
+14. Ba5+ Kc8 15. Rd8# 1-0

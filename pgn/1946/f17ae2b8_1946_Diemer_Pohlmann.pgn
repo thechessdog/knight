@@ -1,0 +1,18 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Pohlmann"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f17ae2b8"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 c5 3. dxc5 d4 4. Nf3 Nc6 5. Bc4 h6 6. c3 dxc3 7. Bxf7+ Kxf7 8.
+Ne5+ Kf6 9. Qf3+ Kxe5 10. Qf4+ Kd4 11. Be3+ Kc4 12. Na3+ Kb4 13. e5+ Ka5 14.
+Qc4 a6 15. Qb3 Nb4 16. bxc3 Nd3+ 17. Ke2 Be6 18. c4 Nb4 19. Rhd1 Qe8 20. Rab1
+Qa4 21. Bd2 Qxb3 22. axb3 b6 23. c6 b5 24. c5 Rb8 25. Nc2 Bc4+ 26. Ke3 Bxb3 27.
+Ra1+ Ba4 28. Bxb4# 1-0

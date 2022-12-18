@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Arnlind"]
+[Black "Brynhammar"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "be7999b4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. c4 c6 6. d4 Bb4+ 7. Nc3 cxd5
+8. Bxf4 O-O 9. Be2 Ne4 10. Rc1 Qf6 11. Be5 Qh6 12. O-O Qe3+ 13. Kh1 Bxc3
+14. bxc3 Nxc3 15. Qb3 Qxe2 16. Qxc3 Qxc4 17. Qe1 Qxa2 18. Qg3 f6 19. Bxf6
+g6 20. Rxc8 Qa6 21. Rxf8+ Kxf8 22. Qe1 1-0
+

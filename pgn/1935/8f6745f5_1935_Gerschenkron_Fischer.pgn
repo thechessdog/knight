@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Gerschenkron"]
+[Black "Fischer, Robert"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "8f6745f5"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 c6 3. d4 cxd5 4. Bd3 Nf6 5. c3 Nbd7 6. Nf3 e6 7. O-O Be7 8.
+Qe2 O-O 9. Bf4 a6 10. Nbd2 b5 11. Ne5 Re8 12. Ndf3 Bb7 13. Nxf7 Kxf7 14. Qxe6+
+Kxe6 15. Ng5# 1-0

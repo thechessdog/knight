@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Thomas"]
+[Black "Winter"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "e5c8b7a6"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. a3 Bxc3+ 7. Qxc3
+Nxc5 8. b4 Nce4 9. Qd3 d5 10. cxd5 Nxf2 11. Kxf2 Ng4+ 12. Kg3 Qf6 13. Nf3
+Qxa1 14. Bd2 Nf6 15. e4 exd5 16. exd5 O-O 17. Bc3 Qxc3 0-1
+

@@ -1,0 +1,20 @@
+[Event "Stockholm ol"]
+[Site "Stockholm ol"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Moller"]
+[Black "Staldi"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "9b342359"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 Be7 7. Bd3 O-O
+8. Qc2 b6 9. Nf3 Bb7 10. Bf4 c5 11. O-O Rc8 12. Ne5 g6 13. Bh6 Re8 14. f4
+cxd4 15. exd4 Ne4 16. Bb5 Nxe5 17. fxe5 Bc6 18. Bd3 Bg5 19. Bxg5 Qxg5 20.
+Bxe4 dxe4 21. Qf2 Re7 22. d5 Ba8 23. Nxe4 Qxe5 24. d6 Rb7 25. Nf6+ Kg7 26.
+d7 Rd8 27. Rae1 Qc5 28. Re3 Rbxd7 29. Nxd7 Rxd7 30. Ree1 Rd2 31. h3 Rxf2
+32. Rxf2 Bd5 33. a3 f5 0-1
+

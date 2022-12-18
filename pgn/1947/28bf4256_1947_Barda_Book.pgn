@@ -1,0 +1,17 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Barda, Olaf"]
+[Black "Book, Eero"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "28bf4256"]
+[Epoch "Knight"]
+[BlackCountry "FIN"]
+[WhiteCountry "NOR"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 c6 7. Nc3 b6 8. cxd5
+cxd5 9. Ne5 Bb7 10. Bg5 Nc6 11. Bxf6 Bxf6 12. f4 Rc8 13. e3 Ba6 14. Nxc6 Rxc6
+15. Rf2 Qd7 16. Qg4 g6 17. Nxd5 1-0

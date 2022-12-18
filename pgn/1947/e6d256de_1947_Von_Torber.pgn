@@ -1,0 +1,22 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Von Zabiensky"]
+[Black "Torber, Claus"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "e6d256de"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. Re1
+Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 Bg4 12. d5 O-O 13. Nf1 Ne8 14. Ne3 Bd7 15. h3
+g6 16. g4 Ng7 17. Nh2 Kh8 18. Ng2 f5 19. exf5 gxf5 20. f4 Rf7 21. g5 Nc4 22.
+Nf3 e4 23. Nh2 Be8 24. b3 Nb6 25. Ne3 c4 26. b4 Rf8 27. Qd4 Kg8 28. Rf1 Qb7 29.
+Bxe4 fxe4 30. Nhg4 Bd7 31. Nh6+ Kh8 32. h4 Bh3 33. Rf2 Nd7 34. Kh2 Ne5 35. Kxh3
+Nd3 36. Neg4 Nxf2+ 37. Nxf2 Qa7 38. Qxa7 Rxa7 39. Be3 Rb7 40. Kg4 Bd8 41. Re1
+Bb6 42. Bxb6 Rxb6 43. Rxe4 Re8 44. f5 Rbb8 45. f6 Rxe4+ 46. Nxe4 Ne8 47. Kf5
+Rd8 48. Nf7+ 1-0

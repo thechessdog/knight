@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Keilson"]
+[Black "Michael"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "ca19eb29"]
+[Epoch "Knight"]
+[BlackID "5810361"]
+[BlackCountry "SGP"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8.
+Nxe5 Be6 9. d4 Nd7 10. f4 Bd6 11. f5 Nxe5 12. fxe6 Ng6 13. exf7+ Kxf7 14. Rf1+
+Kg8 15. Qf3 Qd7 16. Qb3+ 1-0

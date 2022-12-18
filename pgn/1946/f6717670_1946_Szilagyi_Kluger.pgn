@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Szilagyi, Gyorgy"]
+[Black "Kluger, Gyula"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "f6717670"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. Bd3 O-O 8. Ne2
+Qc7 9. cxd5 exd5 10. O-O c4 11. Bc2 Re8 12. f3 b5 13. Qe1 Nbd7 14. Ng3 Bb7 15.
+e4 Qb6 16. Qf2 dxe4 17. fxe4 Kh8 18. e5 Nd5 19. Ne4 f6 20. Nd6 Re7 21. Nf5 Re6
+22. Bd2 Rf8 23. Qh4 g6 24. Nd6 fxe5 25. Rxf8+ Nxf8 26. Nxb7 Qxb7 27. Qd8 Rf6
+28. Be4 exd4 29. Qxf6+ 1-0

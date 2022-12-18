@@ -1,0 +1,17 @@
+[Event "corr GB-USA"]
+[Site "corr GB-USA"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Jacobs, H."]
+[Black "Bampton"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "dbe5dfd0"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Be6 5. Nc3 Nf6 6. Qe2 c6 7. Nxe4 Nxe4 8.
+Qxe4 Be7 9. d4 Nd7 10. Bd3 Nf6 11. Qe3 O-O 12. f5 Bd7 13. O-O Be8 14. c3 Rc8
+15. Qg3 Kh8 16. Be3 Nd5 17. Qh3 Bf6 18. Ng6+ fxg6 19. fxg6 Bxg6 20. Bxg6 1-0

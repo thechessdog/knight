@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Voigt, H."]
+[Black "Stadelman"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Larobok variation"]
+[HashCode "67570a7a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Ngf6 5. Bc4 Be7 6. Ng5 O-O 7. Bxf7+
+Rxf7 8. Ne6 Qe8 9. Nxc7 Qd8 10. Nxa8 b6 11. dxe5 Nxe5 12. Nd5 Nxe4 13. Be3
+Bh4 14. Qd4 Nxf2 15. O-O Neg4 16. Nac7 Nxe3 17. Qxe3 Rf5 18. Ne6 Qe8 19.
+Nxg7 Qxe3 20. Nxe3 Re5 21. Ngf5 Bxf5 22. Nxf5 Rxf5 23. g3 Bg5 24. Rae1 Bd2
+25. Rxf2 Rxf2 26. Kxf2 Bxe1+ 27. Kxe1 1-0
+

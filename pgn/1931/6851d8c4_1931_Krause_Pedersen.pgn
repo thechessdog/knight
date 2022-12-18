@@ -1,0 +1,17 @@
+[Event "Vordingborg"]
+[Site "Vordingborg"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Krause, Orla"]
+[Black "Petersen, Finn"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich (Jaenisch) variation"]
+[HashCode "6851d8c4"]
+[Epoch "Knight"]
+[BlackID "1400754"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Be7 5. dxe5 Nfd7 6. exd6 Bxd6 7. Bc4 Nc6 8.
+O-O Nde5 9. Nxe5 Nxe5 10. Bb3 Qh4 11. Qe2 Nf3+ 12. Qxf3 Qxh2# 0-1

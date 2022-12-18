@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Chekhover, Vitaly"]
+[Black "Troitsky, PN."]
+[Result "1-0"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "64788aa5"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. Nf3 f5 2. d4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d5 7. Nc3 c6 8. Qc2
+dxc4 9. a4 Na6 10. Rd1 Nb4 11. Qb1 b6 12. Ne5 Ba6 13. Nxc6 Nxc6 14. Bxc6 Rc8
+15. Bg2 Nd5 16. e4 Nb4 17. Be3 Nd3 18. f4 Bb7 19. b3 Bb4 20. Na2 Ba3 21. Rd2
+Bxe4 22. Bxe4 fxe4 23. bxc4 Kh8 24. Nc3 Rxc4 25. Rxa3 Qc8 26. Ne2 e5 27. dxe5
+Qg4 28. Raxd3 exd3 29. Qxd3 Rxa4 30. Kg2 h5 31. Qd7 Re4 32. Qxg4 hxg4 33. Bf2
+Kg8 34. Nc3 Rc4 35. Nb5 Ra4 36. Nd6 Rd8 37. Be3 g6 38. e6 Kf8 39. f5 Rxd6 40.
+Rxd6 gxf5 41. Bg5 Re4 42. Rd8+ Kg7 43. e7 1-0

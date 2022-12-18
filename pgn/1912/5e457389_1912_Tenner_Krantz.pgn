@@ -1,0 +1,21 @@
+[Event "DSB-18.Kongress-B"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Tenner, Oscar"]
+[Black "Krantz, Kjell"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "5e457389"]
+[Epoch "Knight"]
+[BlackID "1700782"]
+[BlackCountry "SWE"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qd3 O-O 11. Nbd2 f5 12. Bc2 Qe7 13. b4 Bb6 14. a4 Bf7 15. e6
+Qxe6 16. Nb3 Ne5 17. Nxe5 Qxe5 18. Nd4 Nxc3 19. Nxf5 Ne4 20. Be3 Qxf5 21. Bxb6
+cxb6 22. f3 Bg6 23. Qd4 Nc3 24. Rf2 Qf6 25. Qxf6 Rxf6 26. Bxg6 hxg6 27. axb5
+Nxb5 28. Re2 Rd6 29. Re5 Nc3 30. Ra3 d4 0-1

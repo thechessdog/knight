@@ -1,0 +1,18 @@
+[Event "Margate"]
+[Site "Margate"]
+[Date "1937.04.01"]
+[Round "1"]
+[White "Tylor, Theodore Henry"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[HashCode "b43d5c7b"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. e3 Bf5 5. cxd5 Nxd5 6. Bc4 e6 7. O-O Nd7 8. Re1
+N5b6 9. Bb3 Be7 10. e4 Bg6 11. Nc3 O-O 12. Bf4 c5 13. d5 c4 14. dxe6 fxe6 15.
+Nd4 Nc5 16. Bxc4 Nxc4 0-1

@@ -1,0 +1,17 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Nimzowitsch, Aron"]
+[Black "Fluss, G."]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon variation"]
+[HashCode "e26ac078"]
+[Epoch "Knight"]
+[WhiteCountry "DAN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 6. Bxf6 Bxc3+ 7. bxc3 gxf6
+8. Nf3 Nc6 9. Be2 Rg8 10. O-O Bd7 11. c4 Qh5 12. d5 O-O-O 13. Nd4 Qh3 14. g3
+Rg6 15. dxc6 Bxc6 16. Nxc6 Rxd1 17. Rfxd1 bxc6 18. c5 Rg8 19. Rab1 1-0

@@ -1,0 +1,17 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Emmer"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "a042d7f6"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 f6 7. Bc4 Nh6 8. d4
+Bf7 9. Qe2 g6 10. Ne4 Bxc4 11. Nxf6+ Kf7 12. Ng5+ Kg7 13. Qxc4 Kxf6 14. Bf4 Nd7
+15. Be5+ Nxe5 16. dxe5+ 1-0

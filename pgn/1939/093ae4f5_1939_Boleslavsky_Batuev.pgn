@@ -1,0 +1,23 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Batuev, Andrey Mikhailovich"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "093ae4f5"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. O-O O-O
+8. d4 Bd6 9. c3 Bg4 10. h3 Bh5 11. g4 Bg6 12. Nh4 Nd7 13. Qf3 Re8 14. Nxg6 hxg6
+15. h4 Nf8 16. Bd2 Qc7 17. Kg2 Ne6 18. Rh1 Bf4 19. Bxe6 Bxd2 20. Bb3 Qf4 21.
+Rad1 Re7 22. g5 fxg5 23. h5 Qxf3+ 24. Kxf3 g4+ 25. Kg3 Bh6 26. hxg6 a5 27. a4
+Kf8 28. gxf7 Rd8 29. Rde1 Rdd7 30. Re5 Rxe5 31. dxe5 Rd2 32. e6 Ke7 33. Re1 g6
+34. Bc4 Rxb2 35. Rd1 Bd2 36. Kxg4 b5 37. axb5 cxb5 38. Bxb5 Bh6 39. Bc4 Rb7 40.
+Rd5 Kf6 41. Rxa5 Bf8 42. Ra8 Kg7 43. Bd5 Re7 44. c4 Rc7 45. Kf4 Bd6+ 46. Ke4
+Bf8 47. c5 Re7 48. c6 Rc7 49. Ke5 Re7 50. Rxf8 Kxf8 51. Kd6 1-0

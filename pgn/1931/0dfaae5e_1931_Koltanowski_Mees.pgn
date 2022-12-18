@@ -1,0 +1,16 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Mees, JL."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "0dfaae5e"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. f4 d5 2. e3 Nc6 3. Nf3 f5 4. b3 e6 5. Bb2 Nf6 6. c4 b6 7. cxd5 exd5 8. Bb5
+Bd7 9. Bxc6 Bxc6 10. O-O Bc5 11. Ne5 Bb7 12. d4 Bd6 13. Nc3 Qe7 14. Nb5 O-O-O
+15. Nxa7+ Kb8 16. Nac6+ Bxc6 17. Nxc6+ Kb7 18. Nxe7 1-0

@@ -1,0 +1,17 @@
+[Event "corr Thematic"]
+[Site "corr Thematic"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Fojahn"]
+[Black "Klavestadt"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "a3e557d9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 Bb4 5. Bc4 Qe7 6. Ne2 Nf6 7. O-O O-O
+8. Bg5 c6 9. Ng3 Qe5 10. f4 Qc5+ 11. Kh1 Qxc4 12. Bxf6 gxf6 13. Rc1 Qe6 14.
+Nd5 Na6 15. Nf5 Kh8 16. Qh5 Rg8 17. Rf3 Rg6 18. Rh3 Kg8 19. Qxh7+ Kf8 20.
+Qh8+ Rg8 21. Nxf6 1-0
+

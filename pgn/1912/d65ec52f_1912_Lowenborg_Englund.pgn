@@ -1,0 +1,20 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1912.01.01"]
+[Round "?"]
+[White "Lowenborg, Otto"]
+[Black "Englund, Fritz"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "d65ec52f"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Nxd4 Nxd4 12. cxd4 Qxd4 13. Nf3 Qxd1 14. Bxd1 Bc4
+15. Re1 Nd3 16. Re4 Bc5 17. Nd4 Bd5 18. Rh4 g5 19. Bxg5 Rg8 20. Be3 Rxg2+ 21.
+Kf1 O-O-O 22. Bg4+ Kb8 23. Nf3 Nf4 24. Bxf4 Rxf2+ 25. Ke1 Bc4 26. Nd2 Rdxd2 27.
+b3 Bb4 0-1

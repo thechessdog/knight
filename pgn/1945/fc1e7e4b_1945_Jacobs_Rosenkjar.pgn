@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Jacobs"]
+[Black "Rosenkjar"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Krejcik variation"]
+[HashCode "fc1e7e4b"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. Bc4 Nxe4 3. Bxf7+ Kxf7 4. Qh5+ Ke6 5. Nf3 d5 6. Nc3 Nxc3 7.
+dxc3 Qd6 8. Qg4+ Kf7 9. Ng5+ Kf6 10. Qxc8 Qc6 11. Qg4 g6 12. Qf4+ Kg7 13.
+Qf7+ Kh6 14. Ne6+ Kh5 15. Qf3+ Kh4 16. Qh3# 1-0
+

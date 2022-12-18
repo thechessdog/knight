@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Cauveren, J."]
+[Black "Geus, K."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "0f7b303b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Nc3 Nf6 5. d3 fxe4 6. dxe4 Bb4 7. Qe2
+Bxc3+ 8. bxc3 d6 9. Bxf4 Bg4 10. Nf3 Qe7 11. O-O Nbd7 12. Qe3 O-O-O 13.
+Qxa7 Qxe4 14. Qa8+ Nb8 15. Nd4 Nd7 16. Nb5 Nc5 17. Nd4 d5 18. Rae1 Qg6 19.
+Re7 Rd7 20. Rxd7 Bxd7 21. Bxd5 Rf8 22. Qa7 Nba6 23. Rb1 Kd8 24. Qa8+ Bc8
+25. Rd1 Ke7 26. Re1+ Kd7 27. Ne6 Re8 28. Rd1 Qxc2 29. Nxc5+ Nxc5 30. Bb3+
+Qxd1+ 31. Bxd1 Re1+ 32. Kf2 Rxd1 33. Qa5 1-0
+

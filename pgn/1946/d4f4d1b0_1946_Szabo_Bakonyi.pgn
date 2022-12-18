@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Bakonyi, Elek"]
+[Result "1-0"]
+[ECO "A50"]
+[Opening "Queen's Indian accelerated"]
+[HashCode "d4f4d1b0"]
+[Epoch "Knight"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. d5 e5 5. g3 Be7 6. Bg2 d6 7. e4 Nbd7 8. Nge2
+h5 9. h4 Nf8 10. Qa4+ Qd7 11. Nb5 Kd8 12. Bh3 Qe8 13. Qc2 a6 14. Nbc3 Bc8 15.
+Bg2 Ng4 16. b4 a5 17. bxa5 Rxa5 18. Nb5 Nd7 19. Bd2 Ra8 20. a4 Nc5 21. a5 Bd7
+22. Nec3 bxa5 23. O-O f5 24. exf5 Rf8 25. Ne4 Nb7 26. Nxc7 Kxc7 27. c5 dxc5 28.
+d6+ Bxd6 29. Nxd6 Kxd6 30. Bxb7 Ra7 31. Rfc1 Kc7 32. Qxc5+ Kxb7 33. Rab1+ Ka8
+34. Qd5+ Bc6 35. Rxc6 Qf7 36. Rc8# 1-0

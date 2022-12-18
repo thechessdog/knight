@@ -1,0 +1,16 @@
+[Event "Prague sim"]
+[Site "Prague"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Důras, Oldřich"]
+[Black "Brockl, J."]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "2a05777a"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. Bc4 Nf6 6. d3 a6 7. f5 Na5 8. Bg5
+O-O 9. Nd5 b5 10. Bb3 Nxb3 11. axb3 Kh8 12. Qd2 Bb7 13. Nxf6 gxf6 14. Bh4 d5
+15. Nxe5 dxe4 16. Qh6 Be7 17. Ng6+ fxg6 18. fxg6 Bb4+ 19. c3 Qe7 20. cxb4 0-1

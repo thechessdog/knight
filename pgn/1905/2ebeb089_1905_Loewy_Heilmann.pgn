@@ -1,0 +1,18 @@
+[Event "Hauptturnier A"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "15"]
+[White "Loewy, Leopold Jr"]
+[Black "Heilmann, Ernst"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "2ebeb089"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Qd4 Qe7
+8. f3 d5 9. Bg5 c5 10. Bb5+ Kf8 11. Qd3 dxe4 12. fxe4 Qxe4+ 13. Qxe4 Bxc3+ 14.
+bxc3 Nxe4 15. Bc6 Nxg5 16. Bxa8 Ke7 17. O-O-O Be6 18. Bc6 f6 19. Rhe1 Nf7 20.
+Rd7+ 1-0

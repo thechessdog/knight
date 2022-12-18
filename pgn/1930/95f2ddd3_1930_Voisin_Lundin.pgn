@@ -1,0 +1,20 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Voisin, A."]
+[Black "Lundin, Erik"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "95f2ddd3"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 c5 6. e3 O-O 7. Be2 Nc6 8. O-O
+a6 9. cxd5 exd5 10. dxc5 Bxc5 11. Rc1 Be6 12. a3 Rc8 13. Nxd5 Qxd5 14. Qxd5
+Nxd5 15. Rxc5 Nxf4 16. exf4 Nd4 17. Nxd4 Rxc5 18. Re1 Re8 19. Bf3 Bd7 20. Kf1
+Rxe1+ 21. Kxe1 Rc1+ 22. Kd2 Rf1 23. Bxb7 Rxf2+ 24. Kc3 a5 25. f5 Bxf5 26. Nxf5
+Rxf5 27. b4 axb4+ 28. axb4 Kf8 29. Kc4 Ke7 30. b5 Kd6 31. b6 Rc5+ 32. Kb4 Rc1
+33. Be4 Re1 0-1

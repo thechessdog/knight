@@ -1,0 +1,19 @@
+[Event "Dusseldorf"]
+[Site "Dusseldorf"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "John, Walter"]
+[Black "Jacob, Franz"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "dcd7649f"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nf3 c5 3. e3 e6 4. b3 cxd4 5. exd4 Bb4+ 6. c3 Bd6 7. Bd3 Nc6 8. O-O
+Bd7 9. Re1 Rc8 10. Bb2 Qb6 11. Nbd2 Nf6 12. Ne5 O-O 13. Re3 Rfd8 14. Qe2 Be8
+15. Rh3 g6 16. Re1 Bf8 17. Kh1 Bg7 18. g4 Nxe5 19. dxe5 Nd7 20. Nf3 Nc5 21. Nd4
+Nxd3 22. Qxd3 a5 23. f4 a4 24. f5 axb3 25. axb3 exf5 26. gxf5 Bd7 27. e6 fxe6
+28. fxg6 e5 29. Rxh7 1-0

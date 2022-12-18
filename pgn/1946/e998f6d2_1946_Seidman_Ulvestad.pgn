@@ -1,0 +1,27 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Ulvestad, Olaf"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "e998f6d2"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O h6 7. Qe2 c6 8. a4
+Qc7 9. Be3 Nf8 10. dxe5 dxe5 11. Ne1 Be6 12. Rd1 Bxc4 13. Qxc4 Ne6 14. Nd3 O-O
+15. f3 Rfd8 16. Rf2 Rd7 17. Rfd2 Rad8 18. Ne2 a6 19. Ng3 Bf8 20. Qc3 b5 21.
+axb5 axb5 22. Qxe5 Bd6 23. Qf5 Bxg3 24. hxg3 Qxg3 25. e5 Nd5 26. Bf2 Qg5 27.
+Qxg5 hxg5 28. Nb4 Rc8 29. c3 Rb7 30. Nxd5 cxd5 31. Rxd5 b4 32. Be1 bxc3 33.
+Bxc3 Rc4 34. Rd7 Rb8 35. Ra1 g4 36. Kf2 gxf3 37. gxf3 Rf4 38. Ke3 Rc8 39. Rda7
+Rcc4 40. Rh1 g5 41. Ra8+ Kg7 42. Rhh8 Kg6 43. Rag8+ Kf5 44. Rh6 Rxc3+ 45. bxc3
+Kxe5 46. Rc8 Ra4 47. Rh1 Ra2 48. Rb1 Rh2 49. Rb5+ Kf6 50. c4 Rh3 51. Rcb8 Rh4
+52. Rb4 Rf4 53. Rc8 g4 54. fxg4 Rxg4 55. Rb1 Ke5 56. Rb5+ Kd6 57. Rd5+ Ke7 58.
+Kd2 Rg3 59. c5 Rg5 60. Rxg5 Nxg5 61. Kd3 Kd7 62. Rg8 Ne6 63. Kc4 Kc6 64. Rc8+
+Kd7 65. Ra8 Nc7 66. Ra1 f5 67. Re1 f4 68. Re5 Ne6 69. Rf5 Kc6 70. Rf7 Nc7 71.
+Rf6+ Kd7 72. Rxf4 Kc6 73. Rh4 1-0

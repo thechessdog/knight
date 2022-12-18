@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "8"]
+[White "Mogilevsky, Vladimir"]
+[Black "Vulfson, Vladimir"]
+[Result "1-0"]
+[ECO "C90"]
+[Opening "Ruy Lopez"]
+[Variation "closed (with ...d6)"]
+[HashCode "47bdd10a"]
+[Epoch "Knight"]
+[BlackID "4116283"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 Rb8 10. a5 Be6 11. d4 Bg4 12. d5 Na7 13. Be3 c5 14. Nbd2 Qd7 15. h3
+Bh5 16. Bg5 Rfe8 17. Bxf6 Bxf6 18. g4 Bg6 19. Nf1 h5 20. g5 Bd8 21. Kh2 Kh7 22.
+Bc2 f6 23. Ne3 fxg5 24. Rg1 Rf8 25. Nf5 Be8 26. Nxg5+ Bxg5 27. Rxg5 g6 28. Qe2
+Rf6 29. Rag1 Qf7 30. Rxg6 Qxg6 31. Rxg6 Bxg6 32. f4 Re8 33. fxe5 Rxe5 34. Qd2
+Bxf5 35. exf5 Rf7 36. Qg5 Rf8 37. Qxh5+ Kg8 38. Qg6+ Kh8 39. Qh6+ Kg8 40. f6
+Rf7 41. Bf5 1-0

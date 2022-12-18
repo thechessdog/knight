@@ -1,0 +1,17 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Rothman, A."]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "50908c98"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. e3 O-O 7. a3 Bxc3+ 8.
+Qxc3 Re8 9. b4 e5 10. dxe5 dxe5 11. Bb2 Bg4 12. b5 Bxf3 13. gxf3 Nd4 14. O-O-O
+1-0

@@ -1,0 +1,19 @@
+[Event "URS-sf"]
+[Site "Kiev"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Rauzer, Vsevolod"]
+[Black "Zhukhovitsky, Samuel"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "09ca1683"]
+[Epoch "Knight"]
+[BlackID "4101383"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Qe2 Nd8 14. a4 bxa4 15.
+Nbd4 a3 16. Nxe6 Nxe6 17. Nd4 Rab8 18. Ba4 Nxd4 19. Qxa6 Qe6 0-1

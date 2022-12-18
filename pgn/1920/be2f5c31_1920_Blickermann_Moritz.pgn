@@ -1,0 +1,16 @@
+[Event "Kulmbach"]
+[Site "Kulmbach"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Blickermann"]
+[Black "Moritz, Bruno"]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "be2f5c31"]
+[Epoch "Knight"]
+[BlackCountry "ECU"]
+
+1. c4 e6 2. Nc3 f5 3. d4 Nf6 4. e3 Bb4 5. Bd3 O-O 6. Ne2 b6 7. O-O Bb7 8. f3 c5
+9. a3 Bxc3 10. Nxc3 cxd4 11. exd4 Nh5 12. Qe1 Qf6 13. Be3 Nc6 14. d5 Ne5 15.
+Qe2 Rae8 16. Kh1 exd5 17. cxd5 f4 18. Bf2 Ng4 19. Be4 Nxh2 20. Kxh2 Qh6 0-1

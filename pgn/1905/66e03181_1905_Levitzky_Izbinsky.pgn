@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Levitsky, Stepan M"]
+[Black "Izbinsky, Stefan"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "66e03181"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 Bc5 7. O-O f6 8. Ne5
+fxe5 9. Qh5+ Kd7 10. Qxe5 Bd6 11. Qxg7+ Ne7 12. Bg5 Kc7 13. Rf7 Re8 14. e5 Bc5
+15. Nd2 h6 16. Bh4 d3+ 17. Kh1 dxc2 18. Nb3 Bb4 19. a3 b5 20. axb4 bxc4 21. Nc5
+Qd1+ 22. Rf1 Qg4 23. Qf7 Qxh4 24. Qxe8 Nd7 25. g3 Qg4 26. Qxe7 Qe2 27. e6 Qe5
+28. Qf7 Qd5+ 29. Kg1 Qd4+ 30. Kg2 Qxb2 31. Kh3 Qxb4 32. exd7 Qxc5 33. dxc8=Q+
+Kxc8 34. Rae1 1-0

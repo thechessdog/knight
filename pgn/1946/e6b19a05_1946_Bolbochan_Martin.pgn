@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bolbochan, Jacobo"]
+[Black "Martin, Pedro"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "e6b19a05"]
+[Epoch "Knight"]
+[BlackID "108383"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. a3 dxc4 8. Bxc4
+cxd4 9. exd4 Be7 10. O-O Nbd7 11. Bf4 Nb6 12. Bb3 Nbd5 13. Be5 b6 14. Qd3 Bb7
+15. Qh3 Rc8 16. Rfe1 a6 17. Rad1 Nxc3 18. Nxc3 Nd5 19. Rd3 Nxc3 20. bxc3 Bf6
+21. Rde3 Ra8 22. Rd3 Rc8 23. Rde3 Ra8 24. Rd3 Rc8 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1917.01.01"]
+[Round "1"]
+[White "Vogt, Lothar"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "b03f6879"]
+[Epoch "Knight"]
+[WhiteID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Qe2 Ngf6 6. Nd6# 1-0

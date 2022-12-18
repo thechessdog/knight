@@ -1,0 +1,19 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Spanjaard, Eduard"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[ECO "E95"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7, 8.Re1"]
+[HashCode "d9f696ce"]
+[Epoch "Knight"]
+[BlackID "710741"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8. Re1
+Re8 9. Bf1 c6 10. b3 exd4 11. Nxd4 Nc5 12. f3 a5 13. Be3 d5 14. cxd5 cxd5 15.
+Ndb5 Na6 16. exd5 Nb4 17. Bc4 Bd7 18. d6 Bxb5 19. Nxb5 Nfd5 20. Bxd5 Rxe3 21.
+Rxe3 Qb6 22. Bc4 Qxe3+ 23. Kf1 Bxa1 24. Qxa1 Nd3 0-1

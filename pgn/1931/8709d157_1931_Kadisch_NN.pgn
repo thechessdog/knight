@@ -1,0 +1,16 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Kadisch"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "8709d157"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d6 4. Nf3 Nbd7 5. Bc4 Be7 6. Bxf7+ Kxf7 7. Ng5+
+Kg6 8. f5+ Kxg5 9. d3+ Kh4 10. Qf3 1-0
+

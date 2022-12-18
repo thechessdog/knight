@@ -1,0 +1,27 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.08.01"]
+[Round "1"]
+[White "Chekhover, Vitaly"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[HashCode "b60e2d69"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nc3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+c5 9. a4 b4 10. Ne4 Nbd7 11. O-O Bb7 12. Qc2 cxd4 13. exd4 Bxe4 14. Bxe4 Nxe4
+15. Qxe4 Be7 16. Ng5 h6 17. Nf3 O-O 18. Ne5 Nf6 19. Qb7 Bd6 20. Bf4 Qb8 21. Qf3
+Nd5 22. Nd7 Qa7 23. Bxd6 Rfd8 24. Ne5 Rxd6 25. Rac1 Rf8 26. Rc5 Ne7 27. Rfc1
+Qb8 28. Qf4 Qd8 29. Nf3 Nf5 30. R5c4 Ne7 31. h3 Nd5 32. Qg3 a5 33. Rc5 Qb6 34.
+Ne5 Qa6 35. Nc4 Rc6 36. Ne5 Rxc5 37. dxc5 Qe2 38. Nd3 Rc8 39. Kh2 Qd2 40. Qf3
+Rd8 41. Rc4 Qg5 42. c6 Qe7 43. Qg3 Qc7 44. Qxc7 Nxc7 45. Nc5 Kf8 46. Nb3 Rd5
+47. Rc5 Ke7 48. Rxd5 Nxd5 49. Nxa5 Kd6 50. Nc4+ Kc7 51. b3 f6 52. Ne3 Nf4 53.
+Nc2 Nd3 54. Kg3 Kxc6 55. Kf3 Kc5 56. Ke3 Nc1 57. Nd4 e5 58. Kd2 Kxd4 59. Kxc1
+f5 60. Kd2 e4 61. g3 g6 62. Ke2 Ke5 63. h4 Kd4 64. a5 Kc5 65. Ke3 g5 66. hxg5
+hxg5 67. g4 fxg4 68. Kxe4 Kb5 69. Kf5 Kxa5 70. Kxg5 Kb5 71. Kxg4 Kc5 72. f4 Kd6
+73. Kg5 Ke7 74. Kg6 1-0

@@ -1,0 +1,17 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Smogrovics"]
+[Black "Von Schuetz, H."]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "17ba96b6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Bxc3
+8. Nxc3 dxc3 9. Re1 Nge7 10. Ng5 Ne5 11. Qh5 g6 12. Qh6 Ng8 13. Qh4 Nxc4
+14. e5 b5 15. Qe4 Rb8 16. Qd4 Kf8 17. e6 Qf6 18. exf7 Qxd4 19. Re8+ Kg7 20.
+f8=Q# 1-0
+

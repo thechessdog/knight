@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Kupchik, Abraham"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "93f11f0c"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Bd7 12. Nbd2 Nc6 13. Nf1 cxd4 14. cxd4 exd4 15.
+Bf4 Be6 16. Rc1 Qb6 17. Bb1 O-O 18. g4 Nd7 19. Ng3 g6 20. Nf5 gxf5 21. gxf5 Kh8
+22. Kh1 Nde5 23. fxe6 fxe6 24. Nxe5 Nxe5 25. Bg3 Bg5 26. Qh5 Qd8 27. Rcd1 Qf6
+28. Rf1 Bf4 29. Bh4 Qg6 30. Qxg6 Nxg6 31. Bg3 Bxg3 32. fxg3 Rxf1+ 33. Rxf1 Rf8
+34. Rxf8+ Nxf8 35. Bd3 Nd7 36. a4 bxa4 37. Bxa6 Nc5 38. Bb5 d3 39. Kg2 d2 40.
+Be2 Nd3 0-1

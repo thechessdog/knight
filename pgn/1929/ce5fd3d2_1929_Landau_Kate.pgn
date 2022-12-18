@@ -1,0 +1,18 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Landau, Salo"]
+[Black "Kate"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "ce5fd3d2"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Rc1 O-O 8. Bd3
+b6 9. cxd5 Nxd5 10. Nxd5 cxd5 11. Bxe7 Qxe7 12. Rc7 Qb4+ 13. Qd2 Qxd2+ 14. Kxd2
+a6 15. Rhc1 Rd8 16. R1c6 h6 17. Rd6 Kf8 18. Ne5 Ke8 19. Nc6 a5 20. Bb5 Ba6 21.
+Bxa6 Rxa6 22. Rdxd7 Rxd7 23. Rc8+ Rd8 24. Rxd8# 1-0

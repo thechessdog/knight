@@ -1,0 +1,19 @@
+[Event "Algiers"]
+[Site "Algiers"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Lamerat"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Vistaneckis (Nimzovich) variation"]
+[HashCode "085c919b"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ng8 6. Be3 Nd7 7. f4 Bb4 8. Nf3
+Ne7 9. Bd3 c5 10. a3 cxd4 11. axb4 dxc3 12. bxc3 Qc7 13. Qd2 f6 14. O-O O-O 15.
+Bd4 fxe5 16. Nxe5 Nc6 17. Nxd7 Bxd7 18. Bc5 Rf7 19. Be3 b6 20. Qe2 Re8 21. b5
+Na5 22. Bd4 Rxf4 23. Qh5 Rf5 24. Bxf5 exf5 25. Rae1 g6 26. Qg5 Qd6 27. Rxe8+
+Bxe8 28. Rxf5 1-0

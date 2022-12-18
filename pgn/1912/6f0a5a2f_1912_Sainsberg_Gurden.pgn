@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Sainsberg"]
+[Black "Gurden"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "6f0a5a2f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. f4
+Nxe4 8. fxe5 Ne6 9. Qf3 N4g5 10. Bxg5 Nxg5 11. Bxf7+ Kf8 12. Qh5 g6 13.
+Qh6+ 1-0
+

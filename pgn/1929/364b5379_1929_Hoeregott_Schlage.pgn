@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Hoeregott"]
+[Black "Schlage, Willi"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "364b5379"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 f6 6. Qd5 fxe5 7. Nxe5 Ngxe5
+8. Bxe5 Qg5 9. Bxc7 Qc1+ 10. Qd1 Bb4+ 11. Nd2 Bxd2# 0-1

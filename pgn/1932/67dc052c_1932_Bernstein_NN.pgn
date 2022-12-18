@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "67dc052c"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. O-O Nge7 5. Ng5 f6 6. Bf7+ Kd7 7. Qg4+ f5 8.
+exf5 h5 9. f6+ hxg4 10. Be6+ Ke8 11. f7# 1-0

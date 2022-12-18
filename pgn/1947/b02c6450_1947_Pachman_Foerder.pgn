@@ -1,0 +1,19 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Pachman, Ludek"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "b02c6450"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 dxc4 7. Qxc4 O-O 8.
+Nf3 b6 9. g3 c5 10. dxc5 Ba6 11. Qa4 bxc5 12. Bg2 Qb6 13. Ne5 Nd5 14. O-O Bxe2
+15. Re1 Bb5 16. Qg4 f5 17. Qd1 Na6 18. a4 Be8 19. Nc4 Qd8 20. Rxe6 Nac7 21. Rd6
+Qe7 22. Rxd5 Nxd5 23. Bxd5+ Bf7 24. Nd6 Rad8 25. Nxf7 1-0

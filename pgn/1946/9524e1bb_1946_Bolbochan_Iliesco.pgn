@@ -1,0 +1,29 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bolbochan, Jacobo"]
+[Black "Iliesco, Juan Traian"]
+[Result "1-0"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[HashCode "9524e1bb"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. Re1 b6 10. b3 Bb7 11. Rb1 exd4 12. Nxd4 Nc5 13. f3 a5 14. Be3 Nfd7 15.
+Nd5 Ne6 16. Qd2 Ndc5 17. Rbd1 Bxd5 18. cxd5 Nxd4 19. Bxd4 Bxd4+ 20. Qxd4 Re7
+21. h4 Qf8 22. Bf1 Qg7 23. Qxg7+ Kxg7 24. Bb5 Rf8 25. g4 h6 26. Kf2 f6 27. Re3
+g5 28. h5 Nd7 29. Rc1 Ne5 30. Rec3 Rff7 31. Ba6 Kf8 32. Bb5 Kg8 33. a3 Kf8 34.
+b4 axb4 35. axb4 Kg7 36. Ra1 Rf8 37. Ra7 Rff7 38. Ra2 Rf8 39. Rac2 Rff7 40. Ba6
+Kf8 41. Bc8 Rg7 42. Bf5 Rgf7 43. Ke2 Rg7 44. Ra3 Re8 45. Ra6 Rf7 46. Rca2 Rb8
+47. Ra8 Rxa8 48. Rxa8+ Kg7 49. Rc8 Re7 50. Be6 Kh7 51. Ra8 Kg7 52. Bf5 Nf7 53.
+Ra3 Ne5 54. Rc3 Kf7 55. Ke3 Kg7 56. f4 gxf4+ 57. Kxf4 Nf7 58. Ra3 Ng5 59. Ra8
+Nh3+ 60. Ke3 Ng5 61. Kd3 Kf7 62. Kc4 Nxe4 63. Be6+ Kg7 64. Rg8+ Kh7 65. Rg6
+Nd2+ 66. Kb5 Nf3 67. Rxf6 Ne5 68. Rf8 Kg7 69. Rg8+ Kh7 70. Rc8 Kg7 71. Bf5 Nf3
+72. Ka6 Ne5 73. b5 Nc4 74. Be6 Kh7 75. Kb7 c5+ 76. Kc6 Ra7 77. Bf5+ Kg7 78. Bd3
+Ne5+ 79. Kxb6 Ra4 80. Bf5 Rb4 81. Rc6 Kf7 82. Rxd6 c4 83. Rxh6 c3 84. Rh7+ Kf6
+85. Rc7 Nc4+ 86. Kc5 Ra4 87. Bc2 Ra2 88. Kxc4 Rxc2 89. h6 1-0

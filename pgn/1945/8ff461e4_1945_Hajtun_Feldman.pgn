@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Hajtun, Joseph"]
+[Black "Feldman, Vladimir"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "8ff461e4"]
+[Epoch "Knight"]
+[BlackID "3201791"]
+[BlackCountry "AUS"]
+
+1. b4 a5 2. b5 c5 3. bxc6 Nxc6 4. Nf3 d5 5. g3 e5 6. d3 Nf6 7. Bg2 Bc5 8. O-O
+Qe7 9. Nc3 e4 10. Nd2 Bd4 11. Nb5 Bxa1 12. Ba3 Nb4 13. Qxa1 O-O 14. Nd4 e3 15.
+N2f3 1-0

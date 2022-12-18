@@ -1,0 +1,18 @@
+[Event "Hanover"]
+[Site "Hanover"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Smith, Andrew Philip"]
+[Black "Cohn, Wilhelm"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "ba2f9a38"]
+[Epoch "Knight"]
+[WhiteID "2500833"]
+[WhiteCountry "IRL"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. Nf3 Nc6 6. Nxd4 Nxd4 7. cxd4 Nf6
+8. Nc3 Bb4 9. Qa4+ 1-0

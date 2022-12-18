@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Lowenborg, Otto"]
+[Black "Olson, Anton"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Soerensen defence"]
+[HashCode "669e9304"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. d4 exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Nf3 Bg4 7. Be2 O-O-O
+8. Nc3 Bb4 9. a3 Bxc3+ 10. bxc3 Nf6 11. O-O Rhe8 12. Rb1 Qe4 13. Rb2 Nd5 14.
+Qb3 Na5 15. Qb5 Nxc3 16. Qxa5 Nxe2+ 17. Rxe2 Qxe2 18. Bf4 b6 19. Qxa7 Re7 20.
+Rc1 c5 21. Qxb6 Bxf3 22. gxf3 Kd7 23. Rxc5 Ke8 24. Qc6+ Rdd7 25. Rd5 1-0

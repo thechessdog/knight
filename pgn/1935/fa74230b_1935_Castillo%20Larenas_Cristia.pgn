@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1935.01.01"]
+[Round "12"]
+[White "Castillo Larenas, Mariano"]
+[Black "Cristia, Jose Maria"]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "fa74230b"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "CHL"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bf5 6. Nbd2 Nb4 7. Qa4+ c6 8. Nh4
+Qd7 9. Nxf5 Qxf5 10. Bg2 Qc2 11. Nb3 Qxc4 12. O-O Be7 13. Bd2 b5 14. Qa5 Nc2
+15. Rac1 Bd8 16. Qa6 Bb6 17. Na5 Bxa5 18. Bxc6+ Kf8 19. Bxa5 Re8 20. Bxe8 Kxe8
+21. Qxa7 Ne7 22. Qa8+ Nc8 23. Qe4 d3 24. exd3 1-0

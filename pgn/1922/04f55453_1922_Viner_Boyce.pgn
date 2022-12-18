@@ -1,0 +1,17 @@
+[Event "Melbourne"]
+[Site "Melbourne"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Viner, W."]
+[Black "Boyce, C."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack"]
+[HashCode "04f55453"]
+[Epoch "Knight"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bg5 Ne4 4. Nxe4 dxe4 5. e3 Qd5 6. Bf4 c6 7. Qd2 e6
+8. c4 Qd8 9. Ne2 Na6 10. a3 Nc7 11. Nc3 f5 12. f3 exf3 13. gxf3 Bd6 14. Qg2
+O-O 15. Bg5 Be7 16. h4 Ne8 17. O-O-O Nf6 18. Bd3 b5 19. Rdg1 Rf7 20. Bh6
+Nh5 21. f4 bxc4 22. Be2 Kh8 23. Bxh5 g6 24. Bxg6 1-0
+

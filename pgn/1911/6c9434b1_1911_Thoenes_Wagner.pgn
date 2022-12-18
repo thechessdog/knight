@@ -1,0 +1,18 @@
+[Event "Cologne-B3"]
+[Site "Cologne"]
+[Date "1911.01.01"]
+[Round "3"]
+[White "Thoenes"]
+[Black "Wagner, Heinrich"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "6c9434b1"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. c3 O-O 8. O-O
+d6 9. d3 h6 10. Rd1 Qe7 11. Be3 Bxe3 12. fxe3 Na5 13. Nbd2 Be6 14. Bxe6 fxe6
+15. d4 exd4 16. cxd4 d5 17. Ne5 Kh7 18. Qd3 dxe4 19. Nxe4 g6 20. Rf1 Nd7 21.
+Nxg6 1-0

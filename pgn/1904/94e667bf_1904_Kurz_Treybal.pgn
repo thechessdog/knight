@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Kurz, Eugen"]
+[Black "Treybal, Karel"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Salvio gambit"]
+[HashCode "94e667bf"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteID "4605152"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 d5 6. Bxd5 Qh4+ 7. Kf1 Nf6 8.
+Bxf7+ Kd8 9. d4 Nc6 10. Nxc6+ bxc6 11. Nc3 f3 12. g3 Qh3+ 13. Kf2 Qg2+ 14. Ke3
+Ba6 15. Kf4 Bh6+ 16. Kf5 Qh3 17. Kxf6 Rf8 18. d5 Rxf7+ 19. Kxf7 Qh5+ 20. Kf6
+Bg7+ 21. Kxg7 Qg6+ 22. Kf8 Kd7# 0-1

@@ -1,0 +1,16 @@
+[Event "Omaha"]
+[Site "Omaha"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Ohman"]
+[Black "Buckle, Henry"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "8dff2283"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 d6 3. f4 exf4 4. Nf3 Be7 5. Bc4 Bh4+ 6. g3 fxg3 7. O-O
+gxh2+ 8. Kh1 Bg3 9. Bxf7+ Kxf7 10. Ne5+ Ke6 11. Qg4+ Kxe5 12. d4+ Kxd4 13.
+Be3+ Kxe3 14. Rad1 Bxg4 15. Rd3# 1-0
+

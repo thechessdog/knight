@@ -1,0 +1,18 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Rothman, A."]
+[Black "Levin, Jacob"]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "99844dfa"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Bg4 8. d4
+Be7 9. Be3 O-O 10. h3 Bh5 11. Nbd2 exd4 12. cxd4 d5 13. e5 Ne4 14. Rc1 Na5 15.
+Bc2 Nxd2 16. Bxd2 Nc4 17. Bf4 Nxb2 18. Bxh7+ Kh8 19. Qc2 Bxf3 20. gxf3 Bg5 21.
+Be3 Bxe3 22. fxe3 Qg5+ 23. Kf2 Nc4 0-1

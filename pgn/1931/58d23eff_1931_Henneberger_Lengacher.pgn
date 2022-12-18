@@ -1,0 +1,17 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Henneberger, Walter"]
+[Black "Lengacher"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "58d23eff"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Bxc3+ 7. bxc3
+a6 8. O-O d5 9. e5 Nfd7 10. Qg4 Kf8 11. Ba3+ Kg8 12. Nxe6 fxe6 13. Qxe6#
+1-0
+

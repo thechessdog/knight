@@ -1,0 +1,18 @@
+[Event "Radebeul"]
+[Site "Radebeul"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Schmid"]
+[Black "Welz"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "9355d37b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Ne7 6. O-O Bd7 7. Nc3 Ne5
+8. f4 Bxb5 9. Ndxb5 N5c6 10. Nd5 Nxd5 11. exd5 Ne7 12. f5 a6 13. Nc3 Qd7
+14. Qd4 Nxf5 15. Qf2 g6 16. Bg5 Bg7 17. Rae1+ Kf8 18. Ne4 Bd4 19. Qxd4 Nxd4
+20. Nf6 1-0
+

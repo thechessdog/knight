@@ -1,0 +1,17 @@
+[Event "New York simul"]
+[Site "New York simul"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Tucci & Silverstein"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "c00f7a35"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 d6 5. Bd3 Bb7 6. f4 Be7 7. Nf3 c5 8. e5 dxe5
+9. dxe5 Nfd7 10. Qe2 Nc6 11. Be3 a6 12. Rd1 Qc7 13. Bf2 O-O-O 14. O-O h6 15. a3
+g5 16. Nd5 exd5 17. cxd5 Ndxe5 18. fxe5 Nd4 19. Nxd4 Rxd5 20. Nf3 Qc6 21. Be4
+1-0

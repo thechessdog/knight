@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Puc, Stojan"]
+[Black "Kazic, Bozidar"]
+[Result "1-0"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "d049c80b"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 b5 8. Bc2
+Bg4 9. a4 O-O 10. d3 Qd7 11. Nbd2 d5 12. Qe2 d4 13. c4 b4 14. h3 Bxf3 15. Qxf3
+a5 16. Nf1 Bc5 17. b3 Qe6 18. Bd1 Ne8 19. g4 f6 20. Qg3 Ne7 21. h4 Bd6 22. Bf3
+Ng6 23. Qh2 c5 24. h5 Ne7 25. Ng3 g6 26. Kg2 Kf7 27. hxg6+ hxg6 28. Qh7+ Ng7
+29. Bh6 Rg8 30. Rh1 Raf8 31. Nf5 gxf5 32. gxf5 1-0

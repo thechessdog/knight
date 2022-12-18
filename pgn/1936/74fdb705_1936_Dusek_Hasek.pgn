@@ -1,0 +1,18 @@
+[Event "Kautsky mem13 "]
+[Site "Prague"]
+[Date "1936.??.??"]
+[Round "2"]
+[White "Dusek, Adolf"]
+[Black "Hasek, Josef"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "74fdb705"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 Bg4
+8. O-O O-O 9. h3 Bh5 10. c3 Bc7 11. Re1 Qd6 12. g4 Bg6 13. Bxg6 fxg6 14. Qb3+
+Kh8 15. Re6 Qd7 16. Bd2 Na6 17. Rae1 Bd6 18. c4 b6 19. R6e3 f5 20. gxf5 Qxf5
+21. Re6 Qxh3 22. Rxd6 Rxf3 23. Re3 Qg4+ 24. Kf1 Rxf2+ 25. Kxf2 Qf4+ 26. Rf3
+Qxd6 0-1

@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Reinfeld"]
+[Black "Adams, Weaver Warren"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "00d98a09"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e5 4. Nxe5 Nxe5 5. dxe5 dxc4 6. Qxd8+ Kxd8 7. Nc3 c6
+8. Bg5+ Kc7 9. O-O-O Be6 10. e3 h6 11. Bh4 g5 12. Bg3 Ne7 13. h4 Nf5 14. Ne4
+Bd5 15. Nc3 Be6 16. Ne4 Bd5 17. Nc3 Be6 1/2-1/2

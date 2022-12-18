@@ -1,0 +1,18 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Elsas, H."]
+[Black "Rellstab, Ludwig Sr"]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "cbf09bad"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 f5 8. exf6
+Nxf6 9. Nf3 c5 10. a3 Bxc3+ 11. bxc3 cxd4 12. cxd4 Nc6 13. O-O Bd7 14. Bf4 Be8
+15. Be5 dxc4 16. Qxc4 Nd5 17. Rab1 Rc8 18. Qa2 Rxf3 19. gxf3 Nxe5 20. dxe5 Nf4
+21. Bf5 Qg5+ 22. Bg4 h5 23. h4 Qg6 24. Qd2 Rc4 25. Kh2 hxg4 26. Rb4 g3+ 0-1

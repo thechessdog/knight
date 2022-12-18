@@ -1,0 +1,22 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Vajda, Arpad"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Chigorin variation"]
+[HashCode "048f32cb"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 Be7 5. g3 Nf6 6. Bg2 b6 7. O-O O-O 8. c3
+Bb7 9. h3 d5 10. e5 Ne4 11. Kh2 c4 12. b3 b5 13. d3 cxd3 14. Qxd3 b4 15. Nd4
+Nxd4 16. Qxd4 Bc5 17. Qd3 Qb6 18. Qc2 Nxc3 19. Nxc3 bxc3 20. f5 exf5 21. Qxf5
+Qe6 22. Qc2 Rac8 23. Bf4 Ba6 24. Rfd1 d4 25. Be4 g6 26. b4 d3 27. Bxd3 Bxd3 28.
+Rxd3 Bxb4 29. a3 Ba5 30. Rad1 Rb8 31. Bc1 Rb5 32. Rd6 Qxe5 33. a4 Qf5 34. R1d3
+Re5 35. Bf4 Re1 36. Qg2 c2 37. R6d5 Qxf4 38. gxf4 c1=Q 39. Rxa5 Qxf4+ 40. Rg3
+Rf1 0-1

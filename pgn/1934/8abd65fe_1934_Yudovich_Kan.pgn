@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.08.01"]
+[Round "1"]
+[White "Yudovich, Mikhail Sr"]
+[Black "Kan, Ilya"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "8abd65fe"]
+[Epoch "Knight"]
+[BlackID "24187372"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. e4 Ng4 7. Nd1 b6 8. Be2
+Ne5 9. Nf3 Nbc6 10. Nxe5 Nxe5 11. O-O Bb7 12. Be3 O-O 13. Qc3 Nc6 14. Qd2 Qe7
+15. Nc3 Bxe3 16. Qxe3 Qc5 17. Qd2 Nd4 18. Rfd1 Nxe2+ 19. Qxe2 Rfd8 20. b3 d5
+21. exd5 exd5 22. Nxd5 Bxd5 23. cxd5 Rxd5 24. Rxd5 Qxd5 25. Rd1 Qc6 1/2-1/2

@@ -1,0 +1,19 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Jacobson, Ernst"]
+[Black "Hoenlinger, Baldur"]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "697cf9ff"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Bg5 Be7 5. Nc3 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. Rc1 c5 10. Qe2 dxc4 11. Bxc4 Nd5 12. Bxe7 Nxc3 13. Rxc3 Qxe7 14. Bb5
+Nf6 15. dxc5 Ne4 16. Rc2 Nxc5 17. b4 Ne4 18. a3 Rac8 19. Rfc1 Rxc2 20. Rxc2 Qf6
+21. Nd4 e5 22. Nb3 Ng5 23. Nd2 Qg6 24. e4 Nxe4 25. Bd3 Nc3 26. Qf1 Ne2+ 27.
+Bxe2 Qxc2 0-1

@@ -1,0 +1,31 @@
+[Event "Bournemouth"]
+[Site "Bournemouth"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Abrahams, Gerald"]
+[Result "0-1"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "8d3d56e3"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. d3 Bg7 5. Bg2 d6 6. Nge2 Nf6 7. Nd5 h5 8. h3 h4
+9. g4 e6 10. Nxf6+ Bxf6 11. c3 g5 12. f4 e5 13. fxg5 Bxg5 14. O-O Rg8 15. Kh2
+Be6 16. Ng1 Bxc1 17. Qxc1 Qd7 18. Qe3 O-O-O 19. Nf3 Kb8 20. Rg1 Ne7 21. d4 cxd4
+22. cxd4 exd4 23. Nxd4 Ng6 24. Rad1 Ne5 25. Nf3 Qb5 26. Qd4 Bxg4 27. hxg4 h3
+28. Nxe5 hxg2 29. Rxg2 Rh8+ 30. Kg3 dxe5 31. Qxd8+ Rxd8 32. Rxd8+ Kc7 33. Rd5
+Qc6 34. g5 Qe6 35. Rc2+ Kb6 36. Rf2 Qe7 37. Rf6+ Kc7 38. Rf5 a5 39. a3 Qe6 40.
+Rf6 Qe8 41. Rxa5 Kb8 42. b4 Qe7 43. Rd5 Qc7 44. Rc5 Qe7 45. Kh4 Ka7 46. Rd5 Qc7
+47. Ra5+ Kb8 48. Rc5 Qe7 49. Rf5 Ka7 50. Ra5+ Kb8 51. Rfxe5 Qd6 52. Rad5 Qf8
+53. Kg4 Qc8+ 54. Rf5 Qe6 55. Kf4 Qb6 56. Ke5 Qe6+ 57. Kd4 Qb6+ 58. Rc5 Qd6+ 59.
+Rfd5 Qh2 60. Rc3 Qd2+ 61. Rd3 Qb2+ 62. Ke3 Qg2 63. b5 Qg3+ 64. Kd4 Qg1+ 65. Kc3
+Qe1+ 66. Kd4 Qg1+ 67. Re3 Qa1+ 68. Rc3 Qg1+ 69. Kc4 Qf1+ 70. Kc5 Qf2+ 71. Kd6
+Qf4+ 72. Kc5 Ka7 73. Rc4 Qf2+ 74. Kb4 Qe1+ 75. Ka4 Qa1 76. Rb4 Kb6 77. Rbd4 Ka7
+78. Rd6 Qa2 79. Kb4 Qb2+ 80. Kc4 Qc1+ 81. Kd3 Qxa3+ 82. Kc4 Qc1+ 83. Kb4 Qb2+
+84. Kc5 Qc1+ 85. Kb4 Qb2+ 86. Kc5 Qc1+ 87. Rc4 Qa3+ 88. Rb4 Qc3+ 89. Rc4 b6+
+90. Rxb6 Qe5+ 91. Kb4 Kxb6 92. Rc6+ Kb7 93. Rf6 Qxe4+ 94. Kb3 Qe3+ 95. Kb4 Qxg5
+0-1

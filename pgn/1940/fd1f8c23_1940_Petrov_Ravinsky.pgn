@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Petrovs, Vladimirs"]
+[Black "Ravinsky, Grigory Ionovich"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "fd1f8c23"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "LVA"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 e5 4. cxd5 Qxd5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 e4 8.
+Nd2 Nf6 9. e3 O-O 10. Qc2 Re8 11. Bc4 Qf5 12. Nf1 Qg6 13. Ng3 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Budapest-B"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Kovach"]
+[Black "Tipary, Lajos"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "d6c24193"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. Ng3 Nc6 6. Bc4 e5 7. d3 Be7 8. O-O
+Be6 9. Bb5 Qc7 10. Nh5 Bf6 11. Ng5 O-O-O 12. Nxe6 fxe6 13. f4 g6 14. Nxf6 Nxf6
+15. Bxc6 Qxc6 16. fxe5 Nd7 17. Bg5 Rde8 18. Bf6 Rhg8 19. c3 dxc3 20. bxc3 c4
+21. d4 Qxe4 22. Qa4 Qd5 23. Qxa7 Kc7 24. Qa3 Ra8 25. Qb4 Ra7 26. Be7 Rga8 27.
+Bd6+ Kc6 28. Rab1 b6 29. Rf7 b5 30. Bc5 Rb7 31. Be7 Rxa2 32. Qd6+ Qxd6 33. Bxd6
+Rc2 34. d5+ exd5 35. e6 Kxd6 36. Re1 Rxc3 37. e7 Rb8 38. e8=Q Rxe8 39. Rxe8 Nb6
+40. Rb8 Na4 41. Rxb5 Rb3 42. Rxb3 cxb3 43. Rb7 b2 44. Kf1 Kc6 45. Rb3 Kc5 46.
+Ke1 Kc4 47. Rb8 Kd3 48. h4 Kc2 0-1

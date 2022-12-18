@@ -1,0 +1,14 @@
+[Event "Brooklyn"]
+[Site "Brooklyn"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Schroder, (Knight Era)"]
+[Black "Blake, Joseph Henry"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "f793a69b"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 Nf6 4. Nc3 Bf5 5. Qe2 c6 6. Ngxe4 Nbd7 7. Nd6# 1-0

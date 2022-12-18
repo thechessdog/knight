@@ -1,0 +1,23 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Schories"]
+[Black "Selesniev"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Showalter variation"]
+[HashCode "73adccb1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bxc6 Bxc6
+8. Qd3 exd4 9. Nxd4 O-O 10. Nxc6 bxc6 11. Bf4 Qb8 12. b3 Nd7 13. Rfe1 Bf6
+14. Rad1 Re8 15. a3 Qb7 16. f3 Re7 17. Re2 Rae8 18. Red2 Nb6 19. a4 a5 20.
+Ne2 c5 21. Ng3 g6 22. Nf1 c4 23. bxc4 Nxa4 24. Qb3 Qa7+ 25. Be3 Nc5 26. Qa3
+Rb8 27. c3 Qb6 28. Rd5 Re5 29. Rxe5 Bxe5 30. f4 Bg7 31. e5 Qb3 32. Ra1 Qxa3
+33. Rxa3 Nb3 34. exd6 cxd6 35. Nd2 Nxd2 36. Bxd2 Rb2 37. Be1 Re2 38. Bg3 f5
+39. Rxa5 Bxc3 40. Ra8+ Kf7 41. Ra7+ Kf6 42. Rxh7 Bd4+ 43. Kf1 Rc2 44. Rc7
+Bc5 45. Rh7 Rxc4 46. Bh4+ Ke6 47. Bg5 Rc2 48. Bh4 Rc4 49. Bg5 Kd5 50. Rg7
+Ke4 51. Rxg6 Rc1+ 52. Ke2 Rc2+ 53. Kd1 Rxg2 54. h4 Kd3 55. Re6 Bd4 0-1
+

@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "a17743e4"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. cxd5 Bxf3 6. gxf3 cxd5 7. Nc3 Nc6 8.
+Qb3 Qd7 9. Bd2 e6 10. Rc1 Be7 11. Na4 O-O 12. Bb5 Rab8 13. O-O e5 14. dxe5 Ng4
+15. Bc3 Qe6 16. fxg4 Qxg4+ 1/2-1/2

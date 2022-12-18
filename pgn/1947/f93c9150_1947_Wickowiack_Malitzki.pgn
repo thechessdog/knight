@@ -1,0 +1,16 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Wickowiack"]
+[Black "Malitzki"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "f93c9150"]
+[Epoch "Knight"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 Bb4 5. Bd3 O-O 6. Ne2 d6 7. a3 Bxc3+ 8. Nxc3
+e5 9. dxe5 dxe5 10. Qc2 e4 11. Be2 Nc6 12. Bd2 Be6 13. Rd1 Qe7 14. O-O Rad8 15.
+Na4 Ne5 16. Bb4 Qf7 17. Bxf8 Rxf8 18. b3 Nf3+ 19. gxf3 Qh5 20. f4 Ng4 21. Bxg4
+Qxg4+ 22. Kh1 Qf3+ 23. Kg1 Rf6 24. Rd8+ Kf7 25. Rc1 Qh3 0-1

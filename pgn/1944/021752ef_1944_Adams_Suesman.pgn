@@ -1,0 +1,18 @@
+[Event "US Open"]
+[Site "US Open"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Adams"]
+[Black "Suesman"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "021752ef"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Bg7 7. Bg2 Bg4 8.
+Qd3 Qc8 9. h3 Bd7 10. Be3 Nc6 11. b3 O-O 12. g4 Nb4 13. Qd2 e5 14. Nde2 Bc6
+15. a3 Bxe4 16. Nxe4 Nxc2+ 17. Kd1 Nxa1 18. Nxf6+ Bxf6 19. Qb2 Qe6 20. Qxa1
+Qxb3+ 21. Kd2 Rac8 22. Rc1 d5 23. Bh6 Rfe8 24. f4 exf4 25. Rxc8 Qe3+ 0-1
+

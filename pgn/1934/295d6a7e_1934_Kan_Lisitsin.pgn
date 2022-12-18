@@ -1,0 +1,30 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.08.01"]
+[Round "1"]
+[White "Kan, Ilya"]
+[Black "Lisitsin, Georgy"]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "295d6a7e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteID "24187372"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 c5 7. Bd2 Bxc3 8.
+Bxc3 Nc6 9. e3 O-O 10. dxc5 Qxc5 11. Be2 e5 12. O-O Bg4 13. Rac1 Qe7 14. h3 Bh5
+15. Nxe5 Nxe5 16. Bxh5 Nxh5 17. Qf5 Ng3 18. fxg3 Nc6 19. Rce1 Rfe8 20. Rf4 Rad8
+21. Rh4 h6 22. Rg4 Ne5 23. Re4 f6 24. Rf1 Rd5 25. Rd4 Rdd8 26. Kh2 Nc6 27. Rg4
+Ne5 28. Re4 Rd5 29. Rd4 Rdd8 30. Rfd1 Rc8 31. Rd5 Qe6 32. Qxe6+ Rxe6 33. Bxe5
+fxe5 34. Rd7 Rb6 35. R1d2 Rcc6 36. g4 Rb5 37. Kg3 Rf6 38. b3 Rf7 39. R7d5 Rxd5
+40. Rxd5 Re7 41. Kf3 Rf7+ 42. Ke2 Re7 43. Kd3 e4+ 44. Kd4 Kf7 45. Rf5+ Kg6 46.
+Re5 Rc7 47. Kxe4 Kf6 48. Rf5+ Ke6 49. Rf2 Rd7 50. Rc2 Rf7 51. h4 Rd7 52. g3 Re7
+53. g5 hxg5 54. hxg5 Rd7 55. Rf2 Rd5 56. g6 Ra5 57. a4 Re5+ 58. Kd4 b5 59. axb5
+Rxb5 60. Kc4 Rg5 61. Rf7 Rxg6 62. Rxa7 Rxg3 63. Kd4 Rg1 64. b4 g5 65. b5 g4 66.
+Ra6+ Kd7 67. Rg6 g3 68. b6 g2 69. b7 Kc7 70. Rg7+ Kb8 71. Ke4 Rh1 72. Rxg2 Kxb7
+73. Rc2 Rh4+ 74. Kd5 Rh8 75. e4 Rd8+ 76. Ke5 Re8+ 77. Kf5 Rf8+ 78. Kg6 Re8 79.
+Rc4 Kb6 80. Kf7 Kb5 81. Rd4 Rh8 82. e5 Kc5 83. Rd1 Rh7+ 84. Kg6 Rh2 85. e6 Re2
+86. Kf7 Kc6 87. e7 Rf2+ 88. Ke8 Kc7 89. Rc1+ 1-0

@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Minetti, A."]
+[Black "Jones, W."]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "5e720fd1"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 f5 4. Bc4 Nh6 5. Nxh7 Rxh7 6. Qh5+ Kd7 7. Qg6
+Rh8 8. Be6+ Kc6 9. Bxc8+ Qd6 10. Qe8+ Kb6 11. a4 a6 12. d3 c5 13. Nd2 Kc7
+14. Nc4 Qd8 15. Bf4+ Kxc8 16. Nb6# 1-0
+

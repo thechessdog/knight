@@ -1,0 +1,20 @@
+[Event "match"]
+[Site "match"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "van Scheltinga, Theo Daniel"]
+[Black "Landau"]
+[Result "0-1"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "6d137994"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6 8.
+Be3 O-O 9. f4 Bd7 10. Kh1 Rc8 11. Bf3 Na5 12. Bg1 Nc4 13. b3 Na3 14. Nb1 Nxb1
+15. Rxb1 e5 16. Ne2 Bc6 17. fxe5 dxe5 18. Qxd8 Rfxd8 19. Ng3 h5 20. Rfe1 Rd2
+21. Bxa7 Rxc2 22. a4 Bf8 23. Bd1 Ra2 24. Rc1 h4 25. Nf1 h3 26. Ng3 Rxg2 27. Rc4
+Rd8 28. Be3 Rd3 29. Bc2 Rxe3 30. Rxe3 Ng4 31. Rf3 Bh6 32. Nf1 Nf2+ 33. Rxf2
+Rxf2 34. Kg1 Rg2+ 35. Kh1 Rxc2 0-1

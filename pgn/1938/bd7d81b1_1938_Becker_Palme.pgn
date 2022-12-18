@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1938.01.01"]
+[Round "3"]
+[White "Becker, Albert"]
+[Black "Palme, Rudolf"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "bd7d81b1"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8. Nb5
+O-O 9. Nc7 cxd4 10. Nxa8 f6 11. Qxd4 Nc6 12. Qd2 fxe5 13. O-O-O Nf6 14. f3 Bd7
+15. Nc7 Rc8 16. Nb5 Nb4 17. c3 Nxa2+ 18. Kb1 a6 19. Na7 Nxc3+ 20. bxc3 Rc7 21.
+Bd3 Qc5 22. Ne2 Qxa7 23. Rhe1 Qc5 24. Rc1 Rc6 25. Rc2 e4 26. fxe4 dxe4 27. Bxe4
+Rd6 28. Bd3 e5 29. Ng3 Be6 30. Rb2 b5 31. Qe3 Qxc3 32. Bxh7+ 1-0

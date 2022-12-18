@@ -1,0 +1,18 @@
+[Event "Chemnitz"]
+[Site "Chemnitz"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Bluemich, Max"]
+[Black "Woog"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "faad6911"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Bf4 g5 11. Bg3 h5 12. Nxg5 Bxg5 13. f4 Be7 14. f5 Bc5+ 15.
+Kh1 Nxg3+ 16. hxg3 Nxe5 17. fxe6 fxe6 18. Re1 Qd6 19. Qe2 Ng4 20. Bd1 Nf2+ 21.
+Kh2 Ne4 0-1

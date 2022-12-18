@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Liebenstein, H."]
+[Black "Morrison"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "5a4d13b0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Nbd2 Nxd2 11. Bxd2 O-O 12. a4 Rb8 13. axb5 axb5 14.
+Bg5 Qd7 15. Qd3 Ne7 16. Bxe7 Bxe7 17. Bc2 g6 18. Qd2 Kg7 19. Nd4 Bc5 20.
+Kh1 Bb6 21. f4 c5 22. f5 cxd4 23. f6+ Kh8 24. Qh6 Rg8 25. Rf4 Bg4 26. h3 d3
+27. Rxg4 Qf5 28. Rh4 g5 29. Bxd3 Qxd3 30. Rh5 Qg6 31. Rd1 Qxh6 32. Rxh6
+Rbd8 33. e6 fxe6 34. Re1 Bc5 35. Rxe6 Rg6 36. Rxg6 hxg6 37. f7 Kg7 38. Re8
+Rd7 39. Rb8 Kxf7 40. Rxb5 Be3 41. g3 Ke6 42. Kg2 Rf7 43. g4 Rf2+ 44. Kg3
+Rc2 45. Kf3 Bc1 46. Rb6+ Ke5 47. Rxg6 Rxb2 48. Rg8 Ra2 49. Re8+ Kd6 1-0
+

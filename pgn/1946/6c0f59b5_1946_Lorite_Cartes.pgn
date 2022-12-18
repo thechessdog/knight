@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Lorite"]
+[Black "Cartes"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "6c0f59b5"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bf4 e6
+8. h4 h6 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. O-O-O Nd5 12. Be5 Nb4 13. Qb3 a5 14.
+Rhe1 a4 15. Qe3 a3 16. Ne4 axb2+ 17. Kb1 Nb6 18. Qb3 Nxa2 19. Nd6+ Bxd6 20.
+Bxd6 Qxd6 21. Qxb6 Nc3+ 22. Kxb2 Qa3# 0-1
+

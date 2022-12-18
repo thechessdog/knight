@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Cheskower"]
+[Black "Rabinovich, Abram"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "2caa686e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 g4 6. Nh4 f5 7. e3 Ne7 8. Bd3
+Nbc6 9. O-O Ne5 10. Nxf5 Nxf5 11. Bxf5 Nf3+ 12. Rxf3 gxf3 13. Qxf3 O-O 14. Qg4+
+Kh8 15. Bxc8 Rxc8 16. Nc3 Qf6 17. Qe2 Qg6 18. Qg2 Qxc2 19. Qxb7 Qd3 20. Qg2 Be5
+21. Qe2 Qg6 22. Qg2 c5 23. Qe4 Qf6 24. Qg2 Qa6 25. Qe2 Qg6 26. Qe1 Rf3 27. Ne2
+Rcf8 28. d4 Qf6 29. Bd2 cxd4 30. e4 Qg6 31. Rd1 d3 32. Bc3 Qb6+ 33. Kh1 Rf1+
+34. Qxf1 Rxf1+ 35. Rxf1 dxe2 36. Bxe5+ Kg8 37. Re1 Qf2 38. Bc3 Qf1+ 39. Rxf1
+exf1=Q# 0-1

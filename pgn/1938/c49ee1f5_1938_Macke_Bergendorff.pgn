@@ -1,0 +1,17 @@
+[Event "South Africa"]
+[Site "South Africa"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Macke"]
+[Black "Bergendorff"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, San Remo variation"]
+[HashCode "c49ee1f5"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxc5
+8. Qc2 O-O 9. e4 f5 10. exf5 Rxf5 11. O-O-O Qa5 12. a3 Rxf3 13. axb4 Nb3+
+14. Qxb3 Qa1+ 0-1
+

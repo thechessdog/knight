@@ -1,0 +1,19 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Baturinsky, Victor Davidovich"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "3c65010e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Nd4 7. Qc1 Bd7 8. Nd1
+Ba4 9. b3 Bc6 10. c3 Ne6 11. f4 Rc8 12. Nf3 d5 13. f5 dxe4 14. dxe4 gxf5 15.
+exf5 Nd4 16. cxd4 cxd4 17. Qb2 Bxf3 18. Bxf3 dxe3 19. Qxg7 Qd2+ 20. Kf1 Rc2 21.
+Qe5 Qd3+ 22. Kg1 e2 23. Ne3 Rc3 24. Kf2 Nf6 25. Rhe1 O-O 26. Rxe2 1-0

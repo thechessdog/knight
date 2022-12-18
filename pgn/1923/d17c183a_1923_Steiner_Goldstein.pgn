@@ -1,0 +1,22 @@
+[Event "Portsmouth"]
+[Site "Portsmouth"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Steiner, Lajos"]
+[Black "Goldstein"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "d17c183a"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Be3 O-O 11. Nbd2 Nc5 12. Bc2 Nd7 13. Nb3 Ndxe5 14. Nxe5 Nxe5
+15. Bxh7+ Kxh7 16. Qh5+ Kg8 17. Qxe5 Bd6 18. Qd4 Qe7 19. Rfe1 Rac8 20. Nc5 Rfd8
+21. a4 Bxc5 22. Qxc5 Qxc5 23. Bxc5 Bd7 24. a5 Re8 25. f3 Re6 26. Rxe6 fxe6 27.
+Re1 Kf7 28. b4 Rh8 29. Re5 Rh6 30. g4 Rf6 31. Kg2 Rf4 32. Bd4 Rf6 33. Kg3 Rh6
+34. f4 Bc8 35. h4 g6 36. Rg5 Rh7 37. Be5 c6 38. h5 gxh5 39. gxh5 Bd7 40. Kh4
+Be8 41. Rg6 Kf8 42. Bd6+ Kf7 43. Kg5 Rg7 44. Be5 Rh7 45. h6 Ke7 46. Rg8 Kf7 47.
+Rxe8 1-0

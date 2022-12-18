@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Mevel, Alberic"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "3413606a"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. d5 Ne7 7. Nxe5 b5 8. Bb3
+Bb7 9. d6 Nxd6 10. Qxd6 1-0

@@ -1,0 +1,16 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Kinnmark, Olof"]
+[Black "Strom"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "9b2b33b1"]
+[Epoch "Knight"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. Nc3 cxd4 6. Nxd4 Nc6 7. Be3 Bb4
+8. O-O Bxc3 9. bxc3 Nge7 10. Qh5 Ng6 11. Bg5 Qc7 12. f4 a6 13. f5 exf5 14.
+Nxf5 Qe5 15. Bc4 O-O 16. Bf6 Qc5+ 17. Kh1 Qxc4 18. Qh6 1-0
+

@@ -1,0 +1,19 @@
+[Event "Temesvary"]
+[Site "Temesvary"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Asztalos, Lajos"]
+[Black "Steiner, Bruno"]
+[Result "1-0"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "979410ac"]
+[Epoch "Knight"]
+[BlackID "1602411"]
+[BlackCountry "AUT"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nc6 5. Nf3 Nf6 6. a3 a6 7. Bd3 dxc4 8. Bxc4
+b5 9. Bd3 Bb7 10. O-O c4 11. Bc2 Qb6 12. e4 Be7 13. e5 Ng4 14. h3 Nh6 15. d5
+O-O-O 16. d6 Nf5 17. Bxf5 exf5 18. Nd5 Qa7 19. Be3 1-0

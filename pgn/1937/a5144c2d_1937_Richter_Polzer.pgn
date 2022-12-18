@@ -1,0 +1,20 @@
+[Event "Bad Elster"]
+[Site "Bad Elster"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Polzer, Hans"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "a5144c2d"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackID "24617040"]
+[BlackCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. e5 Ng8 7. Bf4 d5 8. exd6
+Bxd6 9. Nxe6 Bxe6 10. Qxd6 Nc6 11. O-O-O Qxd6 12. Bxd6 Nf6 13. Be2 O-O-O 14.
+Bf3 Nb8 15. Na4 Nbd7 16. Rd3 1-0

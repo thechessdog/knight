@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Sebestyen"]
+[Black "Szigeti, Miklos"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Blachly gambit"]
+[HashCode "fb0f652e"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. Nf3 g5 5. O-O d6 6. d4 Bg7 7. c3 h6 8. g3 Bh3
+9. Rf2 Nf6 10. gxf4 Nxe4 11. Re2 d5 12. fxg5 Qd7 13. Nbd2 Qg4+ 14. Kh1 O-O-O
+15. Bb5 Nxd2 16. Nxd2 Bg2+ 17. Kg1 Bf3+ 18. Kf1 Qh3+ 19. Ke1 Bxe2 20. Bxe2 Qxh2
+21. Nf1 Qh4+ 22. Kd2 hxg5 23. Kc2 Kb8 24. b4 Bxd4 25. b5 Nb4+ 26. Kb3 Bg7 27.
+Ba3 a5 28. Rc1 a4+ 29. Kb2 d4 0-1

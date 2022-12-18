@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Kozelek"]
+[Black "Holzmann, Herbert"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "King's pawn game"]
+[HashCode "a3af58a5"]
+[Epoch "Knight"]
+[BlackID "1600249"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. d3 Qxh1+ 7. Kd2 Qg2
+8. Nxh8 Qxf2+ 0-1

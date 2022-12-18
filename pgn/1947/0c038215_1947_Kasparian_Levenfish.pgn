@@ -1,0 +1,23 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Kasparian"]
+[Black "Levenfish, Grigory"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Nimzovich (Paulsen) variation"]
+[HashCode "0c038215"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. d3 Bd6 8.
+h3 Nd7 9. Bg5 Qe8 10. Qd2 Nc5 11. Ne2 Ne6 12. Be3 c5 13. Nh2 Nd4 14. Ng3 f5 15.
+exf5 Bxf5 16. Rae1 Qg6 17. Bxd4 exd4 18. Nxf5 Rxf5 19. Qe2 Raf8 20. g3 Re5 21.
+Qg4 Rxe1 22. Rxe1 Qf7 23. Qe6 b5 24. Qxf7+ Kxf7 25. Nf3 Rb8 26. Ne5+ Kg8 27. f4
+Rb6 28. Nf3 c4 29. Kg2 Ra6 30. Ra1 c5 31. dxc4 bxc4 32. Nd2 Ra4 33. b3 cxb3 34.
+cxb3 Ra6 35. a4 Kf7 36. Re1 Be7 37. Re5 Rb6 38. Kf3 Rb4 39. Ke4 c4 40. Rf5+ Ke6
+41. Re5+ Kd7 42. Nxc4 Rxb3 43. Ra5 Bf6 44. Rxa7+ Kc8 45. a5 Rc3 46. Nb6+ Kb8
+47. Rd7 Ra3 48. Nc4 Ra4 49. Kd5 d3 50. Kc5 Bc3 51. Rxd3 Bxa5 52. Rb3+ Kc7 53.
+Kb5 1-0

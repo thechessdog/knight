@@ -1,0 +1,16 @@
+[Event "Plymouth"]
+[Site "Plymouth"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Bruce, Rowena"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "505edea8"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Bh7 8.
+Qh5 g6 9. Bc4 e6 10. Qe2 Nf6 11. Nxf7 Kxf7 12. Qxe6+ 1-0

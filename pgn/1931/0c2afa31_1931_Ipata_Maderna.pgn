@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1931.01.01"]
+[Round "6"]
+[White "Ipata, Pedro"]
+[Black "Maderna, Carlos Hugo"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "0c2afa31"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Nc6 5. Nbd2 Be7 6. c4 Qa5 7. Bh4 cxd4 8.
+exd4 b6 9. Be2 Bb4 10. Bxf6 gxf6 11. a3 Bxd2+ 12. Qxd2 Qxd2+ 13. Kxd2 Rg8 14.
+g3 Bb7 15. Rhe1 Rc8 16. b4 Ne7 17. Kd3 Nf5 18. Nd2 Nd6 19. Rac1 f5 20. Bf3 Bxf3
+21. Nxf3 Ne4 22. Re2 Ke7 23. Nh4 Kd8 24. Ng2 b5 25. c5 Kc7 26. Nf4 a5 27. f3
+Nf6 28. d5 axb4 29. d6+ Kc6 30. axb4 Ra8 31. Kd4 Ne8 32. Nd3 f6 33. f4 Ng7 34.
+Rcc2 Ra3 35. Ra2 Rga8 36. Nc1 e5+ 37. fxe5 Ne6# 0-1

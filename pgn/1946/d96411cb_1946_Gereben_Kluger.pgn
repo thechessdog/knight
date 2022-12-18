@@ -1,0 +1,20 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gereben, Erno"]
+[Black "Kluger, Gyula"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "d96411cb"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8. a4
+Ne4 9. Bd3 Nxc3 10. Qc2 Ne4 11. O-O cxd4 12. exd4 Qc7 13. Re1 Nf6 14. Bg5 Nbd7
+15. Rac1 dxc4 16. Qd2 Qd8 17. Bxc4 h6 18. Bh4 b6 19. Bb5 a6 20. Bxd7 Bxd7 21.
+Ne5 Ra7 22. Rc3 Kh7 23. Rh3 Bxa4 24. Ng4 Nxg4 25. Bxd8 Rxd8 26. Re4 Nf6 27.
+Reh4 Ng8 28. Rg3 Rc7 29. h3 Bc2 30. Rc3 Rdc8 31. Qxc2+ 1-0

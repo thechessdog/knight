@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Nielsen, C."]
+[Black "Purdy, C."]
+[Result "0-1"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "c1f7be05"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e3 b6 6. Bd3 c5 7. Ne2 cxd4 8.
+exd4 d5 9. O-O dxc4 10. Bxh7+ Nxh7 11. Qe4 Qd7 0-1
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Kozelen"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "d4b4f7a1"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Qb5+ c6 6. dxc6 bxc6 7. Qe5+ Be7 8.
+Ng5 Nbd7 9. Qf4 O-O 10. Nxe4 Nd5 11. Qf3 Re8 12. d3 Ne5 13. Qg3 Bh4 14. Bg5
+Bxg5 15. Qxg5 Qxg5 16. Nxg5 Nf3+ 17. Kd1 Re1# 0-1

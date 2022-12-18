@@ -1,0 +1,21 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Bartosek, Milan"]
+[Black "Kubanek, Jindrich"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "a94205c3"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Bb4+ 6. Nc3 Bxc3+ 7. bxc3
+Qxf6 8. e3 O-O 9. Qb3 Rd8 10. Be2 b6 11. cxd5 exd5 12. Ne5 Bb7 13. O-O Nc6
+14. f4 Qe7 15. Rf3 Na5 16. Qd1 c5 17. Rg3 Nc6 18. Bd3 Rac8 19. Qg4 Qf6 20.
+Nd7 Rxd7 21. Qxd7 Qe7 22. Qf5 g6 23. Qg4 h5 24. Qxh5 Qxe3+ 25. Rxe3 gxh5
+26. dxc5 bxc5 27. Rh3 c4 28. Be2 d4 29. Bxh5 dxc3 30. Rxc3 Nd4 31. a4 Rc5
+32. Bg4 f5 33. Bh5 Kg7 34. Rd1 Ne6 35. Rd7+ Kh6 36. Rxb7 Kxh5 37. g3 Nc7
+38. Rb4 1-0
+

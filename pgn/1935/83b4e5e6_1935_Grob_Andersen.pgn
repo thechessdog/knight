@@ -1,0 +1,16 @@
+[Event "Bad Nauheim"]
+[Site "Bad Nauheim"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Grob, Henri"]
+[Black "Andersen, E."]
+[Result "0-1"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "83b4e5e6"]
+[Epoch "Knight"]
+[WhiteCountry "SWI"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d6 4. d4 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Bg5 Be6 8.
+f4 exf4 9. Nf3 0-1

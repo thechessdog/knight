@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Luer"]
+[Black "Rattmann, Kurt"]
+[Result "1-0"]
+[ECO "B05"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation, 4...Bg4"]
+[HashCode "5e9addb5"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 d6 4. d4 Bg4 5. Be2 dxe5 6. Nxe5 Bxe2 7. Qxe2
+Nb6 8. O-O Qxd4 9. Rd1 Qh4 10. Bg5 Qxg5 11. Rd8+ 1-0
+

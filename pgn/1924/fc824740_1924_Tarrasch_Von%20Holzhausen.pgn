@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Von Holzhausen, Walther"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Benima defence"]
+[HashCode "fc824740"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 d6 7. O-O O-O 8.
+Re1 Re8 9. b3 Nd7 10. Bxf7+ Kxf7 11. Ne6 1-0

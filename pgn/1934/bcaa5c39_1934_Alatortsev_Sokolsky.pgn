@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Sokolsky"]
+[Result "1-0"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack, Gruenfeld variation"]
+[HashCode "bcaa5c39"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 c6 8. Qc2
+a6 9. a3 h6 10. Bf4 Nh5 11. c5 Nxf4 12. exf4 f6 13. Bd3 e5 14. Bf5 e4 15. Nh4
+Nb8 16. Bxc8 Qxc8 17. f5 Nd7 18. O-O Re8 19. f3 exf3 20. Rxf3 Bd8 21. Qf2 Nf8
+22. Re1 Bc7 23. Rxe8 Qxe8 24. Re3 Qh5 25. Re7 Rc8 26. g3 Qg4 27. Qe3 b6 28. b4
+bxc5 29. bxc5 Ba5 30. Ne2 Rb8 31. Kg2 Qh5 32. Nf4 Qd1 33. Re8 Rxe8 34. Qxe8 Qe1
+35. Ne2 Qb1 36. Ng6 Qe4+ 37. Qxe4 dxe4 38. Ne7+ Kf7 39. Nxc6 Bc7 40. Nc3 Ke8
+41. Nxe4 Kd7 42. d5 1-0

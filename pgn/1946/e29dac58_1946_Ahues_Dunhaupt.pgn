@@ -1,0 +1,21 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Ahues, Carl Oscar"]
+[Black "Duenhaupt, Heinz Wilhelm"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "e29dac58"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. e3 d5 3. Bd3 c5 4. Nf3 Nc6 5. c3 Bg4 6. Nbd2 e6 7. Qe2 Qc7 8. O-O
+Bd6 9. h3 Bh5 10. dxc5 Bxc5 11. e4 O-O 12. e5 Ne4 13. Nxe4 dxe4 14. Bxe4 Bxf3
+15. Bxf3 Nxe5 16. Bxb7 Qxb7 17. Qxe5 Rac8 18. Rd1 Qb6 19. Qe2 Rfd8 20. Bf4 h6
+21. Rab1 a5 22. b3 Rd5 23. Rxd5 exd5 24. Rd1 Rd8 25. Be3 Qa7 26. Bd4 Bxd4 27.
+Rxd4 Qc5 28. Qd2 Rc8 29. Rxd5 Qxc3 30. Qxc3 Rxc3 31. Rxa5 Rc2 32. b4 Rb2 33. b5
+Kh7 34. a4 1-0

@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "92b77092"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 e5 4. e3 exd4 5. exd4 Nc6 6. Nf3 Bd6 7. Bxc4 Nf6 8.
+O-O O-O 9. h3 Bf5 10. Be3 Qd7 11. d5 Nb4 12. Bb5 c6 13. dxc6 bxc6 14. Bc4 Rad8
+15. Qe2 Bxh3 16. gxh3 Qxh3 17. Rfd1 Ng4 18. Rxd6 Rxd6 19. Ne4 Nxe3 20. Qxe3
+Rg6+ 0-1

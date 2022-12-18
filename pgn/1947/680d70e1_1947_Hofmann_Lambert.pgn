@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Hofmann"]
+[Black "Lambert, Hans"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "680d70e1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe5 6. d4 c6 7. Ba4 Nxe4
+8. Re1 d5 9. dxc5 O-O 10. Qd4 Qf6 11. Be3 Bh3 12. Kh1 Bxg2+ 13. Kxg2 Qf3+
+14. Kg1 Qg4+ 15. Kh1 Nf3 16. Qd1 Qh3 0-1
+

@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Ritson Morry"]
+[Result "1-0"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[HashCode "4dbaf27d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Qe2 Nc6 5. O-O g6 6. e5 d5 7. d4 cxd4 8. c4
+dxc3 9. Nxc3 e6 10. Bg5 Be7 11. Be3 h5 12. Na4 Nh6 13. Nc5 Bxc5 14. Bxc5 Nf5
+15. Rac1 g5 16. Bxc6 Bxc6 17. Nd4 Kd7 18. Nxf5 exf5 19. e6+ fxe6 20. Qe5 Qg8
+21. Qd6+ Kc8 22. Rfe1 Rh6 23. Bb6 Rh7 24. Rxc6+ bxc6 25. Qxc6+ Kb8 26. Bd4 a6
+27. Qb6+ Rb7 28. Be5+ 1-0

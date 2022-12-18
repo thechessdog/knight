@@ -1,0 +1,18 @@
+[Event "Maastricht"]
+[Site "Maastricht"]
+[Date "1946.04.01"]
+[Round "4"]
+[White "Vlagsma, Chris"]
+[Black "Vinken, A."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "fbb3ca19"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bc2 d6 8. d3
+O-O 9. Nbd2 Nh5 10. Nf1 Rb8 11. h3 g6 12. g4 Nf4 13. Bxf4 exf4 14. Qd2 b4 15.
+Qxf4 bxc3 16. bxc3 d5 17. Ne3 dxe4 18. dxe4 Qd6 19. Qxd6 Bxd6 20. Nd4 Nd8 21.
+O-O h5 22. Kg2 hxg4 23. hxg4 Ne6 24. Nd5 Kg7 25. Nxe6+ Bxe6 26. f3 Rh8 27. Bb3
+Rh2+ 28. Kg1 Rbh8 29. Rad1 Bxd5 30. Rxd5 Rh1+ 31. Kf2 R8h2+ 0-1

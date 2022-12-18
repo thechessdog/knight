@@ -1,0 +1,16 @@
+[Event "Zagreb"]
+[Site "Zagreb"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Vukovic"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[HashCode "64cf978d"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 h6 7. Bh4 O-O 8.
+a3 c6 9. Rc1 Re8 10. Qc2 a6 11. Bg3 Nh5 12. cxd5 Nxg3 13. dxe6 Nxh1 14.
+exf7+ Kxf7 15. Bc4+ Kf8 16. Qh7 1-0
+

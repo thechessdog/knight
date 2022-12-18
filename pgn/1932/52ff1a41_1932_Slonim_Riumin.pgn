@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Slonim"]
+[Black "Riumin, Nikolai"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "52ff1a41"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nc3 Bb4 7. Bg5 Qe7
+8. Bd3 Qe5 9. Bd2 d5 10. Qe2 O-O 11. O-O-O Rb8 12. f4 Qe7 13. exd5 Ba3 14. Na4
+Bxb2+ 15. Nxb2 Qa3 16. Qe5 Re8 17. Qd4 c5 18. Qc3 Qxa2 19. Be1 Re2 20. Bxe2 Ne4
+0-1

@@ -1,0 +1,18 @@
+[Event "Prague Evony"]
+[Site "Prague"]
+[Date "1927.??.??"]
+[Round "4"]
+[White "Schulz, Jan Sr"]
+[Black "Skalicka, Karel"]
+[Result "*"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "a7b2f110"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bc4
+Qc7 9. Qe2 e6 10. Bd2 Be7 11. O-O-O Ngf6 12. Ne5 Nxe5 13. dxe5 Nd5 14. Nh5 Bxh5
+15. Qxh5 g6 16. Qe2 O-O-O *

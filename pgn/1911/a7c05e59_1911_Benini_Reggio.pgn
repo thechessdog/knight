@@ -1,0 +1,20 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Benini, G."]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "a7c05e59"]
+[Epoch "Knight"]
+[BlackCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. Be3 cxd4 7. Bxd4 Nc6 8.
+Bb5 Be7 9. Qd2 O-O 10. Ne2 Qc7 11. c3 Ndxe5 12. Nxe5 Nxe5 13. f4 Nc6 14. O-O
+Nxd4 15. cxd4 Qb6 16. Bd3 f5 17. Kh1 Bf6 18. Rf3 Bxd4 19. Bxf5 Qxb2 20. Bxh7+
+Kxh7 21. Qd3+ Kg8 22. Rb1 Qxa2 23. Nxd4 Qc4 24. Qe3 Rf6 25. g4 b6 26. g5 Rf7
+27. Rc1 Qa4 28. Rh3 e5 29. g6 Rxf4 30. Rh8+ Kxh8 31. Rxc8+ Rxc8 32. Qh3+ Kg8
+33. Qxc8+ Rf8 34. Qe6+ Kh8 35. Qh3+ Kg8 36. Qh7# 1-0

@@ -1,0 +1,17 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Schindler"]
+[Result "0-1"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Bogoljubow variation"]
+[HashCode "c723ddc1"]
+[Epoch "Knight"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c6 4. Nc3 d5 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Qc2
+O-O 9. Bd3 dxc4 10. Nxc4 Qxg5 0-1

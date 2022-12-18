@@ -1,0 +1,24 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Von Bardeleben, Curt"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "e3d802ba"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 Bg4 10. d4 Nd7 11. Nbd2 c5 12. dxc5 dxc5 13. Nf1 f6 14. Ng3 Nb6 15.
+Qe2 Be6 16. Nf5 Bc4 17. Qe3 O-O 18. b3 Be6 19. Bb2 Re8 20. Rad1 Qc7 21. Bb1 Bf8
+22. h3 Nc6 23. Rd2 a5 24. Rde2 a4 25. Nd2 axb3 26. axb3 Na5 27. Bc2 Qf7 28. Bd3
+c4 29. bxc4 Na4 30. Ba1 bxc4 31. Bc2 Nb3 32. Rb1 Bc5 33. Qg3 Bxf5 34. exf5 Nxa1
+35. Rxa1 Nxc3 36. Qxc3 Bd4 37. Rxa8 Bxc3 38. Rxe8+ Qxe8 39. Nxc4 Qb5 40. Re4
+Bd4 41. Ne3 Qe2 42. Bb3+ Kf8 43. Bc4 Qe1+ 44. Bf1 h5 45. g3 Qb1 46. Rh4 Bxe3
+47. fxe3 Qxf5 48. Be2 g6 49. Kg2 Qb1 50. Kf2 Kg7 51. g4 Qe4 52. Bf3 Qb4 53. e4
+Qd2+ 54. Be2 Qg5 55. Kg3 Qe3+ 0-1

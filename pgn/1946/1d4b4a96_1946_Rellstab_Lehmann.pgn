@@ -1,0 +1,22 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig"]
+[Black "Lehmann, Heinz Dr"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...g6"]
+[HashCode "1d4b4a96"]
+[Epoch "Knight"]
+[WhiteID "4671155"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 g6 6. Bg5 Nbd7 7. Nf3 Bg7 8.
+cxd5 O-O 9. Bc4 Nb6 10. Qb3 Qc7 11. Be2 Qd8 12. O-O Nfxd5 13. Rad1 Be6 14. Nxd5
+Bxd5 15. Qa3 f6 16. Bf4 Rf7 17. b3 e6 18. Rfe1 Bf8 19. Qa5 Bd6 20. Bxd6 Qxd6
+21. Rc1 Rc7 22. Rc5 Rd7 23. Qc3 Rad8 24. h3 Kg7 25. Bb5 Re7 26. Nd2 h5 27. Nf1
+a6 28. Bd3 Bc6 29. Ne3 Nd5 30. Nxd5 Bxd5 31. Qc2 Qf4 32. Bxg6 Qg5 33. Be4 Kf7
+34. Bxd5 Rxd5 35. Qh7+ Ke8 36. Rc8+ Kd7 37. Qh8 e5 38. Rd8+ 1-0

@@ -1,0 +1,16 @@
+[Event "Antwerp"]
+[Site "Antwerp"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "De Proost"]
+[Black "De Gronckel"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "8e570630"]
+[Epoch "Knight"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d3 d4 5. Ne4 Qe7 6. Qe2 Bf5 7. Bg5 Nf6
+8. f3 Nxe4 9. dxe4 Qb4+ 10. Bd2 Qxb2 11. Qd1 Bb4 12. Rb1 Bxd2+ 13. Kxd2
+Qc3+ 14. Ke2 Qe3# 0-1
+

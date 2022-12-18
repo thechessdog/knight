@@ -1,0 +1,19 @@
+[Event "Riedenburg"]
+[Site "Riedenburg"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Lauterbach"]
+[Result "1-0"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "cb4f2e3c"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6 8.
+Ne5 Qd6 9. d4 f6 10. Bxc6+ bxc6 11. Nxg6 hxg6 12. Qd3 Kf7 13. Be3 e5 14. dxe5
+Qxe5 15. f4 Qd6 16. O-O-O Be7 17. Ne2 Bd8 18. Nd4 Bb6 19. f5 g5 20. Ne6 Bxe3+
+21. Qxe3 Ne7 22. Rde1 Rae8 23. a3 Nc8 24. h4 gxh4 25. Rxh4 Ne7 26. Qh3 Rxh4 27.
+Qxh4 Rg8 28. Qh5+ g6 29. Qh7+ Ke8 30. Nc5 1-0

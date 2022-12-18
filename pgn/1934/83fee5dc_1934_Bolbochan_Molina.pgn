@@ -1,0 +1,25 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1934.03.01"]
+[Round "1"]
+[White "Bolbochan, Jacobo"]
+[Black "Molina, Julio"]
+[Result "1-0"]
+[ECO "B38"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Maroczy bind, 6.Be3"]
+[HashCode "83fee5dc"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 d6 7. Be2 Nf6 8. Nc3
+O-O 9. Nc2 Bd7 10. O-O Rc8 11. f3 Qc7 12. Rc1 Qb8 13. Qd2 Rfd8 14. Rfd1 Ne5 15.
+b3 Nc6 16. Nd4 Nxd4 17. Bxd4 b6 18. Nd5 Nxd5 19. exd5 Bxd4+ 20. Qxd4 Qc7 21.
+Rd2 Qc5 22. Rcd1 Qxd4+ 23. Rxd4 Rc7 24. f4 Rb8 25. Re1 Kf8 26. a4 Re8 27. Bf1
+Rec8 28. Kf2 Bf5 29. Rd2 Re8 30. g3 Rb8 31. Kf3 Bd7 32. g4 a6 33. Ra2 Ke8 34.
+Re3 Kf8 35. Bd3 Re8 36. f5 Kg7 37. Kf4 Bc8 38. Rae2 h6 39. h4 Ra7 40. fxg6 fxg6
+41. Kg3 e5 42. dxe6 Rae7 43. h5 gxh5 44. Bf5 hxg4 45. Kxg4 Rf8 46. Rg3 Rf6 47.
+Reg2 Kh8 48. Kh4 Bxe6 49. Bxe6 Rfxe6 50. Rg8+ Kh7 51. Rb8 Re4+ 52. Rg4 Rxg4+
+53. Kxg4 b5 54. cxb5 axb5 55. Rxb5 Kg6 56. a5 Kf6 57. a6 Ra7 58. Rb6 Ke5 59. b4
+Kd5 60. b5 Kc5 61. Rb7 Ra8 62. a7 1-0

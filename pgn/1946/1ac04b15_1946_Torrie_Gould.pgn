@@ -1,0 +1,19 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Torrie, F."]
+[Black "Gould, S."]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "1ac04b15"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8.
+O-O Bb6 9. dxe5 Na5 10. Qb4 Nxc4 11. Qxc4 Ne7 12. exd6 Qxd6 13. Ba3 Qe6 14.
+Qb5+ Bd7 15. Qg5 h6 16. Qc1 O-O-O 17. Nd4 Qf6 18. e5 Qg6 19. Bxe7 Bh3 20.
+g3 Qe4 21. f3 Qe2 22. Rf2 Rxd4 23. Nd2 Qxf2+ 24. Kxf2 Re4+ 25. Bc5 Bxc5#
+0-1
+

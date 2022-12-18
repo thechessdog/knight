@@ -1,0 +1,19 @@
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Sosin"]
+[Black "Kajalovich"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Maroczy variation"]
+[HashCode "1cee2ba6"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 a6 7. Qg4 Kf8 8.
+f4 h5 9. Qh3 f6 10. exf6 gxf6 11. Qxe6 Nb6 12. Qe3 fxg5 13. hxg5 Bg4 14.
+Nf3 Nc6 15. O-O-O Bd6 16. Be2 Kg7 17. Ne5 Bxe2 18. Nxe2 Bxe5 19. dxe5 Ne7
+20. Qf3 Qd7 21. Ng3 Ng6 22. f5 Nxe5 23. Nxh5+ Rxh5 24. Qxh5 Rg8 25. Qh6+
+Kf7 26. Qf6+ 1-0
+

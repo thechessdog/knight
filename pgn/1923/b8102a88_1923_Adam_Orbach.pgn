@@ -1,0 +1,18 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Adam, D."]
+[Black "Orbach"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "b8102a88"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. e3 e6 3. Nf3 b6 4. Bd3 Bb7 5. Nbd2 d5 6. c3 Nbd7 7. Qe2 Ne4 8.
+O-O Bd6 9. Bb5 O-O 10. Bxd7 Qxd7 11. Nxe4 dxe4 12. Nd2 f5 13. f4 exf3 14.
+Nxf3 Qe7 15. Bd2 Rf6 16. e4 fxe4 17. Ng5 Raf8 18. Nxe4 Bxe4 19. Qxe4 Bxh2+
+0-1
+

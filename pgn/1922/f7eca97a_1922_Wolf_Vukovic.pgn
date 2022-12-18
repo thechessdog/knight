@@ -1,0 +1,26 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Vukovic, Vladimir"]
+[Result "1-0"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Bernstein variation"]
+[HashCode "f7eca97a"]
+[Epoch "Knight"]
+[BlackID "2606593"]
+[BlackCountry "CAN"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Ne2 c5
+9. a3 Bxc3+ 10. Nxc3 Nxc3 11. bxc3 Qa5 12. Qd2 Nc6 13. h4 g4 14. dxc5 Qxc5 15.
+h5 Bd7 16. Bh4 d4 17. Bf6 dxc3 18. Qf4 Nd4 19. Bd3 Rg8 20. Qxh6 g3 21. Qf4 Bc6
+22. fxg3 Bxg2 23. Rf1 Bxf1 24. Kxf1 Qd5 25. Kf2 Qc5 26. Kg2 Qd5+ 27. Kh3 Kd7
+28. Rd1 Kc7 29. Be4 Ne2 30. Bxd5 Nxf4+ 31. gxf4 exd5 32. Rxd5 Rg1 33. Rd3 Rag8
+34. Bg5 b5 35. Kh2 Rf1 36. Rxc3+ Kd7 37. h6 Ke6 38. h7 Rh8 39. Rh3 Rf2+ 40. Kg1
+Rxc2 41. Bf6 Rcc8 42. Rh6 Kd5 43. Kf2 Rc6 44. e6 Rxh7 45. Rxh7 Kxe6 46. Bd4
+Rc2+ 47. Ke3 a5 48. Rh6+ Kd7 49. Ra6 b4 50. Rxa5 bxa3 51. Rxa3 Rc7 52. Ke4 Rc8
+53. Kf5 Kd8 54. Be5 Rc6 55. Ra7 Ke8 56. Kg5 Rg6+ 57. Kf5 Rc6 58. Bf6 Rc5+ 59.
+Kg4 Rc2 60. Re7+ Kf8 61. Rd7 Kg8 62. Rd8+ Kh7 63. f5 Rg2+ 64. Kf3 1-0

@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Illa"]
+[Black "Calandrelli"]
+[Result "0-1"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "74a2b215"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. O-O Be7
+8. Kh1 O-O 9. Be3 a6 10. Qe1 Qc7 11. Rd1 b5 12. a3 Na5 13. f4 Nc4 14. Bc1
+Bb7 15. Bd3 Rac8 16. Qg3 Qc5 17. Nb3 Qh5 18. Qe1 Ng4 19. h3 f5 20. Kg1 Nh6
+21. exf5 e5 22. Be2 Qxf5 23. fxe5 Qg6 24. Nd5 Bxd5 25. Rxd5 dxe5 26. Bd3
+Rxf1+ 27. Qxf1 e4 28. Be2 Rf8 29. Qd1 Nf5 30. Bxc4 bxc4 31. Nd4 Ng3 32. Qg4
+Bh4 0-1
+

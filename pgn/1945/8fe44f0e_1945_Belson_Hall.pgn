@@ -1,0 +1,17 @@
+[Event "Canada ch"]
+[Site "Canada ch"]
+[Date "1945.01.01"]
+[Round "10"]
+[White "Belson, John Harold"]
+[Black "Hall, L."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "8fe44f0e"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 f6 8. Bd3
+O-O 9. Qh5 f5 10. Nc7 Qxc7 11. Bxe7 Rf7 12. Bd6 Qd8 13. Nf3 g6 14. Qh6 Nf8 15.
+h5 Rg7 16. Ng5 Nc6 17. Bxf8 Kxf8 18. Nxh7+ Kf7 19. Ng5+ Kg8 20. hxg6 Nxd4 21.
+Qh8# 1-0

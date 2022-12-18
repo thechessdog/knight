@@ -1,0 +1,19 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Nyman, Sture"]
+[Black "Skold, Kristian"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "b4a6cc1e"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 Na5 10. Nd4 Nxb3 11. cxb3 bxa4 12. b4 c5 13. Nxe6 fxe6 14. f3 Ng5 15.
+Qxa4+ Kf7 16. b5 c4 17. h4 Bc5+ 18. Kh2 h6 19. bxa6 Kg8 20. g3 Qf8 21. Kg2 Qf5
+22. Bxg5 hxg5 23. Qc6 gxh4 24. Qxa8+ Kh7 25. Qxh8+ Kxh8 26. a7 Qg5 27. a8=Q+
+Kh7 0-1

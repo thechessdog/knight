@@ -1,0 +1,17 @@
+[Event "Karlovy Vary"]
+[Site "Karlovy Vary"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Neustadtl"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "80a7cb4e"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 c6 8.
+O-O-O d5 9. Rhe1 O-O 10. Qh4 h6 11. Bxd5 Nbd7 12. Bc4 b5 13. Bd3 hxg5 14. Nxg5
+Re8 15. Bh7+ Kf8 16. Bf5 Kg8 17. Nxf7 1-0

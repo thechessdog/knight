@@ -1,0 +1,18 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Jorg"]
+[Result "0-1"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[HashCode "67ef27cc"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 e6 8. f3
+Bb4 9. e4 Bg6 10. Be2 c5 11. Nd6+ Ke7 12. Nxb7 Qb6 13. Nxc5 Nxc5 14. dxc5 Qxc5
+15. Bd2 Rhd8 16. Rc1 Qb6 17. Bc4 Rac8 18. Qe2 Rd4 19. Ba2 Nxe4 20. Be3 Bxc3+
+21. bxc3 Rxc3 22. Rxc3 Nxc3 23. Qf2 Rd1# 0-1

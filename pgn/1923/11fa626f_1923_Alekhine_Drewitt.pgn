@@ -1,0 +1,17 @@
+[Event "Portsmouth"]
+[Site "Portsmouth"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Drewitt, John"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "11fa626f"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. b4 d5 2. Bb2 Nf6 3. e3 e6 4. a3 c5 5. bxc5 Bxc5 6. Nf3 O-O 7. c4 Nc6 8. d4
+Bb6 9. Nbd2 Qe7 10. Bd3 Rd8 11. O-O Bd7 12. Ne5 Be8 13. f4 Rac8 14. Rc1 Nd7 15.
+Nxc6 Rxc6 16. c5 Nxc5 17. dxc5 Bxc5 18. Rf3 Bxa3 19. Rxc6 Bxc6 20. Bxh7+ Kxh7
+21. Rh3+ Kg8 22. Bxg7 1-0

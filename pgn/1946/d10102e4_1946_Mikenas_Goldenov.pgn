@@ -1,0 +1,18 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Mikenas, Vladas"]
+[Black "Goldenov, Boris Petrovich"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "d10102e4"]
+[Epoch "Knight"]
+[WhiteCountry "LTU"]
+[BlackCountry "UKR"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nb4 5. Bc4 Be6 6. Bxe6 fxe6 7. Nge2 Nd3+
+8. Kf1 Nc6 9. Qb3 Qd7 10. Qxb7 Rb8 11. Qa6 g6 12. h4 Rb6 13. Qa4 Bg7 14. Rh3
+O-O 15. Nd1 Rb4 16. Rxd3 Qxd3 17. Qxc6 Rxe4 18. Ne3 Rxe3 0-1

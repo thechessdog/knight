@@ -1,0 +1,18 @@
+[Event "Trade Unions"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "11"]
+[White "Chekhover, Vitaly"]
+[Black "Levitas, B."]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, 6.Be2"]
+[HashCode "074127c7"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 e6 6. Be2 Be7 7. O-O a6 8. f4
+Qc7 9. a4 Nc6 10. Nb3 b6 11. Be3 Rb8 12. Bf3 Nb4 13. Rf2 O-O 14. g4 d5 15. e5
+Nd7 16. Nd4 Bc5 17. Nce2 Nc6 18. Qd2 b5 19. axb5 axb5 20. Nxc6 Qxc6 21. Nd4
+Bxd4 22. Bxd4 Nc5 23. Qc3 1-0

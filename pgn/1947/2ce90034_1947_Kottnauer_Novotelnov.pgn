@@ -1,0 +1,18 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Kottnauer, Cenek"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "0-1"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[HashCode "2ce90034"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8.
+Be3 Nfd7 9. Rd1 Nb6 10. Qb3 Nc6 11. d5 Ne5 12. Be2 Nxf3+ 13. gxf3 Bh3 14. a4
+Qb8 15. Rg1 c6 16. Rg3 Bd7 17. a5 Nc8 18. h4 b6 19. a6 Nd6 20. h5 c5 21. Rg1
+Qc8 22. Bf4 Be8 23. Rd2 Qh3 24. hxg6 hxg6 25. Bg3 Rd8 26. Bb5 Bxc3 0-1

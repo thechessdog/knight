@@ -1,0 +1,22 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "10"]
+[White "Von Scheve, Theodor"]
+[Black "Swiderski, Rudolf"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "9ef75d85"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 Nh5 11. d4 O-O 12. Rxe5 Qxh4 13. Rxh5 Qxh5 14. Bxf4 Nd7
+15. Nd2 Nb6 16. Bb3 Qf5 17. Be5 f6 18. Bxc7 Nxd5 19. Qe1 Be6 20. Bd6 Rf7 21. c4
+Nb6 22. d5 Bd7 23. Qg3 Ba4 24. Rf1 Qg6 25. Re1 Bxb3 26. axb3 Nd7 27. Nf1 f5 28.
+Qf4 h5 29. g3 Nf8 30. Bc5 Nh7 31. Bd4 Ng5 32. Kh1 Rh7 33. Nh2 h4 34. gxh4 Rxh4
+35. Rg1 Re8 36. Be3 Nf3 37. Rg2 Rh3 38. Bf2 Qh5 39. d6 Nxh2 40. Rxh2 Rxh2+ 41.
+Qxh2 Qxh2+ 42. Kxh2 f4 43. Bh4 Re2+ 44. Kg1 Rd2 45. c5 Kf7 0-1

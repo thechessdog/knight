@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Pierce"]
+[Black "Mevel, Alberic"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "4b477312"]
+[Epoch "Knight"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Be6 10. Rxe5 Nc6 11. Bb5 Nxd5 12. Bxc6+ bxc6 13. Qxg4 Qd6 14. Qe2
+f3 15. gxf3 Rg8+ 16. Kh1 Nf4 17. Qe3 Nh3 18. Rg5 Rxg5 19. hxg5 Qg3 0-1

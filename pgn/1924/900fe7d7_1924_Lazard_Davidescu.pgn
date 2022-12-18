@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Lazard, Frederic"]
+[Black "Davidescu, George"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "900fe7d7"]
+[Epoch "Knight"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Bd2 d5 6. exd5 Nxd5 7. Qg3
+Bf5 8. Bd3 Bxd3 9. Qxd3 Ndb4 10. Qxd8+ Rxd8 11. Na3 g6 12. Bc3 e5 13. Nf3
+Bg7 14. O-O O-O 15. Ne1 f5 16. Bxb4 Nxb4 17. c3 Nd5 18. g3 f4 19. Rd1 Nxc3
+20. Rxd8 Ne2+ 21. Kg2 Rxd8 22. Kf3 Nc1 23. Nec2 Nd3 24. b3 g5 25. Kg4 h6
+26. gxf4 exf4 27. h4 Ne5+ 28. Kf5 Rf8+ 29. Ke4 f3 30. hxg5 hxg5 31. Ne3
+Rf4+ 32. Kd5 Ng4 33. Nec2 Kf7 34. Nc4 Bf8 35. Nd4 Nf6+ 36. Ke5 Re4+ 37. Kf5
+Rxd4 38. Ne5+ Kg7 39. Rg1 Nh7 40. Rg3 Bd6 41. Rg1 Rd5 42. Ke6 Rxe5+ 43.
+Kxd6 Re2 44. Kc7 Rxf2 45. Rg3 Rc2+ 46. Kxb7 f2 0-1
+

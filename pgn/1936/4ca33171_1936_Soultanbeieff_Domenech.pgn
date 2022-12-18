@@ -1,0 +1,17 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Soultanbeieff, Vict"]
+[Black "Domenech, R."]
+[Result "1-0"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "4ca33171"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 O-O 7. Rc1 c6 8.
+Qc2 h6 9. Bf4 dxc4 10. Bxc4 Nd5 11. Bg3 Qa5 12. O-O Nxc3 13. bxc3 c5 14.
+Rb1 a6 15. d5 exd5 16. Bxd5 Ra7 17. Ne5 Nxe5 18. Bxe5 c4 19. Qg6 1-0
+

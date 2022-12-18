@@ -1,0 +1,15 @@
+[Event "Kassa"]
+[Site "Kassa"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Breyer, Gyula"]
+[Black "Oppenheimer"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "cf97c295"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. Nc3 c6 3. e4 e6 4. e5 Bb4 5. Nf3 Bxc3+ 6. bxc3 h6 7. Bd3 Ne7 8. g4
+O-O 9. g5 h5 10. Nh4 g6 11. Ba3 Kg7 12. Qf3 Nd7 13. Qf6+ Kg8 14. Qxe7 1-0

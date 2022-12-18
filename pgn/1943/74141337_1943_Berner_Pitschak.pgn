@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Berner"]
+[Black "Pitschak, Rudolf"]
+[Result "1-0"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[HashCode "74141337"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 Qa5 9. Bxf6 Bxc3+ 10. bxc3 Qxc3+ 11. Kf1 Qxc4+ 12. Kg1 O-O 13. Rc1
+Qb4 14. Qg4 g6 15. e5 Re8 16. Qg5 Nd7 17. Nf3 b6 18. h4 h5 19. Rc7 Qf8 20.
+g4 Nxf6 21. exf6 Rd8 22. gxh5 Rd5 23. Ne5 Rxe5 24. Qxe5 Qh6 25. hxg6 Qxg6+
+26. Kh2 Qf5 27. Rg1+ Kh8 28. Qg3 Qh7 29. Qg7+ Qxg7 30. Rxg7 1-0
+

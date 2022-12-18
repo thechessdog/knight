@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1928.01.01"]
+[Round "11"]
+[White "Gruenfeld, Ernst"]
+[Black "Lichtenstein, Bernhard"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "2d5cbf82"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 c6 7. Bd3 h6 8. Bh4
+dxc4 9. Bxc4 O-O 10. O-O a6 11. Qe2 b5 12. Bd3 c5 13. a4 c4 14. Bb1 b4 15. Ne4
+a5 16. Nxf6+ Bxf6 17. Bxf6 Nxf6 18. Ne5 c3 19. bxc3 bxc3 20. Rc1 Ba6 21. Qc2
+Qe7 22. Ra3 Qxa3 23. Nd7 Qxc1+ 24. Qxc1 Nxd7 25. Qxc3 Rfc8 26. Qe1 Rc7 27. h3
+Rac8 28. Kh2 Rc1 29. Qxa5 Rxb1 30. Qxa6 Rcc1 31. a5 Nf8 32. Qa8 Ra1 33. e4 Rc4
+34. d5 exd5 35. exd5 Rca4 36. d6 Rxa5 0-1

@@ -1,0 +1,20 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Corte, Cesar Juan"]
+[Black "Rossetto, Hector"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[HashCode "6e39eab0"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 cxd4 8.
+Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 dxc3 11. f4 b6 12. Nd4 Ba6 13. Bb5+ Bxb5 14. Nxb5
+Qc5 15. Nd6+ Kd7 16. Qh3 Nbc6 17. Be3 d4 18. Ne4 Qc4 19. Nf6+ Kc7 20. Nxg8 Rxg8
+21. Bf2 Nd5 22. Qf3 Ne3 23. Bxe3 dxe3 24. Qxe3 Rxg2 25. O-O-O Nb4 26. Rd4 Rxc2+
+27. Kd1 Qb3 28. Rxb4 Rd2+ 29. Ke1 Qd1# 0-1

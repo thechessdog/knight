@@ -1,0 +1,22 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1931.01.01"]
+[Round "3"]
+[White "Rebizzo, Cayetano"]
+[Black "Grau, Roberto"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "fcbe1ccf"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. c3 e6 8. Bd3
+Bxd3 9. Qxd3 Ngf6 10. O-O Bd6 11. Qe2 O-O 12. Bg5 h6 13. Bxf6 Nxf6 14. Ne5 Qc7
+15. Nd3 Nd5 16. Qe4 Rad8 17. Rad1 Rfe8 18. Rfe1 a5 19. a3 Nb6 20. Qg4 Bxg3 21.
+Qxg3 Qxg3 22. hxg3 Nc4 23. Re2 Rd5 24. Ne5 Nb6 25. c4 Rdd8 26. c5 Nd7 27. Red2
+Nxe5 28. dxe5 Rd5 29. Rxd5 exd5 30. f4 f6 31. exf6 gxf6 32. Kf2 Re4 33. b3 Kf7
+34. Kf3 a4 35. Rb1 Kg6 36. bxa4 Rxa4 37. Rb3 Ra5 38. g4 Rxc5 39. Rxb7 Rc3+ 40.
+Kf2 Rxa3 41. g3 f5 42. gxf5+ Kxf5 43. Rb8 Rc3 0-1

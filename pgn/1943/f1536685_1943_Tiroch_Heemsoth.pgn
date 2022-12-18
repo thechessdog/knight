@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Tiroch"]
+[Black "Heemsoth"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "f1536685"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. Qb3 e6 7. Bd2 b6 8.
+Bd3 Bb7 9. cxd5 exd5 10. O-O Nbd7 11. Na4 Rc8 12. Rac1 Ne4 13. Bb4 Re8 14.
+Nc3 c5 15. dxc5 bxc5 16. Ba5 Nb6 17. Bxe4 dxe4 18. Rfd1 Qe7 19. Nd2 c4 20.
+Qc2 Qh4 21. Bxb6 axb6 22. Nb5 Be5 23. g3 Qh3 24. Nxc4 Rc5 25. a4 Bb8 26. f4
+exf3 27. Qf2 Rg5 28. Nbd6 h5 29. Rd4 h4 30. g4 Rxg4+ 31. Rxg4 Qxg4+ 32. Kh1
+Bxd6 33. Nxd6 Rxe3 34. Rg1 Qf4 35. Nxb7 Re2 0-1
+

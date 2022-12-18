@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Mieses, Jacques"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ea9850b6"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ROU"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nf6 5. Nge2 d5 6. exd5 exd5 7. d4 c4 8. Bg5
+Bb4 9. O-O Be6 10. Nf4 Bxc3 11. bxc3 Ne7 12. Re1 Qd7 13. Bxf6 gxf6 14. Qe2 Bg4
+15. Nxd5 Bxe2 16. Nxf6+ Kd8 17. Nxd7 Kxd7 18. Rxe2 Rab8 19. Rae1 Nc8 20. Bd5
+Nd6 21. Re7+ Kd8 22. Bxf7 a5 23. Bh5 Nf5 24. R7e5 1-0

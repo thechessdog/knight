@@ -1,0 +1,24 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Saxton"]
+[Black "Ohman"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "1a2db649"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Bd3 Bd6
+8. Nge2 Nf8 9. Qc2 Ng6 10. e4 dxe4 11. Nxe4 Be7 12. O-O-O Nxe4 13. Bxe7
+Qxe7 14. Bxe4 Bd7 15. Kb1 O-O 16. Ng3 Rae8 17. h4 f5 18. Bxf5 Bxf5 19. Nxf5
+Qe4 20. Qxe4 Rxe4 21. f3 Re2 22. g4 Nf4 23. Rhe1 Rfe8 24. Rxe2 Rxe2 25. Nd6
+b5 26. Rc1 Nd3 27. Rxc6 Rxb2+ 28. Ka1 h6 29. Rc3 Rd2 30. a3 b4 31. axb4
+Nxb4 32. Rc8+ Kh7 33. Rc7 Nc2+ 34. Kb1 Nxd4 35. Ne8 Re2 36. Rxg7+ Kh8 37.
+Rd7 Rxe8 38. Rxd4 Rf8 39. f4 Rf7 40. Kb2 Rg7 41. f5 Rc7 42. Kb3 Kg7 43. Kb4
+Rf7 44. Rd5 Rc7 45. Kb5 Kh7 46. g5 hxg5 47. hxg5 Kg7 48. Rc5 Rb7+ 49. Kc6
+Rb1 50. Rb5 Rc1+ 51. Kd6 Rd1+ 52. Ke6 Re1+ 53. Re5 Rb1 54. f6+ Kg6 55. Ke7
+Rb7+ 56. Kd8 Rh7 57. Re7 Rf7 58. Ke8 1-0
+

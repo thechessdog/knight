@@ -1,0 +1,20 @@
+[Event "Kautsky mem1"]
+[Site "Prague"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Schulz, Jan Sr"]
+[Black "Kuzelka, J."]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "49f6b2b6"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bd3
+Bxd3 9. Qxd3 Qc7 10. Bd2 e6 11. c4 Ngf6 12. Bc3 Bd6 13. Ne4 Nxe4 14. Qxe4 O-O-O
+15. O-O-O Nf6 16. Qe2 Qe7 17. Ne5 Bxe5 18. dxe5 Rxd1+ 19. Rxd1 Nd7 20. Qg4 g6
+21. Qd4 c5 22. Qe4 Nb6 23. b3 Rd8 24. Rxd8+ Qxd8 25. Qe3 Qf8 26. g4 Nd7 27. a3
+a6 28. Kc2 Kc7 29. b4 b6 30. h5 g5 31. Qe4 Qh8 32. b5 axb5 33. cxb5 Nb8 34. a4
+Qc8 35. Bd2 Qb7 36. Qxb7+ Kxb7 37. Bxg5 Nd7 38. Bxh6 1-0

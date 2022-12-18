@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Lazard, Frederic"]
+[Black "Smith, Stephen"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "beafb5ea"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Bd3 g6
+8. O-O Bg7 9. Qe2 f6 10. f4 Nh6 11. f5 Nxf5 12. exf6 Qxf6 13. g4 Qd4+ 14.
+Kh1 Nh6 15. Rf4 Qe5 16. Nc3 Qxe2 17. Bxe2 e5 18. Ra4 O-O 19. h3 Nf7 20. Bd2
+Nd8 21. Re1 Ne6 22. Bd1 g5 23. Ne2 Nf4 24. Kh2 Rf6 25. Nxf4 exf4 26. Re7 a6
+27. Be2 Re6 28. Rxe6 Bxe6 29. b3 Bc8 30. Bf3 Kf7 31. Rb4 Ke6 32. c4 Kd6 33.
+Rb6 Bd4 34. Rxc6+ Kxc6 35. Bxd5+ Kc5 36. Bxa8 Bb2 37. Be4 h6 38. Kg2 Kd4
+39. Kf3 Ba3 40. Ba5 Bd6 41. Bd5 Kd3 42. b4 Bb8 43. a4 Kc3 44. c5 Kd4 45.
+Bc6 Be5 46. Bb6 Bb8 47. Bd7 Bxd7 48. c6+ 1-0
+

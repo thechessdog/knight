@@ -1,0 +1,24 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kupferstich, Moses"]
+[Black "Nielsen, E Verner"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "b0ac1330"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. h4 h5 7. Bd3 Bxd3 8.
+Qxd3 e6 9. g5 g6 10. Ne2 c5 11. c3 Nc6 12. f4 Rc8 13. Nd2 cxd4 14. Nxd4
+Nxd4 15. cxd4 Ne7 16. Nf3 Nf5 17. Kf2 Qb6 18. b3 Be7 19. Bb2 Kd7 20. Rhc1
+Rc6 21. a4 Bb4 22. Qb5 Rc8 23. Rxc6 bxc6 24. Qxb6 axb6 25. Ke2 c5 26. Rc1
+c4 27. bxc4 Rxc4 28. Kd3 Rxc1 29. Bxc1 Kc6 30. Kc2 b5 31. Kb3 Ba5 32. Ba3
+bxa4+ 33. Kxa4 Bc3 34. Bc5 Ne3 35. Kb3 Ba5 36. Ka4 Bc3 37. Kb3 Ba5 38. Ka4
+Bb6 39. Bxb6 Kxb6 40. Ne1 Nf5 41. Nf3 Ng3 42. Ng1 Nf1 43. Nf3 Ne3 44. Ne1
+Nf5 45. Nf3 Nxd4 46. Nxd4 Kc5 47. Nf3 Kc4 48. Ka5 Kd3 49. Kb4 Ke3 50. Ng1
+Kf2 51. f5 Kxg1 52. f6 Kg2 53. Kc5 Kg3 54. Kd6 d4 55. Ke7 d3 56. Kxf7 d2
+57. Kxg6 d1=Q 58. f7 Qf3 59. Kg7 Kxh4 0-1
+

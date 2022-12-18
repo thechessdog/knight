@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Halvorsen"]
+[Black "Rojahn"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "241ecb9f"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 f6 6. exf6 Qxf6 7. Nbd2 Bf5
+8. g3 O-O-O 9. Bg2 g5 10. Ra2 h5 11. h4 gxh4 12. Rxh4 Nge7 13. Ne4 Qe6 14.
+Neg5 Qxc4 15. b3 Qd5 16. Rd2 Bg4 17. Rd3 Ng6 18. Rh2 Qd7 19. Bb2 Bg7 20.
+Nh4 Nxh4 21. gxh4 Rhf8 22. Bh3 Qe7 23. b4 Ne5 24. Rxd4 Nc4 25. Bc3 Bxd4 26.
+Bxg4+ hxg4 27. Bxd4 g3 28. Rg2 Ne3 29. fxe3 Qxe3 30. Bxe3 Rf1+ 31. Kxf1
+Rxd1# 0-1
+

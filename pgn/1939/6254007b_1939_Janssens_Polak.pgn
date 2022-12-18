@@ -1,0 +1,23 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Janssens, G."]
+[Black "Polak, J."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "6254007b"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 O-O 7. a3
+Bxd2+ 8. Nxd2 Ng5 9. e3 Ne6 10. Bg3 f6 11. exf6 Qxf6 12. Qc2 d6 13. Bd3 h5
+14. f3 Nc5 15. O-O h4 16. Be1 Qg5 17. f4 Qe7 18. Bh7+ Kh8 19. Bf2 g5 20.
+Bd3 Bg4 21. Rfe1 Qg7 22. Be2 Bxe2 23. Rxe2 Rae8 24. Rae1 Re6 25. b4 Nd7 26.
+Ne4 gxf4 27. exf4 Nd4 28. Bxd4 Qxd4+ 29. Kh1 Rxf4 30. Ng5 Rh6 31. Ne6 Rhf6
+32. Nxf4 Qxf4 33. Re8+ Kg7 34. R1e7+ Rf7 35. Rxf7+ Kxf7 36. Re1 Ne5 37. Qe4
+Qf2 38. c5 h3 39. Rg1 Ke6 40. gxh3 d5 41. Qg2 Qe3 42. Qg8+ Kf5 43. Qxd5
+Qxh3 44. Re1 Qc3 45. Rxe5+ Qxe5 46. Qxe5+ Kxe5 47. Kg2 b6 48. cxb6 axb6 49.
+Kf3 1-0
+

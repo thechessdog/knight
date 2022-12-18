@@ -1,0 +1,31 @@
+[Event "Londen"]
+[Site "Londen"]
+[Date "1900.01.01"]
+[Round "12"]
+[White "Jones, E."]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "84346afc"]
+[Epoch "Knight"]
+[BlackCountry "IRE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. d3
+O-O 9. Ne2 Na5 10. Ng3 Nxb3 11. axb3 c5 12. Bd2 g6 13. Bh6 Re8 14. h3 Bf8 15.
+Qd2 Bxh6 16. Qxh6 Qe7 17. Nh4 Kh8 18. Qg5 Ng8 19. Qxe7 Nxe7 20. Nf3 f5 21. Nd2
+f4 22. Ne2 g5 23. Nc3 Be6 24. f3 h6 25. Rfc1 Red8 26. Kf2 Nc6 27. Rd1 Nb4 28.
+Rac1 Kg7 29. Nf1 Rdb8 30. Rd2 Nc6 31. Ne2 b4 32. Ra1 a5 33. Rdd1 h5 34. Nd2 Kf6
+35. Nc4 Ke7 36. Ra2 g4 37. hxg4 hxg4 38. Rh1 g3+ 39. Kg1 Bxc4 40. dxc4 Rh8 41.
+Rxh8 Rxh8 42. Ra1 Kd7 43. Ra2 Kc7 44. Ra1 Kb6 45. Rd1 Kc7 46. Ra1 Kb6 47. Rd1
+Rh6 48. Ra1 Na7 49. Rd1 Nc8 50. Ra1 Rh7 51. Rd1 Kc6 52. Ra1 Ra7 53. Nc1 Nb6 54.
+Ne2 a4 55. Kf1 Ra8 56. Kg1 Rh8 57. Nc1 Kb7 58. Ne2 Rh6 59. Rd1 Kc6 60. Ra1 Rh2
+61. Nc1 Kb7 62. Ne2 axb3 63. cxb3 Nc8 64. Rd1 Kc6 65. Ra1 Ne7 66. Ra6+ Kd7 67.
+Nc1 Kc7 68. Ra7+ Kd8 69. Rb7 Nc6 70. Rf7 Nd4 71. Rg7 Nc2 72. Nd3 Ne3 73. Ne1
+Nd1 74. Nd3 Ne3 75. Ne1 Nd1 76. Nd3 Nf2 77. Nxf2 gxf2+ 78. Kxf2 Rh1 79. Ra7 Rc1
+80. Ra2 Rc2+ 81. Kg1 Rd2 82. Kh2 Ke7 83. Kh3 Kf6 84. Kh2 Kg5 85. Kg1 Kh4 86.
+Kh2 Rd1 87. Ra8 Rd3 88. Ra6 Kg5 89. Kg1 Kh4 90. Kh2 Rd1 91. Ra8 Rd2 92. Ra6 Kg5
+93. Kg1 Rd3 94. Ra2 Kh4 95. Kh2 Rxb3 96. Ra6 Rxb2 97. Rxd6 Rc2 98. Rd5 Rxc4 99.
+Rxe5 b3 100. Re8 b2 101. Rh8+ Kg5 102. Rg8+ Kh6 103. Rh8+ Kg7 104. Rb8 Rb4 105.
+Rxb4 cxb4 106. e5 b1=Q 107. e6 Kf6 108. e7 Kxe7 0-1

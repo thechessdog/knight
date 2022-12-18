@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Johannessen, Svein"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "708b8d6f"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+[BlackCountry "NOR"]
+
+1. d4 d5 2. Nf3 c5 3. c4 cxd4 4. cxd5 Nf6 5. Qxd4 Qxd5 6. Nc3 Qxd4 7. Nxd4 Bd7
+8. Ndb5 Na6 9. e4 e6 10. Be2 Bc6 11. Bf3 Bb4 12. O-O O-O 13. Nd4 Nd7 14. Nxc6
+bxc6 15. Na4 e5 16. a3 Ba5 17. b4 Bc7 18. Be3 Nb6 19. Be2 Nb8 20. Nc3 a6 21. a4
+N8d7 22. Rfd1 Rfd8 23. Rd2 Nf8 24. Rxd8 Bxd8 25. Rd1 Bc7 26. a5 Nbd7 27. Na4
+Rb8 28. Bc5 Nxc5 29. Nxc5 Rxb4 30. Nxa6 Rb7 31. Nxc7 Rxc7 32. a6 Nd7 33. Bg4
+Nf8 34. Rb1 Ra7 35. Bc8 c5 36. Rb5 Ne6 37. Bxe6 1-0

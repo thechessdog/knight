@@ -1,0 +1,20 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Landau, Salo"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[Variation "Dutch-Indian (Nimzo-Dutch) variation"]
+[HashCode "b5fa1c0e"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+[WhiteCountry "NLD"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Bb4+ 5. Bd2 Qe7 6. Nh3 Ne4 7. Bxe4 fxe4 8.
+O-O Bxd2 9. Nxd2 d5 10. Nf4 c6 11. Qb3 O-O 12. f3 exf3 13. Rxf3 g5 14. Ng2 Rxf3
+15. Qxf3 Nd7 16. Rf1 b6 17. Qe3 Ba6 18. cxd5 cxd5 19. Nf3 g4 20. Ng5 Nf8 21.
+Rf7 Qd6 22. Qf2 e5 23. Rxh7 Qg6 24. Nh4 Nxh7 25. Nxg6 Nxg5 26. Qf6 Nh3+ 27. Kg2
+Re8 28. Nxe5 1-0

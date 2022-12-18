@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Lewis"]
+[Black "Dayton"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "d6c9515a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. Re1 d5 6. Bb3 Bc5 7. d4 Nxd4
+8. Nxe5 Qf6 9. Bxd5 Qxf2+ 10. Kh1 Qg1+ 11. Kxg1 Ne2+ 12. Kf1 N2g3+ 13. hxg3
+Nxg3# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "23"]
+[White "Reggio, Arturo"]
+[Black "Taubenhaus, Jean"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "c5c9c39b"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Nb3 Be6 9. Be3 a6 10. Bxc6+ bxc6 11. f3 d4 12. Qxd4 Qxd4 13. Nxd4 Nc5 14. Nxc6
+Nd7 15. Nc3 Nb8 16. Nd4 Bb4 17. Nxe6 fxe6 18. O-O Nc6 19. f4 Bxc3 20. bxc3 Ne7
+21. c4 Nf5 22. Bc5 Kd7 23. Rfd1+ Kc6 24. Bf2 h5 25. Rd3 Rhb8 26. Rb3 Rd8 27.
+Rd3 Rdb8 28. a3 Rb2 29. Rc1 Rab8 30. g3 Rb1 31. Rxb1 Rxb1+ 32. Kg2 Rc1 33. Rc3
+Rd1 34. h3 Rd2 35. g4 hxg4 36. hxg4 Nh6 37. Kg3 Nxg4 38. Be1 Re2 39. Kxg4 Rxe1
+40. Kf3 Rf1+ 41. Ke4 Rg1 42. Rh3 Kc5 43. Rh8 Kxc4 44. Rc8 c5 45. Rc6 g5 46.
+fxg5 Re1+ 47. Kf4 Rf1+ 48. Kg4 Kd5 49. Rxa6 Kxe5 50. Ra5 Rf4+ 51. Kh5 Rc4 52.
+Kg6 Rxc2 53. Kf7 Rf2+ 54. Ke7 Kd5 55. Ra6 e5 56. g6 Rg2 57. Rd6+ Kc4 58. Kf7
+Kb3 59. Rd3+ Kc4 60. Rh3 e4 61. g7 Kd4 62. g8=Q Rxg8 63. Kxg8 e3 64. a4 e2 65.
+Rh1 c4 66. a5 Kc5 67. Kf7 Kb5 68. Ke6 Kxa5 69. Kd5 Kb4 70. Kd4 Kb3 71. Rc1 Kb2
+72. Re1 c3 73. Rxe2+ c2 74. Kd3 1-0

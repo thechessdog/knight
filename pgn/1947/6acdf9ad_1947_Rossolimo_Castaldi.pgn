@@ -1,0 +1,18 @@
+[Event "Hilversum zt"]
+[Site "Hilversum zt"]
+[Date "1947.07.01"]
+[Round "1"]
+[White "Rossolimo, Nicolas"]
+[Black "Castaldi, Vincenzo"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "6acdf9ad"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "ITA"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 e6 4. Bg5 h6 5. Bxf6 Qxf6 6. e4 Bb4 7. Bd3 O-O 8.
+O-O b6 9. Qe2 c5 10. exd5 Bxc3 11. Qe4 Rd8 12. d6 Kf8 13. bxc3 Nc6 14. Qxc6 Bd7
+15. Qe4 Rac8 16. Ne5 1-0

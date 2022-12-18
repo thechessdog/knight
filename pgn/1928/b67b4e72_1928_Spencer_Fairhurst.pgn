@@ -1,0 +1,15 @@
+[Event "Tenby"]
+[Site "Tenby"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Spencer"]
+[Black "Fairhurst, William Albert"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "b67b4e72"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. Bg5 Nf6 3. Nd2 Bf5 4. c4 e6 5. Ngf3 Nbd7 6. Nh4 Be4 7. cxd5 exd5 8.
+Nxe4 Nxe4 9. Bxd8 Bb4+ 10. Qd2 Bxd2+ 11. Kd1 Rxd8 12. f3 Bg5 0-1

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Hage, Poul"]
+[Black "Klausen, Viggo"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "8d6e6080"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 O-O 7. Bd2 Bxc3
+8. bxc3 c5 9. e3 Nc6 10. Bd3 cxd4 11. exd4 h6 12. O-O b6 13. Rae1 Bb7 14.
+c4 Qxf3 15. gxf3 Nxd4 16. Qc3 Nxf3+ 17. Kg2 Nxe1+ 18. Kh3 Bg2+ 19. Kg3 Bxf1
+20. Bxe1 Rfd8 21. Bc2 Rac8 22. f3 Bxc4 0-1
+

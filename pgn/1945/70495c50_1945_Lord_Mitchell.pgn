@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Lord"]
+[Black "Mitchell"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "70495c50"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 e6
+8. O-O Ngf6 9. b3 Qc7 10. Bb2 O-O-O 11. c4 Bd6 12. Qe2 Bxd3 13. Qxd3 h5 14.
+Rfd1 c5 15. Qe2 h4 16. Nf1 Nh5 17. Ne5 Ndf6 18. a3 Nf4 19. Qe3 g5 20. b4
+Bxe5 21. dxe5 Qc6 22. f3 Ng4 23. Qe1 cxb4 24. axb4 Qb6+ 25. c5 Qxb4 26. Ba3
+Rxd1 27. Bxb4 Rxa1 28. Qe4 Rd8 29. c6 Rdd1 30. cxb7+ Kd7 31. b8=N+ Kd8 32.
+Be7+ Kxe7 33. Qb4+ Ke8 34. Qb5+ Kf8 35. fxg4 Nd3 0-1
+

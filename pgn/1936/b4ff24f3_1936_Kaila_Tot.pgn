@@ -1,0 +1,18 @@
+[Event "Muenchen ol"]
+[Site "Muenchen"]
+[Date "1936.??.??"]
+[Round "17"]
+[White "Kaila, Osmo"]
+[Black "Tot, Bora"]
+[Result "1-0"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[HashCode "b4ff24f3"]
+[Epoch "Knight"]
+[BlackCountry "SRB"]
+
+1. e4 c5 2. Nf3 a6 3. b4 d6 4. bxc5 dxc5 5. a4 Nc6 6. Bb2 Bg4 7. Be2 Nf6 8. d3
+e6 9. Nbd2 Be7 10. h3 Bh5 11. g4 Bg6 12. Nc4 b5 13. Nce5 Rc8 14. h4 h6 15. Kf1
+Qc7 16. Nxc6 Qxc6 17. Ne5 Qc7 18. axb5 axb5 19. Ra6 O-O 20. g5 hxg5 21. hxg5
+Nh7 22. Qa1 1-0

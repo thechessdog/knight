@@ -1,0 +1,26 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Köhnlein, Friedrich"]
+[Black "Salwe, Georg"]
+[Result "1/2-1/2"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "f44f1620"]
+[Epoch "Knight"]
+[WhiteCountry "GER"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Nc6 12. Nbd2 O-O 13. Nf1 cxd4 14. cxd4 exd4 15.
+Bg5 Qb6 16. N1d2 Be6 17. Nb3 Bxb3 18. Bxb3 Rac8 19. Rc1 h6 20. Bh4 Ne5 21. Rxc8
+Nxf3+ 22. Qxf3 Rxc8 23. Qd3 Qc5 24. f4 Nd5 25. Bxe7 Nxe7 26. Rd1 Nc6 27. a3 a5
+28. Bd5 b4 29. axb4 Nxb4 30. Qxd4 Qxd4+ 31. Rxd4 Rc1+ 32. Kh2 Rc2 33. b3 Kf8
+34. Rc4 Ke7 35. Rxc2 Nxc2 36. Kg3 Ne3 37. Ba8 Nc2 38. Bd5 Nb4 39. Bc4 d5 40.
+exd5 Kd6 41. Kf3 Nxd5 42. g4 f6 43. Ke4 Ne7 44. h4 Kc5 45. Be6 Ng6 46. h5 Ne7
+47. Bd7 Kd6 48. Be8 Kc5 49. Bd7 Kb4 50. Be6 Kc3 51. g5 fxg5 52. fxg5 hxg5 53.
+Bf7 g4 54. Kf4 Nc6 55. Bd5 Nd4 56. Kxg4 Nxb3 57. Bc6 Nd4 58. Be8 Ne6 59. Kf5
+Nf8 60. Ke5 Kb4 61. Kf5 Kc4 62. Ba4 Kd5 63. Bd1 Kd6 64. Ba4 Ke7 65. Bb3 Nd7 66.
+Kg6 Kf8 67. Ba4 Nc5 68. Bb5 Ne6 69. Ba4 Ke7 70. Bb3 Kd6 71. Bxe6 1/2-1/2

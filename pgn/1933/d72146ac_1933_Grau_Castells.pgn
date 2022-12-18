@@ -1,0 +1,16 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Grau, Roberto"]
+[Black "Castells Mendez"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[HashCode "d72146ac"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Bg5 Nbd7 5. e3 Be7 6. Bd3 dxc4 7. Bxc4 a6 8. a4
+O-O 9. O-O c5 10. Nc3 Re8 11. Qe2 b6 12. Rfd1 Qc7 13. d5 exd5 14. Nxd5 Nxd5 15.
+Bxd5 Ra7 16. Bf4 Qd8 17. Bc6 Rc7 18. Bxc7 Qxc7 19. Bxd7 Bxd7 20. Qxa6 1-0

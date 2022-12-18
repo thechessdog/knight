@@ -1,0 +1,16 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Stahlberg, Gideon"]
+[Black "Dahlin, B."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "00c5e8f4"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+
+1. f4 d5 2. e3 c5 3. Nf3 e6 4. b3 Bd6 5. Bb2 f6 6. Bd3 Nh6 7. Ng5 g6 8. Nxh7
+Rxh7 9. Bxg6+ Rf7 10. Qh5 Bf8 11. g4 Qe7 12. g5 Nf5 13. Bxf6 Qd7 14. Be5 Nc6
+15. Bxf7+ Qxf7 16. g6 Qg8 17. g7+ Kd8 18. Qh8 1-0

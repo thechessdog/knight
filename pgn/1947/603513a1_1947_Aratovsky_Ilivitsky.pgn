@@ -1,0 +1,21 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Aratovsky"]
+[Black "Ilivitsky, Georgy"]
+[Result "0-1"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "603513a1"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. e3 O-O 6. Qb3 e6 7. Bd2 b6 8. cxd5
+exd5 9. Be2 Bb7 10. O-O Nbd7 11. Rfd1 Re8 12. Rac1 c6 13. a4 a5 14. Be1 Rb8 15.
+Qc2 Qe7 16. Na2 Ne4 17. b4 axb4 18. Nxb4 Rec8 19. Ba6 Bxa6 20. Nxa6 Ra8 21. Nb4
+Qe6 22. Nd3 g5 23. Rb1 c5 24. dxc5 bxc5 25. h4 h6 26. hxg5 hxg5 27. Rdc1 c4 28.
+Nb2 Ndc5 29. Nd4 Bxd4 30. exd4 Nb3 31. Rd1 Qf6 32. Bc3 Re8 33. Re1 Nxc3 34.
+Qxc3 Qxd4 35. Qg3 Qf4 36. Qh3 Nc5 37. Red1 Re5 38. g3 Qf3 39. Re1 Re4 40. Qh6
+Ne6 41. Rxe4 Qxe4 42. Rc1 c3 43. Nd1 d4 0-1

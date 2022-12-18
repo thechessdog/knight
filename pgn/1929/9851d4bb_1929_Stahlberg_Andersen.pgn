@@ -1,0 +1,21 @@
+[Event "Goteborg"]
+[Site "Goteborg"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Stahlberg, Gideon"]
+[Black "Andersen, Erik"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "9851d4bb"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[WhiteCountry "SWE"]
+[BlackCountry "DEN"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. f4 Nc6 6. Nf3 Be6 7. Nd5 Bxd5 8.
+exd5 Ne7 9. fxe5 dxe5 10. Nxe5 Nexd5 11. d4 Qe7 12. c3 O-O-O 13. Qf3 Rhe8 14.
+Bg5 Nb6 15. Be2 Bxd4 16. cxd4 Rxd4 17. Nd3 Re4 18. Nc1 Qc5 19. Bxf6 gxf6 20.
+Qa3 Qxa3 21. bxa3 Nc4 22. O-O Nxa3 23. Bd3 Re1 24. Nb3 Rxa1 25. Rxa1 h6 26. Rf1
+Re3 27. Nc1 c5 28. Rxf6 c4 29. Kf2 Re7 30. Bf5+ Kc7 31. Rxh6 1-0

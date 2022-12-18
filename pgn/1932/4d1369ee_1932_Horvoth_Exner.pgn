@@ -1,0 +1,25 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Horvoth, D."]
+[Black "Exner, G."]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "4d1369ee"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Nxe5 Be7 9. d4 Ne6 10. c3 O-O 11. Be3 f6 12. Nd3 Re8 13. Nd2 Nf8
+14. Qf3 Be6 15. Nf4 Bf7 16. a3 Qd7 17. Nf1 Rad8 18. Rad1 Ng6 19. Nxg6 Bxg6
+20. Bc1 Bd6 21. Rxe8+ Rxe8 22. Ne3 Qf7 23. Re1 Be4 24. Qe2 Qg6 25. Qg4 Kf7
+26. Qxg6+ Bxg6 27. Bd2 c5 28. Nc4 Rxe1+ 29. Bxe1 Bf8 30. f3 cxd4 31. cxd4
+Ke6 32. Bc3 Bd3 33. Na5 b6 34. Nb3 Kd5 35. Kf2 a5 36. Ke3 Ba6 37. f4 g6 38.
+Nd2 Bd6 39. Ne4 Be7 40. g3 a4 41. Nd2 c5 42. Ne4 f5 43. Ng5 h6 44. Nf7 b5
+45. Ne5 b4 46. axb4 cxb4 47. Be1 a3 48. bxa3 b3 49. Bc3 Bxa3 50. Nf3 Bc1+
+51. Kf2 b2 52. Bxb2 Bxb2 53. Ke3 Bb5 54. h3 h5 55. Nh4 Bxd4+ 56. Kf3 Be8
+57. g4 Ke6 58. Kg3 Bf6 59. Nf3 Bc6 60. Ng1 h4+ 61. Kh2 Bd4 62. gxf5+ Kf6
+63. fxg6 Bxg1+ 64. Kxg1 Kxg6 65. Kf2 Kf5 66. Ke2 Bg2 0-1
+

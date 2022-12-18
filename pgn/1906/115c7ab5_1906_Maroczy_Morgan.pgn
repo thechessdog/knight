@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Maroczy, Geza"]
+[Black "Morgan"]
+[Result "1-0"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "115c7ab5"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. d4 Bg4 10. a4 Rb8 11. axb5 axb5 12. d5 1-0

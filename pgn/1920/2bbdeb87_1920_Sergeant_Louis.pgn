@@ -1,0 +1,20 @@
+[Event "Bromley"]
+[Site "Bromley"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Sergeant, Edward Guthlac"]
+[Black "Louis"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "2bbdeb87"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 g6 10. a4 Rb8 11. axb5 axb5 12. Nbd2 Nxd2 13. Bxd2 Bg7 14. Bg5 Ne7
+15. Qd4 O-O 16. Qc5 Re8 17. Nd4 Bf8 18. Nxb5 c6 19. Nd4 Nf5 20. Nxe6 Qxg5 21.
+Qxf8+ Rxf8 22. Nxg5 Rxb3 23. Ra6 Rc8 24. Ra7 Rf8 25. e6 fxe6 26. Nxe6 Re8 27.
+Nc7 Re7 28. g4 Nh4 29. Nb5 Re4 30. f3 Re2 31. Rf2 Re1+ 32. Rf1 Nxf3+ 33. Kf2
+Rxb2+ 0-1

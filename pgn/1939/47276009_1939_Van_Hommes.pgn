@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Van Steenis, Joost"]
+[Black "Hommes"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "47276009"]
+[Epoch "Knight"]
+[WhiteID "1002414"]
+[WhiteCountry "NED"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. O-O O-O 8.
+Qe2 b6 9. Re1 Bb7 10. Neg5 Re8 11. Nxf7 Bxf3 12. gxf3 Kxf7 13. Qxe6+ Kf8 14.
+Bc4 1-0

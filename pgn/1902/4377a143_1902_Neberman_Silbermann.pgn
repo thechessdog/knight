@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Neberman"]
+[Black "Silbermann"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "4377a143"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 f5 3. exf5 exf4 4. Qh5+ g6 5. fxg6 Nf6 6. g7+ Nxh5 7. gxh8=Q
+Qh4+ 8. Kd1 d6 9. Nf3 Bg4 10. Be2 Qf2 11. Re1 Nd7 12. Bb5+ Kd8 13. Qxf8+
+Nxf8 14. Re8# 1-0
+

@@ -1,0 +1,27 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Duz-Khotimirsky, Fedor Ivanovich"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "32f27d91"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 d6 6. d3 Nf6 7. Bd2 Bd7 8. Qc1
+h6 9. O-O Qc8 10. Re1 Bh3 11. Ne2 g5 12. Bc3 e5 13. Kh1 Qg4 14. Neg1 Bxg2+ 15.
+Kxg2 Nh5 16. h3 Qe6 17. Qd1 Qg6 18. Bd2 Bf6 19. Nh2 Ng7 20. c3 Ne6 21. b4 cxb4
+22. cxb4 Rg8 23. Qa4 Kf8 24. Rac1 Kg7 25. Ne2 Kh7 26. Rg1 Bd8 27. g4 Ncd4 28.
+Nxd4 Nxd4 29. Rge1 Qe6 30. Be3 Bb6 31. Bxd4 Bxd4 32. Rc7 b5 33. Qb3 Qxb3 34.
+axb3 Kg6 35. Rec1 Kf6 36. Nf1 Ke6 37. Ng3 Bb6 38. R7c6 Kd7 39. Nf5 Bc5 40. bxc5
+Kxc6 41. Ne7+ Kd7 42. Nxg8 Rxg8 43. cxd6 Kxd6 44. b4 a6 45. Ra1 Ra8 46. Ra5 Kc6
+47. Kf3 Kb6 48. Ke3 Rd8 49. Ra1 Rd4 50. Rb1 a5 51. bxa5+ Kxa5 52. Kd2 Rd6 53.
+Ra1+ Kb4 54. Rb1+ Kc5 55. Rc1+ Kb6 56. h4 b4 57. hxg5 hxg5 58. Rc8 Kb5 59. Rc7
+f6 60. Rb7+ Rb6 61. Rd7 Rc6 62. d4 exd4 63. Rxd4 b3 64. Rd8 Kb4 65. e5 fxe5 66.
+Rb8+ Ka3 67. Ra8+ Kb2 68. Ra5 Rd6+ 69. Ke3 Kc3 70. Rxe5 b2 71. Rb5 Re6+ 72. Kf3
+Rf6+ 73. Ke3 Rf4 0-1

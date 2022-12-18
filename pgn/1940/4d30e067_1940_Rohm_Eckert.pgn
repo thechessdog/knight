@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Rohm"]
+[Black "Eckert"]
+[Result "1-0"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[HashCode "4d30e067"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 O-O 7. O-O Bxd2
+8. Nbxd2 d5 9. Qc2 Rd8 10. Rad1 e5 11. dxe5 Nxe5 12. Nxe5 Qxe5 13. cxd5
+Nxd5 14. Nc4 1-0
+

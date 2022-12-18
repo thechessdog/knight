@@ -1,0 +1,24 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Salwe, Georg"]
+[Black "Blumenfeld, Benjamin"]
+[Result "0-1"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Chigorin variation"]
+[HashCode "9f1f5d5a"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. exf6 hxg5 7. fxg7 Rg8 8.
+Qh5 Qf6 9. Nf3 Qxg7 10. O-O-O Bd6 11. Ne1 g4 12. f3 Nd7 13. Qh4 Rh8 14. Qxg4
+Qh6+ 15. f4 Qxf4+ 16. Qxf4 Bxf4+ 17. Kb1 Rxh2 18. Rxh2 Bxh2 19. Nf3 Bf4 20. Bd3
+c5 21. Bb5 Ke7 22. Bxd7 Bxd7 23. dxc5 a5 24. Nd4 Rc8 25. Nb3 a4 26. Na5 Rxc5
+27. Nxb7 Rc7 28. Na5 Be5 29. Rd3 Bxc3 30. Rxc3 Rxc3 31. bxc3 Bb5 32. Kc1 Kd6
+33. Kd2 Bf1 34. g3 Kc7 35. c4 Kb6 36. cxd5 exd5 37. Nb3 axb3 38. axb3 Kc5 39.
+c3 Bg2 40. Ke3 Be4 41. Kd2 Kd6 42. Ke3 Ke5 43. b4 Bf5 44. b5 Bd7 45. b6 Bc6 46.
+Kd3 Bb5+ 47. Kd2 Ba6 48. Ke3 Bb7 49. Kd3 Kf5 50. Kd4 Kg4 51. Ke5 Kxg3 52. Kd6
+f5 53. Kc7 Ba6 54. Kb8 f4 55. Ka7 f3 56. Kxa6 f2 57. b7 f1=Q+ 0-1

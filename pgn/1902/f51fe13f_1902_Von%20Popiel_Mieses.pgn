@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "7"]
+[White "Von Popiel, Ignatz"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov, American attack"]
+[HashCode "f51fe13f"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "POL"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 Bb4 7. Nd6+ Ke7 8.
+Bf4 e5 9. Nf5+ Kf8 10. Bg5 d5 11. Bxf6 Qxf6 12. Qxd5 Bxf5 13. exf5 Rd8 14. Qe4
+Rd4 15. Qe3 Ne7 16. Be2 Nd5 17. Qf3 e4 18. Qg3 Nxc3 19. bxc3 Bxc3+ 20. Qxc3
+Rd1+ 21. Rxd1 Qxc3+ 22. Kf1 Qxc2 23. g4 Ke7 24. Re1 Rd8 25. h4 Rd2 26. Rh3 Qxa2
+27. Re3 Qc2 28. f3 Rd4 29. fxe4 Rd2 30. e5 h5 31. f6+ gxf6 32. exf6+ Kxf6 33.
+gxh5 Kg7 34. Kf2 b5 35. Rg1+ Kh6 36. Rg5 b4 37. Re8 Qb2 38. Rgg8 Kh7 39. Rg4
+Qf6+ 40. Kg3 Qc3+ 41. Bf3 Qc7+ 42. Rf4 f5 43. Re6 Rd4 44. Re7+ Qxe7 45. Rxd4
+Qg7+ 0-1

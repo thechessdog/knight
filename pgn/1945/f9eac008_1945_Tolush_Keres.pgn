@@ -1,0 +1,19 @@
+[Event "Estonia ch"]
+[Site "Estonia ch"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[HashCode "f9eac008"]
+[Epoch "Knight"]
+[BlackCountry "EST"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Nf3 O-O 6. Bd3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. a4 Bg4 12. Qe1 c4 13. Bc2 Re8 14. Nd2 Ne7 15.
+f3 Bf5 16. e4 Bg6 17. Ba3 dxe4 18. fxe4 Ned5 19. Rf3 Rc8 20. Kh1 Rc6 21. Qb1
+Nxc3 22. Rxc3 Qxd4 23. Bb4 Qxd2 24. a5 Bxe4 25. Bxe4 Nxe4 26. Rxc4 Qe3 0-1

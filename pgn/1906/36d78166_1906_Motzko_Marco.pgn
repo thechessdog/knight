@@ -1,0 +1,17 @@
+[Event "Cesky Tesin sim"]
+[Site "Cesky Tesin"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Motzko, Franz"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Quaade gambit"]
+[HashCode "36d78166"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 Bg7 5. Bc4 g4 6. d4 gxf3 7. Qxf3 Nc6 8.
+Bxf4 Nxd4 9. Bxf7+ Kxf7 10. Qh5+ Kf8 11. O-O Nf6 12. Bg5 Kg8 13. Rxf6 Bxf6 14.
+Rf1 1-0

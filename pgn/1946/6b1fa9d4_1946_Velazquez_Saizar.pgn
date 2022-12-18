@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Velazquez, Patricio"]
+[Black "Saizar, Jose"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "6b1fa9d4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 d6 4. Bc4 Bg4 5. O-O Nf6 6. d3 Na5 7. fxe5 Nxc4
+8. exf6 Ne5 9. fxg7 Bxg7 10. Nbd2 Qd7 11. Nxe5 Bxe5 12. Nf3 Rg8 13. Nxe5
+dxe5 14. Qe1 Bh3 15. Rf2 O-O-O 16. Kh1 Bxg2+ 17. Rxg2 Rxg2 18. Kxg2 Qg4+
+19. Kf2 Rg8 20. Ke3 Qf4+ 0-1
+

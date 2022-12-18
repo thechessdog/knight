@@ -1,0 +1,16 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Heider, H."]
+[Black "Platz"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "6338a5fc"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qxf6 10. Nxe6 fxe6 11. Qh5+ Qg6 12. Qxc5 1-0
+

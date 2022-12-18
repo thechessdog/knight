@@ -1,0 +1,16 @@
+[Event "Milwaukee"]
+[Site "Milwaukee"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bruning"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "d95edcba"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Bf4 cxd4 5. Bxb8 dxc3 6. Be5 cxb2 7. Bxb2
+Bb4+ 0-1
+

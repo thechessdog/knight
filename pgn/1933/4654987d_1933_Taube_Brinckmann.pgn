@@ -1,0 +1,19 @@
+[Event "Altona"]
+[Site "Altona"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Taube, A."]
+[Black "Brinckmann, Alfred"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "4654987d"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Qe2 Nc5 12. Nd4 Qd7 13. Bc2 f5 14. exf6 Bxf6 15.
+Nxe6 Nxe6 16. Qd3 g6 17. Ne4 Bg7 18. Bb3 Rad8 19. Rd1 Qf7 20. Bxd5 Ncd4 21.
+Bxe6 Nxe6 22. Qe2 Rxd1+ 23. Qxd1 Nc5 24. Ng3 Qxf2+ 25. Kh1 Ne4 26. Rb1 Nxg3+
+27. hxg3 Qxg3 28. Qd5+ Kh8 0-1

@@ -1,0 +1,18 @@
+[Event "Odessa ch-URS"]
+[Site "Odessa ch-URS"]
+[Date "1929.01.01"]
+[Round "7"]
+[White "Verlinsky, Boris"]
+[Black "Model, Abram Yakovlevich"]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "87751427"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. c3
+Nbc6 9. Nf3 cxd4 10. cxd4 f6 11. exf6 Rxf6 12. Bd3 a6 13. Nc3 Bd7 14. O-O Be8
+15. Rfe1 Bg6 16. Ne5 Bxd3 17. Qxd3 Nxe5 18. Rxe5 Ng6 1/2-1/2

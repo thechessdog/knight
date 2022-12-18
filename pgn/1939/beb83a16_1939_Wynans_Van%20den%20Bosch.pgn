@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Wynans"]
+[Black "Van den Bosch, Johannes"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "beb83a16"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Nbd7 5. e3 a6 6. Qc2 dxc4 7. Bxc4 b5 8. Be2
+Bb7 9. a3 c5 10. O-O Rc8 11. Qb3 Be7 12. Ne5 O-O 13. Bf3 Bxf3 14. Nxf3 Qc7 15.
+Bd2 cxd4 16. exd4 Nb6 17. Rac1 Nc4 18. Bg5 Ng4 19. g3 Bxg5 20. Nxg5 Qd8 21. Nf3
+Qf6 22. Ne4 Qh6 23. Rc3 f5 24. Neg5 Nxh2 25. Nxh2 Qxg5 26. Nf3 Qh6 27. Kg2 f4
+28. Qc2 fxg3 29. Rh1 Rxf3 30. Rxh6 Rxf2+ 31. Qxf2 gxf2 32. Rh1 Rf8 33. Rd3 Nxb2
+34. Rd2 Nc4 35. Rxf2 Rxf2+ 36. Kxf2 Nxa3 37. Ra1 b4 38. Rc1 b3 0-1

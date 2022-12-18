@@ -1,0 +1,24 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Forgacs, Leo Fleischmann"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "d658baa1"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Nc6 10. d4 Nxd5 11. Bxd5 Qxd5 12. Bxf4 f6 13. dxe5 Qxd1 14. Rxd1
+fxe5 15. Bxe5 Nxe5 16. Re1 O-O 17. Rxe5 Bd7 18. Nc3 Rae8 19. Rae1 Rxe5 20. Rxe5
+Re8 21. Rxe8+ Bxe8 22. Nd5 Kf7 23. Nxc7 Bc6 24. c4 g3 25. Nd5 Ke6 26. Nc3 Kf5
+27. b4 Kg4 28. b5 Be8 29. Ne4 Bf7 30. Nd6 Be6 31. c5 Bd5 32. a4 Kxh4 33. a5 a6
+34. bxa6 bxa6 35. Nc8 Kg5 36. Na7 Kf6 37. c6 Ke7 38. c7 Bb7 39. c8=Q Bxc8 40.
+Nxc8+ Kd7 41. Nb6+ Kc6 42. Kf1 Kb5 43. Ke2 Kxa5 44. Nd5 Kb5 45. Kd3 a5 46. Nf6
+Kb4 47. Nxh7 Kb3 48. Nf6 a4 49. Ne4 Kb2 50. Nd2 Kc1 51. Nc4 Kd1 52. Na3 Kc1 53.
+Nb5 Kb2 54. Nd6 Kb3 1/2-1/2

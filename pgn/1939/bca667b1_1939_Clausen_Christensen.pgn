@@ -1,0 +1,19 @@
+[Event "Bronderslev"]
+[Site "Bronderslev"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Clausen, Th"]
+[Black "Christensen, Alfred August"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[HashCode "bca667b1"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 O-O 5. Bd3 b6 6. Nbd2 Bb7 7. c3 d5 8. Qc2
+c5 9. O-O Nc6 10. Rfe1 Rc8 11. Rad1 Nh5 12. a3 h6 13. g4 hxg5 14. gxh5 g4 15.
+Ng5 e5 16. f4 gxf3 17. h4 e4 18. hxg6 fxg6 19. Ndxe4 dxe4 20. Bc4+ Kh8 21. Kf2
+cxd4 22. Qxe4 Ne5 23. Qxb7 dxe3+ 24. Kg3 Qf6 25. Be6 Qf4+ 26. Kh3 Rc4 27. Rd4
+Rxd4 28. cxd4 f2 29. dxe5 f1=Q+ 0-1

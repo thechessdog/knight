@@ -1,0 +1,17 @@
+[Event "Hastings Minor"]
+[Site "Hastings"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Gibaud, Amedee"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "6c2964e6"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. Nc3 d6 8. a4
+Bg4 9. axb5 Nd4 10. Qd3 Bxf3 11. gxf3 Nh5 12. Nd5 O-O 13. Bc4 axb5 14. Rxa8
+Qxa8 15. Bxb5 c6 16. b4 cxd5 17. bxc5 Nf4 18. Qf1 Rb8 19. Bd3 Rb1 0-1

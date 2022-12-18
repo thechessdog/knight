@@ -1,0 +1,17 @@
+[Event "Toulouse"]
+[Site "Toulouse"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Rometti, R."]
+[Black "Gromer, A."]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "24c74fb8"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3
+d6 8. O-O Qe7 9. Bd2 Bd7 10. Re1 Ng4 11. Be2 Nxf2 12. Qc1 Ng4 13. Bxg4 Bxg4
+14. Nd5 Bxd2 15. Qxd2 Qd7 16. Qg5 cxd5 17. Qxg7 O-O-O 0-1
+

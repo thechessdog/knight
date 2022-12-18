@@ -1,0 +1,17 @@
+[Event "Gothenborg"]
+[Site "Gothenborg"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Haralds, Constantin"]
+[Black "Lowenborg, Otto"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line, fianchetto variation"]
+[HashCode "88ea19df"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 c6 7. Rc1 O-O 8. Bd3
+dxc4 9. Bxc4 b5 10. Bd3 a6 11. Ne4 Bb7 12. Bxf6 Nxf6 13. O-O Rc8 14. Nxf6+ gxf6
+15. Nh4 f5 16. Nxf5 exf5 17. Bxf5 Qd6 18. e4 f6 19. Qg4+ 1-0

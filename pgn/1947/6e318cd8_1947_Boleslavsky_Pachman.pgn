@@ -1,0 +1,18 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Boleslavsky, Isaac"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "6e318cd8"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O d6 8. c3
+Na5 9. Bc2 c5 10. Re1 Nc6 11. a4 Be6 12. d4 cxd4 13. cxd4 Bg4 14. dxe5 dxe5 15.
+Be3 O-O 16. Nc3 Bb4 17. h3 Bxf3 18. Qxf3 Nd4 19. Bxd4 Qxd4 1/2-1/2

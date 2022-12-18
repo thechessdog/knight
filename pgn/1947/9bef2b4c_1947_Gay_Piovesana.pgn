@@ -1,0 +1,20 @@
+[Event "Parma,OH"]
+[Site "Parma,OH"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Gay"]
+[Black "Piovesana"]
+[Result "0-1"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "9bef2b4c"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. e3 c6 7. Nf3 Be7
+8. Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Ne5 N6d7 12. Bxe7 Qxe7 13. Nxd7 Bxd7
+14. e4 dxe4 15. Nxe4 Bf5 16. Rfe1 Bxe4 17. Bxe4 Qd7 18. Rad1 Re7 19. Kf1
+Rae8 20. Qd3 Qg4 21. f3 Qh4 22. Qc4 Kh8 23. d5 cxd5 24. Rxd5 Qxh2 25. Red1
+f5 26. Rxf5 Qh1+ 27. Ke2 Qxg2+ 28. Ke3 Nd7 29. Qc7 Rxe4+ 30. fxe4 Qxe4+ 31.
+Kd2 Qxf5 0-1
+

@@ -1,0 +1,17 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "391009e3"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "AUT"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 e5 7. dxe5 Qxd1+
+8. Kxd1 Bg4 9. Bf4 Bc5 1-0

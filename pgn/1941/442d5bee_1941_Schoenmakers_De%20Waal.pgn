@@ -1,0 +1,20 @@
+[Event "Leeuwarden"]
+[Site "Leeuwarden"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Schoenmakers, P."]
+[Black "De Waal, E."]
+[Result "0-1"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "442d5bee"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Nxc6 bxc6 7. Bd3
+Nf6 8. O-O Be7 9. c4 O-O 10. exd5 cxd5 11. Qf3 Bb7 12. Qh3 h6 13. b3 Ne4
+14. cxd5 exd5 15. Nxe4 dxe4 16. Bc4 Bf6 17. Rb1 Qa5 18. b4 Qc7 19. Bb3 Ba6
+20. b5 Bxb5 21. Bxf7+ Qxf7 22. Rxb5 Qxa2 23. Qg4 Bd4 24. Qg3 Qe2 25. Rb7
+Bxf2+ 26. Qxf2 Rxf2 27. Rxf2 Qd1+ 28. Rf1 Qd4+ 29. Kh1 Rf8 30. Rxf8+ Kxf8
+31. Ba3+ Kg8 32. h3 Qa1+ 0-1
+

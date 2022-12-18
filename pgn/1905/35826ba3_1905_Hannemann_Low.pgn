@@ -1,0 +1,17 @@
+[Event "Hinnerup"]
+[Site "Hinnerup"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Hannemann, H."]
+[Black "Low"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "35826ba3"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 a6 7. e5 Qc7
+8. Be3 Ne7 9. Bd3 g6 10. Ne4 Bg7 11. Nd6+ Kf8 12. Qh4 Bxe5 13. Bh6+ Kg8 14.
+Qxe7 1-0
+

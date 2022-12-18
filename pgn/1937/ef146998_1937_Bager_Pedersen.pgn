@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Bager, A."]
+[Black "Pedersen, Eigil"]
+[Result "0-1"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "ef146998"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. e3 Nc6 6. Nf3 d5 7. a3 Bxc3+ 8. bxc3
+O-O 9. Bd3 b6 10. O-O Bb7 11. cxd5 exd5 12. Bb2 c4 13. Be2 Ne4 14. Bxc4 Nxd4
+15. exd4 dxc4 16. Nd2 Ng5 17. Qf5 g6 18. Qb5 Rc8 19. f4 Rc5 20. Qa4 Qd5 21. Nf3
+Nxf3+ 22. Rxf3 Rb5 23. Qc2 Re8 24. Raf1 Qh5 25. R3f2 Be4 26. Qe2 Qd5 27. Re1 f5
+28. Qd2 Rb3 29. h3 Qd8 30. Rfe2 Qh4 31. Kh2 Kf7 32. g3 Qd8 33. Qe3 Bc6 34. Qf2
+Re4 35. g4 Qd6 36. Rxe4 Bxe4 37. g5 Rxb2 0-1

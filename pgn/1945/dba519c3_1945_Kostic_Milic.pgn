@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Kostic, Boris"]
+[Black "Milic, Borislav"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[HashCode "dba519c3"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Be3 Qb6 5. Nd2 Nf6 6. e5 Nfd7 7. f4 c5 8. Ngf3
+Nc6 9. dxc5 Bxc5 10. Bxc5 Nxc5 11. Rb1 O-O 12. c3 f6 13. exf6 Rxf6 14. g3 e5
+15. b4 Ne4 16. Nxe4 dxe4 17. Bc4+ Kh8 18. Ng5 Qe3+ 19. Qe2 Qxc3+ 20. Kf2 Nd4
+21. Qh5 e3+ 22. Kg1 Bf5 23. fxe5 Bxb1 24. exf6 Qxc4 25. fxg7+ Kxg7 26. Qg4 Ne2+
+0-1

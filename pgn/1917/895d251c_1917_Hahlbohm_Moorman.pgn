@@ -1,0 +1,16 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1917.01.01"]
+[Round "1"]
+[White "Hahlbohm, H."]
+[Black "Moorman, LN."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "895d251c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 h6 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+
+Kf6 8. Qd5 Ne7 9. Qf7+ Kxe5 10. Bf4+ Kd4 11. Qe6 Nc5 12. Be3# 1-0
+

@@ -1,0 +1,20 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "Parr, Frank"]
+[Result "1-0"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Wagner variation"]
+[HashCode "51e4bd58"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 d5 5. cxd5 exd5 6. g3 Nc6 7. Bg2 Bg4 8. Be3
+Bxf3 9. Bxf3 Qb6 10. O-O cxd4 11. Na4 Qb4 12. a3 Qd6 13. Bf4 Qd7 14. b4 Ne4 15.
+Rc1 Bd6 16. Bxd6 Qxd6 17. b5 Ne7 18. Qxd4 Nf5 19. Qd3 Qe5 20. Rfd1 Rd8 21. b6
+a6 22. Bxe4 Qxe4 23. Qxe4+ dxe4 24. Rxd8+ Kxd8 25. Rc7 Re8 26. Rxb7 Nd6 27. Ra7
+Kc8 28. Nc5 Re5 29. Ra8# 1-0

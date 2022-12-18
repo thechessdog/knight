@@ -1,0 +1,17 @@
+[Event "Paris f-B"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "7"]
+[White "O'Hanlon, John"]
+[Black "Renaud, Georges"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "d22a83a7"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Qe2 c5 11. Rd1 Qc7 12. Bd2 a5 13. Rac1 Be7 14. dxc5 Bxc5
+15. Bb5 O-O 16. e4 Nxe4 17. Be3 Ndf6 18. Rxc5 Nxc5 19. Rc1 Nfe4 20. Ng5 Qe5 21.
+Bxc5 Qxg5 22. Bxf8 Nc3 0-1

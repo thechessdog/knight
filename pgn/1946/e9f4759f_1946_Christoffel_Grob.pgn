@@ -1,0 +1,21 @@
+[Event "Switzerland"]
+[Site "Switzerland"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Christoffel, Martin"]
+[Black "Grob, Henri"]
+[Result "0-1"]
+[ECO "A55"]
+[Opening "Old Indian"]
+[Variation "main line"]
+[HashCode "e9f4759f"]
+[Epoch "Knight"]
+[BlackCountry "SWI"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. b3
+Ne8 9. Qc2 g6 10. Bh6 Ng7 11. Rad1 Qc7 12. h3 Re8 13. Rfe1 Nf8 14. Bf1 Bf6 15.
+d5 c5 16. a3 Bd7 17. b4 b6 18. Ra1 a6 19. Reb1 Nh5 20. Be3 Be7 21. a4 a5 22.
+bxc5 bxc5 23. Rb3 f5 24. exf5 gxf5 25. Bg5 Qd8 26. Bxe7 Rxe7 27. Qd2 Rg7 28.
+Kh2 e4 29. Qh6 Be8 30. Ne1 f4 31. Kh1 Qe7 32. Be2 f3 33. gxf3 Qh4 34. Qxd6 Qxf2
+35. Nxe4 Rg1# 0-1

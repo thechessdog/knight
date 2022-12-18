@@ -1,0 +1,21 @@
+[Event "Leningrad ch4-SU"]
+[Site "Leningrad ch4-SU"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Zubarev, Nikolay"]
+[Black "Rabinovich, Abram"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto with ...Nc6"]
+[HashCode "fd51ecce"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+[WhiteID "54186412"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. d4 Nc6 7. O-O Bd7 8. h3
+Qc8 9. Kh2 e5 10. Be3 Kh8 11. Qd2 Ng8 12. Rac1 f5 13. c5 e4 14. Ng1 dxc5 15. d5
+Ne5 16. Bxc5 Re8 17. Bd4 Qd8 18. Kh1 h5 19. f3 Kh7 20. Bxe5 Bxe5 21. fxe4 Bxg3
+22. exf5 Bxf5 23. e4 Bd7 24. Rf7+ Kh8 25. Nf3 Be5 26. Nxe5 Rxe5 27. Qd4 Qg5 28.
+Rcf1 Ne7 29. R1f5 Nxf5 30. Qxe5+ Kg8 31. Rg7+ 1-0

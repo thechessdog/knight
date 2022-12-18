@@ -1,0 +1,18 @@
+[Event "RUS-ch02"]
+[Site "Moscow"]
+[Date "1901.??.??"]
+[Round "1"]
+[White "Yankovich, Boris"]
+[Black "Lebedev, Sergey Fedorovich"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "d24f6b73"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. e4 g4 6. Ng5 f5 7. d3 f4 8. Nh3
+gxh3 9. Qh5+ Kf8 10. e5 Qe7 11. d4 Nc6 12. c3 Bxe5 13. dxe5 Nxe5 14. gxh3 Nd3+
+15. Kd2 Qe3+ 16. Kc2 Qxc1+ 17. Kxd3 Be6 18. Qc5+ Ne7 19. Qd4 Kf7 20. Bg2 Qxb2
+21. Qxf4+ Ke8 0-1

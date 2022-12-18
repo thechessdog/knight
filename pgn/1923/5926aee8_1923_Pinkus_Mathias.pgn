@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Pinkus, Albert Sidney"]
+[Black "Mathias, J."]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "5926aee8"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Nb5 f6 8. Bd3 g6
+9. h5 c4 10. hxg6 Qa5+ 11. Bd2 Qxb5 12. Rxh7 Rg8 13. Qh5 1-0

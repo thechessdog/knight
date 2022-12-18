@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Wibe, Terje"]
+[Black "Humbert"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "13d152ad"]
+[Epoch "Knight"]
+[WhiteID "1500236"]
+[WhiteCountry "NOR"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Nc3 c6 8.
+Ne2 Bg4 9. Ng3 Qc7 10. h3 Bh5 11. Nxh5 Nxh5 12. Bxh7+ Kxh7 13. Ng5+ Kg6 14.
+Qd3+ f5 15. g4 Nf4 16. Bxf4 Bxf4 17. Ne6 Qd6 18. Nxf8+ Qxf8 19. Rae1 1-0

@@ -1,0 +1,17 @@
+[Event "Liege"]
+[Site "Liege"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Soultanbeieff, Vict"]
+[Black "Boet"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Graz variation"]
+[HashCode "2d0d16aa"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bc5 6. O-O d6 7. c3 Be6 8.
+d4 Bxb3 9. axb3 exd4 10. cxd4 Bb4 11. Bg5 Nf6 12. Qc1 Qd7 13. e5 dxe5 14.
+dxe5 Ne4 15. Rd1 Qe6 16. Rxa6 Rxa6 17. Qxc6+ Qxc6 18. Rd8# 1-0
+

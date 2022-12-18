@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Neishtadt, Yakov"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "45190256"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 Qb6 6. Nf3 Nh6 7. Bd3 Bd7 8. Bc2 Rc8
+9. b3 cxd4 10. cxd4 Nb4 11. Na3 Qc7 0-1

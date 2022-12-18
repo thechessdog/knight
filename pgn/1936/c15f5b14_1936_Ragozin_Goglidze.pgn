@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1936.01.01"]
+[Round "2"]
+[White "Ragozin, Viacheslav"]
+[Black "Goglidze, Victor Arsentievich"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "c15f5b14"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "GEO"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Qd6 8. d4
+Nd7 9. f4 O-O-O 10. h5 Bh7 11. Nxf7 Qe6+ 12. Ne5 Ngf6 13. Bc4 Nd5 14. c3 Nxe5
+15. fxe5 g6 16. O-O gxh5 17. Qxh5 Rg8 18. Kh2 Kb8 19. Rf3 Rg4 20. Bd2 Bg6 21.
+Qh3 h5 22. Raf1 Qg8 23. Be2 Bc2 24. Nxh5 Re4 25. Ng3 Rxe2 26. Nxe2 Bg7 27. Rg3
+Nc7 28. Bh6 Qc4 29. Bxg7 Qxe2 30. Rf8 Rxf8 31. Bxf8 Nd5 32. Rg8 Kc7 33. Bxe7
+Kb6 34. Bd8+ Ka6 35. Rg3 Nf4 36. Qg4 Qe4 37. Rf3 Qh7+ 38. Qh4 1-0

@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Wood, Gabriel"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Italian variation"]
+[HashCode "dd589427"]
+[Epoch "Knight"]
+[WhiteCountry "SCO"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Qe2 O-O 11. Be3 Re8 12. Bxc5 Nxc5 13. Nd4 Nxb3 14. Nxc6 Qd7
+15. axb3 Qxc6 16. Nd2 Bf5 17. f4 Qg6 18. Qe3 f6 19. Nf3 Be4 20. Rf2 Bxf3 21.
+Qxf3 fxe5 22. Qxd5+ Qe6 23. Qxe6+ Rxe6 24. Re2 e4 25. Rd2 Rd6 26. Rxd6 cxd6 27.
+Rd1 Rd8 28. Rd5 Kf7 29. f5 Kf6 30. Kf2 g6 31. fxg6 hxg6 32. Ke3 Ke6 33. Kxe4
+Rh8 34. Rg5 Kf6 35. Rg3 Rxh2 36. Kd5 Kf5 37. Kxd6 g5 38. c4 g4 39. c5 Kf4 40.
+Rc3 Rxg2 41. c6 Rd2+ 42. Kc7 g3 43. Kb7 g2 44. Rc1 Rc2 45. Rxc2 g1=Q 46. c7 Qg7
+47. Ka8 1-0

@@ -1,0 +1,18 @@
+[Event "Moscow-Leningrad"]
+[Site "Moscow-Leningrad"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Model, Abram Yakovlevich"]
+[Black "Judkovsky"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Gledhill attack"]
+[HashCode "78f54ab0"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Qg4 c5 6. Nf3 Nc6 7. Be3 cxd4 8.
+Bxd4 Nxd4 9. Nxd4 Nxe5 10. Qg3 f6 11. O-O-O Bd7 12. f4 Nc6 13. f5 Nxd4 14. Rxd4
+Qb6 15. fxe6 Qxd4 16. exd7+ Kd8 17. Bb5 g6 18. Re1 Bh6+ 19. Kb1 Bf4 20. Re8+
+Kc7 21. Qxf4+ Qxf4 22. Nxd5+ Kd6 23. Nxf4 a6 24. Ne6 1-0

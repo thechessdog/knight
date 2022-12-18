@@ -1,0 +1,18 @@
+[Event "Chester"]
+[Site "Chester"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Wheatcroft, George Shorrock Ashcombe"]
+[Black "Alexander, Conel Hugh O'Donel"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "a7c763b0"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 O-O 8.
+b4 e5 9. dxe5 Ne4 10. Qb2 dxe5 11. Nxe5 Nxe5 12. Qxe5 Re8 13. Qb2 Be6 14. c5
+Bb3 0-1

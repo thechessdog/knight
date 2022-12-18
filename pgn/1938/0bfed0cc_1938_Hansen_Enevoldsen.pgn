@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Hansen, Asgar"]
+[Black "Enevoldsen, Harald"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "0bfed0cc"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 O-O 8. Bb3
+Qc7 9. Re1 h6 10. Nh4 exd4 11. Qxd4 Nc5 12. Ng6 Nxb3 13. Nxe7+ Qxe7 14. cxb3
+Qe5 15. Qd3 Ng4 16. f4 Qc5+ 17. Be3 Nxe3 18. Qxe3 Be6 19. Rad1 Rad8 20. b4 Qxb4
+21. Qxa7 b6 22. a5 bxa5 23. Qf2 Rb8 24. Rd2 Rfd8 25. f5 Bc8 26. f6 g6 27. Kh1
+Be6 28. Qf4 Kh7 29. h4 Qc5 30. Red1 Qh5 31. Rxd6 g5 32. Qh2 Rxd6 33. Qxd6 Qxh4+
+34. Kg1 Qf4 35. e5 Rxb2 36. Qc5 Qg3 0-1

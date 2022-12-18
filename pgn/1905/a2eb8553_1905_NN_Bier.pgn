@@ -1,0 +1,16 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bier"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lasker variation"]
+[HashCode "a2eb8553"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. e4 g4 6. e5 gxf3 7. exd6 Qh4+
+8. g3 Qe4+ 9. Kf2 Qd4+ 10. Ke1 f2+ 11. Ke2 Bg4# 0-1
+

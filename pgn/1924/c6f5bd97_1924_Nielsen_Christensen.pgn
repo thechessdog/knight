@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Nielsen, E Verner"]
+[Black "Christensen, Victor"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "c6f5bd97"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Nf3 Bg4 7. O-O O-O
+8. Bg5 c6 9. Qd2 Bxf3 10. gxf3 Bd6 11. Kh1 Nbd7 12. Rg1 Qc7 13. Bh6 Nh5 14.
+Qg5 Ndf6 15. Bxg7 Bf4 16. Bxf6+ Bxg5 17. Rxg5+ Ng7 18. Rxg7+ Kh8 19. Rxh7+
+Kg8 1-0
+

@@ -1,0 +1,23 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Navarro"]
+[Black "Nicolas"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "0710f142"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. d4 Nf6 3. g3 c6 4. Bg2 Bf5 5. O-O Nbd7 6. Nbd2 Qc7 7. c4 e5 8.
+dxe5 Nxe5 9. cxd5 Nxf3+ 10. Bxf3 cxd5 11. Nb3 Bc2 12. Qd4 Be7 13. Bf4 Qd7
+14. Rac1 Rc8 15. Na1 Rc4 16. Qxa7 Ba4 17. Rxc4 dxc4 18. Qa8+ Bd8 19. Qxb7
+Qe6 20. Qb4 Bd7 21. Rc1 Be7 22. Qxc4 Qxc4 23. Rxc4 O-O 24. Kg2 h6 25. e4 g5
+26. Be3 g4 27. Be2 Be6 28. Ra4 Kh7 29. Bd3 Rd8 30. Bc2 Nd7 31. Nb3 Ne5 32.
+Nd4 Nc4 33. Bb3 Nxe3+ 34. fxe3 Bxb3 35. axb3 Bg5 36. Kf2 Rc8 37. Rc4 Ra8
+38. Rc1 Rd8 39. Rd1 Rb8 40. Ke2 Rb6 41. Kd3 Kg6 42. Rc1 Bf6 43. Rc6 Rxc6
+44. Nxc6 Bxb2 45. Nd4 Kf6 46. b4 Ke5 47. b5 h5 48. b6 Kd6 49. Kc4 Bc1 50.
+Kb5 Kd7 51. Ka6 Ba3 52. Nb5 Bb2 53. Nd4 Ba3 54. Kb5 Bd6 55. Nc6 f6 56. b7
+Ke6 57. Kc4 f5 58. exf5+ Kxf5 59. Kd3 h4 60. b8=Q Bxb8 61. Nxb8 1-0
+

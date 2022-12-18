@@ -1,0 +1,21 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Petrosian, Tigran"]
+[Black "Tripolitov, Zhuk"]
+[Result "1-0"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "19de9408"]
+[Epoch "Knight"]
+[WhiteCountry "GEO"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. Bg5 Bb7 7. f3 h6 8. Bh4
+g5 9. Bf2 d5 10. cxd5 exd5 11. e3 Nbd7 12. Bd3 c5 13. Ne2 Qe7 14. Ng3 O-O-O 15.
+Nf5 Qe6 16. Qa4 c4 17. Bb1 a6 18. Qb4 Nh5 19. Qd6 Rde8 20. Kd2 Nf4 21. Qxe6
+Nxe6 22. Nd6+ Kb8 23. Nxe8 Rxe8 24. h4 Rg8 25. hxg5 Rxg5 26. g4 Rg7 27. Rxh6
+Bc8 28. Bf5 Ndf8 29. Bg3+ Kb7 30. Be5 Rg8 31. e4 dxe4 32. Bxe4+ Ka7 33. Rh8
+Rxh8 34. Bxh8 Ng5 35. Ke3 Nfe6 36. Bf6 b5 37. d5 Nxe4 38. dxe6 Nxf6 39. exf7
+Nh7 40. Rh1 1-0

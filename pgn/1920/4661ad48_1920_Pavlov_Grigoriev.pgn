@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Pavlov, Mircea"]
+[Black "Grigoriev"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Bernstein variation"]
+[HashCode "4661ad48"]
+[Epoch "Knight"]
+[WhiteID "1200160"]
+[WhiteCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bg5 O-O 8. Re1
+exd4 9. Nxd4 Ng4 10. Bxe7 Qxe7 11. h3 Nge5 12. Nd5 Qh4 13. Nf5 Bxf5 14. exf5
+Nd4 15. Bd3 c6 16. Re4 Ndf3+ 17. Kh1 Qg5 18. Ne3 d5 19. Rb4 Qe7 20. Rf4 Nxd3
+21. cxd3 Ne5 22. f6 gxf6 23. Qh5 f5 24. Nxf5 Qc7 25. Qg5+ Ng6 26. Qf6 1-0

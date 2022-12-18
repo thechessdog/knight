@@ -1,0 +1,18 @@
+[Event "UJCS-4.Kongress"]
+[Site "Plzen"]
+[Date "1911.??.??"]
+[Round "7"]
+[White "Milka, K."]
+[Black "Podhajsky, J."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "604e26f0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. fxg7 Rg8 12. Nce4 Bb6 13. g4 Qg6 14.
+Nxe6 fxe6 15. Bg5 Rxg7 16. Nf6+ Kf8 17. Qf3 Rf7 18. Rxe6 Kg7 19. Nh5+ Qxh5
+20. Bf6+ 1-0
+

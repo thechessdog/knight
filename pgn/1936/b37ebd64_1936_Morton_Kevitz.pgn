@@ -1,0 +1,17 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1936.01.01"]
+[Round "6"]
+[White "Morton, Harold"]
+[Black "Kevitz, Alexander"]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b37ebd64"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Bg5 c5 3. dxc5 e6 4. Nc3 Bxc5 5. Qd2 h6 6. Bxf6 Qxf6 7. Nf3 Nc6 8.
+e3 O-O 9. a3 d5 10. Bd3 Rd8 11. O-O-O a6 12. e4 b5 13. exd5 exd5 14. Nb1 Bg4
+15. h3 Bxf3 16. gxf3 Rac8 17. Rhg1 Nd4 18. Nc3 Nxf3 19. Qe2 Nxg1 20. Rxg1 Bxa3
+21. bxa3 Rxc3 0-1

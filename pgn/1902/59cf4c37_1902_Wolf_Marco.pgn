@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Krause variation"]
+[HashCode "59cf4c37"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. Qe2 Ngf6 7. Rd1 Qc7 8.
+Nbd2 O-O 9. Nf1 b5 10. Bb3 Bb7 11. Ng3 c5 12. dxe5 dxe5 13. Qxb5 Nb6 14. Be3
+Nxe4 15. Nf5 Rac8 16. Rd7 Nxd7 17. Nxe7+ Kh8 18. Nxc8 Rxc8 19. Rd1 Nb6 20. c3
+h6 21. Nh4 Nf6 22. Nf5 a6 23. Qe2 Nbd5 24. Bxd5 Bxd5 25. Bxh6 gxh6 26. Qd2 Rg8
+27. Qxh6+ Nh7 28. Rxd5 Qb7 29. Qd2 Nf6 30. Qh6+ Nh7 31. Qd2 Nf6 32. c4 Rg6 33.
+Rd8+ Kh7 34. f3 e4 35. Qf4 1-0

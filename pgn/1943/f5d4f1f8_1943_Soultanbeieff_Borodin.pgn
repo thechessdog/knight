@@ -1,0 +1,18 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Soultanbeieff, Victor"]
+[Black "Borodin"]
+[Result "1-0"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical"]
+[HashCode "f5d4f1f8"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e6 7. Be3 a6 8. O-O
+Qc7 9. f4 Be7 10. Kh1 O-O 11. g4 b5 12. g5 Nd7 13. Nxc6 Qxc6 14. Bf3 Bb7 15.
+Qd2 Rac8 16. Rac1 Nb6 17. Bxb6 Qxb6 18. f5 Qd8 19. f6 gxf6 20. gxf6 Bxf6 21. e5
+Bxf3+ 22. Rxf3 Bxe5 23. Rg1+ Kh8 24. Qh6 Rxc3 25. bxc3 Qa8 26. Rg2 1-0

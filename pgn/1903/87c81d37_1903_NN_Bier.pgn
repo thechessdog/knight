@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bier"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "87c81d37"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 Nc6 6. d3 Bg4 7. h3 Bxf3 8.
+Qxf3 Nd4 9. Qd1 g6 10. fxe5 Nh5 11. Bxf7+ Kxf7 12. O-O+ Nf3+ 13. Kh1 Ng3#
+0-1
+

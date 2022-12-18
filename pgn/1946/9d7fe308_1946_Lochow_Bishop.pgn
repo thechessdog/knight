@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Lochow"]
+[Black "Bishop"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian defence"]
+[HashCode "9d7fe308"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Qxd5 4. c4 Qe4+ 5. Be3 e5 6. Nc3 Bb4 7. Qa4+ Nc6
+8. d5 Nxd5 9. cxd5 Bxc3+ 0-1
+

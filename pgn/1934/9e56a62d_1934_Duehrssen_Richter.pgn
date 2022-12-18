@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Duehrssen, Rudolf"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "9e56a62d"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Ne5 Nf6 5. Bb5+ Nbd7 6. d4 exd3 7. Qxd3 Bb4+
+8. Bd2 Bxd2+ 9. Nxd2 O-O 10. Nxd7 Re8+ 11. Kf1 Bxd7 12. Bc4 Ng4 13. Nf3 Qf6 14.
+Qd4 Ne5 15. Nxe5 Rxe5 16. c3 Rae8 17. f3 c5 18. Qxc5 b5 19. Bxb5 Qh4 20. g3 Qh5
+21. g4 Qh3+ 22. Kf2 Qh4+ 23. Kf1 Bxb5+ 24. Qxb5 Re3 25. Kg1 Re2 26. Rf1 h5 27.
+d6 Qh3 28. Rf2 Re1+ 29. Rf1 R8e2 0-1

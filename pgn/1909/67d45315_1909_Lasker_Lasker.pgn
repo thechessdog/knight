@@ -1,0 +1,16 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Lasker, A."]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[HashCode "67d45315"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Bg5 d6 6. h3 Be6 7. Bb5 a6 8. Bxc6+
+bxc6 9. d4 exd4 10. Nxd4 Bxd4 11. Qxd4 c5 12. Qc3 Nxe4 13. Qxg7 Qxg5 14. Qxh8+
+Kd7 15. Qxa8 Qc1+ 16. Ke2 Qxc2+ 17. Ke3 Qxf2+ 18. Kd3 c4+ 19. Kxe4 f5# 0-1

@@ -1,0 +1,19 @@
+[Event "Bad Liebenwerda"]
+[Site "Bad Liebenwerda"]
+[Date "1934.01.01"]
+[Round "4"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Henneberger, Walter"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "0b2a2ba9"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. O-O c5 8. dxe5
+dxe5 9. Qc2 Bxc3 10. Nxc3 Nc6 11. a3 Be6 12. b3 Qe7 13. Bb2 Rad8 14. Rad1 g6
+15. Ne4 Nh5 16. Ng3 Nxg3 17. hxg3 Qg5 18. Be4 Bg4 19. Rd5 Qe7 20. Qc3 f6 21. f4
+exf4 22. Rxf4 Ne5 23. Rxe5 Rd1+ 24. Kh2 fxe5 25. Rxg4 Rff1 26. Bd5+ Qf7 27.
+Bxf7+ Kf8 0-1

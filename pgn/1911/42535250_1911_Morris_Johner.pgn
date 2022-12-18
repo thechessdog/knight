@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Morris, WR."]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, symmetrical variation"]
+[HashCode "42535250"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. a3 b6
+9. dxc5 bxc5 10. cxd5 exd5 11. Bc2 Bg4 12. Kh1 d4 13. Ne4 Ne5 14. exd4 Nxf3 15.
+gxf3 Nxe4 16. fxg4 Qh4 17. f4 Nf2+ 18. Rxf2 Qxf2 19. Qd3 Qe1+ 20. Kg2 g6 21.
+Bd1 cxd4 22. Bd2 Qe7 23. Qxd4 Bc5 24. Qe5 Qxe5 25. fxe5 Bd4 26. Bc3 Bxc3 27.
+bxc3 Rac8 28. Rc1 Rfe8 29. c4 Rxe5 30. Kf2 Rd8 31. c5 Rd2+ 32. Kf1 Rdd5 33. c6
+Rc5 34. Rxc5 Rxc5 35. Bf3 Kf8 36. h4 Ke7 37. Ke2 Kd6 38. Kd2 Ra5 39. g5 Rxa3
+40. Bd5 Rh3 41. Bxf7 Kxc6 42. Be6 Rxh4 43. Ke3 a5 44. Kf3 a4 45. Kg3 Rd4 46.
+Bg8 a3 0-1

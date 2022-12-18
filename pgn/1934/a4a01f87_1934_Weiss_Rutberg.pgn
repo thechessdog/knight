@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Rutberg"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "a4a01f87"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Be2 Nd7 7. Nf3 Qc7
+8. O-O e6 9. c4 Be7 10. Be3 Ngf6 11. Qd2 O-O 12. Rfd1 c5 13. d5 exd5 14.
+cxd5 Bd6 15. Rac1 Rac8 16. b4 Qb8 17. bxc5 Nxc5 18. Qd4 Nce4 19. Qxa7 Qxa7
+20. Bxa7 Ra8 21. Nxe4 Bxe4 22. Bc5 Bxc5 23. Rxc5 Rxa2 24. Bc4 Rc2 25. Ne5
+Ne8 26. f3 Nd6 27. fxe4 Rd8 28. Rc6 bxc6 29. dxc6 Kf8 30. c7 Ra8 31. Rxd6
+Ra1+ 32. Bf1 Rxc7 33. Nc6 g6 34. Kf2 Rb7 35. Rd2 Rb6 36. Rc2 Rbb1 37. Be2
+Rc1 38. Rxc1 Rxc1 39. Nb4 Ke7 40. Kg3 f6 41. Bf3 Ra1 42. Nd5+ Ke6 43. Nf4+
+Ke5 44. h4 Ra3 45. h5 g5 46. Nh3 h6 47. Nf2 f5 48. exf5 Kxf5 49. Ng4 Ra6
+50. Bd1 Ra3+ 51. Kh2 Ra6 52. Kh3 Kf4 53. g3+ Ke4 54. Be2 Rd6 55. Bb5 Kf3
+56. Bc6+ Ke2 57. Be4 Ra6 58. Bg6 Kf3 59. Nxh6 1-0
+

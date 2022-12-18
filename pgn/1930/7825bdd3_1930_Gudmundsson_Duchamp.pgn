@@ -1,0 +1,26 @@
+[Event "Hamburg olm"]
+[Site "Hamburg olm"]
+[Date "1930.07.01"]
+[Round "1"]
+[White "Gudmundsson, Stefan Thormar"]
+[Black "Duchamp, Marcel"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "7825bdd3"]
+[Epoch "Knight"]
+[WhiteID "2304872"]
+[WhiteCountry "ISL"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. cxd5 exd5 5. e5 d4 6. exf6 dxc3 7. fxg7 cxd2+
+8. Bxd2 Bxg7 9. Qc2 Qe7+ 10. Be2 Be6 11. Nf3 Nc6 12. O-O O-O 13. Bd3 h6 14. a3
+Rad8 15. Rac1 Ne5 16. Be4 Nxf3+ 17. Bxf3 c5 18. Rfe1 b6 19. Bc3 Bd4 20. Bg4 Qf6
+21. Bxe6 fxe6 22. Re2 e5 23. Rce1 Qf5 24. Qxf5 Rxf5 25. Kf1 Rdf8 26. f3 h5 27.
+Rd1 h4 28. h3 Kg7 29. Re4 Rf4 30. Rxe5 Bxc3 31. bxc3 Ra4 32. Ra1 Kf6 33. Re3 b5
+34. Ke2 Rg8 35. Kf2 Kf5 36. Re7 Rd8 37. Ke2 a5 38. Rh7 Kg6 39. Re7 Rd5 40. Re4
+Rg5 41. Rxa4 bxa4 42. Rg1 c4 43. Kf2 Rb5 44. g3 Rb3 45. gxh4+ Kh5 46. f4 Kxh4
+47. f5 Rb5 48. Rg4+ Kh5 49. Rxc4 Rxf5+ 50. Ke3 Kg6 51. Rxa4 Kf6 52. Re4 Rd5 53.
+Rd4 Rg5 54. Rg4 Rd5 55. Rf4+ Ke5 56. Re4+ Kf5 57. Rd4 Rc5 58. Kd3 Ke6 59. h4
+Kf6 60. c4 Rh5 61. Re4 Kf7 62. Kd4 Rf5 63. a4 Rf1 64. c5 Kf6 65. Kd5 Rd1+ 66.
+Rd4 Rf1 67. Kd6 Rb1 68. c6 1-0

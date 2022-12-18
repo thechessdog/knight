@@ -1,0 +1,16 @@
+[Event "Antwerp"]
+[Site "Antwerp"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Sapira, Emanuel"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "6607e353"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Ne5 Nxc3 7. Qf3 f6 8.
+Qh5+ g6 9. Nxg6 Kf7 10. Ne5+ Kg7 11. Qf7+ Kh6 12. dxc3# 1-0

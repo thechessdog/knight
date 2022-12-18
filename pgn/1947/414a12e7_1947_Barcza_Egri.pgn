@@ -1,0 +1,25 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Egri, Laszlo"]
+[Result "1-0"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "414a12e7"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackID "707619"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Qc2 c5 8. cxd5
+cxd4 9. Nxd4 Nxd5 10. Bxe7 Nxe7 11. Bd3 Ng6 12. O-O Nc5 13. Rfd1 Nxd3 14. Qxd3
+e5 15. Ndb5 Qxd3 16. Rxd3 a6 17. Nc7 Rb8 18. Rd6 Ne7 19. Rad1 f6 20. Rb6 Bf5
+21. e4 Rfc8 22. N7d5 Nxd5 23. Nxd5 Bxe4 24. Ne7+ Kf8 25. Nxc8 Rxc8 26. Rbd6 Rc2
+27. R6d2 Rc5 28. Rd7 Rc2 29. f3 Bc6 30. Rc7 Ke8 31. Rxg7 Rxb2 32. Rd6 e4 33.
+Rxh7 exf3 34. gxf3 Rxa2 35. Re6+ Kd8 36. Rxf6 Re2 37. Rf8+ Re8 38. Rxe8+ Kxe8
+39. Kf2 a5 40. Ke3 a4 41. f4 Kd8 42. h4 a3 43. Rh8+ Be8 44. Rg8 a2 45. Rg1 Ke7
+46. Ra1 Bf7 47. Kd4 Kf6 48. Kc3 Kf5 49. Kb2 Kg4 50. Rh1 Bd5 51. Rh2 Bf7 52. f5
+b5 53. f6 Kf5 54. h5 Kxf6 55. h6 1-0

@@ -1,0 +1,17 @@
+[Event "JUG-ch"]
+[Site "Ljubljana"]
+[Date "1947.??.??"]
+[Round "5"]
+[White "Gruber, B."]
+[Black "Radojcic, Miroslav"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Hastings variation"]
+[HashCode "84e0ea2d"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c6 4. Nc3 d5 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 dxc4
+8. Qxc4 Nd7 9. e3 e5 10. dxe5 Nxe5 11. Qe4 Bd6 12. O-O-O Bc7 13. Nb5 cxb5
+14. Bxb5+ Kf8 15. Rd5 Nxf3 16. Qe8# 1-0
+

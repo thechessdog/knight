@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Toft, Jens"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "68939650"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Nc3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 d6 10. Nd2 Nxd2 11. Qxd2 Nd7 12. a3 Bxc3 13. Qxc3 f5 14. f3 Qf6 15.
+Qd2 e5 16. O-O-O O-O-O 17. Bf2 d5 18. Qc3 Rhe8 19. Rd2 exd4 20. exd4 Re6 21.
+Kb1 Rde8 22. Bd3 f4 23. Rc2 Rc6 24. Qd2 h5 25. Re1 Rce6 26. Rxe6 Qxe6 27. Qc3
+Nf6 28. Re2 Qxe2 29. Bxe2 Rxe2 30. Be1 Rxg2 31. Qb4 Re2 32. Bc3 Re8 33. c5 Bc6
+34. Qb3 g4 35. fxg4 hxg4 36. Qd1 f3 37. Qf1 Ne4 38. h3 f2 39. Kc2 gxh3 40.
+Qxh3+ Kb7 41. Bd2 Rf8 0-1

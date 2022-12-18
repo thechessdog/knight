@@ -1,0 +1,18 @@
+[Event "Berlin op"]
+[Site "Berlin"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Duhrssen, Rudolf"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "15649a90"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 c5 5. e3 b6 6. Be2 Bb7 7. Ne5 d6 8. Bb5+
+Ke7 9. Qh5 dxe5 10. dxe5 Qd5 11. Nc3 Qxg2 12. exf6+ gxf6 13. Qe5 Nd7 14. Qc7
+Rd8 15. O-O-O 1-0

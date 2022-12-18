@@ -1,0 +1,16 @@
+[Event "Muenchen ol"]
+[Site "Muenchen"]
+[Date "1936.01.01"]
+[Round "5"]
+[White "Arnlaugsson, Gudmun"]
+[Black "Vukovic, Z."]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "10b07d51"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bxd2+ 7. Qxd2 f6 8.
+exf6 Nxf6 9. Nf3 O-O 10. Nbxd4 e5 11. Nb3 e4 12. Ng5 h6 13. Nh3 e3 14. fxe3
+Bxh3 15. O-O-O Bg4 0-1

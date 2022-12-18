@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Noteboom, Daniël"]
+[Black "Helling, Karl"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "022ed024"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be6 6. a3 Qd7 7. b4 Nge7 8. Bb2
+Ng6 9. Rc1 Rd8 10. b5 Ncxe5 11. Nxd4 Bxa3 12. Bxa3 Qxd4 13. Bb4 Nxc4 14. Bc3
+Qb6 15. e3 O-O 16. Qc2 Nxe3 17. fxe3 Qxe3+ 18. Be2 Nf4 19. Qe4 Nd3+ 0-1

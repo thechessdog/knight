@@ -1,0 +1,18 @@
+[Event "GER-NLD"]
+[Site "Berlin"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Fick, Willem"]
+[Black "Zander, Otto"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "4cca9a28"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. Nc3 Nge7 6. d3 Nd4 7. Nxd4
+Bxd4 8. Be3 O-O 9. Bc4 c6 10. Qd2 Re8 11. Rae1 d6 12. Ne2 Be6 13. Bb3 Bxb3
+14. axb3 Bb6 15. Ng3 d5 16. Bxb6 axb6 17. f4 exf4 18. e5 Qe6 19. Rxf4 Ng6
+20. Rf6 gxf6 21. Nh5 Nxe5 22. Kh1 Nf3 0-1
+

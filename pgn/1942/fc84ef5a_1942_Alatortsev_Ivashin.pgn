@@ -1,0 +1,25 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Ivashin, Alexey"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[HashCode "fc84ef5a"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Be7 6. O-O O-O 7. Nbd2 Nbd7 8. e4
+dxe4 9. Nxe4 b6 10. Qc2 Qc7 11. Bg5 h6 12. Bh4 Qd8 13. Rad1 Bb7 14. Qe2 Nh5 15.
+Bxe7 Qxe7 16. Bb1 Nf4 17. Qe3 g5 18. Ne5 f5 19. Nc3 Nf6 20. f3 Rfe8 21. g3 Qg7
+22. Kh1 Nh3 23. c5 bxc5 24. dxc5 Rad8 25. Rxd8 Rxd8 26. Nc4 Qf7 27. Nd6 Rxd6
+28. cxd6 c5 29. Bd3 g4 30. Be2 Ng5 31. Kg1 Qh5 32. h4 gxf3 33. hxg5 Ng4 34.
+Qxe6+ Kh8 35. Rf2 fxe2 36. Nd5 Bxd5 37. Qc8+ Kh7 38. Qxf5+ Kg7 39. Qf8+ Kg6 40.
+Qf5+ Kg7 41. Qf8+ Kg6 42. Qe8+ Kg7 43. Qf8+ Kg6 44. Qf5+ Kg7 45. gxh6+ Nxh6 46.
+Qf8+ Kh7 47. Qe7+ Kh8 48. Rh2 Qg6 49. Qe5+ Kh7 50. Rxe2 Bc6 51. d7 Bxd7 52.
+Qe7+ Nf7 53. Qxd7 Qxg3+ 54. Kf1 Qf4+ 55. Ke1 Qg3+ 56. Kd2 Qf4+ 57. Ke1 Qg3+ 58.
+Kd1 Qf3 59. Qd2 1-0

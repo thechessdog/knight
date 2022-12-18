@@ -1,0 +1,20 @@
+[Event "corr SWE-ch"]
+[Site "corr SWE-ch"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Malmgren, H."]
+[Black "Brynhammar, H."]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Adam variation"]
+[HashCode "2cea8014"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Qe2 Be7 10. c4 bxc4 11. Bxc4 g5 12. Bxa6 Nb4 13. Bd3 Nc5 14.
+Bc2 d4 15. Qb5+ c6 16. Qxb4 Nb3 17. Qxb3 Bxb3 18. Bxb3 g4 19. Nfd2 O-O 20.
+Nc4 Kg7 21. Nbd2 f5 22. exf6+ Bxf6 23. Ne4 Qc7 24. Bd2 Be7 25. Rae1 h5 26.
+Ng3 h4 27. Nh5+ Kg6 28. Re6+ Bf6 29. Nf4+ Kg7 30. Rfe1 Ra6 31. Nh5+ Kh8 32.
+Nxf6 g3 33. fxg3 hxg3 34. Nh5 1-0
+

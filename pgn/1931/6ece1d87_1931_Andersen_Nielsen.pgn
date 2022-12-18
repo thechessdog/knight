@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Nielsen, Bjorn"]
+[Result "0-1"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[HashCode "6ece1d87"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[BlackID "1416839"]
+[WhiteCountry "DEN"]
+[BlackCountry "DEN"]
+
+1. d4 e6 2. e3 Nf6 3. Bd3 d5 4. c4 dxc4 5. Bxc4 c5 6. Nf3 a6 7. O-O Nc6 8. dxc5
+Bxc5 9. Nc3 O-O 10. Qe2 e5 11. Rd1 Qe7 12. Nd5 Nxd5 13. Bxd5 e4 14. Bxc6 bxc6
+15. Nd4 Qg5 16. Kh1 Bg4 17. f3 Bh5 18. Nc2 Rad8 19. Rf1 Qe5 20. Qxa6 exf3 21.
+gxf3 Rd1 22. Qe2 Bd6 0-1

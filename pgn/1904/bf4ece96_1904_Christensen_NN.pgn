@@ -1,0 +1,18 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Christensen, Erik"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, Showalter variation"]
+[HashCode "bf4ece96"]
+[Epoch "Knight"]
+[WhiteID "1746642"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Ba4 Nxd4 7. Nxd4 exd4
+8. Re1+ Be7 9. Bg5 f6 10. Qxd4 fxg5 11. Qxg7 Nf7 12. Nc3 c6 13. Ne4 Qc7 14.
+Nxg5 Qf4 15. Nxf7 Rf8 16. Rxe7+ Kxe7 17. Re1+ 1-0

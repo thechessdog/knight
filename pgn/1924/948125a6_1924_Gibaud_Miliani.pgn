@@ -1,0 +1,19 @@
+[Event "Paris f-B"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "6"]
+[White "Gibaud, Amedee"]
+[Black "Miliani, Luigi"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "948125a6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Qe2 Nxd2 12. Bxd2 Ne7 13. a4 c6 14. Nd4 Qc7 15.
+Bc2 Rfe8 16. f4 Nf5 17. Qd3 g6 18. Kh1 Nxd4 19. cxd4 Bf5 20. Qc3 Bxc2 21. Qxc5
+Be4 22. Ra3 Qd7 23. f5 Bxf5 24. Bg5 Be4 25. Qc1 f5 26. exf6 Kf7 27. Qf4 Rac8
+28. axb5 cxb5 29. Bh4 b4 30. Qh6 bxa3 31. Qg7+ Ke6 32. f7 Kd6 33. fxe8=N+ Qxe8
+34. Rf6+ Qe6 35. Rxe6+ 1-0

@@ -1,0 +1,17 @@
+[Event "Saarbrucken"]
+[Site "Saarbrucken"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Michel, Paul"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "0a123eaf"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. f4 Ng4 6. f5 Nf2 7. Qh5 Qd7 8. Be6
+Nxh1 9. Bxd7+ Nxd7 10. Nd5 Bxg1 11. Nxc7+ Kd8 12. Nxa8 f6 13. Bd2 1-0

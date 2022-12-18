@@ -1,0 +1,24 @@
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Pritzel, ACM."]
+[Black "Jacobsen, Egil"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "30d50433"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 d5 5. Bb5 Nxe4 6. Nxe5 Bd7 7. Nxd7 Qxd7
+8. O-O O-O-O 9. Bf4 g5 10. f3 Nxc3 11. bxc3 gxf4 12. Nd2 Rg8 13. Qa4 Qh3
+14. Rf2 Rd6 15. Kh1 Qh4 16. Re2 Rh6 17. Nf1 a6 18. Re8+ Kd7 19. Bxc6+ Rxc6
+20. Rae1 Bb4 21. R8e2 Bd6 22. c4 Qg5 23. c5 Bf8 24. g3 fxg3 25. Nxg3 Qf4
+26. Qb3 Rg5 27. Re5 Rxe5 28. Rxe5 Rxc5 29. Rxd5+ Rxd5 30. Qxd5+ Kc8 31. Ne2
+Qf6 32. Qb3 Bd6 33. Ng3 Qe6 34. d5 Qh3 35. Qe3 Kb8 36. f4 Qh6 37. Ne2 Qh5
+38. Qe4 Qg6 39. Qxg6 hxg6 40. Kg2 Kc8 41. Kf3 Kd7 42. Ng3 b5 43. h4 b4 44.
+h5 gxh5 45. Nxh5 Be7 46. Ke4 a5 47. Kd4 Bh4 48. Kc4 Ke7 49. Ng7 Be1 50. Kb3
+Bd2 51. Nf5+ Kf6 52. d6 cxd6 53. Nxd6 Bxf4 54. Nb5 Ke5 55. Kc4 f5 56. Nd4
+Ke4 57. Ne6 Bd2 58. Nc5+ Ke3 59. Kb3 f4 60. Kc2 f3 61. Nd3 Bc3 0-1
+

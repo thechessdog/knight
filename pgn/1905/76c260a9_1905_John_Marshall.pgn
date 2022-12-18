@@ -1,0 +1,16 @@
+[Event "Barmen"]
+[Site "Barmen"]
+[Date "1905.08.01"]
+[Round "1"]
+[White "John, Walter"]
+[Black "Marshall, Frank James"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "76c260a9"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bg4 5. Qe2+ Ne7 6. Bf4 0-1

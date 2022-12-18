@@ -1,0 +1,18 @@
+[Event "Trieste-ch"]
+[Site "Trieste"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Guarini, Carlo"]
+[Black "Hellmann, Ernesto"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "644ebe04"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. Na3 O-O 7. Nc4 d5
+8. exd5 Qxd5 9. Nxb6 axb6 10. Ba4 Bg4 11. Bb3 Qd6 12. Qe2 Qg6 13. Qe3 Nf5
+14. Nxe5 Nxe5 15. Qxe5 Rfe8 16. Qf4 Be2 17. Bc2 Bxf1 18. Kxf1 Qe6 19. g3
+Nd4 20. cxd4 0-1
+

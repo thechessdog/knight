@@ -1,0 +1,19 @@
+[Event "Cuba simul"]
+[Site "Cuba simul"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Silveira & Jolliet"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "57e39fa6"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nc3 Nf6 6. Nf3 Nc6 7. Bd3 dxc4 8.
+Bxc4 Be7 9. O-O O-O 10. Re1 a6 11. a3 b5 12. Bd3 Re8 13. Bg5 Bb7 14. Rc1 Rc8
+15. Bb1 Na5 16. Ne5 Nc4 17. Bxf6 Bxf6 18. Bxh7+ Kf8 19. Qh5 Bxe5 20. dxe5 Qd2
+21. Be4 Bxe4 22. Nxe4 Qxb2 23. Rxc4 bxc4 24. Nd6 Kg8 25. Qxf7+ Kh7 26. Nxe8
+Rxe8 27. Qh5+ Kg8 28. Qxe8+ 1-0

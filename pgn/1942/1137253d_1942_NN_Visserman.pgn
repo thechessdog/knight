@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1942.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Visserman, E."]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "1137253d"]
+[Epoch "Knight"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Kxe7 8.
+Qg4 Kf8 9. Nf3 cxd4 10. Qxd4 Qb6 11. Qxb6 axb6 12. O-O-O Nc6 13. Re1 d4 14.
+Nb5 Rxa2 15. Kb1 Ra5 16. h5 Ke7 17. Rh4 Rd8 18. h6 g6 19. Ng5 Ndxe5 20. f4
+d3 21. cxd3 Rxb5 22. d4 Nc4 23. Bxc4 Rb4 24. Rc1 Nxd4 25. Bd3 Nc6 26. Bc2
+Rh8 27. Bd3 Bd7 28. Re1 f6 29. Nf3 Nd4 30. Nd2 Ra8 31. f5 Rba4 32. Kc1 Ne2+
+0-1
+

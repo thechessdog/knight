@@ -1,0 +1,21 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Saemisch, Fritz"]
+[Black "Teschner, Rudolf"]
+[Result "0-1"]
+[ECO "D28"]
+[Opening "QGA"]
+[Variation "classical, 7.Qe2"]
+[HashCode "f63db94e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "SRB"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Nf6 5. Bxc4 e6 6. O-O c5 7. Qe2 Nc6 8. Rd1
+b5 9. Bb3 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 Bb7 13. Ne5 Be7 14. f3 Qc7 15.
+e4 O-O 16. Be3 Bd6 17. Qf2 Nd7 18. Nxd7 Bxh2+ 19. Kf1 Bg3 20. Nxf8 Bxf2 21.
+Nxe6 fxe6 22. Kxf2 Rf8 23. a3 Rf6 24. Rh1 Bc6 25. Rh5 h6 26. Rc5 Qd7 27. Rh1 a5
+28. d5 exd5 29. exd5 Bb7 30. Nxb5 Rg6 31. a4 Bxd5 32. Rd1 Rxg2+ 33. Kxg2 Qg4+
+34. Kh2 Bxf3 35. Rd2 Qh4+ 36. Kg1 Qe1+ 0-1

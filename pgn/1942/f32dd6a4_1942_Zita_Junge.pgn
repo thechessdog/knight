@@ -1,0 +1,17 @@
+[Event "Duras 60 mem "]
+[Site "Prague"]
+[Date "1942.12.01"]
+[Round "3"]
+[White "Zíta, František"]
+[Black "Junge, Klaus"]
+[Result "0-1"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Uhlmann (Szabo) variation"]
+[HashCode "f32dd6a4"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Bg5 Be6 11. Bxf6 Bxf6 12. Ne4 Be7 13. b3 f6 14. Rfd1
+Rxd1+ 15. Rxd1 Rd8 16. Rxd8+ Nxd8 17. Ne1 f5 0-1

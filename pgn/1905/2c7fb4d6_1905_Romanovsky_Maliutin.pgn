@@ -1,0 +1,19 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Maliutin, Boris Evgenievich"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Kaufmann variation"]
+[HashCode "2c7fb4d6"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Be3 Bxe3 6. fxe3 Qe7 7. Nc3 O-O 8.
+O-O d6 9. Qe1 Nd8 10. Qh4 c6 11. Ba4 h6 12. Rae1 Be6 13. Bb3 Kh8 14. d4 Bxb3
+15. axb3 c5 16. d5 a6 17. Ne2 Ng8 18. Qh3 g6 19. Nh4 b5 20. Rf3 Kh7 21. Ref1
+Qe8 22. Nxg6 Kxg6 23. Qg4+ Kh7 24. Rg3 1-0

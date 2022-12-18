@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Cody"]
+[Black "Heaton"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "89b00504"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Bb4 6. Bd3 Bxc3+ 7. bxc3
+h6 8. O-O Nf6 9. Ba3 a6 10. Re1 b5 11. c4 Bb7 12. c3 Nbd7 13. Rxe6+ fxe6
+14. Bg6# 1-0
+

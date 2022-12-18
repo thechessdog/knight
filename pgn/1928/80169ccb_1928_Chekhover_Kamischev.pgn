@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Chekhover, Vitaly"]
+[Black "Kamischev"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "80169ccb"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Re1 c5 11. e4 Bxe4 12. d5 Bxf3 13. dxe6 fxe6 14. Rxe6+ Be7
+15. Qxf3 Nb6 16. Bb5+ Kf7 17. Qe2 a6 18. Bc6 Ra7 19. Bg5 Nfd5 20. Bxe7 Rxe7 21.
+Re1 a5 22. h3 h5 23. Rxe7+ Nxe7 24. Qe6+ Kf8 25. Re3 Nbd5 26. Bxd5 Nxd5 27. Rd3
+Rh6 28. Qxd5 Qe7 29. Re3 Rd6 30. Qf5+ Qf7 31. Qxc5 1-0

@@ -1,0 +1,16 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Ribas"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "d1e2324b"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. Nf3 d5 2. b3 Bf5 3. Bb2 e6 4. g3 Nf6 5. Bg2 Nbd7 6. O-O Bd6 7. d3 O-O 8.
+Nbd2 h6 9. Re1 c6 10. e4 Bg4 11. e5 1-0

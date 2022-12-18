@@ -1,0 +1,15 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Perlis, Julius"]
+[Black "Wolf"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "3d9ccb7e"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nc3 Bc5 3. Bc4 Nf6 4. d3 d6 5. f4 Bg4 6. Nf3 Nc6 7. Na4 Nd4 8. Nxc5
+dxc5 9. fxe5 Nxe4 10. dxe4 Nxf3+ 11. gxf3 Qxd1+ 12. Kxd1 Bxf3+ 0-1

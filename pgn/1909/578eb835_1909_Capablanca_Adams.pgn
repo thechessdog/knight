@@ -1,0 +1,15 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Ziegler Adams, Edwin"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "578eb835"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nxe5 5. d4 Bxd4 6. Qxd4 Qf6 7. Nb5 Kd8
+8. Qc5 Nc6 9. Qf8# 1-0

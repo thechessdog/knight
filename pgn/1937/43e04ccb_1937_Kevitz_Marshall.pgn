@@ -1,0 +1,19 @@
+[Event "New York tt"]
+[Site "New York tt"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Kevitz, Alexander"]
+[Black "Marshall, Frank James"]
+[Result "0-1"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "43e04ccb"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O dxc4 8. Bxc4
+a6 9. dxc5 Bxc5 10. Qc2 b5 11. Rd1 Qe7 12. Bd3 Bb7 13. Ne4 Nbd7 14. Bd2 Rac8
+15. Nxc5 Bxf3 16. gxf3 Rxc5 17. Qb3 Rg5+ 18. Kh1 Nc5 19. Qc2 Rh5 20. Ba5 Qb7
+21. Rg1 Qxf3+ 22. Rg2 Nxd3 23. Qxd3 Ng4 24. Kg1 Nxf2 25. Rf1 Qxg2+ 0-1

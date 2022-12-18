@@ -1,0 +1,19 @@
+[Event "DSB-18.Kongress"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "9"]
+[White "Treybal, Karel"]
+[Black "Przepiorka, Dawid"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "a183e47f"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Bd3 cxd4 8. Ne2
+Qa5+ 9. Bd2 Qb6 10. O-O Nc5 11. f5 Nxd3 12. cxd3 exf5 13. Nf4 Be6 14. Ng5 Nd8
+15. Ngxe6 fxe6 16. Qh5+ Nf7 17. Nxd5 Qc6 18. g4 Qxd5 19. gxf5 Be7 20. Rae1 O-O
+21. Re4 Nxe5 22. fxe6 Nf3+ 0-1

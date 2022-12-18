@@ -1,0 +1,23 @@
+[Event "Temesvary"]
+[Site "Temesvary"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Barasz, Zsigmond"]
+[Black "Tyroler, Alexandru"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9.c3"]
+[HashCode "9388e73f"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 g6 10. Bf4 Bg7 11. Nbd2 Nc5 12. Bc2 O-O 13. Nb3 Nxb3 14. Bxb3 Na5 15.
+Re1 c5 16. Bg5 Qd7 17. Qd2 Nc6 18. Qf4 Ne7 19. Rad1 c4 20. Bc2 Kh8 21. Nd4 Ng8
+22. Qh4 Ra7 23. f4 Ne7 24. h3 Nf5 25. Bxf5 Bxf5 26. Bf6 Be4 27. g4 Rg8 28. Re3
+Rb7 29. Rd2 Rb6 30. g5 a5 31. Qf2 Bxf6 32. gxf6 Rbb8 33. Kh2 b4 34. Qh4 bxc3
+35. Rxc3 Rb6 36. Re3 Qb7 37. Ree2 Qc7 38. Qg3 Rgb8 39. Rf2 a4 40. a3 Qd7 41. f5
+Rg8 42. e6 Qe8 43. Qc7 Qb8 44. Qxb8 Rgxb8 45. fxg6 fxe6 46. gxh7 Kxh7 47. Kg3
+Kg6 48. f7 Rf8 49. Kf4 Kf6 50. Kg4+ Ke7 51. Kf4 Rxf7+ 52. Ke5 Rh7 53. Ne2 Rh5+
+54. Kd4 Kd6 55. Rf6 Rh4 56. Ng1 Rb3 0-1

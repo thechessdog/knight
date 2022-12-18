@@ -1,0 +1,15 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Bonwick"]
+[Black "Bewley"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game, Max Lange defence"]
+[HashCode "a6ea6b7f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 d5 5. Qxg7 dxc4 6. Qxh8 Qg5 7. d4
+Qxg2 8. dxc5 Bh3 9. Bg5 Qf1+ 10. Kd2 Qxf2+ 11. Nge2 1-0
+

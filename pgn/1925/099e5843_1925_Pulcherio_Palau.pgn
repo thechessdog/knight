@@ -1,0 +1,18 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Pulcherio, C."]
+[Black "Palau, Luis Argentino"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "099e5843"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 Bb4 6. e3 c5 7. Qc2 Qa5 8. Bxf6
+Nxf6 9. Nd2 Bd7 10. Nb3 Qa4 11. Bd3 Rc8 12. O-O Bxc3 13. bxc3 dxc4 14. Be4 cxb3
+15. axb3 Qb5 16. Rxa7 cxd4 17. Rxb7 Qa6 18. Rb4 Nxe4 19. Qxe4 dxc3 20. Qd4 O-O
+21. Qxd7 Qxf1+ 22. Kxf1 c2 23. Rc4 Rxc4 0-1

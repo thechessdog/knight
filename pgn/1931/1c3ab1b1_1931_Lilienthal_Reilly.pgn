@@ -1,0 +1,18 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Lilienthal, Andor Arnoldovich"]
+[Black "Reilly"]
+[Result "1-0"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "1c3ab1b1"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. Qc2 c5 8. cxd5
+exd5 9. Rd1 Qa5 10. Be2 Rd8 11. O-O Nf8 12. dxc5 Qxc5 13. Nd4 Ne6 14. Nb3 Qc7
+15. Bh4 Nf8 16. Nxd5 Qxc2 17. Nxe7+ Kh8 18. Rxd8 g5 19. Bxg5 Kg7 20. Nd4 Qc5
+21. Rxc8 1-0

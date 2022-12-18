@@ -1,0 +1,19 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.10.01"]
+[Round "1"]
+[White "Horowitz, Israel Albert"]
+[Black "Pinkus, Albert Sidney"]
+[Result "1-0"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "216498f2"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. a3 Bxc3+ 7. bxc3 c5 8.
+cxd5 exd5 9. Be2 b6 10. c4 Ba6 11. cxd5 Qxd5 12. O-O cxd4 13. Nxd4 Bxe2 14.
+Qxe2 Nbd7 15. Bb2 Rfc8 16. Rfd1 Qc4 17. Qf3 Ne5 18. Qg3 Nd3 19. Nf5 Nh5 20. Qg5
+Rc5 21. Bxg7 1-0

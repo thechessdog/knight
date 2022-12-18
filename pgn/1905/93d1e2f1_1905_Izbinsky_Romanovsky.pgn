@@ -1,0 +1,23 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Izbinsky, Stefan"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, centre attack"]
+[HashCode "93d1e2f1"]
+[Epoch "Knight"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. e5 Ne4 8.
+Nxd4 Nxd4 9. Qxd4 Nc5 10. Bb3 Nxb3 11. axb3 O-O 12. Nc3 d6 13. Bf4 dxe5 14.
+Qxe5 Bd6 15. Qd4 Bxf4 16. Qxf4 Be6 17. Rfe1 Qd6 18. Qxd6 cxd6 19. Rad1 Rfd8 20.
+Re2 Rac8 21. Red2 Rc6 22. f3 Kf8 23. g4 Ke7 24. Ne4 b5 25. b4 h6 26. h4 f5 27.
+Nc5 fxg4 28. Nxe6 Kxe6 29. fxg4 Rc4 30. Rg2 Rxb4 31. c3 Rc4 32. Ra1 Rc6 33.
+Re2+ Kd5 34. Re7 Rg8 35. Kf2 Kc4 36. Ra3 d5 37. Ke2 g5 38. h5 Rf8 39. Ra7 Re6+
+40. Kd1 Rf1+ 41. Kd2 Rf2+ 42. Kd1 Kd3 43. c4+ Kxc4 44. R7xa6 Ree2 45. Rxh6 Rxb2
+46. Kc1 b4 47. Re3 b3 48. Rc6+ Kd4 49. Rcc3 Rfc2+ 0-1

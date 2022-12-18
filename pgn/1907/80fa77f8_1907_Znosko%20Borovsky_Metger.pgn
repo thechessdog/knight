@@ -1,0 +1,18 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "29"]
+[White "Znosko Borovsky, Eugene"]
+[Black "Metger, Johannes"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Marshall variation"]
+[HashCode "80fa77f8"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Be3 e5 6. dxe5 Qxd1+ 7. Kxd1 Nc6
+8. Nf3 Bg4 9. Be2 O-O-O+ 10. Nbd2 Bxf3 11. gxf3 Nxe5 12. Kc2 Be7 13. Rad1 f5
+14. f4 Nc6 15. Nf3 Bf6 16. b3 Kb8 1/2-1/2

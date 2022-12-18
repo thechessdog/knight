@@ -1,0 +1,26 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Stoltz, Gösta"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "b682e770"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. dxc5 Bxc5 10. Qe2 Qe7 11. e4 Nd4 12. Nxd4 Bxd4 13. Nb5 Bb6 14. e5 Nd7
+15. Bf4 a6 16. Nd6 Bc7 17. Rfd1 Nb6 18. Bd3 Nd5 19. Bg3 f5 20. exf6 gxf6 21.
+Nf5 exf5 22. Qxe7 Nxe7 23. Bc4+ Kh8 24. Bxc7 b5 25. Bb3 Bb7 26. Bd6 Rfe8 27.
+Bf7 Rf8 28. Bh5 Rg8 29. Bxe7 Rxg2+ 30. Kf1 Rxh2 31. Bxf6+ Kg8 32. Rd7 Rxh5 33.
+Ke2 Re8+ 34. Kd2 Rh1 35. Rxh1 Bxh1 36. Rg7+ Kf8 37. Rxh7 Bf3 38. Kd3 Re6 39.
+Bc3 Ke8 40. a3 Kd8 41. Kd4 Kc8 42. Rf7 Be4 43. Kc5 Rc6+ 44. Kd4 Rc7 45. Rf8+
+Kb7 46. Ke5 Rc5+ 47. Kf4 Rc8 48. Rf7+ Rc7 49. Rxf5 Bxf5 50. Kxf5 Kc8 51. Ke6
+Rc6+ 52. Ke7 Rc4 53. Be5 Rc2 54. f4 Rf2 55. Kd6 Kb7 56. Ke6 Kc8 57. f5 Kd8 58.
+f6 Ke8 59. Bd4 Re2+ 60. Kd6 Kf7 1/2-1/2

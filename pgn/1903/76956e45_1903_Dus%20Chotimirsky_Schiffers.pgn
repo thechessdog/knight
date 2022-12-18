@@ -1,0 +1,18 @@
+[Event "RUS-ch03"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "19"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "76956e45"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bb6 12. fxg7 Rg8 13. g4 Qg6 14. Nxe6
+fxe6 15. Bg5 Rxg7 16. Nf6+ Kf7 17. Qf3 Qxg5 18. Nxh7+ Qf5 0-1

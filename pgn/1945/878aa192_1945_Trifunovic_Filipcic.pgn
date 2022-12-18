@@ -1,0 +1,24 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Trifunovic, Petar"]
+[Black "Filipcic, Milan"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "878aa192"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 d5 5. e3 Nbd7 6. Nbd2 Be7 7. Bd3 O-O 8. O-O
+b6 9. Ne5 Bb7 10. Qf3 h6 11. Bf4 Nxe5 12. dxe5 Nh7 13. Qh5 f5 14. Qg6 Rf7 15.
+Qh5 Nf8 16. Bg3 d4 17. Qe2 dxc3 18. bxc3 Qd5 19. e4 Qc6 20. Bb5 Qc7 21. exf5
+Rxf5 22. Bd3 Rf7 23. Nc4 b5 24. Nd6 Bxd6 25. exd6 Qc6 26. f3 c4 27. Be4 Qb6+
+28. Kh1 Bxe4 29. fxe4 Rxf1+ 30. Rxf1 Nd7 31. Qg4 Re8 32. Qg6 Rf8 33. Qxe6+ Kh7
+34. Rxf8 Nxf8 35. Qf5+ Kg8 36. h3 Qc6 37. a3 Qd7 38. Qd5+ Qe6 39. Qb7 Qd7 40.
+Qa8 Kf7 41. e5 Ne6 42. Bf2 Nd8 43. Bxa7 Nc6 44. Bd4 Nxd4 45. cxd4 Qf5 46. Qb7+
+Kg6 47. e6 Qf1+ 48. Kh2 Qf4+ 49. g3 Qd2+ 50. Qg2 c3 51. d7 Qxd4 52. Qe2 Kf6 53.
+e7 1-0

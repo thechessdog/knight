@@ -1,0 +1,23 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Strang"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3"]
+[HashCode "8ed6b9cf"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. Ne2 c5 6. a3 Bxc3+ 7. Nxc3 cxd4 8.
+Qxd4 Nc6 9. Qc5 Qe7 10. Qxe7+ Nxe7 11. cxd5 Nexd5 12. Nxd5 Nxd5 13. Bd3 Bd7 14.
+b4 O-O 15. Bb2 Nb6 16. Rc1 Rfc8 17. Ke2 Rxc1 18. Rxc1 Rc8 19. Rxc8+ Nxc8 20.
+Bd4 f6 21. b5 Kf7 22. f4 Nd6 23. a4 b6 24. e4 g6 25. e5 fxe5 26. Bxe5 Ke7 27.
+Kd2 Bc8 28. g4 Bb7 29. h4 Bf3 30. g5 Bg4 31. Kc3 Bf5 32. Be2 Kd7 33. Kb4 Be4
+34. a5 Kc7 35. h5 Kd7 36. h6 Kc7 37. axb6+ axb6 38. Kc3 Kd7 39. Kd4 Bf5 40. Ke3
+Bc2 41. Kd4 Bf5 42. Bg7 Ke7 43. Bf1 Bc2 44. Kc3 Be4 45. Bd4 Nc8 46. Be3 Kd6 47.
+Kd4 Bf5 48. Bc1 Ne7 49. Ba3+ Kd7 50. Ke5 Nd5 51. Bc1 Bc2 52. Bh3 Nc7 53. Kf6
+Ne8+ 54. Kf7 Nd6+ 55. Kg8 Ke7 56. Ba3 1-0

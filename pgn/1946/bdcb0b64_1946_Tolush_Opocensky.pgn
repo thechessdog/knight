@@ -1,0 +1,21 @@
+[Event "Leningrad-Prague"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Tolush, Alexander"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "bdcb0b64"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. h3 e5 10. Nde2 Nc6 11. Be3 Be6 12. Qd2 b5 13. Rad1 Na5 14. b3 Nb7 15. f4
+exf4 16. gxf4 Qc7 17. Bd4 Rae8 18. f5 Bc8 19. Bxf6 Bxf6 20. Nd5 Qd8 21. Nxf6+
+Qxf6 22. fxg6 Qxg6 23. Nf4 Qg5 24. Nd5 Qxd2 25. Rxd2 Re5 26. b4 Be6 27. Nf6+
+Kg7 28. a3 Rc8 29. Rf3 h5 30. h4 a5 31. Bf1 axb4 32. axb4 Bg4 33. Rf4 Rc3 34.
+Bd3 Kf8 35. Rdf2 Rc7 36. Nd5 Rxd5 37. exd5 Nd8 38. Bxb5 1-0

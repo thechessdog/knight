@@ -1,0 +1,16 @@
+[Event "Barmen"]
+[Site "Barmen"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "b005753b"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Bg4 5. e4 Nc6 6. Bb5 Ne7 7. d4 O-O 8.
+Be3 f5 9. e5 Nd5 10. Bc4 Bb4+ 11. c3 Ba5 12. Qb3 Bxf3 13. gxf3 1-0

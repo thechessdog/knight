@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Nielsen, Julius"]
+[Black "Enevoldsen, Harald"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "3df76da1"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 Bb4 6. e3 c5 7. cxd5 exd5 8.
+Qc2 Qa5 9. Bxf6 Nxf6 10. Nd2 cxd4 11. exd4 O-O 12. O-O-O Bd7 13. Kb1 Rac8 14.
+Rc1 Qb6 15. Qd3 g6 16. Ka1 Bf5 17. Qb5 Qxd4 18. Nb3 Rxc3 19. Rxc3 Qxc3 20. Be2
+Qe5 0-1

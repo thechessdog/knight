@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Regan, K."]
+[Black "Michell"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation, Steinitz counter-gambit"]
+[HashCode "73151990"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Bf4 c5 3. Bxb8 Rxb8 4. dxc5 e6 5. Qd4 Qc7 6. b4 b6 7. cxb6 Rxb6
+8. c3 Rxb4 9. cxb4 Qc1+ 10. Qd1 Bxb4+ 11. Nd2 Bxd2# 0-1
+

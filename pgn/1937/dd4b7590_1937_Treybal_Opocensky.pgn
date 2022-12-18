@@ -1,0 +1,28 @@
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Treybal, Karel"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "dd4b7590"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Nc6 6. Qg4 Nge7 7. dxc5 d4 8. Ne4
+Bxd2+ 9. Kxd2 Nf5 10. Nf3 Bd7 11. Qf4 O-O 12. Bd3 Nb4 13. Ke2 Nd5 14. Qd2 Nh4
+15. Nxh4 Qxh4 16. Qg5 Nf4+ 17. Kd2 Qxg5 18. Nxg5 f6 19. exf6 gxf6 20. Ne4 Bc6
+21. f3 Rfd8 22. Nxf6+ Kf7 23. Ne4 Nxg2 24. Rhg1 Nh4 25. Rg4 Nf5 26. Rag1 h6 27.
+Nd6+ Nxd6 28. Rg7+ Kf6 29. cxd6 Bxf3 30. R7g6+ Ke5 31. Re1+ Kxd6 32. Rexe6+ Kc7
+33. Rg7+ Rd7 34. Rxd7+ Kxd7 35. Rxh6 Rg8 36. b4 Rg2+ 37. Kc1 Kc7 38. h4 Rh2 39.
+a4 a6 40. a5 Kd7 41. Rf6 Bc6 42. Rf4 Ke6 43. Bg6 Kd5 44. Rf5+ Ke6 45. Rh5 Kf6
+46. Bd3 Ke6 47. Kb2 Bf3 48. Rh7 Ke5 49. Rf7 Bd5 50. Rh7 Bf3 51. Bg6 Kd6 52. Kc1
+Rh1+ 53. Kb2 Rh2 54. Rh8 Ke5 55. Re8+ Kd6 56. Rd8+ Ke5 57. h5 Bd1 58. Rd7 Bf3
+59. Rf7 Be2 60. Rxb7 d3 61. Rd7 dxc2 62. Rc7 c1=Q+ 63. Kxc1 Bb5 64. Rc2 Rh3 65.
+Rf2 Ba4 66. Kd2 Bb5 67. Rf5+ Kd4 68. Rf4+ Kd5 69. Rf6 Ke5 70. Rb6 Kd4 71. Rd6+
+Ke5 72. Rd8 Bc4 73. Re8+ Kd4 74. Re4+ Kd5 75. Re3 Rh2+ 76. Kc3 Bb5 77. Bf7+ Kd6
+78. Re6+ Kd7 79. Rb6 Ke7 80. Bg6 Rh4 81. Rb8 Ke6 1-0

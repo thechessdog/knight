@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Maroczy, Geza"]
+[Black "Brody, Miklos"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Taimanov (chase/wing/accelerated counterthrust) variation"]
+[HashCode "8e3b7de4"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. d3 d6 7. Nc3 Nf6 8. Ne2
+Nxb3 9. axb3 Be7 10. c3 O-O 11. O-O Bg4 12. Ng3 c6 13. h3 Bd7 14. b4 Qc7 15.
+Re1 Rfe8 16. b3 h6 17. c4 Bf8 18. Bb2 Qb8 19. Bc3 c5 20. bxc5 dxc5 21. Ra2 Bc8
+22. Qa1 Bd6 23. Nh4 g6 24. Rae2 Nd7 25. Nf1 Nf8 26. Ne3 b4 27. Bb2 Bd7 28. f4
+exf4 29. Nd5 Be7 30. Bf6 Qd6 31. e5 Qe6 32. Nxf4 Qc6 33. Nd5 Bd8 34. Bxd8 Rexd8
+35. Nf6+ Kg7 36. e6 1-0

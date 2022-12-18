@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "19"]
+[White "Mieses, Jacques"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "bf45ea31"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Kf1 Bf8 7. Nc3 Nh6
+8. Nf3 Nc6 9. Nd5 d6 10. h3 Na5 11. Bd3 c6 12. Nf4 f6 13. Nd4 Nf7 14. Bc3 b6
+15. Bxa5 bxa5 16. Nxc6 Qb6 17. Rc1 Ba6 18. Nd5 Qb7 19. Nxa5 Bxd3+ 20. Qxd3 Qb2
+21. Rb1 Ne5 22. Qd1 Qa3 23. Nc7+ Kd7 24. Qd5 Rc8 25. Qe6+ Kxc7 26. Rb7+ Kd8 27.
+Nc6+ Rxc6 28. Rb8+ 1-0

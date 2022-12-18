@@ -1,0 +1,19 @@
+[Event "Italy"]
+[Site "Italy"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "3cc05b60"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. b4 cxb4 3. d4 e6 4. a3 bxa3 5. c4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 d5 8.
+e5 dxc4 9. Bxc4 Nc6 10. Ne2 Nge7 11. Rxa3 O-O 12. O-O Nf5 13. Rd3 a6 14. f4 b5
+15. Bb3 a5 16. g4 Nh6 17. h3 a4 18. Bc2 b4 19. f5 exf5 20. g5 b3 21. Bd1 Qa5
+22. Qf4 Qb4 23. Rg3 Bd7 24. gxh6 g6 25. Qg5 f6 26. exf6 Rf7 27. Nf4 Nxd4 28.
+Nxg6 Ne6 29. Ne7+ Kh8 30. Qg7+ Nxg7 31. fxg7+ Rxg7 32. hxg7# 1-0

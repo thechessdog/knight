@@ -1,0 +1,19 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Reinhardt, Enrique Heinrich"]
+[Black "Brinckmann, Alfred"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "a17c0bc5"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 h6 8. cxd4
+hxg5 9. dxe5 Nxd5 10. Bxb5+ Bd7 11. Bxd7+ Qxd7 12. O-O O-O-O 13. Qf3 g4 14. Qe4
+f5 15. exf6 Re8 16. Qd4 gxf6 17. Qxa7 Nb6 18. g3 Bc5 19. Qa6+ Kb8 20. d4 Rxh2
+0-1

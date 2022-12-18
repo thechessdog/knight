@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Swiderski, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Schlechter variation"]
+[HashCode "e7eb95f8"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Bd3 c5 4. exd5 exd5 5. Qe2+ Be6 6. Nf3 Nc6 7. O-O Qd7 8.
+Bb5 f6 9. c4 O-O-O 10. Re1 Bf7 11. cxd5 Bxd5 12. dxc5 Bxc5 13. Nc3 Nge7 14. Be3
+Bxe3 15. Qxe3 Bxf3 16. Qxf3 Kb8 17. Rac1 Ka8 18. Na4 Qd5 19. Bxc6 Nxc6 20. Qxd5
+Rxd5 21. Rcd1 Rhd8 22. Rxd5 Rxd5 23. Re8+ Rd8 24. Rxd8+ Nxd8 1/2-1/2

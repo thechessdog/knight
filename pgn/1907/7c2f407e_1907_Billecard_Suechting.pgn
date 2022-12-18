@@ -1,0 +1,17 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "9"]
+[White "Billecard, Moritz"]
+[Black "Suechting, Hugo"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "7c2f407e"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. c4 e6 5. Nc3 Nc6 6. a3 a5 7. Bd3 Be7 8. O-O O-O
+9. Qe2 dxc4 10. Bxc4 cxd4 11. exd4 Nxd4 12. Nxd4 Qxd4 13. Rd1 Qh4 14. Be3 Rd8
+15. Rxd8+ Bxd8 16. Rd1 Bc7 17. h3 Ne8 18. Nb5 e5 19. Nxc7 Nxc7 20. Qh5 Qe7 21.
+Qxf7+ 1-0

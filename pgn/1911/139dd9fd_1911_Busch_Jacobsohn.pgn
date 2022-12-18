@@ -1,0 +1,19 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Busch"]
+[Black "Jacobsohn"]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "139dd9fd"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 Be7 6. Nc3 O-O 7. O-O b6 8.
+Qe2 Bb7 9. e4 c5 10. Rd1 cxd4 11. Nxd4 Qc8 12. Bf4 a6 13. Rac1 Bc5 14. Bg5
+Nbd7 15. Nxe6 Re8 16. Nxc5 Qxc5 17. Be3 Qe7 18. f3 Nc5 19. Nd5 Nxd5 20.
+Bxd5 Bxd5 21. Rxd5 Rec8 22. Bxc5 bxc5 23. Qc4 Rab8 24. Rxc5 Qa7 25. Kf1 Rd8
+26. Rc7 1-0
+

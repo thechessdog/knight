@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Caro, Horatio"]
+[Black "Lewitt, Moritz"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "a13cc124"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 a6 5. Nge2 Bc5 6. d3 d6 7. h3 Bd7 8. O-O
+h6 9. Kh2 Qe7 10. Nd5 Nxd5 11. exd5 Nd4 12. Nxd4 Bxd4 13. c3 Ba7 14. d4 O-O 15.
+Be3 exd4 16. Bxd4 Bxd4 17. Qxd4 f5 18. f4 Rae8 19. Qb4 Bc8 20. c4 b6 21. Rae1
+Qf7 22. a4 a5 23. Qc3 Rxe1 24. Rxe1 Re8 25. b4 axb4 26. Qxb4 Rxe1 27. Qxe1 Kf8
+28. a5 bxa5 29. Qxa5 Ke8 30. c5 Qe7 1/2-1/2

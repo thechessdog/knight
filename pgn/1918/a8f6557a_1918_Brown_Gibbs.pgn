@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Browne, Walter S"]
+[Black "Gibbs"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "a8f6557a"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Kf8 9. Bg5 gxf6 10. Bh6+ Kg8 11. Nc3 Bg4 12. Ne4 Bb6 13. Qe2 Ne5 14. Nxe5
+Bxe2 15. Nd7 1-0

@@ -1,0 +1,18 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Sobieszczanski, J."]
+[Black "Bernstein, Ossip"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Lasker defence"]
+[HashCode "b986b7b0"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 Bb6 8. dxe5
+dxe5 9. Qb3 Qe7 10. Bb5 Bd7 11. Rd1 Nf6 12. Ba3 Bc5 13. Bxc5 Qxc5 14. Na3 Nxe4
+15. Rxd7 Kxd7 16. Qxf7+ Kc8 17. Qf5+ Kb8 18. Qxe4 Qxa3 19. Bxc6 bxc6 20. Rb1+
+Kc8 21. Qxc6 1-0

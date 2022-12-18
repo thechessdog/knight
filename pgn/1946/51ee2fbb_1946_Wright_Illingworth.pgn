@@ -1,0 +1,19 @@
+[Event "Nottingham-B4"]
+[Site "Nottingham"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Wright, HG."]
+[Black "Illingworth, L."]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "51ee2fbb"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bf4 Ne4 7. e3 Nxc3
+8. bxc3 Bxc5 9. Nf3 Qe7 10. Rd1 O-O 11. Be2 b6 12. Qc2 e5 13. Bg3 f5 14. h4
+d6 15. h5 Bb7 16. Nh4 Qf6 17. Bf3 e4 18. Be2 Rad8 19. Bf4 Ne5 20. Qb3 g5
+21. hxg6 hxg6 22. Bxe5 dxe5 23. g3 g5 24. Ng2 f4 25. gxf4 exf4 26. exf4
+gxf4 27. Rxd8 Qxd8 28. f3 Qg5 29. Nh4 Rd8 30. Nf5 Qxf5 0-1
+

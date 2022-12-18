@@ -1,0 +1,18 @@
+[Event "DSB-18.Kongress-B"]
+[Site "Breslau"]
+[Date "1912.01.01"]
+[Round "?"]
+[White "Maliutin, Boris Evgenievich"]
+[Black "Palitzsch"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "4dc3f7d8"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 Be7 7. Nxf6+ Nxf6
+8. Bd3 b6 9. O-O Bb7 10. Re1 O-O 11. c3 Rc8 12. Qe2 c5 13. Rad1 cxd4 14. Nxd4
+Qd5 15. Nf3 Qxa2 16. Bb1 Bxf3 17. Qxf3 Qxb2 18. Qh3 g6 19. Re3 Nd5 20. Bxe7
+Nxe7 21. Qh4 Nf5 22. Bxf5 exf5 23. Rh3 h5 24. Qg5 Rxc3 25. Rxh5 Qe2 0-1

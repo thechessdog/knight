@@ -1,0 +1,20 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Post, Ehrhardt"]
+[Black "Emmerich, K"]
+[Result "1/2-1/2"]
+[ECO "D63"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Rc1"]
+[HashCode "174394b6"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Rc1 Re8 8. Qc2
+c5 9. cxd5 exd5 10. Bxf6 Nxf6 11. dxc5 Bxc5 12. Nxd5 Qxd5 13. Qxc5 Qxa2 14. Bc4
+Qxb2 15. O-O Be6 16. Rb1 Qc2 17. Rfc1 Qxf2+ 18. Kxf2 Ne4+ 19. Kf1 Nxc5 20. Bxe6
+Nxe6 21. Rxb7 Kf8 22. Nd4 Nd8 23. Rbc7 Rxe3 24. Rc8 Rxc8 25. Rxc8 Re8 26. Nb5
+Ne6 27. Nxa7 1/2-1/2

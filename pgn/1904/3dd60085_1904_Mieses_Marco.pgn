@@ -1,0 +1,21 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.??.??"]
+[Round "5"]
+[White "Mieses, Jacques"]
+[Black "Marco, Georg"]
+[Result "1/2-1/2"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "3dd60085"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 f3 11. d4 Ne4 12. Rxe4 Bh2+ 13. Kxh2 Qxe4 14. g3 O-O 15.
+Bd3 Qxd5 16. Qd2 Re8 17. Qh6 Re2+ 18. Bxe2 fxe2 19. Qe3 Nc6 20. Qe8+ Kg7 21.
+Qxe2 Bd7 22. Be3 Re8 23. Nd2 Qe6 24. Re1 Qxa2 25. b3 Qc2 26. Qf2 Qd3 27. Nc4 b5
+28. Ne5 Nxe5 29. dxe5 Qf5 30. Bxa7 Qxf2+ 31. Bxf2 Be6 32. b4 Ra8 33. Re2 Kg6
+34. Bd4 1/2-1/2

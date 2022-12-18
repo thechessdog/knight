@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Reinhardt, Enrique Heinrich"]
+[Black "Cristia, Jose Maria"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "f88a5405"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Ne4 6. Nbd2 f5 7. O-O Be7 8. Qc2
+Nxd2 9. Nxd2 O-O 10. e4 Nc6 11. d5 Nb4 12. Qb3 fxe4 13. Bxe4 exd5 14. cxd5 Bd6
+15. Nf3 Qe8 16. Ng5 Qh5 17. g3 h6 18. a3 Na6 19. Bf3 Qg6 20. Be4 Nc5 21. Bxg6
+Nxb3 0-1

@@ -1,0 +1,22 @@
+[Event "RUS-ch03"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "16"]
+[White "Levitsky, Stepan M"]
+[Black "Benko, Pal"]
+[Result "0-1"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "5af659ae"]
+[Epoch "Knight"]
+[BlackID "2000687"]
+[BlackCountry "USA"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 Bc5 6. Nd6+ Ke7 7. Nxc8+ Rxc8
+8. Bd3 Nf6 9. Nc3 a6 10. O-O Ne5 11. Bf4 Qc7 12. Bg3 h5 13. Kh1 Nfg4 14. Qd2 f6
+15. h4 Bb4 16. Nd5+ exd5 17. Qxb4+ Qc5 18. Qxb7 Rc6 19. Qb3 Rb6 20. Qxd5 Qxd5
+21. exd5 Nxd3 22. cxd3 Rxb2 23. f3 Nh6 24. Rfe1+ Kf7 25. Re4 Rc8 26. Ra4 Nf5
+27. Bf4 Rcc2 28. Rxa6 Nxh4 29. Bc1 Rb7 30. Ra4 Nxg2 31. Rc4 Ne1 32. Ba3 Rxc4
+33. Rxe1 Ra4 34. Bc5 Rxa2 35. f4 Rd2 36. d4 f5 37. Bd6 h4 38. Bc5 h3 39. Bd6
+Rbb2 0-1

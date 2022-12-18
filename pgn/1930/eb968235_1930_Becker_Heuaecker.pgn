@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1930.10.23"]
+[Round "6"]
+[White "Becker, Albert"]
+[Black "Heuaecker, Paul"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "eb968235"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 d6 6. c3 Be7 7. O-O b5 8. Bc2
+Bg4 9. d4 exd4 10. h3 Bxf3 11. Qxf3 Ne5 12. Qg3 Nh5 13. Qh2 dxc3 14. Nxc3 O-O
+15. f4 Ng6 16. Be3 c6 17. Rad1 Qc7 18. g4 Nf6 19. g5 Nd7 20. h4 Rfe8 21. h5
+Ngf8 22. Ne2 d5 23. e5 Bc5 24. Bxc5 Nxc5 25. Nd4 Ne4 26. Bxe4 dxe4 27. Nf5 e3
+28. Nxe3 Qb6 29. Qf2 Rad8 30. Nf5 Qxf2+ 31. Kxf2 Rxd1 32. Rxd1 Ne6 33. Ke3 f6
+34. gxf6 gxf6 35. Rd7 fxe5 36. fxe5 Nc5 37. Re7 Rxe7 38. Nxe7+ Kg7 39. Nxc6 Kh6
+40. Nd8 Kg5 41. Kd4 Nd7 42. e6 Nf6 43. Ke5 Nxh5 44. e7 Nf6 45. Nf7+ Kg6 46. Nd6
+h5 47. e8=Q+ Nxe8 48. Nxe8 h4 49. Kf4 h3 50. Kg3 Kf5 51. Nc7 Ke4 52. Nxa6 Kd3
+53. Nc7 b4 54. Nd5 1-0

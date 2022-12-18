@@ -1,0 +1,28 @@
+[Event "Budapest m1"]
+[Site "Budapest"]
+[Date "1935.01.01"]
+[Round "8"]
+[White "Von Balla, Zoltan"]
+[Black "Gereben, Erno"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "78c1deaa"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. c3 d6 6. Na3 Bg4 7. f3 Bd7 8. d3 Nf6
+9. O-O Rb8 10. Nc2 b5 11. Ne3 b4 12. d4 bxc3 13. bxc3 Qa5 14. Bd2 Qa6 15. h3
+cxd4 16. cxd4 Qd3 17. Bc1 Qa6 18. Kh2 O-O 19. f4 Rfc8 20. e5 Ne8 21. a4 e6 22.
+Ba3 Nb4 23. Qd2 Qxa4 24. Rfb1 Nc2 25. Rxb8 Nxa1 26. Rxc8 Bxc8 27. Qc3 Ba6 28.
+Nc1 dxe5 29. dxe5 Bf8 30. Bxf8 Kxf8 31. Qc5+ Kg7 32. Bc6 Nb3 33. Bxa4 Nxc5 34.
+Bxe8 f6 35. Bc6 g5 36. Ng4 gxf4 37. gxf4 fxe5 38. Nxe5 Kf6 39. Kg3 Bb7 40. Bxb7
+Nxb7 41. Kf3 a5 42. Ncd3 Nd6 43. Nc5 Nb5 44. Kg4 Nc3 45. Ned7+ Ke7 46. Nb6 Kd6
+47. Nd3 a4 48. Kg5 Ke7 49. Nc4 Nb5 50. Nb4 Kf7 51. Nc2 Kg7 52. h4 Nc3 53. Nd4
+Ne4+ 54. Kg4 Kf6 55. Kf3 Nc3 56. Nc2 Kg6 57. Kg4 Nb5 58. N2a3 Nxa3 59. Nxa3 Kf6
+60. Nc4 Kg6 61. h5+ Kf6 62. Na3 Kg7 63. Kg5 Kf7 64. Nb5 Kg7 65. Nd4 h6+ 66. Kg4
+Kf6 67. Nc2 Ke7 68. Kf3 Kf6 69. Ke4 Kf7 70. Ke5 Ke7 71. Na3 Kf7 72. f5 exf5 73.
+Kxf5 Kg7 74. Ke6 Kg8 75. Kf6 Kh7 76. Kf7 Kh8 77. Kg6 Kg8 78. Kxh6 Kh8 79. Kg6
+Kg8 80. h6 1-0

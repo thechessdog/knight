@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Pleci, Isaias"]
+[Black "Ekenberg, Bengt"]
+[Result "0-1"]
+[ECO "B55"]
+[Opening "Sicilian"]
+[Variation "Prins variation, Venice attack"]
+[HashCode "02ea9e18"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8.
+Nf5 d5 9. Bg5 d4 10. Bxf6 gxf6 11. O-O Nc6 12. Kh1 Ne7 13. Qd3 O-O-O 14. Nd2
+Kb8 15. Nxe7 Qxe7 16. Rfd1 Rg8 17. Nf1 Rc8 18. Ng3 Qb4 19. c3 dxc3 20. bxc3
+Qxc3 21. Qd5 Bb4 22. Qxf7 Rgd8 23. Qxf6 Rd2 24. Nf1 Rxd1 25. Rxd1 Bc5 26. f4
+Bd4 27. Ng3 a5 28. Rf1 exf4 29. Qd6+ Ka8 30. Qxf4 Be5 31. Qf5 Rc5 32. Qxh7 Bxg3
+33. Qg8+ Bb8 34. Qf7 Qe5 35. Qh7 Rc8 36. g3 Rh8 37. Qf5 Rxh2+ 0-1

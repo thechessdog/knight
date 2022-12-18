@@ -1,0 +1,21 @@
+[Event "Kiev-Leningrad"]
+[Site "Kiev-Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Nenarokov"]
+[Black "Konstantinopolsky, Alexander"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "b2e8bf3e"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 Be7 5. Nbd2 Nbd7 6. Bd3 c5 7. c3 b6 8. O-O
+Bb7 9. Ne5 Nxe5 10. dxe5 Nd7 11. Bxe7 Qxe7 12. f4 f6 13. exf6 gxf6 14. e4 O-O-O
+15. Qe2 Nb8 16. a4 Qd6 17. e5 fxe5 18. fxe5 Qe7 19. a5 Rhg8 20. axb6 axb6 21.
+Nf3 Rg7 22. Rf2 Rdg8 23. Bb5 Rf7 24. b4 Rgf8 25. Qd2 Rf4 26. bxc5 bxc5 27. Ra7
+Qg7 28. Qe3 Qc7 29. Rb2 d4 30. cxd4 cxd4 31. Qb3 Rxf3 32. gxf3 Rg8+ 33. Kf2
+Qxe5 34. Bd7+ Kd8 35. Qb6+ Ke7 36. Qxe6+ Qxe6 37. Bxe6 Kxe6 38. Rbxb7 h5 39.
+Ra8 1-0

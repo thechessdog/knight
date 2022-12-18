@@ -1,0 +1,18 @@
+[Event "Prague Evony"]
+[Site "Prague"]
+[Date "1927.??.??"]
+[Round "8"]
+[White "Skalicka, Karel"]
+[Black "Hromadka, Karel"]
+[Result "0-1"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Lasker variation"]
+[HashCode "61a228eb"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "CZE"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. f3 d5 6. fxe4 dxe4 7. Bb5+ Nbd7 8.
+Nge2 c6 9. Bc4 Qa5 10. Qd2 Nb6 11. Bb3 Bg4 12. Qf4 Qf5 13. Qxf5 Bxf5 14. Ng3
+Nfd5 15. Ncxe4 0-1

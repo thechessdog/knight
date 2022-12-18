@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Nimzowitsch, Aron"]
+[Black "Enevoldsen, Jens"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "65a4769a"]
+[Epoch "Knight"]
+[WhiteCountry "DAN"]
+[BlackCountry "DNK"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 d6 4. Bb5 Qb6 5. Nc3 Nf6 6. O-O Nxe4 7. Nxe4 Qxb5 8.
+Re1 e6 9. Nfg5 Be7 10. Qh5 g6 11. Qh6 d5 12. Qg7 Rf8 13. Nf6+ Bxf6 14. Qxf6 Nd4
+15. Nxh7 Nxc2 16. Qg7 Nxe1 17. Qxf8+ Kd7 18. Qxf7+ Kc6 19. Qe8+ Bd7 20. Qxa8
+Qe2 0-1

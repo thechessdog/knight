@@ -1,0 +1,19 @@
+[Event "Krakow"]
+[Site "Krakow"]
+[Date "1941.??.??"]
+[Round "1"]
+[White "Bluemich, Max"]
+[Black "Kieninger, Georg"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "d0ed7a90"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nd7 7. c4 dxc4 8. Bxc4
+Ne7 9. Nc3 Nc6 10. d5 Ncxe5 11. Nxe5 Nxe5 12. Qa4+ Ke7 13. Bf4 Nxc4 14. Qxc4
+Kf6 15. Rad1 e5 16. Bg3 Bd6 17. f4 exf4 18. Bxf4 Kg6 19. Bxd6 Qxd6 20. Rxf5
+Kxf5 21. Qd3+ Kg4 22. Qh3+ 1-0

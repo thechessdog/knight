@@ -1,0 +1,15 @@
+[Event "Ried"]
+[Site "Ried"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Leporin"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "8cf22d8f"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. f3 Bf5 4. Nc3 exf3 5. Qxf3 Bxc2 6. Qxb7 Nd7 7. Nd5 Rc8
+8. Ba6 e6 1-0

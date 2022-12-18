@@ -1,0 +1,20 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Hahn"]
+[Black "Sahlmann, Walter"]
+[Result "1-0"]
+[ECO "E13"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3, main line"]
+[HashCode "9444b2fa"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 Bb7 7. e3 g5 8. Bg3
+Ne4 9. Rc1 h5 10. d5 Nxc3 11. bxc3 Ba3 12. Rc2 h4 13. Qd4 f6 14. Bxc7 Qxc7 15.
+Qxf6 Rf8 16. Qxg5 Be7 17. Qh5+ Kd8 18. Nxh4 Bf6 19. Ng6 Re8 20. Be2 exd5 21.
+O-O dxc4 22. Rd1 Be4 23. Rcd2 Bxc3 24. Rd6 Bb4 25. R6d4 Bc2 26. Rxc4 Bxd1 27.
+Qg5+ Be7 28. Nxe7 Rxe7 29. Rxc7 Kxc7 30. Bxd1 Nc6 31. h4 Rf8 32. h5 Rh8 33. g4
+Kc8 34. Bf3 Rhh7 35. h6 Ne5 36. Bd5 1-0

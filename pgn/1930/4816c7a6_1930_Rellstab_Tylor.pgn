@@ -1,0 +1,18 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Rellstab, Ludwig Sr"]
+[Black "Tylor, Theodore Henry"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Rellstab variation"]
+[HashCode "4816c7a6"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Qd5 Nc5 6. Bg5 Qd7 7. Nc3 dxe5 8.
+Bb5 c6 9. Qxe5+ Ne6 10. Rd1 f6 11. Qe2 Qf7 12. Bc4 b5 13. Bb3 b4 14. Ne4 Ba6
+15. Qe3 Nd7 16. Bxe6 Qxe6 17. Nxf6+ Kf7 18. Rxd7+ Be7 19. Ne5+ 1-0

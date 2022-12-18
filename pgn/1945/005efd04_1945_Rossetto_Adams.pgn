@@ -1,0 +1,20 @@
+[Event "Hollywood"]
+[Site "Hollywood"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Rossetto, Hector"]
+[Black "Adams, Weaver Warren"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "005efd04"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "ARG"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e5 4. dxe5 d4 5. a3 a5 6. g3 Be6 7. Qd3 Bc5 8. Bg2
+Nge7 9. Bg5 h6 10. Bxe7 Qxe7 11. O-O O-O 12. Nbd2 Rfd8 13. Rad1 a4 14. Qe4 Ra5
+15. Ne1 Qd7 16. Nd3 Bf5 17. Qf4 Be7 18. Bxc6 bxc6 19. Nf3 c5 20. h4 Ra6 21. Kh2
+Rb6 22. Rb1 Rdb8 23. Qd2 Qe6 24. Rfc1 g5 25. Rc2 Qg6 26. hxg5 Qh5+ 27. Kg2 Qh3+
+28. Kg1 hxg5 29. b4 Rh6 30. Nh4 Be4 31. f3 Qxg3+ 32. Ng2 Rh2 33. Ne1 Kg7 34. e3
+Rbh8 35. Kf1 d3 36. Nxd3 Qxf3+ 37. Ke1 Rh1# 0-1

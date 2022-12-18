@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "Piotrowski, O."]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "19177379"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. O-O Nxe4 7. cxd4 Bb6 8.
+Re1 d5 9. Bxd5 Qxd5 10. Nc3 Qh5 11. Rxe4+ Be6 12. d5 O-O-O 13. Bg5 f6 14. Rxe6
+fxg5 15. Qa4 Nb8 16. Rc1 Rd7 17. Rxb6 axb6 18. Ne5 Re7 19. Nb5 Rxe5 20. g4 Qh6
+21. Rxc7+ Kd8 22. Qa8 1-0

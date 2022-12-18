@@ -1,0 +1,18 @@
+[Event "Muenchen ol"]
+[Site "Muenchen"]
+[Date "1936.??.??"]
+[Round "12"]
+[White "Heilimo, Eino"]
+[Black "Lutzkis"]
+[Result "0-1"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[HashCode "b0a59072"]
+[Epoch "Knight"]
+[WhiteCountry "FIN"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 e6 5. c3 d5 6. exd5 Nxd5 7. O-O Bd6 8. d4
+O-O 9. Bxc6 bxc6 10. dxc5 Bxc5 11. Nbd2 a5 12. Ne4 Ba6 13. c4 Be7 14. Rd1 Qc7
+15. b3 f6 16. Neg5 fxg5 17. Qxe6+ Kh8 18. cxd5 Bf6 19. Rb1 Rae8 20. Qxc6 Qxc6
+21. dxc6 g4 22. Ne1 Bd4 23. Ba3 Rxf2 24. Nc2 Rf1# 0-1

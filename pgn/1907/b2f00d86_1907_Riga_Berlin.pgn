@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Riga"]
+[Black "Berlin"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Maroczy system"]
+[HashCode "b2f00d86"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 Ne7 8.
+c3 Ba5 9. Ng3 c6 10. Ba4 Bb6 11. Bc2 Ng6 12. d4 Bg4 13. Qd3 Nh5 14. Nxh5
+Bxh5 15. Bg5 Qc7 16. Nd2 h6 17. Be3 Rae8 18. f3 d5 19. g4 exd4 20. cxd4 c5
+21. Qc3 Nf4 22. Bxf4 Qxf4 23. gxh5 cxd4 24. Qd3 Re5 25. Rae1 Rxh5 26. Re2
+Qh4 27. Rff2 Re5 28. Kf1 Qh5 29. f4 dxe4 30. Nxe4 Re6 31. Nd6 1-0
+

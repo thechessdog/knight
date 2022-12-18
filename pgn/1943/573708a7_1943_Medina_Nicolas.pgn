@@ -1,0 +1,19 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Nicolas"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "573708a7"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bg4 7. Qe2 Be7 8. Rd1
+O-O 9. d4 b5 10. Bb3 Qc8 11. Be3 Kh8 12. h3 Bh5 13. Nbd2 h6 14. Bc2 g5 15. Nf1
+Rg8 16. Ng3 g4 17. Nxh5 Nxh5 18. Nh2 Nf6 19. hxg4 Nxg4 20. Nxg4 Rxg4 21. Qf3
+Qg8 22. Bb3 Nd8 23. dxe5 Qg6 24. exd6 cxd6 25. e5 dxe5 26. Qxa8 e4 27. Rxd8+
+Bxd8 28. Qxd8+ Kh7 29. Kf1 Qh5 30. Qd5 Qh1+ 31. Ke2 Qxa1 32. Qf5+ 1-0

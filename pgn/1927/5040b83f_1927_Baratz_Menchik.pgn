@@ -1,0 +1,17 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Baratz, Abraham"]
+[Black "Menchik, Vera Frantsevna (Stevenson)"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "5040b83f"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 g6 4. Nf3 Bg7 5. h3 O-O 6. g4 c5 7. Bg2 Nc6 8. d3 Bd7
+9. Nbd2 Qc7 10. Nf1 Rfd8 11. Ng3 Nxg4 12. hxg4 Bxb2 13. Rb1 Bc3+ 14. Nd2 Ne5
+15. Bf3 Qa5 0-1

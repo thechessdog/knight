@@ -1,0 +1,19 @@
+[Event "UJCS-4.Kongress"]
+[Site "Plzen"]
+[Date "1911.??.??"]
+[Round "11"]
+[White "Kulisan"]
+[Black "Schubert, F."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "fca98f5c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qe5 13. Nxe6 fxe6
+14. fxg7 Rhg8 15. Bh6 Be7 16. Kg2 d3 17. c3 Qb5 18. f4 Bf6 19. Kg3 Bxg7 20.
+Bxg7 Rxg7 21. b3 Rdg8 22. Re3 Ne7 23. Ng5 h6 24. bxc4 Qxc4 25. Nxe6 Nf5+
+26. Kf3 Nxe3 0-1
+

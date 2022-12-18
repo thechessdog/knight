@@ -1,0 +1,19 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gordon"]
+[Black "Guthridge"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "64582e51"]
+[Epoch "Knight"]
+
+1. e4 e5 2. c4 c5 3. Nc3 Nc6 4. g3 Nd4 5. Bg2 Nf6 6. Nge2 d6 7. Nxd4 cxd4
+8. Na4 b6 9. O-O Be7 10. b3 Bd7 11. Nb2 O-O 12. Nd3 a5 13. Ba3 Rc8 14. f4
+Bc6 15. Qe2 Qc7 16. fxe5 dxe5 17. Bxe7 Qxe7 18. Rf5 Nd7 19. Rc1 f6 20. h4
+Rf7 21. h5 h6 22. Bh3 Rcf8 23. Rf2 Nc5 24. Bf5 Nxd3 25. Qxd3 Qb7 26. Qf3
+Be8 27. Be6 Kh8 28. Qf5 Re7 29. Qxe5 Bxh5 30. Qd6 Bg6 31. e5 Bd3 32. exf6
+Rxf6 33. Rxf6 gxf6 34. Qd8+ 1-0
+

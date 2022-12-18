@@ -1,0 +1,18 @@
+[Event "Nottingham ch-BCF"]
+[Site "Nottingham ch-BCF"]
+[Date "1946.08.01"]
+[Round "1"]
+[White "Wade, Robert Graham"]
+[Black "Wood, Gabriel"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[HashCode "b89c7be5"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. dxe5
+Bb6 9. Bb5 Nge7 10. exd6 cxd6 11. O-O O-O 12. Rd1 Qg4 13. Ba3 Be6 14. Qc2 f5
+15. e5 Ng6 16. h3 Qh5 17. Rxd6 Rfe8 18. Rxe6 Rxe6 19. Bc4 0-1

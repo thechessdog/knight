@@ -1,0 +1,18 @@
+[Event "Outaouais"]
+[Site "Outaouais"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Renaud, Rija"]
+[Black "Solunac, Steve"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "c14ea79a"]
+[Epoch "Knight"]
+[WhiteID "30937817"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Bd3 c5 6. dxc5 Nxc5 7. Nf3 Nxd3+ 8.
+Qxd3 Nc6 9. Be3 Be7 10. O-O Qa5 11. a3 Bd7 12. Nb5 Nxe5 13. b4 Nxf3+ 14. gxf3
+Qxb5 15. Qxb5 Bxb5 16. Rfd1 Be2 0-1

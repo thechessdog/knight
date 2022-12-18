@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Johnston"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "67f85c81"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nc6 4. Nf3 Nf6 5. Bf4 Bd6 6. Bg3 Ne4 7. e3 O-O 8. Bd3
+f5 9. a3 b6 10. Rc1 Bb7 11. cxd5 exd5 12. Nxd5 Nxd4 13. Bc4 Nxf3+ 14. gxf3 Nxg3
+15. Ne7+ Kh8 16. Ng6+ hxg6 17. hxg3+ Qh4 18. Rxh4# 1-0

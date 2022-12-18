@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1917.01.01"]
+[Round "1"]
+[White "Marchand, A."]
+[Black "Fick, William"]
+[Result "0-1"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "c1051f82"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Be7
+8. Qe2 d6 9. Nf3 Nbd7 10. Bf4 Ne5 11. Rad1 O-O 12. Rd2 b5 13. a4 b4 14. Na2
+a5 15. Bxe5 dxe5 16. c3 Bb7 17. cxb4 axb4 18. Rc2 Qa5 19. b3 Rad8 20. Nc1
+Nd7 21. Bb5 Nc5 22. Rc4 Qa8 23. Re1 f5 24. Nxe5 fxe4 25. Rc2 Rf5 26. Ng4
+Rg5 27. g3 h5 28. Ne3 h4 29. Rd2 Rf8 30. Nf1 Rf3 31. Qd1 Qf8 32. Re3 Rgf5
+33. Rxf3 Rxf3 34. Re2 Bg5 35. Qe1 Rc3 36. Na2 Nd3 37. Qd1 Qf3 38. Nd2 Bxd2
+39. Rxd2 Qxd1+ 40. Rxd1 Rxb3 41. a5 Rb2 42. Ra1 b3 43. Nc3 Rc2 44. Nd1 b2
+45. Nxb2 Rxb2 0-1
+

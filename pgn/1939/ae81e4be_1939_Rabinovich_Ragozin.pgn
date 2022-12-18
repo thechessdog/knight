@@ -1,0 +1,27 @@
+[Event "Leningrad/Moscow"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "4"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Ragozin, Viacheslav"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "ae81e4be"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Ba5 6. Bd2 Nd7 7. Nf3 c5 8. dxc5
+Bc7 9. Bb5 O-O 10. Bxd7 Bxd7 11. O-O Ng6 12. Re1 Qe7 13. Na2 a5 14. b4 f6 15.
+exf6 Qxf6 16. Bc3 Qf5 17. Nc1 Nh4 18. Nd3 Nxg2 19. Kxg2 d4 20. Nde5 dxc3 21.
+Nxd7 Qg4+ 22. Kh1 Qxf3+ 23. Qxf3 Rxf3 24. Kg2 Rf7 25. Rad1 axb4 26. axb4 Ra2
+27. Rxe6 g6 28. Re2 Rb2 29. Rd4 Bf4 30. Nb6 Bd2 31. Nd5 Kg7 32. Ne3 h5 33. Nf1
+Bf4 34. Ree4 Bd2 35. Nxd2 Rxc2 36. Re2 Kh6 37. Kf1 Rc1+ 38. Kg2 Rc2 39. Kf1
+Rc1+ 40. Kg2 Rc2 41. h3 Rb2 42. Kf1 cxd2 43. Rexd2 Rb1+ 44. Kg2 Re7 45. h4 Ree1
+46. Rf4 Rg1+ 47. Kf3 Rb3+ 48. Ke2 Rgb1 49. Rdd4 R1b2+ 50. Kf1 Rb1+ 51. Kg2 R1b2
+52. Rfe4 Rb1 53. Rc4 R1b2 54. Rf4 Rb1 55. Rce4 R1b2 56. Rd4 Rb1 57. Rc4 R1b2
+58. Rce4 Rb1 59. Rd4 R1b2 60. Rfe4 Rb1 61. f3 R3b2+ 62. Kg3 Rg1+ 63. Kf4 Rf1
+64. Rd7 Rb3 65. Rxb7 Rfxf3+ 66. Ke5 Rbc3 67. Kd5 Rcd3+ 68. Kc4 Rd1 69. Kb5 Rh1
+70. c6 Rf5+ 71. Kb6 Rf6 72. Rbe7 Rc1 73. b5 Rb1 74. R7e5 Rd1 75. Kb7 1-0

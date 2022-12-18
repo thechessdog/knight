@@ -1,0 +1,16 @@
+[Event "Baltimore"]
+[Site "Baltimore"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Dake, Arthur William"]
+[Black "Pauli, Axel"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, Alekhine gambit, Kan variation"]
+[HashCode "80d89829"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Bxc3+ 6. Nxc3 Nc6 7. Qg4 Nxd4 8.
+Qxg7 Nxc2+ 9. Ke2 Qd3# 0-1

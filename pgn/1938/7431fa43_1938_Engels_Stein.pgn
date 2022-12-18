@@ -1,0 +1,18 @@
+[Event "Konigsberg"]
+[Site "Konigsberg"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Stein, Leonid"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Rubinstein variation"]
+[HashCode "7431fa43"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nxe4 8.
+Re1 d5 9. Nxe5 Be6 10. f3 Nd6 11. Nc3 Nb5 12. f4 Nxc3 13. bxc3 Qf6 14. f5 Qxf5
+15. Rf1 Qe4 16. Rf4 1-0

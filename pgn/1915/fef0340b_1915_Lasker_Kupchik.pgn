@@ -1,0 +1,24 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "11"]
+[White "Lasker, Edward"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Nimzovich, Klein variation"]
+[HashCode "fef0340b"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Bc4 Nxe4 5. O-O d5 6. Re1 Be7 7. Nxe5 O-O 8.
+Bd3 f6 9. Nf3 f5 10. c4 Be6 11. cxd5 Bxd5 12. Nc3 Nxc3 13. bxc3 Nc6 14. Ne5
+Nxe5 15. Rxe5 Bf6 16. Re2 c5 17. Ba3 b6 18. Qc2 g6 19. dxc5 Rf7 20. Rae1 Qd7
+21. Rd2 Qc6 22. f3 bxc5 23. Bf1 Bg5 24. Rdd1 c4 25. Bc1 Bf6 26. Be3 Re8 27. Bf2
+Rfe7 28. Rxe7 Rxe7 29. Qd2 Bf7 30. Bd4 Rd7 31. Qf4 Bxd4+ 32. Rxd4 Qb6 33. Kf2
+Rxd4 34. Qxd4 Qxd4+ 35. cxd4 c3 36. Bd3 Bxa2 37. Bc2 f4 38. Ke1 g5 39. Kd1 h6
+40. Ba4 Bb1 41. Bb3+ Kf8 42. Kc1 Bd3 43. Kd1 Ke7 44. Kc1 Kd6 45. Bf7 Kc6 46.
+Kd1 Kb5 47. Kc1 Kb4 48. Ba2 a5 49. d5 Kc5 50. Kd1 Bf1 51. g3 Bg2 52. gxf4 Bxf3+
+53. Kc2 gxf4 54. d6 Kxd6 55. Kxc3 Bd5 0-1

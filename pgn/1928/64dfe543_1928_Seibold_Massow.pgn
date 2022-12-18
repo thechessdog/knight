@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Seibold"]
+[Black "Massow"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "64dfe543"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 Rg6 7. Qe3 Nxe4
+8. Bd3 c5 9. Bxe4 dxe4 10. dxc5 Bd7 11. Bd2 Qc7 12. Nxe4 Bxd2+ 13. Kxd2 Na6
+14. Nf3 f5 15. Nd6+ Kf8 16. Ne5 Rg7 17. Rad1 Nxc5 18. Kc1 Rd8 19. Rd4 b6
+20. Rhd1 Nb7 21. Nxb7 Qxb7 22. Qh6 Kg8 23. Qxg7+ Kxg7 24. Rxd7+ 1-0
+

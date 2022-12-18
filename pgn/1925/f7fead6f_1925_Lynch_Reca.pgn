@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Lynch, Julio"]
+[Black "Reca"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "f7fead6f"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 e6 5. Nf3 Nf6 6. Nc3 Be7 7. cxd5 exd5
+8. Bd3 O-O 9. O-O Bg4 10. Be3 Nc6 11. Rc1 Qd7 12. a3 Rac8 13. Qc2 Bd6 14.
+Ng5 h6 15. Nh7 Nxh7 16. Bxh7+ Kh8 17. Bd3 Bb8 18. Qd2 Qd6 19. f4 Ne7 20.
+Kh1 Bf5 21. Bg1 Qd7 22. Rce1 Bxd3 23. Qxd3 Ng8 24. Re2 Rfe8 25. Rfe1 Rxe2
+26. Rxe2 Nf6 27. Qf3 b5 28. g4 Rd8 29. g5 Ng8 30. Rg2 a6 31. Bf2 Qf5 32.
+Bh4 f6 33. gxf6 Nxf6 34. Bxf6 Qxf6 35. Ne2 Qf5 36. Qg3 Rd7 37. Qg6 Rf7 38.
+Qxa6 Bxf4 39. Qxb5 Qe4 40. Nc3 Qe1+ 41. Rg1 Qh4 42. Qe8+ Kh7 43. Qe2 Bb8
+44. Qg2 1/2-1/2
+

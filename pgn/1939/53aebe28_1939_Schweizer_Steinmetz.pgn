@@ -1,0 +1,17 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Schweizer"]
+[Black "Steinmetz"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "53aebe28"]
+[Epoch "Knight"]
+
+1. e4 c5 2. b4 Nf6 3. e5 Nd5 4. bxc5 Nc6 5. d4 d6 6. cxd6 exd6 7. Nf3 Bg4
+8. Be2 dxe5 9. dxe5 Bb4+ 10. Bd2 Nf4 11. c3 Nxg2+ 12. Kf1 Bh3 13. Kg1 Bc5
+14. Qc2 Nh4 15. Qe4 Nxf3+ 16. Bxf3 Qb6 17. Qe1 Nd4 18. Be4 Nf3+ 0-1
+

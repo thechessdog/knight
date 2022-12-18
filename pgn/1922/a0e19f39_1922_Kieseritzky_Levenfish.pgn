@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Kieseritzky"]
+[Black "Levenfish, Grigory"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "a0e19f39"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. c4 e6 5. Nc3 Nc6 6. a3 Ne4 7. Bd2 Nxd2 8. Qxd2
+Na5 9. Qc2 cxd4 10. Nxd4 dxc4 11. Be2 Be7 12. O-O O-O 13. Rfd1 Qb6 14. Na4 Qa6
+15. b4 e5 16. Nf3 Nb3 17. Bxc4 Nxa1 18. Rxa1 b5 19. Bd5 Bb7 20. Nc5 Bxc5 21.
+Qxc5 Bxd5 22. Qxd5 Rad8 23. Qxe5 Qxa3 24. h4 Qxb4 25. Rxa7 Qc4 26. Nd4 Rd5 27.
+Qe7 h6 28. Rc7 Qa2 29. Kh2 Rdd8 30. Kg3 Qa6 31. Rc6 Qa8 32. Rb6 Rb8 33. Rxb5
+Rxb5 34. Nxb5 Qb8+ 35. Nd6 Rd8 36. Qxf7+ Kh8 37. Kh3 Qxd6 0-1

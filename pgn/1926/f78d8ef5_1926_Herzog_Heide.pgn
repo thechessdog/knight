@@ -1,0 +1,15 @@
+[Event "Reichenberg"]
+[Site "Reichenberg"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Herzog, F."]
+[Black "Heide"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "f78d8ef5"]
+[Epoch "Knight"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Bf5 5. Qe2 Qxd4 6. Qb5+ Bd7 7. Qxb7
+Bc6 8. Bb5 Qd7 9. Bxc6 1-0
+

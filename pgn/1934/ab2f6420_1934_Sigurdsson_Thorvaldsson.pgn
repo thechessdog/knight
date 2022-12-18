@@ -1,0 +1,17 @@
+[Event "Lovisa"]
+[Site "Lovisa"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Sigurdsson, Gudjon"]
+[Black "Thorvaldsson, Einar"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "ab2f6420"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. e3 c6 6. Bd3 Be7 7. O-O O-O 8.
+e4 dxc4 9. Bxc4 Re8 10. Ng5 h6 11. Nxf7 Kxf7 12. Bxe6+ Kxe6 13. Qb3+ Nd5
+14. Nxd5 Kf7 15. Nf4+ Kf6 16. Qe6+ Kg5 17. Qg6+ Kh4 18. Qh5# 1-0
+

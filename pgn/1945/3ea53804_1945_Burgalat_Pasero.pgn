@@ -1,0 +1,20 @@
+[Event "Santa Fe"]
+[Site "Santa Fe"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Burgalat, F."]
+[Black "Pasero, P."]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "3ea53804"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5 12. exf6 Nxf6 13. h3 Qd7 14. Nb3
+Bd6 15. Ng5 Bf5 16. Be3 h6 17. Bxf5 Qxf5 18. Nf3 Ne4 19. Nbd4 Nxd4 20. cxd4
+Rf7 21. Nh4 Qf6 22. Qh5 Qe6 23. g4 Ng3 24. fxg3 Qxe3+ 25. Kh1 Qe4+ 26. Kh2
+Qe2+ 27. Kh1 Qe4+ 28. Kh2 Raf8 29. Nf5 Rf6 30. Rae1 Qd3 31. Rg1 g6 32. Ne7+
+Kg7 33. Qxd5 Rf2+ 34. Kh1 Bxg3 35. Rxg3 Qxg3 36. Nf5+ R2xf5 0-1
+

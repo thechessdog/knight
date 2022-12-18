@@ -1,0 +1,20 @@
+[Event "Graz"]
+[Site "Graz"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Heinicke, Herbert"]
+[Black "Halosar"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "594c2a86"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Bb5
+Bb4 9. O-O O-O 10. Bxc6 bxc6 11. Na4 Nd7 12. Rc1 Rc8 13. Ne5 Nxe5 14. Bxe5 f6
+15. Bg3 Re8 16. Qb3 Ba5 17. Nc5 e5 18. Qa4 Qb6 19. a3 Bd2 20. Rc2 Bxc2 21. Qxc2
+exd4 22. exd4 Bh6 23. f4 g6 24. Bh4 Bg7 25. f5 g5 26. Bf2 a5 27. h4 Qb5 28. Ne6
+h6 29. Bg3 Re7 30. hxg5 hxg5 31. Bd6 Rd7 32. Bc5 Kf7 33. Nxg5+ fxg5 34. f6
+Qxf1+ 35. Kxf1 Kxf6 36. g4 Kf7 37. Qf5+ 1-0

@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "Magyar"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "3bea5438"]
+[Epoch "Knight"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 7. Bd3 O-O
+8. O-O c6 9. Ng5 h6 10. Nde4 hxg5 11. Nxf6+ gxf6 12. Qh5 Re8 13. Bxg5 1-0
+

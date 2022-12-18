@@ -1,0 +1,16 @@
+[Event "corr Europe"]
+[Site "corr Europe"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Svenson"]
+[Black "Alderson"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "f1bfd5f6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. Nc3 Nc6 7. Nf3
+Na5 8. Bxf7+ Kxf7 9. e5 Nc4 10. exf6 Qe8+ 11. Kf1 Nxb2 12. Qd5+ Kg6 13. Re1
+Qd8 14. Qg5+ Kf7 15. Ne5+ Ke6 16. Nc6+ Kf7 17. Nxd8+ Kg8 18. f7# 1-0
+

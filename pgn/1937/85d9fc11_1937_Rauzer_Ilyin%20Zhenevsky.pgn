@@ -1,0 +1,18 @@
+[Event "Tbilisi ch-URS"]
+[Site "Tbilisi ch-URS"]
+[Date "1937.04.01"]
+[Round "?"]
+[White "Rauzer, Vsevolod"]
+[Black "Ilyin Zhenevsky, Alexander"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "85d9fc11"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. f3 d5 6. e5 Nfd7 7. f4 Nc6 8. Nxc6
+bxc6 9. Bd3 Qh4+ 10. g3 Qh3 11. Qf3 Bc5 12. Be3 O-O 13. Nd2 f6 14. exf6 Re8 15.
+Nf1 Nxf6 16. Kd2 Bg4 17. Qf2 d4 18. Bxd4 Re2+ 0-1

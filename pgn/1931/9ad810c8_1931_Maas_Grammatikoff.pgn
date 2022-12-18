@@ -1,0 +1,18 @@
+[Event "Pankow"]
+[Site "Pankow"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Maas"]
+[Black "Grammatikoff"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "9ad810c8"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. e3 Bb4+ 7. Nbd2 c5
+8. Rc1 O-O 9. a3 Bxd2+ 10. Qxd2 dxc4 11. dxc5 b5 12. cxb6 Bb7 13. Rxc4 Rd8
+14. Bd3 e5 15. Qc2 Rxd3 16. Qxd3 e4 17. Qd4 exf3 18. Qxf6 gxf6 19. Rc7 fxg2
+20. Rg1 Bc6 21. b7 1-0
+

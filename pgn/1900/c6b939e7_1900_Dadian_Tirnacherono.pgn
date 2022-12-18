@@ -1,0 +1,18 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Dadian"]
+[Black "Tirnacherono"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "c6b939e7"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 b6 5. d5 exd5 6. exd5 Qe7+ 7. Be2 Nd8
+8. O-O Qd6 9. Nb5 Qb8 10. d6 Ne6 11. Bc4 a6 12. Bxe6 axb5 13. Bxf7+ Kxf7
+14. Qd5+ Ke8 15. Re1+ Kd8 16. Bg5+ Nf6 17. Bxf6+ gxf6 18. Ng5 fxg5 19.
+Qxg5+ 1-0
+

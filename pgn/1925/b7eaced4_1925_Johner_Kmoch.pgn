@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Kmoch, Hans"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "b7eaced4"]
+[Epoch "Knight"]
+[WhiteCountry "CHE"]
+[BlackCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bc4 e6 10. Qe2 Ngf6 11. Ne5 Nxe5 12. dxe5 Nd7 13. O-O Qh4 14. Bb3 g6 15.
+Rd1 Bg7 16. c3 gxh5 17. Rd4 Qe7 18. Nxh5 Bf8 19. Bf4 Bg6 20. Nf6+ 1-0

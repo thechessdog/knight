@@ -1,0 +1,19 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Lehmann, Heinz Dr"]
+[Black "Heinicke, Herbert"]
+[Result "0-1"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Blumenfeld variation"]
+[HashCode "8953b4f4"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 Qb6 13. fxg7 Bxg7 14. O-O Bb7
+15. Qe2 b4 16. Ng5 h6 17. Ne4 O-O 18. Ng3 Ra5 19. Nh5 Qc6 20. Nf4 e5 21. f3
+exf4 0-1

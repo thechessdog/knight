@@ -1,0 +1,20 @@
+[Event "Corpus Christi"]
+[Site "Corpus Christi"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Evans, Larry D."]
+[Black "Ulvestad, Olaf"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "Schlechter variation"]
+[HashCode "0991505f"]
+[Epoch "Knight"]
+[WhiteID "2001713"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 g6 5. cxd5 cxd5 6. Bf4 Nc6 7. e3 a6 8. Bd3
+Bg7 9. h3 O-O 10. O-O b5 11. Rc1 Bb7 12. Nd2 Na5 13. Na4 Nc4 14. Bxc4 dxc4 15.
+Nc5 Bc6 16. a3 Nd7 17. Nxd7 Qxd7 18. b3 Rfd8 19. bxc4 e5 20. d5 exf4 21. dxc6
+Qxd2 22. c7 Qxd1 23. cxd8=Q+ Qxd8 0-1

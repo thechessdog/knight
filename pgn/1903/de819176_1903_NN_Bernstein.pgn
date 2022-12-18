@@ -1,0 +1,16 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Bernstein, Ossip"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "de819176"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 c5 3. Nc3 e6 4. Nf3 cxd4 5. Qxd4 Nc6 6. Qd1 d4 7. Ne4 f5 8. Bg5
+fxe4 9. Bxd8 Bb4+ 10. Nd2 e3 11. fxe3 dxe3 0-1

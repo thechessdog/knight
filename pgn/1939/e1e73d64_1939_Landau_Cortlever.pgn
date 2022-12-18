@@ -1,0 +1,20 @@
+[Event "Amsterdam KNSB"]
+[Site "Amsterdam"]
+[Date "1939.01.01"]
+[Round "5"]
+[White "Landau, Salo"]
+[Black "Cortlever, Nicolaas"]
+[Result "0-1"]
+[ECO "A95"]
+[Opening "Dutch"]
+[Variation "stonewall with Nc3"]
+[HashCode "e1e73d64"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nc3 O-O 6. Nf3 d5 7. O-O c6 8. Ne5
+Nbd7 9. Bg5 Qe8 10. Nxd7 Bxd7 11. Qb3 b6 12. e3 Kh8 13. a4 Bd8 14. Bxf6 Rxf6
+15. Ne2 dxc4 16. Qxc4 Rc8 17. Rfd1 a5 18. Nf4 c5 19. dxc5 Rxc5 20. Qd4 Rf7 21.
+Nd3 e5 22. Nxc5 exd4 23. Nxd7 Qxd7 24. Rxd4 Qc7 25. Rad1 Bf6 26. Rd6 h6 27. Rc6
+Qb8 28. Rdd6 Rc7 29. Rxb6 Rc1+ 30. Bf1 Qa8 31. Rb5 Qe4 32. Rdd5 Qc4 0-1

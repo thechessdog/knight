@@ -1,0 +1,18 @@
+[Event "corr Bundes-ch"]
+[Site "corr Bundes-ch"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Busch"]
+[Black "Herzog"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "d8c3897f"]
+[Epoch "Knight"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Bd3 Bb4+ 5. Kf1 Qf6 6. Nf3 g6 7. Qe2 Be7 8.
+Nc3 a5 9. Bd2 Qg7 10. g4 g5 11. Rg1 h6 12. a3 Nc6 13. Nb5 Bd8 14. d5 Na7
+15. Bc3 Nf6 16. Nbd4 Nc8 17. Re1 O-O 18. h4 Re8 19. hxg5 hxg5 20. Qd2 Qh6
+21. Rg2 d6 22. e5 dxe5 23. Rxe5 1-0
+

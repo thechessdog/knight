@@ -1,0 +1,19 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Kramer, Haije"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[HashCode "27c384f0"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8.
+Be2 c5 9. dxc5 Qa5 10. e5 Ng4 11. Bf4 Be6 12. Qb5 Qc7 13. c6 Rab8 14. h3 bxc6
+15. Qxa6 Nxe5 16. Nxe5 Bxe5 17. Bxe5 Qxe5 18. O-O Rxb2 19. Qd3 Rfb8 20. Bf3 Bf5
+21. Qe3 Qxe3 22. fxe3 c5 23. Na4 Rc2 24. Rfc1 c4 25. e4 Rxc1+ 26. Rxc1 Rb4 1-0

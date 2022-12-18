@@ -1,0 +1,16 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Preiswerk"]
+[Black "Schlage, Willi"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "08eb5da8"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 Bg4 6. dxe5 Qxd1+ 7. Kxd1
+O-O-O+ 8. Ke2 f6 9. b3 fxe5 10. Bb2 Nf6 0-1

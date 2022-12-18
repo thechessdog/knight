@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Znosko_Borovsky, E."]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Szabo (Boleslavsky) variation"]
+[HashCode "4e52072c"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6 8. Be2
+Be6 9. Qd3 Na6 10. O-O h6 11. h3 Qd7 12. Be3 Rad8 13. Qd2 Kh7 14. Rad1 Nc7 15.
+Ne5 Qc8 16. f4 Nce8 17. g4 Nd6 18. Qc2 Bd7 19. Nxd7 Nxd7 20. e5 Ne8 21. f5 c5
+22. fxg6+ fxg6 23. Qxg6+ Kg8 24. Bc4+ e6 25. Qxe6+ Kh8 26. Rxf8+ 1-0

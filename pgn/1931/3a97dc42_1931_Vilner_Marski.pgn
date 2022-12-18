@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Vilner, Yakov S"]
+[Black "Marski"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "3a97dc42"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. Qd2 Qc7 6. Bf4 Qd8 7. Bg5 Nbd7 8.
+Qf4 Bg6 9. e4 Qb6 10. O-O-O h6 11. Bh4 e5 12. dxe5 Bc5 13. Re1 Nh5 14. Qd2 Bxg1
+15. exd5 O-O 16. dxc6 bxc6 17. Qxd7 Rab8 18. Nd1 Bd4 19. c3 Bxc3 20. bxc3 Nf6
+21. Bxf6 gxf6 22. Bd3 Rfd8 23. Qxd8+ Qxd8 24. Bxg6 fxg6 25. Kc2 Qa5 26. exf6
+Qxa2+ 27. Kd3 Rd8+ 0-1

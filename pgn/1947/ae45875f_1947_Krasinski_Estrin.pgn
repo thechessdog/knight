@@ -1,0 +1,16 @@
+[Event "Istra"]
+[Site "Istra"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Krasinski"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Keres variation"]
+[HashCode "ae45875f"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Nd2 Bf5 6. Qe2 Bb4 7. c3 O-O 8. cxb4
+exd3 9. Qd1 Re8+ 10. Kf2 Qe7 11. Nc4 Ne4+ 0-1

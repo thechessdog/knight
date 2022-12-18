@@ -1,0 +1,18 @@
+[Event "Hampstead"]
+[Site "Hampstead"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Dale"]
+[Black "Prameshuber, Aleksander"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "3ca418d2"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. Nc3 O-O 10. Re1 Re8 11. Rd1 Nc5 12. Nd4 Ba6 13. Qg4 Qc8 14. Bh6 Bf8
+15. Nf5 Ne6 16. Ne4 Kh8 17. Nf6 gxf6 18. exf6 Bxh6 19. Nxh6 Rf8 20. Qg8+ Rxg8
+21. Nxf7# 1-0

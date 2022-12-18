@@ -1,0 +1,16 @@
+[Event "Belgrade"]
+[Site "Belgrade"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Andrich"]
+[Black "Doudewski, M."]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "29a380e5"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bg4 4. Qb3 Qc7 5. cxd5 cxd5 6. Nc3 e6 7. Bf4 Qb6
+8. Nb5 Qa5+ 9. Bd2 Qb6 10. Ne5 Nf6 11. e4 a6 12. Rc1 1-0
+

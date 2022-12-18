@@ -1,0 +1,26 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Faktor, Samuel"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "7adb23c5"]
+[Epoch "Knight"]
+[WhiteID "73612537"]
+[WhiteCountry "SVK"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. f4 f6 9. Be3 Ne7 10. Nd2 Ng6 11. g3 c5 12. N4f3 b6 13. O-O Bb7 14. Rfe1
+O-O-O 15. Bf2 Rhe8 16. Re2 Rd7 17. Rae1 Rde7 18. h4 h5 19. c4 a5 20. a4 Kd7 21.
+Kf1 Bc6 22. b3 Kc8 23. Re3 Bd7 24. Kg2 c6 25. Nb1 Bc7 26. Nc3 Nh8 27. Rd3 Nf7
+28. Red1 Bg4 29. R1d2 Nh6 30. Bg1 Bb8 31. Bf2 Be6 32. Rd1 Bf7 33. Bg1 Bg6 34.
+Nd2 Nf7 35. Re1 Bh7 36. Kf3 Nh6 37. Bf2 Ng4 38. Bg1 g5 39. Re2 gxf4 40. gxf4
+Rg8 41. Re1 Reg7 42. Ne2 f5 43. exf5 Bxf5 44. Ne4 Bxe4+ 45. Kxe4 Re8+ 46. Kf3
+Rf7 47. Rdd1 Ref8 48. Rf1 Bxf4 49. Nxf4 Rxf4+ 50. Kg2 Rxf1 51. Rxf1 Rxf1 52.
+Kxf1 Nh6 53. Ke2 Nf5 54. Bf2 Nd4+ 55. Kd3 Nxb3 56. Be3 Kd7 57. Kc3 Nd4 58. Bxd4
+cxd4+ 59. Kxd4 Kd6 60. Kd3 Ke5 61. Kc3 c5 0-1

@@ -1,0 +1,16 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Larsson, P"]
+[Black "Englund"]
+[Result "0-1"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[HashCode "d79e0748"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. d4 Nxd5 6. c4 Bb4+ 7. Nbd2 Ne3
+8. Qa4+ Bd7 9. Qb3 Qe7 10. Kf2 Nd1+ 11. Kg1 Nc3 12. h3 Ba4 0-1
+

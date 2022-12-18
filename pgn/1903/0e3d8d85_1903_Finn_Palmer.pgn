@@ -1,0 +1,16 @@
+[Event "Plymouth"]
+[Site "Plymouth"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Finn"]
+[Black "Palmer"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "0e3d8d85"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bf5 6. Nb3 Bb4+ 7. Bd2 Qe7
+8. Nbxd4 Nxe5 9. Qa4+ Bd7 10. Qxb4 Nd3+ 0-1
+

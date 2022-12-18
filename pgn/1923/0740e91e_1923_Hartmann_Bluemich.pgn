@@ -1,0 +1,21 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Hartmann, Wolfram"]
+[Black "Bluemich, Max"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "0740e91e"]
+[Epoch "Knight"]
+[WhiteID "4604008"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Re1 Bg4 8. Nbd2
+d5 9. exd5 Qxd5 10. Bxc6 bxc6 11. Qa4 Bd6 12. d4 exd4 13. Qxd4 Rfe8 14. Qxd5
+cxd5 15. h3 Bh5 16. Kf1 Bg6 17. Nb3 Be4 18. Nbd2 Bd3+ 19. Kg1 a5 20. Nf1 a4 21.
+Be3 Rab8 22. N1d2 Rxb2 23. Bd4 Rxe1+ 24. Rxe1 Rxa2 25. g3 h6 26. Bxf6 gxf6 27.
+Re3 Bb5 28. Nd4 Bd7 29. N2f3 a3 30. Kg2 Rb2 31. Re1 a2 32. Rg1 c5 0-1

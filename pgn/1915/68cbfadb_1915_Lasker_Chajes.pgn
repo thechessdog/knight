@@ -1,0 +1,25 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Chajes, Oscar"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "68cbfadb"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Bd7 12. Nbd2 Nc6 13. d5 Nb8 14. Nf1 h5 15. Bg5
+Ng8 16. Bxe7 Kxe7 17. Qd2 Nf6 18. Rad1 Kf8 19. Nh4 Nh7 20. f4 g5 21. fxg5 Qd8
+22. Ng3 Nxg5 23. Ngf5 Rg8 24. Kh1 Bxf5 25. Nxf5 Qf6 26. Rf1 Qg6 27. Rf2 Ra7 28.
+Rdf1 a5 29. Qe2 Rb7 30. Bd1 h4 31. Bc2 Nd7 32. a4 Nf6 33. Nxh4 Qh5 34. Qxh5
+Nxh5 35. Nf5 bxa4 36. h4 Rxb2 37. hxg5 Rxg5 38. Bxa4 Rb6 39. Bc2 Rxf5 40. exf5
+Ng3+ 41. Kg1 Nxf1 42. Kxf1 c4 43. f6 Rb5 44. g4 a4 45. Rh2 Kg8 46. Bh7+ Kf8 47.
+Be4 Kg8 48. Bh7+ Kf8 49. Bf5 Kg8 50. g5 a3 51. g6 e4 52. Bxe4 fxg6 53. Bxg6 Rb8
+54. Bf5 Kf7 55. Rh6 Rf8 56. Be6+ Ke8 57. f7+ Ke7 58. Rh2 Rb8 59. Rf2 Kf8 60.
+Bf5 1-0

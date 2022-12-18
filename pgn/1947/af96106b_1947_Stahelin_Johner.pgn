@@ -1,0 +1,19 @@
+[Event "Sweden"]
+[Site "Sweden"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Staehelin, Adolf"]
+[Black "Johner, Hans"]
+[Result "0-1"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "af96106b"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+[WhiteCountry "CHE"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Be7 7. O-O O-O 8. b3
+c5 9. Qe2 b6 10. Bb2 Bb7 11. Rfd1 Rc8 12. Rac1 Qc7 13. cxd5 exd5 14. dxc5 bxc5
+15. e4 dxe4 16. Nxe4 Rfe8 17. Re1 Nxe4 18. Bxe4 Bf6 19. Rc4 Bxe4 20. Rxe4 Rxe4
+0-1

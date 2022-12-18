@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Slonim"]
+[Black "Panov"]
+[Result "0-1"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "eab13c8e"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c4 e6 5. cxd5 exd5 6. dxc5 Nc6 7. Nc3 Bxc5
+8. Be2 O-O 9. O-O a6 10. a3 b5 11. b4 Bd6 12. Bb2 Bb7 13. Qb3 Qd7 14. Rad1
+Rad8 15. Rd2 Rfe8 16. Rfd1 Ne7 17. e4 Ng6 18. exd5 Nf4 19. Bf1 Qg4 20. Kh1
+Qh5 21. Bc1 Bc8 22. Rd4 Ng6 23. Kg1 Bg4 24. Rxg4 Nxg4 25. g3 N6e5 26. Nh4
+Nxh2 27. Kxh2 Nf3+ 28. Kh3 Nxh4 29. g4 Qe5 30. f4 Qe7 31. Bd3 Nf3 32. Kg3
+Nd4 33. Qb2 g5 34. Qh2 gxf4+ 35. Kf2 Qe3+ 36. Bxe3 fxe3+ 37. Kg2 Bxh2 38.
+Kxh2 e2 0-1
+

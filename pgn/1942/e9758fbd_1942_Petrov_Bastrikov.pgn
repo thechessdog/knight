@@ -1,0 +1,26 @@
+[Event "Sverdlovsk"]
+[Site "Sverdlovsk"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Petrovs, Vladimirs"]
+[Black "Bastrikov, Georgy Vladimirovic"]
+[Result "1-0"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3, counterthrust variation"]
+[HashCode "e9758fbd"]
+[Epoch "Knight"]
+[WhiteCountry "LVA"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nc3 dxc4 6. Qa4+ c6 7. Qxc4 O-O 8.
+Nf3 Nbd7 9. O-O Nb6 10. Qd3 Be6 11. Rd1 Nbd5 12. e4 Nxc3 13. bxc3 Qa5 14. Qc2
+Rfd8 15. a4 c5 16. d5 Bg4 17. Rb1 Bd7 18. Ra1 b5 19. Ne5 bxa4 20. f4 Ne8 21.
+Ra3 Nd6 22. Nxd7 Rxd7 23. e5 Nb5 24. Rxa4 Qxc3 25. Qa2 Nd4 26. Rc4 Qb3 27. Qxb3
+Nxb3 28. d6 Rb8 29. Bc6 Rdd8 30. d7 Bf8 31. Be3 e6 32. Ba4 Be7 33. Rb1 Na5 34.
+Rxb8 Rxb8 35. Rc2 Rb1+ 36. Kg2 Nb7 37. Bxc5 Nxc5 38. Rxc5 Rb4 39. Rc8+ Kg7 40.
+Bc6 Rc4 41. Kf3 f5 42. Ke3 Bc5+ 43. Kd3 Rd4+ 44. Kc3 Bb6 45. Rb8 Rd1 46. Kc4
+Kf7 47. Kb5 h6 48. h4 Rd2 49. Ka6 Rd1 50. Re8 Rd2 51. Kb7 Rd1 52. Kc8 Rc1 53.
+d8=N+ Bxd8 54. Kxd8 Rxc6 55. Re7+ Kf8 56. Rxa7 g5 57. Rc7 Ra6 58. Kd7 gxf4 59.
+gxf4 Kf7 60. h5 Rb6 61. Rc6 Rb4 62. Rxe6 Rxf4 63. Rf6+ Kg7 64. Rg6+ Kf8 65. Ke6
+Rh4 66. Kf6 Rxh5 67. e6 Rg5 68. Rxh6 Rg8 69. Rh7 Ke8 70. Ra7 1-0

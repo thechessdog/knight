@@ -1,0 +1,20 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1939.05.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Hess, Theobald"]
+[Result "1-0"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "121377c9"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. h3 Qc7 11. d4 O-O 12. Nbd2 Nc6 13. Nf1 cxd4 14. cxd4 Nxd4 15.
+Nxd4 exd4 16. Bf4 Bb7 17. Rc1 Qb6 18. Ng3 g6 19. Ne2 d3 20. Bxd3 Bxe4 21. Nc3
+d5 22. Be3 Qd8 23. Bf1 Bf5 24. Bg5 Be6 25. Qd4 Rc8 26. Rcd1 Re8 27. g3 Kg7 28.
+b4 h6 29. Bf4 Bd6 30. Bxd6 Qxd6 31. Ne4 Qd8 32. Nc5 Ra8 33. Re3 Kh7 34. Rf3 Kg7
+35. Rc1 h5 36. Rd3 Bf5 1-0

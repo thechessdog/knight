@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Partos, Charles"]
+[Black "Gonzalez, JA."]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "d8197294"]
+[Epoch "Knight"]
+[WhiteCountry "CHE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 O-O 6. Nf3 Nbd7 7. a3 Be7 8. Bd3
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 a6 12. Bxe6 fxe6 13. Nxe6 Qe8 14. Nc7 Qh5
+15. Nxa8 Ne5 16. Nb6 Bd6 17. h3 Bxh3 18. f4 Bf5 19. e4 Bc5+ 20. Rf2 Neg4 21.
+Nd1 Nxe4 22. Nc4 Ngxf2 0-1

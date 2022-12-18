@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Ludowski, A."]
+[Black "Phobedin, E."]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "f6e0c6a1"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 b6 4. e4 Bb4 5. e5 Ne4 6. Qg4 Nxc3 7. bxc3 Bxc3+
+8. Kd1 Kf8 9. Rb1 Nc6 10. Ba3+ Kg8 11. Rb3 Bxd4 12. Qxg7+ Kxg7 13. Rg3+ Kh6
+14. Bc1+ Kh5 15. Be2+ Kh4 16. Rh3# 1-0
+

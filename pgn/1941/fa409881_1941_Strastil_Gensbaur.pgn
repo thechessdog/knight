@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Strastil"]
+[Black "Gensbaur"]
+[Result "0-1"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "fa409881"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 f6 6. exf6 Nxf6 7. Bg2 Bf5 8.
+O-O Qd7 9. a3 O-O-O 10. Nbd2 g5 11. Nxg5 Rg8 12. Ngf3 Bd6 13. Qa4 Nh5 14.
+b4 Bh3 15. b5 Bxg3 16. bxc6 Bxh2+ 17. Nxh2 Rxg2+ 18. Kh1 Rxh2+ 19. Kxh2
+Qd6+ 20. Kxh3 Nf4+ 21. Kh2 Nxe2+ 22. f4 Qh6+ 23. Kg2 Rg8+ 24. Kf2 Nc3 25.
+cxb7+ Kb8 26. Qd1 Qxf4+ 27. Nf3 Qg3# 0-1
+

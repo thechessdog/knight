@@ -1,0 +1,17 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "18"]
+[White "Horowitz, Israel Albert"]
+[Black "Gudju, Ion"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "dbb95b1c"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. h4 h6 8. Ne5
+Bh7 9. Bc4 Nd7 10. Qe2 Ngf6 11. Nxf7 Bb4+ 12. c3 Qa5 13. Qxe6+ Kf8 14. cxb4
+Qxb4+ 15. Bd2 1-0

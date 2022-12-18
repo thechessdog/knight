@@ -1,0 +1,20 @@
+[Event "Bahia Blanca"]
+[Site "Bahia Blanca"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rojas, S."]
+[Black "Cuadrado, A."]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "019cb012"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8.
+Ne2 Be7 9. Ng3 cxd4 10. cxd4 Bb4+ 11. Kf2 f6 12. Nh5 O-O 13. Kg3 fxe5 14.
+fxe5 Rf5 15. Nf4 Nxd4 16. Qxd4 Bc5 17. Qd2 Nxe5 18. Nxe5 Rxe5 19. Qc2 Re1
+20. Nd3 Bd6+ 21. Kf3 Re4 22. Nf2 Re5 23. Bd3 Bd7 24. g3 Rc8 25. Bxh7+ Kh8
+26. Qd3 Bb5 27. Qb3 Rf8+ 28. Bf4 Kxh7 29. Kg2 Re2 30. Rhf1 Rxb2 31. Qe3 Bc5
+32. Qc3 Bxf1+ 33. Rxf1 0-1
+

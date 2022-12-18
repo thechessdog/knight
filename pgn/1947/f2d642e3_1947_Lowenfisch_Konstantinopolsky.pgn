@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Levenfish, Grigory"]
+[Black "Konstantinopolsky, Alexander"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "f2d642e3"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+[WhiteCountry "RUS"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. d4 Bg4 7. Be2 Qc7
+8. c3 Nd7 9. Qa4 e6 10. Bd2 Rg8 11. O-O-O Bf5 12. Rde1 Rg4 13. h3 Re4 14. Qb3
+O-O-O 15. Be3 c5 16. Nd2 cxd4 17. Nxe4 Bxe4 18. Bd2 Nc5 19. Qb4 Nd3+ 20. Bxd3
+Bxb4 21. Rxe4 dxc3 22. Bxc3 Rxd3 23. Rxb4 Rxc3+ 0-1

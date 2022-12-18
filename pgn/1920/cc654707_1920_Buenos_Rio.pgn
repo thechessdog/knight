@@ -1,0 +1,23 @@
+[Event "telegraph"]
+[Site "telegraph"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Buenos Aires"]
+[Black "Rio de Janeiro"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "cc654707"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 O-O 12. Nb3 Nxb3 13. Bxb3 Na5 14.
+Bc2 c5 15. Qd3 g6 16. Bh6 Re8 17. Rad1 Nc4 18. Bc1 f6 19. exf6 Bxf6 20.
+Rfe1 Qd7 21. Nd2 Rad8 22. Qg3 Nxd2 23. Bxd2 Bf5 24. Bd3 d4 25. Rxe8+ Rxe8
+26. cxd4 Bxd3 27. Qxd3 Qxd4 28. Qxd4 Bxd4 29. Be3 Bxe3 30. fxe3 Rxe3 31.
+Kf2 Re4 32. b3 c4 33. Rc1 Kf7 34. bxc4 bxc4 35. Kf3 Rh4 36. g3 Rxh2 37. a4
+Rh5 38. Rxc4 Ra5 39. Rc7+ Kg8 40. Rc4 h5 41. Kg2 Kg7 42. Kh3 Kh6 43. Kh4
+g5+ 44. Kh3 Kg6 45. Rc6+ Kf5 46. Rc8 Ke4 47. Rh8 Rxa4 48. Rxh5 Kf5 49. Rh8
+a5 50. g4+ Ke4 51. Re8+ Kf3 52. Rf8+ Rf4 53. Rf5 1/2-1/2
+

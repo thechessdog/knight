@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "0e37ffa9"]
+[Epoch "Knight"]
+[BlackCountry "IRE"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O O-O 9. h3 Nd7 10. Be3 Ne5 11. Be2 f5 12. f4 Nf7 13. Bf3 fxe4 14. Nxe4 d5
+15. Nc5 Rb8 16. Rb1 Nd6 17. Nd3 Nf5 18. Bxa7 Ra8 19. Bf2 Rxa2 20. Ne5 Bb7 21.
+c4 Qa8 22. Qb3 Nd6 23. Bc5 Qa4 24. Qxa4 Rxa4 25. Rbd1 dxc4 26. Nxc6 Bf6 27. Ne5
+Bxf3 28. Rxf3 Rfa8 29. Bxd6 cxd6 30. Rxd6 Rb8 31. Nd7 Be7 32. Re6 Re8 33. Rfe3
+Kf7 34. f5 Raa8 35. Kf1 Ra1+ 36. Ke2 Ra2 37. Ne5+ Kf8 38. Nxc4 Rc8 39. Kd3 Rd8+
+40. Kc2 Bf6 41. Ra3 Rxa3 42. bxa3 Rb8 43. Nb6 Kf7 44. a4 Bd4 45. a5 g6 46. g4
+gxf5 47. gxf5 Bxb6 48. axb6 Rc8+ 49. Kd3 Rc5 50. Ke4 Rb5 51. Rh6 Kg7 52. Rc6
+Kf7 53. Rc7+ Kf6 54. Rxh7 Rb4+ 55. Kd5 Kxf5 56. Kc5 Rb1 57. Re7 1-0

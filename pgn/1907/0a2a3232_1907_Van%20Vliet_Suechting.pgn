@@ -1,0 +1,17 @@
+[Event "Ostende II"]
+[Site "Ostende II"]
+[Date "1907.01.01"]
+[Round "7"]
+[White "Van Vliet, Louis"]
+[Black "Suechting, Hugo"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[HashCode "0a2a3232"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 Nf6 5. O-O O-O 6. d4 d6 7. h3 Nd7 8. Be3
+Kh8 9. Nd5 Nb6 10. Bb3 f5 11. Nxe7 Qxe7 12. dxe5 Nxe5 13. Ng5 Nbc4 14. Qh5 h6
+15. Bc1 f4 16. Nf3 Nxf3+ 17. Qxf3 Ne5 18. Qh5 Kh7 19. Qe2 f3 20. Qd1 Qh4 0-1

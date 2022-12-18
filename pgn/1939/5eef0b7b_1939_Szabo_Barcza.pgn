@@ -1,0 +1,23 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Barcza, Gedeon"]
+[Result "1-0"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Levenfish variation"]
+[HashCode "5eef0b7b"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteID "710741"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 b6 8. e5
+Be6 9. exf6 Bxc4 10. fxg7 Kxg7 11. Bxc4 c6 12. O-O a5 13. Re1 h6 14. Bf4 b5 15.
+Bf1 Nd7 16. d5 b4 17. dxc6 bxc3 18. cxd7 cxb2 19. Be5+ Kh7 20. Bxb2 Qxd7 21. a4
+Rfb8 22. Bb5 Rxb5 23. axb5 Qxb5 24. Ba3 e6 25. Rab1 Qd3 26. Bc5 Qd5 27. Bd4 a4
+28. Ba1 h5 29. Ne5 Ra7 30. Red1 Qe4 31. Nf3 Qf5 32. Rb8 f6 33. h4 e5 34. Bxe5
+fxe5 35. Ng5+ Kg7 36. Rdd8 Rf7 37. Rg8+ Kf6 38. Rb6+ Ke7 39. Rb7+ Kd6 40. Rxf7
+Qb1+ 41. Kh2 a3 42. Ra7 Qb4 43. Rxg6+ Kd5 44. Nh3 1-0

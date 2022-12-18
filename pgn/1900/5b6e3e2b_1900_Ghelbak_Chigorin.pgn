@@ -1,0 +1,16 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Ghelbak"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "5b6e3e2b"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2
+Qxe2+ 8. Kxe2 Bg4 9. d3 Ne7 10. Be3 Nd5 0-1

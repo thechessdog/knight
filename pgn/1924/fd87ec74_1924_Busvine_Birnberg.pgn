@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Busvine"]
+[Black "Birnberg"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "fd87ec74"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8.
+Nf1 b5 9. Bc2 Nh5 10. Nxe5 Nxe5 11. Qxh5 Bg4 0-1
+

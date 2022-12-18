@@ -1,0 +1,16 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Cohn, Erich"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "d331999c"]
+[Epoch "Knight"]
+[BlackCountry "POL"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Nf3 c5 3. c4 dxc4 4. dxc5 Qxd1+ 5. Kxd1 Nc6 6. e3 Bg4 7. Bxc4 e6 8.
+a3 Bxc5 9. b4 Bd6 10. Bb2 Nf6 0-1

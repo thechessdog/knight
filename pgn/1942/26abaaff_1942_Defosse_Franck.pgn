@@ -1,0 +1,17 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Defosse"]
+[Black "Franck"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "26abaaff"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. e3 Ne4 7. Bd3 f5 8.
+a3 Bxc3+ 9. bxc3 O-O 10. O-O Rf6 11. Nd2 Rh6 12. g3 Qh4 13. Nf3 Ng5 14.
+gxh4 Nxf3+ 15. Kg2 Ne1+ 16. Kg3 Rg6+ 17. Kf4 Rg4+ 18. Ke5 Nc6# 0-1
+

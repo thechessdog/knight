@@ -1,0 +1,20 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Asztalos, Lajos"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "97c26358"]
+[Epoch "Knight"]
+[WhiteCountry "CHE"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Qe2 c5 11. Rd1 Qb6 12. Ne5 Nxe5 13. dxe5 Nd7 14. f4 Be7 15.
+Bd2 a5 16. Nc1 Rd8 17. Be1 O-O 18. Nb3 Nb8 19. e4 Rxd1 20. Rxd1 Rd8 21. Rxd8+
+Qxd8 22. Bf2 Qc7 23. f5 exf5 24. exf5 Qc6 25. Bg3 Qe4 26. Nxa5 Qb1+ 27. Qf1
+Qxf1+ 28. Kxf1 Ba6 29. Bxa6 Nxa6 30. Ke2 1-0

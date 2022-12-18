@@ -1,0 +1,19 @@
+[Event "Frederiksberg"]
+[Site "Frederiksberg"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Rasmussen, Viggo"]
+[Black "Jensen, Jacob"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[HashCode "1e3d961c"]
+[Epoch "Knight"]
+[BlackID "1703404"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 c5 5. e3 Nc6 6. a3 b6 7. Ne5 Nxe5 8. dxe5
+Ne4 9. Ne2 f6 10. f3 Ng5 11. exf6 gxf6 12. cxd5 exd5 13. Nf4 Bb7 14. Bb5+ Kf7
+15. e4 a6 16. Be2 d4 17. Qb3+ Ke8 18. h4 Nf7 19. Qe6+ Be7 20. Bc4 Ne5 21. Nh5
+Kf8 22. Bh6+ 1-0

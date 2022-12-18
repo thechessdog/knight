@@ -1,0 +1,24 @@
+[Event "Zurich"]
+[Site "Zurich"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Johner, Hans"]
+[Black "Grob, Henri"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "67bf30e3"]
+[Epoch "Knight"]
+[BlackCountry "SWI"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 d6 8. c3
+Bg4 9. Be3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. h3 Bxf3 13. Qxf3 Qc7 14. Bd3 c4 15.
+Bc2 Rfb8 16. a3 Nc6 17. d5 Nd8 18. Qe2 Nd7 19. f4 f6 20. Nf3 Nf8 21. fxe5 dxe5
+22. Kh1 Nf7 23. Nh4 Nd6 24. g4 g6 25. Nf3 Qc8 26. Qh2 g5 27. Bxg5 fxg5 28. Nxe5
+Qe8 29. Nc6 Rb6 30. Nxe7+ Qxe7 31. e5 Nf7 32. Rae1 Re8 33. e6 Nxe6 34. dxe6
+Rxe6 35. Rxe6 Qxe6 36. Bf5 Qd5+ 37. Qg2 Qxg2+ 38. Kxg2 Nd6 39. Bd7 Re3 40. Bc6
+Kg7 41. Rd1 Nf7 42. Rd7 Kf6 43. Bd5 Ne5 44. Rd6+ Ke7 45. Rxa6 Nd3 46. Bc6 Re2+
+47. Kf3 Rxb2 48. Ke3 Nf4 49. a4 Re2+ 50. Kf3 bxa4 51. Rxa4 Rh2 52. Rxc4 Rxh3+
+53. Ke4 Kf6 54. Bb5 Ne6 55. Rc6 Ke7 56. Kf5 Rf3+ 57. Ke5 Re3+ 58. Kf5 1/2-1/2

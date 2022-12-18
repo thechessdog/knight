@@ -1,0 +1,19 @@
+[Event "Moscow-Leningrad"]
+[Site "Moscow-Leningrad"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Ravinsky, Grigory Ionovich"]
+[Black "Noskov"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Stonewall variation"]
+[HashCode "ed0496c5"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 Ne4 6. Nbd2 f5 7. Ne5 Qh4 8. O-O
+Bd6 9. Bxe4 fxe4 10. f3 Nd7 11. fxe4 Nxe5 12. dxe5 Bxe5 13. Nf3 Qxe4 14. Nxe5
+Qxe5 15. Qf3 Bd7 16. Qf7+ Kd8 17. e4 Qd4+ 18. Kh1 Kc7 19. Bf4+ e5 20. Rad1 Qxe4
+21. Rde1 Raf8 22. Bxe5+ Qxe5 23. Rxe5 Rxf7 24. Rxf7 Kd6 25. Ree7 Be6 26. c5+
+Kxc5 27. Rxe6 Rd8 28. Kg1 Kc4 29. Kf2 Kd3 30. Rf3+ Kc4 31. Re7 b5 32. Rc3+ 1-0

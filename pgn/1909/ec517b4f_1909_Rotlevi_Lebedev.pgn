@@ -1,0 +1,15 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Rotlewi, Gersz"]
+[Black "Lebedev"]
+[Result "0-1"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "ec517b4f"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Bd6 5. Nc3 Nd7 6. Bd3 f5 7. O-O Nh6 8. Qe2
+O-O 9. b3 Qf6 10. Bb2 g5 11. Nd2 Rf7 12. f3 g4 13. e4 Bxh2+ 14. Kh1 Bg3 0-1

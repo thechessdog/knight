@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Mueller, O."]
+[Black "Gunston, William"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "ba6580ae"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. e3 O-O 6. Bd3 b6 7. O-O Bb7 8.
+cxd5 exd5 9. b3 Nbd7 10. Bb2 Ne4 11. Rc1 Rc8 12. Qe2 f5 13. Ba6 Bxa6 14.
+Qxa6 Nxc3 15. Rxc3 c6 16. Qxa7 Ra8 17. Qb7 Rxa2 18. Rxc6 Nb8 19. Rc7 Bf6
+20. Bc3 Re8 21. Bb4 Na6 22. Rd7 Qa8 23. Qxb6 Nxb4 24. Qxb4 Qc6 25. Qd6 Qc2
+26. Qxd5+ Kh8 27. Ne5 h5 28. Qf7 Rea8 29. Qxh5+ Kg8 30. Ng6 1-0
+

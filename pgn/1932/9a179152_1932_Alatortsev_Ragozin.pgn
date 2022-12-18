@@ -1,0 +1,19 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Ragozin, Viacheslav"]
+[Result "1-0"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "9a179152"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Nc6 5. Nf3 O-O 6. Bg5 h6 7. Bd2 d5 8. e3
+Re8 9. O-O-O Bf8 10. Rg1 Bd7 11. g4 Ne4 12. Nxe4 dxe4 13. Ne1 a5 14. a3 Nb4 15.
+Kb1 c5 16. Be2 Qc7 17. g5 h5 18. g6 f5 19. Rc1 Be7 20. Ng2 Bf6 21. Nf4 h4 22.
+Nh5 Be7 23. Bc3 cxd4 24. exd4 Nd3 25. Bxd3 exd3 26. d5 Bf8 27. Qd1 1-0

@@ -1,0 +1,19 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Ragozin, Viacheslav"]
+[Black "Krylenko"]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "9ff9c23e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 Be6 7. e3 d3 8. Qb3
+b5 9. Bxd3 Rb8 10. Be4 Nge7 11. Qc2 Bxc4 12. O-O-O Bxd2+ 13. Rxd2 Nb4 14. Qd1
+Qc8 15. Bg5 Nxa2+ 16. Kb1 Qe6 17. Bxe7 Qxe7 18. Bc6+ Kf8 19. Rd7 Qe6 20. Rxc7
+Nb4 21. Qd6+ Qxd6 22. exd6 Nxc6 23. Rxc6 g6 24. Ne5 Be6 25. Rc7 Rd8 26. Rd1 f6
+27. Nc6 Rd7 28. Nb8 Rxc7 29. dxc7 Kf7 30. Rd8 Re8 31. Nd7 1-0

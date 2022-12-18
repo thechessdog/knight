@@ -1,0 +1,17 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Troianovschi"]
+[Black "Samarian, Sergiu"]
+[Result "0-1"]
+[ECO "B62"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Richter attack"]
+[HashCode "a49224a9"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Nxc6 bxc6
+8. e5 dxe5 9. Qf3 Be7 10. Qxc6+ Bd7 11. Qf3 e4 12. Nxe4 Nxe4 13. Bxe7 Qa5+
+14. b4 Qe5 0-1
+

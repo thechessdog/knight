@@ -1,0 +1,17 @@
+[Event "Warsaw olm"]
+[Site "Warsaw olm"]
+[Date "1935.01.01"]
+[Round "5"]
+[White "Book, Eero"]
+[Black "Andersen, Erik Sr"]
+[Result "1-0"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[HashCode "c7399f4b"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 f5 6. d4 fxe4 7. Nxe5 dxe5 8.
+Qh5+ Ke7 9. Bxc6 Qxd4 10. Qe8+ Kd6 11. Be3 Qxc4 12. Nc3 Bg4 13. Rd1+ 1-0

@@ -1,0 +1,20 @@
+[Event "Swinemunde"]
+[Site "Swinemunde"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Wagner, Heinrich"]
+[Result "1/2-1/2"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "859d6d3b"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 c6 5. e3 Nbd7 6. Nge2 Qb6 7. Rb1 e6 8. Ng3
+Bg6 9. Bd3 Bd6 10. f4 Bxd3 11. Qxd3 h6 12. Bxf6 Nxf6 13. O-O O-O 14. e4 dxe4
+15. Ncxe4 Nxe4 16. Nxe4 Rad8 17. Kh1 c5 18. dxc5 Bxc5 19. Qf3 Rd5 20. c4 Rd4
+21. b3 Be7 22. Rbd1 Rxd1 23. Rxd1 Rd8 24. Rxd8+ Qxd8 25. h3 Qd4 26. Kh2 Bf8 27.
+Kh1 Be7 28. Kh2 Bf8 29. Kh1 Be7 30. Kh2 Bf8 1/2-1/2

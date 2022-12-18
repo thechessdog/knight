@@ -1,0 +1,20 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Bolland"]
+[Black "Sandifort"]
+[Result "0-1"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[HashCode "15c9585b"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 c5 6. O-O Be7 7. Qe2 d5 8.
+Rd1 O-O 9. Nc3 Qc7 10. b3 Nbd7 11. Bb2 Ne4 12. Rac1 Rac8 13. cxd5 exd5 14.
+Bb1 Nxc3 15. Bxc3 c4 16. bxc4 dxc4 17. e4 b5 18. e5 Bd5 19. Bd2 Qc6 20. Ne1
+b4 21. Qg4 Rfe8 22. Nd3 c3 23. Nf4 Be4 24. Bxe4 Qxe4 25. Qxd7 cxd2 26. Qxc8
+Rxc8 27. Rxc8+ Bf8 28. Kf1 Qxf4 29. Rc4 a5 30. g3 Qe4 31. Rxd2 a4 32. Rc8
+b3 33. axb3 a3 34. d5 a2 0-1
+

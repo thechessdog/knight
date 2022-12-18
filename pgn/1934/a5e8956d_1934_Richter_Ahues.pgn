@@ -1,0 +1,20 @@
+[Event "Bad Niendorf"]
+[Site "Bad Niendorf"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Ahues, Carl Oscar"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[HashCode "a5e8956d"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nc3 Bf5 3. f3 e5 4. dxe5 d4 5. e4 Be6 6. Nce2 Nc6 7. f4 Bg4 8. Nf3
+Bxf3 9. gxf3 Qh4+ 10. Ng3 g5 11. fxg5 Nxe5 12. f4 Bb4+ 13. Kf2 Ng4+ 14. Kg2
+O-O-O 15. Bd3 h6 16. h3 Ne3+ 17. Bxe3 dxe3 18. Qg4+ Qxg4 19. hxg4 Ne7 20. Rxh6
+Ng6 21. Kf3 Bc5 22. Rah1 Rhf8 23. Nf5 1-0

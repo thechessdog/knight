@@ -1,0 +1,26 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Szigeti, Miklos"]
+[Black "Havasi, Kornel"]
+[Result "1-0"]
+[ECO "D66"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Bd3 line"]
+[HashCode "f8065872"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Rc1 c6 8. Bd3
+Re8 9. O-O b6 10. cxd5 exd5 11. Qc2 h6 12. Bf4 Bb7 13. h3 a6 14. Rfd1 c5 15.
+dxc5 Nxc5 16. Bf5 Bd6 17. Bxd6 Qxd6 18. b4 Ne6 19. Qb3 Ng5 20. Nxg5 hxg5 21.
+Ne2 g6 22. Bd3 g4 23. h4 g3 24. Nxg3 Rxe3 25. Nf5 gxf5 26. fxe3 Ng4 27. Bxf5
+Qh2+ 28. Kf1 Qh1+ 29. Ke2 Qxg2+ 30. Kd3 Nf2+ 31. Kc3 Nxd1+ 32. Qxd1 Re8 33. Qg1
+Qg7+ 34. Kd3 Re5 35. Bc8 Bxc8 36. Rxc8+ Kh7 37. Qxg7+ Kxg7 38. Rc6 Re4 39. Rxb6
+Rxh4 40. a3 a5 41. bxa5 Ra4 42. Rb5 Kf6 43. Rxd5 Rxa3+ 44. Ke4 Ra4+ 45. Kf3 Kg7
+46. Rc5 Kh7 47. e4 Kg7 48. Kf4 Kf6 49. Rc6+ Ke7 50. a6 Ra5 51. Rb6 Kf8 52. Ke3
+Ra4 53. Kd3 Kg7 54. e5 Ra5 55. Kd4 Kh7 56. Ke4 Kg7 57. Kf5 Ra4 58. Rc6 Ra1 59.
+Ke4 Ra5 60. Kd4 Kh7 61. Kc4 Rxe5 62. Kb4 Re1 63. Kc5 Kg7 64. a7 Ra1 65. Kb6 f6
+66. Kb7 1-0

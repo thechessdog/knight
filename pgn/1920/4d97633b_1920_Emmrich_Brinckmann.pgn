@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Emmerich, K"]
+[Black "Brinckmann, Alfred"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "4d97633b"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 d6 2. d4 Nd7 3. Nf3 e5 4. Bc4 c6 5. a4 Be7 6. Nc3 h6 7. O-O Ngf6 8. dxe5
+dxe5 9. Qe2 Qc7 10. Be3 Nf8 11. Nd2 g5 12. Rfd1 Ng6 13. Nf1 Nf4 14. Qe1 Bg4 15.
+Rd2 Qc8 16. f3 Bd7 17. Qf2 b6 18. Bb3 Bh3 19. g3 Ng2 20. a5 Nxe3 21. Nxe3 Bb4
+22. Nc4 O-O 23. axb6 axb6 24. Rxa8 Qxa8 25. Nxb6 Qa1+ 26. Rd1 Bxc3 27. Rxa1 Bd4
+28. Qxd4 exd4 29. Ra7 Rb8 30. Rxf7 Nd5 31. Ra7 Rxb6 32. exd5 c5 33. d6+ Kf8 34.
+Ra8+ Kg7 35. d7 Bxd7 36. Ra7 Rd6 37. Ba4 1-0

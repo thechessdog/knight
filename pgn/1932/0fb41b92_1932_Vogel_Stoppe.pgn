@@ -1,0 +1,17 @@
+[Event "Bad Schandau"]
+[Site "Bad Schandau"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Vogel"]
+[Black "Stoppe"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "0fb41b92"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 Be7 7. O-O
+O-O 8. b3 d5 9. Nd2 Re8 10. Bb2 Bd6 11. f3 Nh5 12. e5 Bc5+ 13. Kh1 Ng3+ 14.
+hxg3 Qg5 15. Rf2 Bxf2 16. Nf1 Re6 0-1
+

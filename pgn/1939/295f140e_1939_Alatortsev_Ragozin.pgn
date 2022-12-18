@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Alatortsev, Vladimir Alexeyevich"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "295f140e"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxc4 6. Qa4+ Bd7 7. Qxc4 Bc6
+8. Qd3 Ne7 9. Nf3 Nd7 10. a4 O-O 11. e4 h6 12. Be2 f5 13. exf5 exf5 14. O-O Be4
+15. Qd1 c5 16. Bc4+ Bd5 17. Bxd5+ Nxd5 18. Qb3 c4 19. Qxc4 Qa5 20. Qb3 0-1

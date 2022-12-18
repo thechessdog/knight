@@ -1,0 +1,17 @@
+[Event "ch-URS, semi final "]
+[Site "Leningrad "]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Mazel, Isaak"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[HashCode "1a29edc7"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. f4 Nc6 5. Nf3 d5 6. e5 Ng4 7. cxd5 exd5 8. Qb3
+Nb4 9. a3 c4 10. Qa4+ Bd7 11. Qd1 Qb6 0-1

@@ -1,0 +1,18 @@
+[Event "Nakskov"]
+[Site "Nakskov"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Nielsen, Bjorn"]
+[Black "Pedersen, Johannes Vestergaard"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "8ef69a20"]
+[Epoch "Knight"]
+[WhiteID "1416839"]
+[WhiteCountry "DEN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Be7 6. Nf3 O-O 7. Ne5 Nbd7 8.
+Be3 c6 9. O-O Nxe4 10. Bxe4 Nf6 11. Bd3 h6 12. Qf3 Bd6 13. Rad1 Qe7 14. Rfe1
+Bd7 15. Qh3 Rfd8 16. Bxh6 c5 17. Bg5 cxd4 18. Ng4 1-0

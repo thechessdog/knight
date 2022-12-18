@@ -1,0 +1,27 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Podgorny, Jiri"]
+[Black "Dietze, Max"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "3c0ffb49"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. Bc4 Be7 5. d3 Nf6 6. Be3 O-O 7. Qe2 Be6 8. O-O
+Bxc4 9. dxc4 Ng4 10. Bd2 Qd7 11. h3 Nf6 12. Be3 Ne8 13. g4 g6 14. Bh6 Ng7 15.
+Kh2 Kh8 16. Rg1 Rg8 17. Rg3 Ne6 18. Be3 Raf8 19. Rag1 Bf6 20. Nd5 Bg7 21. c3
+Ne7 22. Nh4 Nxd5 23. cxd5 Nf4 24. Qc2 Bf6 25. Nf3 g5 26. c4 b6 27. Ne1 c5 28.
+dxc6 Qxc6 29. Bc1 Rc8 30. Rc3 Rc7 31. Ng2 Rgc8 32. Ne3 Qd7 33. Rd1 Qe6 34. Nd5
+Nxd5 35. Rxd5 Rc5 36. Be3 R5c6 37. Qd3 Kg7 38. Bc1 Be7 39. b3 Rc5 40. a4 Rxd5
+41. cxd5 Qd7 42. Qc2 Rxc3 43. Qxc3 Kf8 44. Qc4 Ke8 45. Be3 Kd8 46. a5 b5 47.
+Qc1 h6 48. a6 Ke8 49. Qc6 Qxc6 50. dxc6 Kd8 51. Bxa7 Kc7 52. Kg2 Kxc6 53. Bb8
+Kb6 54. a7 Kb7 55. Kf1 f6 56. Ke2 Ka8 57. f3 Kb7 58. Kd3 Ka8 59. Kc3 Kb7 60.
+Kb4 d5+ 61. Kxb5 d4 62. Kc4 Ka8 63. Bc7 Kxa7 64. Ba5 Ka6 65. Be1 Kb6 66. h4 Bf8
+67. h5 Be7 68. Bd2 Bf8 69. Kd5 Kb5 70. Ke6 Bb4 71. Bc1 d3 72. Kxf6 Ba3 73. Bd2
+Bb4 74. Kxe5 Bxd2 75. Kd4 Bf4 76. Kxd3 Be5 77. Kd2 Kb4 78. Kc2 Ka3 79. Kd2 Kxb3
+80. Kd3 Kb4 81. Ke2 Kc4 82. Kd2 Kd4 83. Ke2 Bf4 84. Kf2 Kd3 85. Kg2 Ke2 86. e5
+Bxe5 87. Kh3 Ke3 88. Kg2 Kf4 89. Kf2 Bd4+ 90. Ke2 Ba7 0-1

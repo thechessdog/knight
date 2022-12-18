@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Blumenfeld, Rudy"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "b4066bb8"]
+[Epoch "Knight"]
+[BlackID "2000938"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. d3 O-O 10. Nbd2 Na5 11. Bc2 c5 12. h3 Be6 13. d4 cxd4 14. cxd4 Qc7 15.
+Nf1 Rfc8 16. Bd3 Bc4 17. Bxc4 bxc4 18. Bd2 Nc6 19. Bc3 exd4 20. Nxd4 Ne5 21.
+Nf5 Rab8 22. N1e3 Bf8 23. f4 Ned7 24. Nd5 Nxd5 25. Nh6+ Kh8 26. Nxf7+ Kg8 27.
+Nh6+ Kh8 28. exd5 Nf6 29. Ng4 Nxg4 30. Qxg4 Qf7 31. f5 Be7 32. Re6 Bf6 33. Bxf6
+gxf6 34. Qd4 Qg7 35. Rae1 1-0

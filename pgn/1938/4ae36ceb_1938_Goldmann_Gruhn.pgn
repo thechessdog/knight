@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Goldmann"]
+[Black "Gruhn"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "4ae36ceb"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 c6 6. Nf3 Bg4 7. Qb3 Qb6 8.
+Ne5 Qxd4 9. Nxf7 Kxf7 10. Qxb7+ Nbd7 11. Be3 Re8 12. Be2 Rxe3 13. fxe3 Qxe3
+14. Rf1 d4 15. Rd1 dxc3 16. Rxd7+ Kg6 0-1
+

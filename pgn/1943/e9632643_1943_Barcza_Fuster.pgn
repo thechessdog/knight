@@ -1,0 +1,24 @@
+[Event "Diosgyor"]
+[Site "Diosgyor"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Barcza, Gedeon"]
+[Black "Füster, Géza"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "e9632643"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 dxc4 6. Bxc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Qe2 Nbd7 10. Bf4 Nb6 11. Bd3 Nbd5 12. Bg3 Bd7 13. Rac1 Rc8 14. Ne5
+Bc6 15. Bb1 Qa5 16. Nxc6 Rxc6 17. Qb5 Qb6 18. Qxb6 Rxb6 19. b3 Nxc3 20. Rxc3
+Nd5 21. Rc4 Bd6 22. Be4 Bxg3 23. hxg3 Rd6 24. Bxd5 Rxd5 25. Rc7 Rb8 26. Rfc1
+Kf8 27. R1c4 a6 28. Kf1 Ke8 29. Ke2 Rd7 30. Rxd7 Kxd7 31. Kd3 Rc8 32. Rxc8 Kxc8
+33. d5 exd5 34. Kd4 Kc7 35. Kxd5 Kd7 36. g4 Kc7 37. g5 Kd7 38. f4 Kc7 39. a3
+Kd7 40. f5 Kc7 41. g6 fxg6 42. fxg6 hxg6 43. Ke6 g5 44. g4 Kc6 45. Kf5 Kd6 46.
+Kxg5 Ke5 47. b4 b6 48. Kg6 Kf4 49. Kxg7 Kxg4 50. Kf6 Kf4 51. Ke6 a5 52. Kd6 Ke4
+53. Kc6 axb4 54. axb4 b5 55. Kxb5 Kd5 56. Ka6 Kc6 57. b5+ Kc7 58. Ka7 1-0

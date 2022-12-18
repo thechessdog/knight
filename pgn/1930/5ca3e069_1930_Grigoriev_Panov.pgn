@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Grigoriev"]
+[Black "Panov"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "5ca3e069"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. d4 exd4 6. Qxd4 d6 7. O-O Ne7
+8. b4 Ng6 9. Bg5 f6 10. Be3 Be7 11. Nbd2 Qd7 12. Qc3 a5 13. a3 O-O 14. Nd4
+Ra6 15. N2b3 axb4 16. axb4 Rxa1 17. Rxa1 d5 18. Nxc6 dxe4 19. Qc4+ Kh8 20.
+Nxe7 Nxe7 21. Nc5 Qd5 22. Qxe4 Bb7 23. Qxd5 Bxd5 24. Ra7 Nc6 25. Rxc7 Ra8
+26. h4 Nxb4 27. c3 Nc2 28. Nd3 Bg8 29. h5 h6 30. Nf4 Re8 31. Ng6+ Kh7 32.
+Bc5 1-0
+

@@ -1,0 +1,18 @@
+[Event "Cordoba tt"]
+[Site "Cordoba tt"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Neira, R."]
+[Black "Vinuesa"]
+[Result "0-1"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[HashCode "2b6f241a"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O e5 8.
+Qc2 c6 9. Rd1 Re8 10. dxe5 dxe5 11. e4 Qc7 12. Bg5 Nc5 13. Nd2 Ne6 14. Be3
+Nd4 15. Qc1 Ng4 16. Nf1 Qa5 17. Bd3 Nxe3 18. Nxe3 Bh6 19. Rb1 Bg4 20. b4
+Qd8 21. Re1 Qh4 22. Bf1 Bf4 23. h3 Bxh3 24. gxh3 Nf3+ 25. Kh1 Qxf2 26. Bg2
+Nxe1 0-1
+

@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Vecsey, Zoltan"]
+[Black "Hermann, Manfred"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Scandinavian variation"]
+[HashCode "f71cf5ea"]
+[Epoch "Knight"]
+[BlackID "4600584"]
+[BlackCountry "GER"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Bc4 e6 5. Qf3 Nb4 6. Bb3 N8c6 7. Nge2 Na5
+8. Ne4 Nxb3 9. Qxb3 Qd5 0-1

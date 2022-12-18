@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Exner, G."]
+[Black "Pesi"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Krause variation"]
+[HashCode "4aae12a1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. c3 d5 8.
+exd6 Qxd6 9. Re1+ Be6 10. Qb3 Kd7 11. Bxe6+ fxe6 12. h3 Nge5 13. cxd4 Nxf3+
+14. Qxf3 Nxd4 15. Qg4 Raf8 16. Nc3 Rxf2 17. Be3 Rf4 18. Qxg7+ Kc6 19. Qxh8
+Rf8 20. Qxh7 Nf3+ 21. Kf2 Qd2+ 0-1
+

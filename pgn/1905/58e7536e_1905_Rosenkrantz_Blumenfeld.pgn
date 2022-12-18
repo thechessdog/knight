@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Rosenkrantz, Karl Wilhelm"]
+[Black "Blumenfeld, Benjamin"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "58e7536e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e5 3. Nc3 dxc4 4. dxe5 Qxd1+ 5. Kxd1 Be6 6. e4 Nc6 7. f4 O-O-O+
+8. Bd2 Bc5 9. f5 Bd7 10. Nf3 Nh6 11. Bxc4 Ng4 12. Bxf7 Ncxe5 13. Nxe5 Nxe5 14.
+Bd5 g6 15. f6 Ng4 16. f7 c6 17. Bb3 Be3 18. Bxe3 Nxe3+ 19. Ke2 Nxg2 20. Kf3
+Nh4+ 21. Kg3 g5 22. Rhf1 Ng6 23. Rad1 h5 24. Rf6 Ne5 25. h3 Rdf8 26. Ne2 h4+
+27. Kg2 g4 28. Nf4 gxh3+ 29. Nxh3 Rh7 30. Rdf1 Rg7+ 31. Kh2 Ng4+ 32. Kh1 Nxf6
+33. Rxf6 Bxh3 34. e5 Kd8 0-1

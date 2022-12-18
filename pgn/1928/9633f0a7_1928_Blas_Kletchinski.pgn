@@ -1,0 +1,18 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Blas"]
+[Black "Kletchinski"]
+[Result "1-0"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[HashCode "9633f0a7"]
+[Epoch "Knight"]
+
+1. Nf3 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 O-O 6. Nc3 c6 7. O-O d6 8.
+Qc2 Qe8 9. b3 Nbd7 10. Bb2 e5 11. dxe5 Nxe5 12. Rad1 Nf7 13. Rfe1 Ng4 14.
+e4 Qd8 15. c5 fxe4 16. Nxe4 d5 17. Bxg7 Kxg7 18. Qc3+ Nf6 19. h3 Bf5 20.
+Nd4 Bd7 21. Nxf6 Qxf6 22. Re6 1-0
+

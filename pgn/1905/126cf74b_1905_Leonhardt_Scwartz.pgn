@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Scwartz"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "126cf74b"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Be7 4. f4 exf4 5. e5 Ng8 6. Nc3 d6 7. Bxf4 dxe5 8.
+Qh5 g6 9. Qxe5 Nf6 10. Nd5 Nbd7 11. Nxc7+ Kf8 12. Bh6+ Kg8 13. Bxf7+ Kxf7 14.
+Qe6# 1-0

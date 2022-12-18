@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Vidmar, Milan Sr"]
+[Black "Goldsand"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Thorold variation"]
+[HashCode "19c23e22"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 d5 8. Bxf4
+Nf6 9. Nc3 Bb4 10. Bd3 Bxc3+ 11. bxc3 Nxe4 12. O-O Kg6 13. Qe2 Bf5 14. Be5 Rf8
+15. Rxf5 Rxf5 16. Qxg4+ Kf7 17. Qxf5+ Nf6 18. Qg6+ 1-0

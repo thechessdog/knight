@@ -1,0 +1,17 @@
+[Event "New York m"]
+[Site "New York m"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Bernstein, Jacob"]
+[Black "Kupchik, Abraham"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "980858b3"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 dxc4 5. e3 a6 6. Bxc4 b5 7. Bd3 c5 8. a4 b4
+9. Ne4 Bb7 10. Nxf6+ Qxf6 11. e4 cxd4 12. Bg5 Qg6 13. e5 Qh5 14. Be2 Bc5 15.
+Qc1 Nd7 16. Nh4 1-0

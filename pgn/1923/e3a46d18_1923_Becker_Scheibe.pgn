@@ -1,0 +1,17 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Becker, Albert"]
+[Black "Scheibe"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "e3a46d18"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. e3 e6 3. Bd3 c5 4. c3 Nf6 5. Nd2 Nc6 6. f4 Bd6 7. Nh3 Bd7 8. O-O
+Ne7 9. e4 Nxe4 10. Nxe4 dxe4 11. Bxe4 Qc7 12. Be3 Rd8 13. Qh5 Nf5 14. Bxf5 exf5
+15. Rae1 O-O 16. Ng5 h6 17. Rf3 Bc6 18. Rf2 hxg5 19. fxg5 g6 20. Qh4 Rfe8 21.
+g3 Re4 22. Qh3 Qe7 0-1

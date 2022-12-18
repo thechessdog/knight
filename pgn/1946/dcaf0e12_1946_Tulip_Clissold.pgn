@@ -1,0 +1,15 @@
+[Event "England"]
+[Site "England"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Tulip"]
+[Black "Clissold, Benjamin"]
+[Result "1-0"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[HashCode "dcaf0e12"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 d6 4. O-O Nf6 5. d3 Bg4 6. h3 Bh5 7. g4 Nxg4 8.
+hxg4 Bxg4 9. Bxf7+ Kd7 10. Bd5 Ne5 11. Nxe5+ dxe5 12. Qxg4+ 1-0
+

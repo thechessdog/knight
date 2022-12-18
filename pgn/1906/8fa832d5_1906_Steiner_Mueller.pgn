@@ -1,0 +1,16 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1906.??.??"]
+[Round "4"]
+[White "Steiner, Bernat"]
+[Black "Mueller, Nandor"]
+[Result "0-1"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, symmetrical variation"]
+[HashCode "8fa832d5"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. dxc5
+Bxc5 9. Qe2 dxc4 10. Bxc4 a6 11. Rd1 Qc7 12. e4 b5 13. Bb3 Ng4 14. Qf1 Nd4 0-1

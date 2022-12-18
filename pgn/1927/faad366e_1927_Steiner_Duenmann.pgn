@@ -1,0 +1,20 @@
+[Event "Trebitsch mem11"]
+[Site "Vienna"]
+[Date "1927.04.02"]
+[Round "7"]
+[White "Steiner, Lajos"]
+[Black "Duenmann, Arthur"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "faad366e"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Be6 7. Bd3 Bd6
+8. O-O O-O 9. Nh4 g6 10. Bh6 Re8 11. Qd2 Nd7 12. c4 f5 13. Bg5 Be7 14. Bxe7
+Qxe7 15. Nf3 Nf6 16. Rfe1 Qd6 17. Qc3 Nh5 18. Rad1 Rad8 19. Qa5 Nf4 20. Bf1 a6
+21. Qb6 Bc8 22. d5 Rxe1 23. Rxe1 Qf6 24. Qc7 g5 25. Re7 Rf8 26. d6 Ne6 27. Qa5
+c5 28. Qc3 Qxc3 29. bxc3 Rd8 30. Ne5 Nf8 31. Nxf7 Rd7 32. Nh6+ Kh8 33. Re8 Rxd6
+34. Nf7+ 1-0

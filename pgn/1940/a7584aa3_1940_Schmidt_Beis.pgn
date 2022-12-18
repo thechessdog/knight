@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Schmidt, Wlodzimierz"]
+[Black "Beis, R."]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "a7584aa3"]
+[Epoch "Knight"]
+[WhiteID "1100041"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Nc6 5. Bb5 Nf6 6. Nxc6 bxc6 7. Bxc6+ Bd7
+8. Bxa8 Bg4 9. Bc6+ Ke7 0-1

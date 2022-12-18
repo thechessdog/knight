@@ -1,0 +1,21 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Weissgerber, Gerhard"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "331194cd"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Bd3 Nge7 6. Be2 Ng6 7. h4 Be7 8. h5
+Nf8 9. Be3 h6 10. c3 Nd7 11. Nbd2 O-O 12. g4 Bh7 13. Nf1 f6 14. exf6 Bxf6 15.
+Bd3 Bxd3 16. Qxd3 e5 17. g5 Bxg5 18. Nxg5 hxg5 19. h6 e4 20. Qb5 Nb6 21. hxg7
+Kxg7 22. Rh5 a6 23. Qe2 Rf3 24. Rxg5+ Kf7 25. Nh2 Qf6 26. Nxf3 Qxf3 27. Qxf3+
+exf3 28. O-O-O Nc4 29. Rf5+ Ke6 30. Rxf3 Nxe3 31. fxe3 1-0

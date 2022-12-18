@@ -1,0 +1,19 @@
+[Event "corr Toronto-Chicago"]
+[Site "corr Toronto-Chicago"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Saunders, E."]
+[Black "Wheeler, C."]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "f2760556"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8.
+O-O Bxe5 9. Re1 Qe7 10. c3 g3 11. d4 Ng4 12. Nd2 Qxh4 13. Nf3 Qh6 14. Qa4+
+Bd7 15. Qb4 Nc6 16. dxc6 Bxc6 17. Bb5 O-O-O 18. Bxc6 Bxd4+ 19. cxd4 bxc6
+20. Qa3 Rhe8 21. Bxf4 Qxf4 22. Qxa7 Re3 23. Qa6+ Kb8 24. Qxc6 Rd6 25. Qc5
+Rh6 26. Qb4+ Kc8 27. Qf8+ Kd7 28. Rad1 Nh2 0-1
+

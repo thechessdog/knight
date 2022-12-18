@@ -1,0 +1,22 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Nielsen, Julius"]
+[Black "Andersen, Erik"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "f2aceca4"]
+[Epoch "Knight"]
+[BlackID "1429361"]
+[BlackCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 b6 8. O-O
+Bb7 9. Ne5 Nbd7 10. Nd3 Bd6 11. f4 c5 12. Qb3 Qe7 13. d5 exd5 14. Nxd5 Nxd5 15.
+Bxd5 Bxd5 16. Qxd5 Nf6 17. Qf3 Rad8 18. Nf2 Rfe8 19. b3 b5 20. Re1 c4 21. bxc4
+Bb4 22. Re2 bxc4 23. e4 Bc5 24. Be3 Bxe3 25. Qxe3 Nd5 26. Qf3 Qf6 27. e5 Qxf4
+28. Qxf4 Nxf4 29. Re4 Rd4 30. Rd1 Rxe4 31. Nxe4 f5 32. Nd6 Rxe5 33. Nxc4 Re2
+34. Rd8+ Kf7 35. Rd7+ Kf6 36. Rxa7 Rxg2+ 37. Kf1 Rxh2 38. a4 h5 39. a5 h4 40.
+a6 Ra2 0-1

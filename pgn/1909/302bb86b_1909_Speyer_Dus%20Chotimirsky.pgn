@@ -1,0 +1,22 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Speijer, Abraham"]
+[Black "Duz-Khotimirsky, Fedor Ivanovich"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "302bb86b"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e3 Nf6 5. Bxc4 a6 6. Nf3 b5 7. Bd3 Bb7 8. O-O
+Nbd7 9. Qe2 c5 10. a3 Bd6 11. e4 cxd4 12. Nxd4 Ne5 13. Bc2 Bc5 14. Ndxb5 Qc8
+15. Na4 axb5 16. Qxb5+ Ned7 17. Nxc5 Qxc5 18. Qxb7 Rb8 19. Qa6 Qxc2 20. Bf4 Qc8
+21. Qa4 Ra8 22. Rac1 Qb7 23. Qd4 O-O 24. Rfd1 e5 25. Bxe5 Nxe5 26. Qxe5 Rfe8
+27. Rc7 Qb3 28. Qd6 Rxe4 29. Qd2 Rae8 30. f3 Qb6+ 31. Kf1 Qxc7 32. fxe4 Qxh2
+33. Qd3 h5 34. Qf3 Nxe4 35. Qh3 Qf4+ 36. Kg1 Qf2+ 37. Kh2 Nf6 38. Qc3 Ng4+ 39.
+Kh1 Re3 0-1

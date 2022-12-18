@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Rivise"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "05337fd7"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. d4 Nxd4 7. Nxd4 exd4 8.
+e5 Nd5 9. Qg4 Bb4+ 10. c3 dxc3 11. bxc3 Qe7 12. cxb4 Qxe5+ 13. Qe2 Qxe2+ 14.
+Kxe2 Nxb4 15. Nc3 O-O 16. Be3 b5 17. Bb3 Bb7 18. a3 Nc6 19. Nd5 Na5 20. Ba2
+Bxd5 21. Bxd5 c6 22. Ba2 Rfe8 23. Kd3 d5 24. Rhe1 f5 25. Bd4 Kf7 26. Re5 g6 27.
+Rae1 Nb7 28. Rc1 Nd8 29. Bxd5+ Ne6 30. Rxc6 1-0

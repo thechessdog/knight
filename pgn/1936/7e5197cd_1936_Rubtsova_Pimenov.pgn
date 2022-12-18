@@ -1,0 +1,18 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Rubtsova, Olga"]
+[Black "Pimenov, Sergey Ivanovich"]
+[Result "0-1"]
+[ECO "A98"]
+[Opening "Dutch"]
+[Variation "Ilyin-Genevsky variation with Qc2"]
+[HashCode "7e5197cd"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 8. Qc2
+Nc6 9. e4 Qh5 10. Bf4 e5 11. dxe5 dxe5 12. Bd2 fxe4 13. Nxe4 Bg4 14. Nfg5 Nd4
+15. Qa4 Nxe4 16. Nxe4 Nf3+ 17. Bxf3 Bxf3 18. Qd7 Bxe4 19. Rae1 Bc6 20. Qe6+ Kh8
+21. f4 Bc5+ 22. Be3 exf4 23. Rxf4 Rxf4 24. gxf4 Qf3 0-1

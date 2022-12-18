@@ -1,0 +1,15 @@
+[Event "Londen"]
+[Site "Londen"]
+[Date "1900.01.01"]
+[Round "13"]
+[White "Tietjen, A."]
+[Black "Physick, T."]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "8c225e50"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 d5 6. d4 Bd6 7. e5 Qe7 8. Be2
+Bb4+ 9. c3 h6 10. Nxf7 Qxf7 11. Bxg4 Be7 12. Bh5 1-0

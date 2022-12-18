@@ -1,0 +1,18 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "8"]
+[White "Skalicka, Karel"]
+[Black "Addicks, JH."]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "585f9992"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 Rb8 6. f4 d6 7. O-O Nf6 8. h3
+Bd7 9. d3 b5 10. Be3 O-O 11. Qd2 b4 12. Nd1 a5 13. c3 a4 14. Nf2 a3 15. bxa3
+bxc3 16. Nxc3 Qa5 17. Rab1 Ng4 18. hxg4 Bxc3 19. Qe2 Nd4 20. Bxd4 Bxd4 21. Rfc1
+Qxa3 22. Bf1 Be6 23. Rxb8 Rxb8 24. Rc2 Bd7 25. Qe1 Ba4 26. Re2 Bc3 0-1

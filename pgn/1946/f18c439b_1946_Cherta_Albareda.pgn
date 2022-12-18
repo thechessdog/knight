@@ -1,0 +1,17 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1946.01.01"]
+[Round "6"]
+[White "Cherta, Pedro"]
+[Black "Albareda, Miguel"]
+[Result "0-1"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "f18c439b"]
+[Epoch "Knight"]
+[BlackCountry "EST"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 c5 6. O-O Qc8 7. b3 cxd4 8. Nxd4
+Bxg2 9. Kxg2 Be7 10. Ba3 Bxa3 11. Nxa3 O-O 12. Nac2 Rd8 13. Qe1 d5 14. cxd5 e5
+15. Nc6 Nxc6 0-1

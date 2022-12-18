@@ -1,0 +1,25 @@
+[Event "JUG-ch"]
+[Site "Ljubljana"]
+[Date "1947.??.??"]
+[Round "16"]
+[White "Germek, Milan"]
+[Black "Radojcic, Miroslav"]
+[Result "0-1"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[HashCode "c3e3f7b8"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 dxc4 7. Bxc4 e5 8.
+Qb3 exd4 9. Qxb4 dxc3 10. Qxc3 Nc6 11. Ng3 Qe7 12. O-O Rd8 13. a3 Ne5 14.
+Be2 Nd5 15. Qc2 c6 16. e4 Nb6 17. Bf4 f6 18. Rad1 Be6 19. Nf5 Bxf5 20. exf5
+Rxd1 21. Rxd1 Rd8 22. Re1 Nd3 23. Bc7 Nxe1 24. Bxd8 Qxd8 25. Qc3 Nxg2 26.
+Kxg2 Qd5+ 27. Bf3 Qxf5 28. Qb4 Nd5 29. Bxd5+ Qxd5+ 30. Kg1 Qd1+ 31. Kg2 Qd7
+32. f3 g6 33. a4 b6 34. a5 Qc7 35. axb6 axb6 36. h4 Kg7 37. Qd4 c5 38. Qd5
+b5 39. Qe4 c4 40. Qe1 Qe5 41. Qb4 Kh6 42. Qd2+ Kh5 43. Kh3 Qf5+ 44. Kg3 g5
+45. Kg2 Kxh4 46. Qe1+ Kh5 47. Qe8+ Qg6 48. Qxb5 Qc2+ 49. Kg3 Qe2 50. Qd7
+Kg6 51. Qc8 Qe5+ 52. Kg2 Qd5 53. Qe8+ Qf7 54. Qc6 h5 55. Qe4+ Kg7 56. Qc6
+Kh7 57. Qd6 Kh6 58. Kh3 Kg6 59. Qc6 Kg7 60. Qd6 Qb7 61. Kg3 h4+ 62. Kf2
+Qxb2+ 63. Kg1 Qe5 0-1
+

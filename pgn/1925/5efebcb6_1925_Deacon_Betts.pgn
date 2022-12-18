@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Deacon, (Knight Era)"]
+[Black "Betts, Anatoli"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "5efebcb6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nc6 6. Bb5 Bd7 7. Nxd5 Ng5
+8. Qg3 Nd4 9. Bxd7+ Qxd7 10. Ne3 Ne4 11. Qf4 Qc6 12. Ne2 Nxc2+ 13. Nxc2
+Qxc2 14. O-O O-O-O 15. Qxf7 Qd3 16. Qf3 Bc5+ 17. Kh1 Rhf8 18. Qg4+ Kb8 19.
+Rf3 Qxe2 20. h4 0-1
+

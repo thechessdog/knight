@@ -1,0 +1,18 @@
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "c1626610"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Be7 12. Be3 O-O 13. Ra6 Qd7 14. Nd4 Nxe5
+15. Nxe6 fxe6 16. Rxe6 1-0

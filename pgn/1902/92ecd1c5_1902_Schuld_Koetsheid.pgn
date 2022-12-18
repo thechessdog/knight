@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Schuld, H."]
+[Black "Koetsheid, PA."]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Calabrese counter-gambit, Jaenisch variation"]
+[HashCode "92ecd1c5"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Bc4 f5 3. d3 Nf6 4. f4 d6 5. Nf3 fxe4 6. dxe4 Bg4 7. fxe5 Bxf3
+8. Qxf3 dxe5 9. Qb3 Qe7 10. O-O c6 11. a4 h6 12. Be3 b6 13. Nc3 Nbd7 14.
+Rad1 O-O-O 15. Ba6+ Kc7 16. a5 Nc5 17. axb6+ axb6 18. Na4 Nxa4 19. Qxa4 Nd7
+20. Be2 1-0
+

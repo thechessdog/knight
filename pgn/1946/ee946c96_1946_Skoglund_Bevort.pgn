@@ -1,0 +1,19 @@
+[Event "corr ol"]
+[Site "corr ol"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Skoglund"]
+[Black "Bevort"]
+[Result "0-1"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[HashCode "ee946c96"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bb5+ Nbd7 7. O-O Bg7
+8. Be3 O-O 9. f4 Nc5 10. e5 Ng4 11. Qf3 dxe5 12. Nc6 bxc6 13. Bxc5 e4 14.
+Qxe4 Bf5 15. Qb4 cxb5 16. Nxb5 a5 17. Qa3 Bxc2 18. h3 Nh6 19. Bxe7 Qb6+ 20.
+Qc5 Qxc5+ 21. Bxc5 Bxb2 22. Bxf8 Rxf8 23. Rae1 Bd3 24. Rf2 Bg7 25. a4 Bxb5
+26. axb5 Bd4 27. Rd1 Bxf2+ 28. Kxf2 Rb8 29. Rd5 Rb6 0-1
+

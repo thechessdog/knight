@@ -1,0 +1,18 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Kaem"]
+[Black "Koblents"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "75857df1"]
+[Epoch "Knight"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. Bb2 e5 5. Qb3 c5 6. bxc5 Nc6 7. d3 Bxc5 8.
+g3 Qe7 9. Bg2 f5 10. O-O e4 11. Nfd2 Nf6 12. Qd1 h5 13. Nb3 h4 14. dxe4
+hxg3 15. hxg3 fxe4 16. Nxd4 g5 17. Nxc6 bxc6 18. Qa4 Bd7 19. e3 Qh7 20. Re1
+Qh2+ 21. Kf1 O-O 22. Bxf6 Rxf6 23. Nc3 Bh3 0-1
+

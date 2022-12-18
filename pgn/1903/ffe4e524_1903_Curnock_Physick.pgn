@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Curnock, A."]
+[Black "Physick, T."]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "ffe4e524"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. bxc3 Be7 7. d4 Be6
+8. Bd3 Nd7 9. Ne2 Nf8 10. Rb1 Qc8 11. O-O Ng6 12. Nf4 Nxf4 13. Bxf4 c6 14.
+Qg3 Bf8 15. Be3 Qd7 16. a4 h6 17. a5 Qe7 18. Rb3 Rd8 19. Rfb1 Bc8 20. e6
+Bxe6 21. Rxb7 Qd6 22. Bf4 Qa3 23. Re1 Rd7 24. Rxe6+ Be7 25. Rb8+ Rd8 26.
+Rxd8+ Kxd8 27. Re1 Qxc3 28. Bc7+ Ke8 29. Rxe7+ 1-0
+

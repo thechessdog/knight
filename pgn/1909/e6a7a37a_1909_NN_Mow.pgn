@@ -1,0 +1,16 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Mow, G."]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "e6a7a37a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bb4 6. Qe2 f6 7. exf6 O-O
+8. Nxe4 dxe4 9. Qc4+ Kh8 10. Ng5 Qxf6 11. Qxb4 Qf2+ 12. Kd1 Bg4+ 13. Nf3
+Rxf3 14. Be2 Qf1+ 15. Rxf1 Rxf1# 0-1
+

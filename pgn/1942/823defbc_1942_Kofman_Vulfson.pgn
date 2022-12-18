@@ -1,0 +1,25 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.??.??"]
+[Round "10"]
+[White "Kofman, Rafael Moiseevich"]
+[Black "Vulfson, Vladimir"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "823defbc"]
+[Epoch "Knight"]
+[BlackID "4116283"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Bxf6 Nxf6
+8. Bd3 O-O 9. Qe2 Nd5 10. Qd2 b6 11. O-O Bb7 12. Rfe1 Rc8 13. c3 Nf6 14. Rad1
+c5 15. dxc5 Bxe4 16. Bxe4 Qxd2 17. Rxd2 Nxe4 18. Rxe4 Bxc5 19. Rd7 b5 20. Re1
+Rfd8 21. Red1 Bb6 22. Kf1 Rxd7 23. Rxd7 Kf8 24. Ke2 Ke8 25. Rb7 Rc7 26. Rb8+
+Ke7 27. a3 Kf6 28. Ne1 Rd7 29. Nd3 Rd5 30. Rb7 e5 31. f3 Ke6 32. b3 h6 33. b4
+g6 34. Kd2 f5 35. Kc2 Kf6 36. a4 e4 37. Nf4 Re5 38. axb5 exf3 39. gxf3 g5 40.
+Nd3 Re2+ 41. Kb3 Rxh2 42. c4 g4 43. c5 g3 44. cxb6 g2 45. bxa7 g1=Q 46. a8=Q
+Qd1+ 47. Kc4 Qc2+ 48. Kd4 Rh4+ 49. f4 Rxf4+ 50. Nxf4 Qe4+ 51. Kc5 Qe3+ 52. Kc6
+Qc3+ 53. Kd7 1-0

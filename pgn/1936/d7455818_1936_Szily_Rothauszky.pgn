@@ -1,0 +1,17 @@
+[Event "Budapest-B"]
+[Site "Budapest"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Szily, Jozsef"]
+[Black "Rothauszky"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Rauzer variation"]
+[HashCode "d7455818"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 cxd4 6. axb4 dxc3 7. Nf3 Ne7 8. Qd4
+cxb2 9. Bxb2 O-O 10. Bd3 Nd7 11. b5 b6 12. Ba3 f6 13. h4 h6 14. exf6 Rxf6 15.
+Bb2 e5 16. Nxe5 Re6 17. f4 Qc7 18. Qxd5 Nf6 19. Qf3 Kh8 20. O-O 1-0

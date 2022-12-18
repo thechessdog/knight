@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B45"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "60cc0a7f"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Nxc6 Bxc3+ 7. bxc3
+bxc6 8. Ba3 Qa5 9. Qd6 Qxc3+ 10. Kd1 Qxa1+ 11. Kd2 Kd8 12. Qf8+ Kc7 13. Bd6+
+1-0

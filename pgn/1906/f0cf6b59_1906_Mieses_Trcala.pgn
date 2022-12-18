@@ -1,0 +1,16 @@
+[Event "Brno sim"]
+[Site "Brno"]
+[Date "1906.??.??"]
+[Round "?"]
+[White "Mieses, Jacques"]
+[Black "Trcala, St"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "f0cf6b59"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. d4 exd4 3. c3 d3 4. Be3 Nc6 5. Bxd3 d6 6. f4 Nf6 7. Nf3 Qe7 8. Qc2
+Bf5 9. Nfd2 Ng4 10. Bg1 d5 11. e5 Ncxe5 12. fxe5 Nxe5 13. Be4 dxe4 14. Be3 Nd3+
+15. Kf1 Qh4 16. Na3 Bc5 17. Bxc5 Nxc5 18. Nac4 Qf4+ 0-1

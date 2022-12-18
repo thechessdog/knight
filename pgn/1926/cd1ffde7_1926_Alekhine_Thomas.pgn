@@ -1,0 +1,18 @@
+[Event "Scarborough"]
+[Site "Scarborough"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 6.O-O"]
+[HashCode "cd1ffde7"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Qc2 c5 8. dxc5
+Bxc5 9. Nc3 Nc6 10. a3 Qc8 11. Rd1 Be7 12. b3 Rd8 13. Bb2 Na5 14. e4 d5 15.
+cxd5 exd5 16. e5 Ne4 17. Nd4 Qc7 1-0

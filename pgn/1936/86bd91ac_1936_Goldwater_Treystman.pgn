@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Goldwater, M."]
+[Black "Treysman, George"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "86bd91ac"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nf6 5. Nf3 Qh5 6. d3 g5 7. Nc3 d6 8. Qe1
+g4 9. e5 gxf3 10. exf6+ Kd8 11. Bxf4 fxg2+ 12. Kxg2 Rg8+ 13. Bg3 Bh3+ 14. Kg1
+d5 15. Bxd5 Bc5+ 0-1

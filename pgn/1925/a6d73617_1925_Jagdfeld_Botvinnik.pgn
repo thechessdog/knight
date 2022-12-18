@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Jagdfeld, G."]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "5.e3 (Alekhine variation)"]
+[HashCode "a6d73617"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Qe2 Be7 11. b3 O-O 12. Bb2 c5 13. Nc1 a5 14. Rd1 Qb6 15.
+Nd3 Ne4 16. Nde5 Nxe5 17. Nxe5 Nc3 18. Bxc3 bxc3 19. Rac1 cxd4 20. Rxd4 Qc7 21.
+f4 Bb4 22. Rd7 Qb6 23. f5 Bd6 24. Nxf7 Rxf7 25. Bxe6 0-1

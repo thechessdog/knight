@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Schlomer"]
+[Black "Beetz"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "0b766629"]
+[Epoch "Knight"]
+
+1. c4 Nf6 2. d4 e6 3. d5 exd5 4. cxd5 Bc5 5. Bg5 Ne4 6. Be3 Bxe3 7. fxe3
+Qh4+ 8. g3 Nxg3 9. Nf3 Qb4+ 0-1
+

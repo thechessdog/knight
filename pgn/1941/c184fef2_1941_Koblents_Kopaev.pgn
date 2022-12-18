@@ -1,0 +1,22 @@
+[Event "Rostov"]
+[Site "Rostov"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Koblents"]
+[Black "Kopaev, Nikolay Antonovich"]
+[Result "0-1"]
+[ECO "E72"]
+[Opening "King's Indian"]
+[Variation "Pomar system"]
+[HashCode "c184fef2"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. g3 d6 6. Bg2 e5 7. Nge2 Nc6 8. d5
+Nd4 9. O-O Nxe2+ 10. Qxe2 Ne8 11. Be3 f5 12. Qd2 Nf6 13. f3 Nh5 14. exf5 gxf5
+15. Ne2 f4 16. Bf2 b6 17. Nc3 Qg5 18. Rfe1 Qg6 19. g4 Nf6 20. Qe2 h5 21. h3
+hxg4 22. hxg4 Nxg4 23. fxg4 Bxg4 24. Qf1 f3 25. Bg3 fxg2 26. Qxg2 Bf3 27. Qh3
+Rf5 28. Ne4 Raf8 29. Nd2 Bh6 30. Nxf3 Rxf3 31. Kh2 Rxg3 32. Qxg3 Bf4 33. Rg1
+Bxg3+ 34. Rxg3 Rf2+ 35. Kh3 Qxg3+ 36. Kxg3 Rxb2 37. Rc1 Rxa2 38. Kg4 Rf2 39.
+Kg5 Kg7 40. c5 bxc5 41. Ra1 Rf7 42. Rxa7 e4 43. Ra3 Re7 44. Re3 Re5+ 45. Kf4
+Rxd5 46. Rg3+ Kf6 47. Rh3 Re5 48. Ke3 d5 49. Rh6+ Ke7 50. Rc6 Kd7 0-1

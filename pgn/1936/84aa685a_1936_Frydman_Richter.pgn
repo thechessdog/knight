@@ -1,0 +1,19 @@
+[Event "Podebrady"]
+[Site "Podebrady"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Frydman, Paulino"]
+[Black "Richter, Kurt"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[HashCode "84aa685a"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 Nc6 5. Nc3 d5 6. cxd5 Nxd5 7. Nxc6 bxc6
+8. Bd2 e6 9. e4 Nf6 10. Bg5 Qxd1+ 11. Rxd1 Rb8 12. Bxf6 gxf6 13. b3 Bb4 14. Rc1
+Ke7 15. Bd3 Rd8 16. Ke2 Rb7 1/2-1/2

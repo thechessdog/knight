@@ -1,0 +1,19 @@
+[Event "Aachen"]
+[Site "Aachen"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Grohmann, G."]
+[Black "Engels, Ludwig"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "7609f4f8"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nd7 5. Nf3 f5 6. Bd3 Qf6 7. Qc2 Nh6 8. O-O
+Bd6 9. cxd5 exd5 10. e4 fxe4 11. Bxe4 dxe4 12. Nxe4 Qf8 13. Re1 Kd8 14. d5 c5
+15. b4 Ng4 16. Bg5+ Ngf6 17. Rac1 b6 18. Nd4 Ne5 19. Nxd6 Qxd6 20. Rxe5 cxd4
+21. Bf4 d3 22. Qd2 Qd7 23. d6 Re8 24. Rc7 Qg4 25. f3 Qg6 26. Rg5 Re2 27. Rxg6
+Rxd2 28. Rgxg7 Rc2 29. Rcf7 Ke8 30. Rxf6 d2 31. Re7+ Kd8 32. Rf8# 1-0

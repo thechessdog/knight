@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Hanning"]
+[Black "Langner, L."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "2f9e066f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5
+8. c4 dxc3 9. Nxc3 Bb4 10. Bg5 f6 11. Ne5 O-O 12. Bxc6 Bxc3 13. Bxd5+ Kh8
+14. Qh5 Bxe5 15. Bxe4 g6 16. Bxg6 Qd7 17. Rxe5 fxe5 18. Rd1 Qg7 19. Bf6
+Rxf6 20. Rd8+ Rf8 21. Rxf8+ 1-0
+

@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Charosh"]
+[Black "Jaffe"]
+[Result "1-0"]
+[ECO "A43"]
+[Opening "Old Benoni defence"]
+[HashCode "d6162f5a"]
+[Epoch "Knight"]
+
+1. d4 c5 2. d5 Na6 3. Nf3 d6 4. e4 Bg4 5. Ne5 Qa5+ 6. Bd2 dxe5 7. Bxa5 Bxd1
+8. Bb5# 1-0
+

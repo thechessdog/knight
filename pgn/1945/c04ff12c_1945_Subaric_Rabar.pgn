@@ -1,0 +1,18 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Subaric, Mladen"]
+[Black "Rabar, Braslav"]
+[Result "1/2-1/2"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "c04ff12c"]
+[Epoch "Knight"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+cxd4 9. Nxd4 Nxd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. Bd3 Qb4+ 13. Qd2 Qxd2+ 14.
+Kxd2 Nf6 15. Rac1 Bd7 16. Rc7 Rab8 17. Rhc1 Rfc8 18. Rxc8+ Rxc8 19. Rxc8+ Bxc8
+20. a3 Kf8 1/2-1/2

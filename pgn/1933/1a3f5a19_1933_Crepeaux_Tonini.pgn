@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Crepeaux"]
+[Black "Tonini"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "1a3f5a19"]
+[Epoch "Knight"]
+
+1. g4 d5 2. Bg2 e5 3. d4 e4 4. c4 Bxg4 5. Qb3 Nc6 6. cxd5 Bb4+ 7. Kf1 Nxd4
+8. Qxb4 Qxd5 9. Nc3 Qd7 10. Be3 O-O-O 11. Bxe4 Nc6 12. Bxc6 bxc6 13. Rd1
+Qe6 14. Rxd8+ Kxd8 15. Qf8+ Kd7 16. Qxg7 Bh3+ 17. Ke1 Qf6 18. Qxf6 Nxf6 19.
+Nxh3 1-0
+

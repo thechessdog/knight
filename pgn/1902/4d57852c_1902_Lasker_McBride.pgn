@@ -1,0 +1,15 @@
+[Event "USA tour sim"]
+[Site "Chicago"]
+[Date "1902.01.01"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "McBride, C.R."]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "King's gambit"]
+[HashCode "4d57852c"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 f6 4. Bc4 exf4 5. d4 g5 6. Nxg5 h6 7. Qh5+ Ke7 8.
+Qf7+ Kd6 9. e5+ fxe5 10. Ne4# 1-0

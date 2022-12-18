@@ -1,0 +1,17 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Mazel, Isaak"]
+[Black "Kamishov, Mikhail Pavlovich"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "6af50c79"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. e3 Bf5 3. c4 e6 4. Nc3 c6 5. Qb3 Qb6 6. Qxb6 axb6 7. Nf3 Nd7 8. Be2
+h6 9. O-O Ngf6 10. Bd2 Be7 11. Rac1 O-O 12. Ne1 Ra7 13. cxd5 exd5 14. Bd3 Bxd3
+15. Nxd3 b5 16. b3 Rfa8 17. Rc2 Ne4 18. Be1 1/2-1/2

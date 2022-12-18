@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1943.03.01"]
+[Round "3"]
+[White "Maderna, Carlos Hugo"]
+[Black "Michel, Paul"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "773bb0b5"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. c4 d4 3. e3 c5 4. b4 f6 5. exd4 cxd4 6. c5 Qd5 7. Bb5+ Nc6 8. Bb2
+Qe4+ 9. Kf1 Bg4 10. d3 Bxf3 11. gxf3 Qd5 12. Nd2 Nh6 13. Qa4 Qd7 14. Re1 Nf5
+15. Rg1 g5 16. f4 gxf4 17. Ne4 O-O-O 18. Bc4 Ne3+ 19. fxe3 Qh3+ 20. Ke2 Qxh2+
+21. Kd1 Qxb2 22. b5 Ne5 23. c6 Nxc4 24. Qxc4 dxe3 25. a4 Bh6 0-1

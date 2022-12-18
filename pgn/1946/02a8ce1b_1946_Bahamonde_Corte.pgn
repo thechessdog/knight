@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bahamonde, Antonio"]
+[Black "Corte, Cesar Juan"]
+[Result "0-1"]
+[ECO "E44"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation, 5.Ne2"]
+[HashCode "02a8ce1b"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. Ng3 d5 8. cxd5
+exd5 9. Bd3 O-O 10. O-O Re8 11. b4 c5 12. bxc5 bxc5 13. dxc5 Bxc5 14. Nce2 Nbd7
+15. Bb2 Ne4 16. Nxe4 dxe4 17. Bb5 Re7 18. Ng3 Ne5 19. Nf5 Re6 20. Rc1 Qb6 21.
+Bd4 Bxd4 22. Nxd4 Rh6 23. Be2 Qf6 24. Qb3 Qh4 25. h3 Rb6 26. Qc2 h6 27. Rb1
+Nf3+ 28. Bxf3 exf3 29. Nf5 Qg5 30. g4 Rc8 31. Qd3 h5 32. Rxb6 axb6 33. Qd6 Re8
+34. Qg3 hxg4 35. hxg4 Re4 36. Qb8+ Kh7 37. Qxb7 Rxg4+ 38. Ng3 Rxg3+ 39. fxg3
+Qxg3+ 0-1

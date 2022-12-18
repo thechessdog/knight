@@ -1,0 +1,16 @@
+[Event "RUS-ch03"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "5"]
+[White "Breev, V."]
+[Black "Von Stamm, Wilhelm"]
+[Result "0-1"]
+[ECO "B24"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "ec94dcab"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. d3 Bd7 7. O-O Nd4 8. Nxd4
+cxd4 9. Ne2 Qc7 10. Bd2 Ba4 11. Rc1 Rc8 12. b3 Bb5 13. c3 Bxd3 14. Re1 Bxe2 15.
+Qxe2 dxc3 16. Be3 a6 17. Rc2 e6 18. Rd1 Ne7 19. Qd3 O-O 20. Qxd6 Rfd8 0-1

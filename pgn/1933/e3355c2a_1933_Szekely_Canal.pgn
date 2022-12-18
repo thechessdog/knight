@@ -1,0 +1,18 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Szekely, Jeno"]
+[Black "Canal, Esteban"]
+[Result "0-1"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[HashCode "e3355c2a"]
+[Epoch "Knight"]
+[BlackCountry "PER"]
+[WhiteCountry "HUN"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3 b5 5. Nxb5 cxb5 6. Qf3 Qc7 7. Qxa8 Bb7 8.
+Qxa7 e6 9. d5 exd5 10. Qd4 Nf6 11. Nf3 Bb4+ 12. Bd2 Nc6 13. Bxb4 Nxb4 14. Qc3
+Qa5 15. Nd2 d4 16. exd4 Nfd5 17. Qg3 O-O 18. Kd1 Qa4+ 19. b3 Qa3 20. bxc4 Nc3+
+21. Ke1 Nc2# 0-1

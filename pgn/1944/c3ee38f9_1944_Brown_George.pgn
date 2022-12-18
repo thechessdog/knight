@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Brown, H."]
+[Black "George, TH."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "c3ee38f9"]
+[Epoch "Knight"]
+
+1. f4 d5 2. e3 Nf6 3. Nf3 c5 4. Bb5+ Bd7 5. Bxd7+ Nbxd7 6. O-O e6 7. b3 g6
+8. Bb2 Bg7 9. Ne5 Nxe5 10. fxe5 Nd7 11. d4 O-O 12. Nd2 b6 13. c4 Nb8 14.
+Rc1 Na6 15. Qe2 Qc8 16. cxd5 exd5 17. e4 dxe4 18. Nxe4 Qc6 19. Nf6+ Bxf6
+20. exf6 Nb4 21. Qd2 Nd5 22. Qh6 Nxf6 23. d5 1-0
+

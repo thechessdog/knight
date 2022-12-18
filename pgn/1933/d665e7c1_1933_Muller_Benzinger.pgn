@@ -1,0 +1,16 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Benzinger"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "d665e7c1"]
+[Epoch "Knight"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nd2 Bb4 5. a3 Qh4 6. g3 Nxd2 7. gxh4 Nf3# 0-1

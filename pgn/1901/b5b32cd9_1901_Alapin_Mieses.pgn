@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1901.??.??"]
+[Round "?"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "b5b32cd9"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nf6 6. Bb5+ Bd7 7. Qe2+ Qe7 8.
+Ne5 cxd4 9. Nxd7 Qxe2+ 10. Kxe2 Nfxd7 11. cxd4 Nc6 12. Be3 Bd6 13. Nc3 Nb6 14.
+Na4 Nxa4 15. Bxa4 f5 16. Rac1 Rc8 17. g3 f4 18. gxf4 O-O 19. Bb3 Rf5 20. Bc2
+Rf7 21. Bb3 Rf5 1/2-1/2

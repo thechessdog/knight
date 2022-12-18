@@ -1,0 +1,17 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Wheatcroft, George Shorrock Ashcombe"]
+[Black "Havasi, Kornel"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "bfb69977"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 f5 8.
+Nfd2 Bf2+ 9. Kd1 Qxd5 10. Nc3 Qd4 0-1

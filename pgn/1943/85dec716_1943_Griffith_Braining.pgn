@@ -1,0 +1,17 @@
+[Event "Hampstead"]
+[Site "Hampstead"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Griffith"]
+[Black "Braining"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[HashCode "85dec716"]
+[Epoch "Knight"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 c5 8.
+g3 cxd4 9. cxd4 Bb4+ 10. Bd2 Qxd4 11. Bxb4 Qe4+ 12. Be2 Qxh1 13. Qd6 Nc6
+14. Bf3 Nxb4 15. O-O-O 1-0
+

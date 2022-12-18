@@ -1,0 +1,22 @@
+[Event "radio"]
+[Site "radio"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[HashCode "5805a45f"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Qd7 8.
+d3 Ne7 9. Be3 Ng6 10. Nc3 Bd6 11. Ne2 O-O 12. Ng3 Nf4 13. d4 Ne6 14. dxe5 Bxe5
+15. Nf5 Kh8 16. Rad1 Qe8 17. b3 f6 18. Qe2 g6 19. Nh4 Bd6 20. Nf3 Qe7 21. Qc4
+Rae8 22. Rfe1 Nd8 23. Bh6 Rg8 24. Bd2 Nf7 25. Bc3 Rgf8 26. Qd4 Ne5 27. Qe3
+Nxf3+ 28. Qxf3 Be5 29. Qe3 Rd8 30. Rxd8 Qxd8 31. f4 Bxc3 32. Qxc3 Re8 33. e5
+Qd5 34. exf6 Rxe1+ 35. Kh2 Qf7 36. Qxe1 Qxf6 37. Qe8+ Kg7 38. Qd7+ Kh6 39. Qxc7
+Qd4 40. Qf7 Qf2 41. Qf8+ Kh5 42. Qf6 1-0

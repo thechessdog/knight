@@ -1,0 +1,16 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Schroder, (Knight Era)"]
+[Black "Illgen, H"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "2fec7143"]
+[Epoch "Knight"]
+[WhiteCountry "GER"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Ng5 d5 6. exd5 Nxd5 7. O-O Be6 8.
+Re1 Qd7 9. Nxf7 Kxf7 10. Qf3+ Kg6 11. Rxe6+ Qxe6 12. Bd3+ 1-0

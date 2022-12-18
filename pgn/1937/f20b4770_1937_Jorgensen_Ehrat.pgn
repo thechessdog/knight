@@ -1,0 +1,17 @@
+[Event "Bern"]
+[Site "Bern"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Jorgensen, Leon"]
+[Black "Ehrat, J."]
+[Result "1-0"]
+[ECO "E30"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad variation"]
+[HashCode "f20b4770"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. e3 Qa5 6. Qc2 Ne4 7. Qxe4 Bxc3+
+8. Kd1 Bxb2 9. Rb1 Ba3 10. d5 Bb4 11. Bd3 d6 12. Nf3 Qxa2 13. dxe6 fxe6 14.
+Qh4 Qa4+ 15. Ke2 Qd7 16. Bxh7 Rxh7 17. Qxh7 Qf7 18. Rhd1 Qf8 19. Ne5 1-0
+

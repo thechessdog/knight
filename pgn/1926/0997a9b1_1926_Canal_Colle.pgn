@@ -1,0 +1,19 @@
+[Event "Merano"]
+[Site "Merano"]
+[Date "1926.01.01"]
+[Round "2"]
+[White "Canal, Esteban"]
+[Black "Colle, Edgard"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "0997a9b1"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+[WhiteCountry "PER"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. f4 g6 6. d4 Bg7 7. Nf3 O-O 8. Bc4
+c5 9. O-O Qc7 10. Qe2 Nc6 11. e6 f5 12. Be3 b6 13. h4 h5 14. Bd5 Bb7 15. Bxc6
+Qxc6 16. Rad1 cxd4 17. cxd4 Rac8 18. Rd2 Qa4 19. Qf2 Qxa2 20. d5 Bxd5 21. Qg3
+Bxf3 22. gxf3 Qxe6 0-1

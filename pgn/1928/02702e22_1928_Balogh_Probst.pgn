@@ -1,0 +1,20 @@
+[Event "Wiener"]
+[Site "Wiener"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Balogh"]
+[Black "Probst, L."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "02702e22"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. c3 Nxe4 6. Qe2 Nc5 7. Bxc6 dxc6
+8. d4 Ne6 9. dxe5 Nc5 10. Bg5 Qd3 11. b4 Qxe2+ 12. Kxe2 Ne6 13. Be3 a5 14.
+bxa5 Rxa5 15. Nbd2 Be7 16. Nb3 Ra4 17. Rhd1 O-O 18. Rd2 f6 19. Rc1 f5 20.
+c4 f4 21. Bd4 c5 22. Ba1 b6 23. Kf1 Bb7 24. Ng1 f3 25. Nxf3 Bxf3 26. gxf3
+Bg5 27. Rcc2 Bxd2 28. Nxd2 Rfa8 29. Ke2 Rxa2 30. Rxa2 Rxa2 31. Bc3 Nf4+ 32.
+Ke3 g5 0-1
+

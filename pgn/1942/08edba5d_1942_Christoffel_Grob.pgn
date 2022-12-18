@@ -1,0 +1,21 @@
+[Event "Vaduz"]
+[Site "Vaduz"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Christoffel, Martin"]
+[Black "Grob, Henri"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "08edba5d"]
+[Epoch "Knight"]
+[BlackCountry "SWI"]
+[WhiteCountry "CHE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 Nxd2 11. Qxd2 h6 12. a4 Na5 13. Bc2 Nc4 14. Qe2 c6 15.
+b3 Nb6 16. b4 Be7 17. Nd4 Qd7 18. f4 Bg4 19. e6 Qxe6 20. Nxe6 Bxe2 21. Nc7+ Kd7
+22. Nxa8 Rxa8 23. Re1 Bc4 24. axb5 Bxb5 25. Be3 Nc4 26. Bd4 Bf8 27. Kf2 Nd6 28.
+Re3 Bc4 29. Rae1 f6 30. Kg3 Bb5 31. Kh4 Ne4 32. Kh5 Bd6 33. g3 Ke6 34. Kg6 c5
+35. bxc5 Be8+ 36. Kxg7 Bf8+ 0-1

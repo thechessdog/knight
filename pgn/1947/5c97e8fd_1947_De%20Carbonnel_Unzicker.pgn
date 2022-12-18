@@ -1,0 +1,19 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "De Carbonnel, Heinz"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "5c97e8fd"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Nc5 10. Rd1 Be7 11. c4 Nxb3 12. axb3 bxc4 13. bxc4 O-O 14. Nc3 Nb4
+15. cxd5 Nxd5 16. Rxa6 Nxc3 17. bxc3 Qxd1+ 18. Qxd1 Rxa6 19. Bb2 Rb8 20. Qd3
+Rxb2 21. h4 Ra1+ 22. Kh2 Rxf2 23. Ng5 Bxg5 24. hxg5 Ra8 25. Qe3 Rf5 26. Qc5
+Rxg5 27. Qxc7 Bd5 0-1

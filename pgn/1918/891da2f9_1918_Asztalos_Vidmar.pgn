@@ -1,0 +1,24 @@
+[Event "Kaschau"]
+[Site "Kaschau"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Asztalos, Lajos"]
+[Black "Vidmar, Milan Sr"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Nimzovich (Paulsen) variation"]
+[HashCode "891da2f9"]
+[Epoch "Knight"]
+[BlackCountry "SVN"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Bxc6 dxc6 7. d3 Qe7 8.
+Ne2 Bg4 9. Ng3 Nh5 10. h3 Nxg3 11. fxg3 Bxf3 12. Rxf3 Rad8 13. Qe2 Ba5 14. Kh2
+Bb6 15. g4 Qb4 16. Rb1 Rd7 17. Be3 Bxe3 18. Qxe3 Qa4 19. Qc1 c5 20. b3 Qd4 21.
+Qe1 b6 22. Qg3 Qc3 23. Rbf1 Qd4 24. Rf5 Re7 25. Qh4 Re6 26. Rh5 h6 27. g5 Qd6
+28. gxh6 Rxh6 29. Rxh6 Qxh6 30. Qxh6 gxh6 31. Rf6 Kg7 32. Rc6 Rc8 33. Kg3 f6
+34. Kg4 Kg6 35. g3 a6 36. a3 b5 37. Kf3 c4 38. bxc4 bxc4 39. Rxc4 c6 40. Ke3 c5
+41. Ra4 Rc6 42. Kd2 f5 43. exf5+ Kxf5 44. Kc3 Rd6 45. Rg4 Rb6 46. Rg8 Rb5 47.
+Rh8 Kg5 48. Re8 Kf5 49. g4+ Kf6 50. Rc8 Ra5 51. Rc6+ Kg5 52. Kb3 Rb5+ 53. Kc4
+Rb2 54. Kc3 Rb1 55. Rxc5 Kh4 56. Rxe5 Kxh3 57. Rh5+ Kxg4 58. Rxh6 1-0

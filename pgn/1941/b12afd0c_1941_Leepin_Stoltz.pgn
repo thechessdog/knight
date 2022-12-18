@@ -1,0 +1,18 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "1"]
+[White "Leepin, P."]
+[Black "Stoltz, Gösta"]
+[Result "0-1"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[HashCode "b12afd0c"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e6 6. c4 d5 7. cxd5 exd5 8. e5
+Nfd7 9. f4 Nc6 10. Nb3 Ndxe5 11. Bb5 Ng4 12. Nc3 Bb4 13. Qe2+ Be7 14. O-O O-O
+15. Rd1 Qb6+ 16. Kf1 Nxh2+ 17. Ke1 Bh4+ 18. Kd2 Bg4 19. Nxd5 Rad8 20. Qd3 Rxd5
+21. Qxd5 Rd8 0-1

@@ -1,0 +1,24 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Dzagurov"]
+[Black "Shaunenko"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "ea0ee4c1"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nbd2 Nc5 11. Qe2 O-O 12. Nd4 Nxd4 13. cxd4 Nb7 14.
+f4 Qd7 15. Qf3 f5 16. Qh3 c5 17. Nf3 c4 18. Bc2 g6 19. Be3 Na5 20. Bd2 Nc6
+21. Rad1 a5 22. Be1 Nd8 23. Bh4 Bxh4 24. Qxh4 Ra6 25. Ng5 Qg7 26. Rf3 h6
+27. Nh3 a4 28. a3 Nc6 29. Qe1 Qe7 30. Nf2 b4 31. h3 Rb8 32. g4 bxa3 33.
+bxa3 Rb2 34. Rc3 Qh4 35. Kg2 fxg4 36. hxg4 Bxg4 37. Rd2 Bh5 38. Qc1 Rb7 39.
+Rg3 Qxf4 40. Nh3 Qf7 41. Rf2 Qe8 42. Qxh6 Rh7 43. Qe3 Raa7 44. Ng5 Rhg7 45.
+Rf6 Nd8 46. e6 Rab7 47. Nf7 Nxe6 48. Rxe6 Qxf7 49. Re8+ Kh7 50. Rh3 Qf5 51.
+Bxf5 gxf5+ 52. Rg3 Rb2+ 53. Kg1 Rb1+ 54. Kf2 Rb2+ 55. Ke1 Rb3 56. Rh8+ Kxh8
+57. Qh6+ Rh7 58. Qf8# 1-0
+

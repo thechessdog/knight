@@ -1,0 +1,19 @@
+[Event "DSB-13.Kongress"]
+[Site "Hannover"]
+[Date "1902.07.01"]
+[Round "11"]
+[White "Suechting, Hugo"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "4ec3061d"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 O-O 6. Nc3 Bg4 7. Na4 Nc6 8. Nxc5
+dxc5 9. Be3 exf4 10. Bxf4 Nh5 11. Be3 Ne5 12. Bxc5 Qf6 13. O-O Bxf3 14. gxf3
+Nxc4 15. Bxf8 Ne3 16. Qe1 Qg5+ 17. Kf2 Nxc2 18. Qc3 Qe3+ 19. Kg2 Nxa1 20. Bc5
+Nf4+ 21. Kh1 Qe2 0-1

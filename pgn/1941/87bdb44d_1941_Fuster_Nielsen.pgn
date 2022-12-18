@@ -1,0 +1,25 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "3"]
+[White "Füster, Géza"]
+[Black "Nielsen, Bjorn"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "87bdb44d"]
+[Epoch "Knight"]
+[BlackID "1416839"]
+[BlackCountry "DEN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Be2
+Qe7 9. O-O Rd8 10. Qc2 Nc6 11. Rad1 h6 12. a3 dxc4 13. Rxd8+ Qxd8 14. Bxc4 Nh5
+15. Ne4 Nxf4 16. Nxc5 Qe7 17. Bb5 Nd5 18. Bxc6 bxc6 19. Nd4 Qc7 20. Qa4 Rb8 21.
+b4 Rb6 22. Rc1 e5 23. Ne2 Bg4 24. f3 Bd7 25. Rd1 Be8 26. Rxd5 cxd5 27. Qxe8+
+Kh7 28. Nc3 Qd6 29. Qxf7 d4 30. N3e4 Qd8 31. Qb3 Rg6 32. Qd3 Qh4 33. g3 Qh5 34.
+exd4 exd4 35. Ne6 Qf5 36. Nxd4 Qd5 37. Kg2 Kg8 38. Qe3 Ra6 39. Ne2 Qa2 40. Kf2
+Rxa3 41. Nc3 Qf7 42. b5 Rb3 43. Nd4 Rb2+ 44. Nce2 Qd7 45. g4 Ra2 46. Qe5 Rb2
+47. Kg3 Rd2 48. h4 Rd1 49. h5 Rd3 50. Nf5 Qb7 51. Ned4 Kh7 52. Ne7 Kh8 53. Ng6+
+Kh7 54. Qe8 Qc7+ 55. Kh3 1-0

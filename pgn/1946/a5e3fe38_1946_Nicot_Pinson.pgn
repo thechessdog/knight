@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Nicot"]
+[Black "Pinson, H."]
+[Result "0-1"]
+[ECO "C09"]
+[Opening "French"]
+[Variation "Tarrasch, open variation, main line"]
+[HashCode "a5e3fe38"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Qe7+ 7. Be2 Qc7
+8. dxc5 Bxc5 9. Nb3 Bb6 10. Qxd5 Nf6 11. Qd1 Ng4 12. O-O Bf5 13. Bd3 Be6
+14. g3 O-O-O 15. Bf4 Qd7 16. Qe1 f6 17. h4 Bd5 18. Be2 Rhe8 19. Qd1 g5 20.
+hxg5 Qf7 21. Nfd2 Rxe2 0-1
+

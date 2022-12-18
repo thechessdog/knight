@@ -1,0 +1,24 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Ulvestad, Olaf"]
+[Black "Adams, Weaver Warren"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "b1c97f25"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. c3 Bd6 6. Bb5 Ne7 7. Ne5 O-O 8. Nxc6
+bxc6 9. Ba4 c5 10. dxc5 Bxc5 11. O-O f6 12. Qe2 e5 13. Bg3 Rb8 14. b4 Bb6 15.
+Nd2 Kh8 16. Rfd1 c6 17. c4 Be6 18. Rac1 Bc7 19. a3 a5 20. b5 cxb5 21. Bxb5 Bd6
+22. c5 Bc7 23. f3 a4 24. Ne4 Ra8 25. Nc3 Ba5 26. Nxa4 Qc7 27. Nb2 Rfb8 28. a4
+Bd7 29. e4 Bc6 30. Rc2 Qb7 31. Bxc6 Qxc6 32. exd5 Nxd5 33. Qe4 Rd8 34. Be1 Bxe1
+35. Rxe1 Ra5 36. Rec1 Rb8 37. Qe1 Rba8 38. Kh1 Nf4 39. Qb4 Ne6 40. Qb6 R5a6 41.
+Qxc6 Rxc6 42. Rc4 Ra5 43. Nd3 Kg8 44. Kg1 Kf7 45. Rb1 Ra7 46. Rb6 Nd8 47. f4
+exf4 48. Rxf4 Ke6 49. Rd4 Rd7 50. Rxd7 Kxd7 51. Rb5 Ra6 52. a5 Kc7 53. Nb4 Ra7
+54. a6 Nc6 55. Nxc6 Kxc6 56. Ra5 Ra8 57. Kf2 Kd5 58. a7 Kc4 59. c6 Kb4 60. Ra1
+Kb5 61. c7 Kb6 62. c8=Q 1-0

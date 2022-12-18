@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Baratz, Abraham"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "f917b4b3"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5 8.
+exd5 Nxd5 9. Ne5 O-O 10. Nxc6 bxc6 11. Bxc6 Rb8 12. Bxd5 Qxd5 13. Be3 Bb7 14.
+Qg4 f5 15. Qh3 f4 16. Nc3 Qf7 17. Bd2 Bxd4 18. Rfe1 Rbd8 19. Rad1 Rd6 20. Nb5
+Rh6 21. Qb3 Bd5 22. Qd3 Qh5 23. h3 Qg5 24. Qf1 Bb6 25. Kh2 Rg6 26. Nc3 Qxg2+
+27. Qxg2 Rxg2+ 28. Kh1 Bf3 0-1

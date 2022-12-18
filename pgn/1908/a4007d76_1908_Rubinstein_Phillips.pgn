@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Rubinstein, S."]
+[Black "Phillips, H."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "a4007d76"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Nxc3 d6 5. Qb3 c6 6. Bc4 Qf6 7. Nf3 Nd7
+8. Bg5 Qg6 9. h4 h5 10. O-O-O Nc5 11. Qb4 d5 12. Bxd5 Nd3+ 13. Rxd3 Bxb4
+14. Bxf7+ Kxf7 15. Ne5+ Ke6 16. Nxg6 Rh7 17. f4 Nf6 18. f5+ Kf7 19. Rd8 b5
+20. Rhd1 1-0
+

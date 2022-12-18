@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Kemeny, M."]
+[Black "Uedemann, L."]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[HashCode "fe92d16b"]
+[Epoch "Knight"]
+
+1. d4 e6 2. Nf3 b6 3. e4 Bb7 4. Bd3 d5 5. exd5 Bxd5 6. O-O Nf6 7. Nc3 Bb7
+8. Bg5 Be7 9. Qe2 O-O 10. Rad1 Nbd7 11. Ne5 h6 12. Nxd7 Qxd7 13. Bxf6 Bxf6
+14. Ne4 Be7 15. c3 Rad8 16. f4 g6 17. Ng3 Bf6 18. Qg4 Bg7 19. f5 exf5 20.
+Bxf5 Qd6 21. Bc2 f5 22. Qe2 Rde8 23. Qd2 f4 24. Ne2 f3 25. gxf3 Rxf3 26.
+Nf4 g5 27. Ng2 Rh3 28. Ne1 Rhe3 29. Rf2 Kh8 30. d5 Qc5 31. Kg2 Ba6 32. b4
+Qd6 33. Bb1 Re2 0-1
+

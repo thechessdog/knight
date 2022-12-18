@@ -1,0 +1,26 @@
+[Event "Ivanovo"]
+[Site "Ivanovo"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Averbakh, Yuri L"]
+[Black "Lilienthal, Andor Arnoldovich"]
+[Result "1-0"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Ragozin-Petrosian (`Keres') variation"]
+[HashCode "d6523e71"]
+[Epoch "Knight"]
+[WhiteID "4101529"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d3 Bb7 11. Nbd2 Nc5 12. Bc2 d5 13. Nb3 dxe4 14. Nxc5 Bxc5 15.
+dxe4 Qxd1 16. Rxd1 Rfd8 17. Rxd8+ Rxd8 18. b4 Bb6 19. a4 bxa4 20. Bxa4 Rd3 21.
+Bd2 Na7 22. Ra2 f6 23. c4 c5 24. Bc2 Rd8 25. Be3 Rc8 26. Rb2 Ba8 27. Nd2 Nc6
+28. bxc5 Ba5 29. Ba4 Bc3 30. Rb6 a5 31. Nb3 Kf7 32. f3 Ke7 33. Bd2 Bxd2 34.
+Nxd2 Nd4 35. Ra6 Bc6 36. Rxa5 Bxa4 37. Rxa4 Rb8 38. Ra7+ Kf8 39. Kf2 Rb2 40.
+Ke3 h5 41. h4 Rc2 42. Kd3 Rc1 43. Rb7 Ne6 44. c6 Ke8 45. g3 g5 46. hxg5 fxg5
+47. Rh7 h4 48. gxh4 Nf4+ 49. Ke3 Kd8 50. Rd7+ Kc8 51. hxg5 Rg1 52. Nb3 Rg2 53.
+Rd2 Rxg5 54. Nc5 Kc7 55. Nd3 Ng2+ 56. Kf2 Nh4 57. Rd1 Kxc6 58. Rh1 Ng6 59. Rh6
+Kc7 60. c5 Ne7 61. Nb4 Ng6 62. Nd5+ Kd7 63. c6+ 1-0

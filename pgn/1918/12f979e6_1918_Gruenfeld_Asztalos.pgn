@@ -1,0 +1,18 @@
+[Event "Kosice"]
+[Site "Kosice"]
+[Date "1918.??.??"]
+[Round "?"]
+[White "Gruenfeld, Ernst"]
+[Black "Asztalos, Lajos"]
+[Result "1-0"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "stonewall defence"]
+[HashCode "12f979e6"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Ne4 6. Bd3 f5 7. Ne5 Qh4 8. O-O
+Nd7 9. f4 Be7 10. Rf3 Nxe5 11. dxe5 g5 12. Nxe4 g4 13. Nf6+ Bxf6 14. Rf1 Be7
+15. Bd2 Rg8 16. cxd5 exd5 17. Qc2 1-0

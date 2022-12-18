@@ -1,0 +1,19 @@
+[Event "Poznan simul"]
+[Site "Poznan simul"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Kwasniewski, S."]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred, Rubinstein variation"]
+[HashCode "995ff207"]
+[Epoch "Knight"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Nxe4 8.
+dxe5 d5 9. Nbd2 Nxd2 10. Bxd2 c5 11. Bg5 Qd7 12. e6 Qd6 13. exf7+ Kxf7 14. Re1
+Bg4 15. Ne5+ Qxe5 16. Qxg4 Qd6 17. c4 Rb8 18. cxd5 h6 19. Qf5+ Kg8 20. Bf4 g6
+21. Qg4 h5 22. Qg3 h4 23. Qg4 Qf6 24. Bxc7 Rxb2 25. Be5 Qxf2+ 26. Kh1 Rb6 27.
+Rf1 Qc2 28. Bxh8 1-0

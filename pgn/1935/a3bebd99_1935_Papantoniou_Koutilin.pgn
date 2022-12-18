@@ -1,0 +1,18 @@
+[Event "Athens"]
+[Site "Athens"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Papantoniou"]
+[Black "Koutilin"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "a3bebd99"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. e3 Be7 6. a3 O-O 7. Qc2 a6 8.
+Bd3 Re8 9. O-O c6 10. c5 Nf8 11. Ne5 N6d7 12. f4 f6 13. Nf3 Qc7 14. f5 e5
+15. Nh4 e4 16. Nxe4 dxe4 17. Bc4+ Kh8 18. Qxe4 b6 19. Rf3 Bb7 20. Qe6 Nxe6
+21. Ng6+ hxg6 22. Rh3+ Kg8 23. Bxe6+ Kf8 24. Rh8# 1-0
+

@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Chistiakov, Alexander Nikolaevi"]
+[Black "Makogonov, Vladimir"]
+[Result "0-1"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "2444259d"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "AZE"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. d4 Ngf6 6. Ng3 Qc7 7. Bd3 e6 8.
+O-O Bd6 9. Re1 O-O 10. c4 b6 11. Bd2 Bb7 12. Qe2 c5 13. Bc3 cxd4 14. Bxd4 Rfd8
+15. Bc3 Bxf3 16. gxf3 Rac8 17. b3 Bf4 18. Bc2 Qc5 19. Kh1 Qg5 20. Rg1 Qh4 21.
+Rad1 g6 22. Rd4 Nh5 23. Rgd1 e5 24. Rxf4 Nxf4 25. Qe4 f6 26. Rg1 Nc5 27. Qe3
+Ncd3 28. Ne4 Rc6 29. b4 f5 30. Ng3 g5 0-1

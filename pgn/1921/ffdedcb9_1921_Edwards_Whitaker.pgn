@@ -1,0 +1,16 @@
+[Event "Pennsylvania"]
+[Site "Pennsylvania"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Edwards"]
+[Black "Whitaker, Norman Tweed"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "ffdedcb9"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Qa4+ Nc6 7. Bxb4 exf2+
+8. Kxf2 Qh4+ 9. g3 Qd4+ 10. Kg2 Qxb2+ 0-1

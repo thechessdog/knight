@@ -1,0 +1,27 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "7de2a6ea"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Ne7 9. Bxf6 gxf6 10. Nh4 f5 11. f4 Ng6 12. Nxf5 Bxf5 13. exf5 Nxf4 14. g3
+Qg5 15. Qf3 c6 16. Ba4 Nd5 17. c4 Qe3+ 18. Kg2 Qxf3+ 19. Kxf3 Nf6 20. Rab1 Rab8
+21. Rfe1 Nd7 22. c3 f6 23. Rb2 Rfc8 24. Reb1 b6 25. g4 Nc5 26. Bc2 d5 27. d4
+Nd7 28. Bb3 Kf8 29. Rg1 Ke7 30. Rg3 dxc4 31. Bxc4 c5 32. d5 Kd6 33. Ke4 h6 34.
+a4 Rg8 35. Rbg2 Rg7 36. Bb5 Rbg8 37. Bxd7 Rxd7 38. c4 Rdg7 39. h4 Rh7 40. Rg1
+Rhg7 41. R3g2 Rh7 42. Kf3 Rhg7 43. Rg3 Rf7 44. R1g2 Rfg7 45. Ke4 Rh7 46. Ke3
+Rhg7 47. Rg1 Rh7 48. Ke4 Rhg7 49. R3g2 Rh7 50. Kf3 Rhg7 51. Rg3 Rf7 52. R1g2
+Rfg7 53. Ke3 Rh7 54. Kd3 Rhg7 55. Rg1 Rh7 56. Ke4 Rhg7 57. R3g2 Rh7 58. Ke3
+Rhg7 59. Kf3 Rf7 60. Ra1 Rb7 61. Rb1 a6 62. Rgb2 Kc7 63. a5 b5 64. cxb5 Rxb5
+65. Rxb5 axb5 66. Rxb5 Kd6 67. Rb6+ Kxd5 68. Rxf6 c4 69. Rxh6 c3 70. Rh7 Rc8
+71. Rd7+ Kc4 72. Ke2 Rh8 73. f6 1-0

@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Wijdeveld, C."]
+[Black "Boers, J."]
+[Result "1-0"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "564f6a3b"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. g3 d6 7. exd6 Bxd6
+8. Bg2 Qf6 9. O-O Bf5 10. Nb1 O-O-O 11. Nc3 Bxg3 12. Nd5 Bxh2+ 13. Kxh2
+Qd6+ 14. Bf4 Qg6 15. Rh1 Rhe8 16. Bxc7 Bc2 17. Qd2 Rd7 18. Bg3 Bf5 19. Nh4
+Qe6 20. Nxf5 Qxf5 21. Qf4 Qxf4 22. Nxf4 Nd4 23. e3 Nde6 24. Rad1 Ng5 25.
+Rxd7 Kxd7 26. Rd1+ Ke7 27. Nd5+ 1-0
+

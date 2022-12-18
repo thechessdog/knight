@@ -1,0 +1,18 @@
+[Event "Debrecen"]
+[Site "Debrecen"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Von Balla, Zoltan"]
+[Black "Dalmy, Barna"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen variation"]
+[HashCode "94467681"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 c5 7. exd5 exd5 8.
+Bb5+ Nc6 9. Qe2+ Be6 10. O-O-O O-O 11. Bxc6 bxc6 12. Qd2 cxd4 13. Nxd4 c5 14.
+Nf3 Rb8 15. b3 Qa5 16. Na4 Qxa4 17. bxa4 Bb2+ 18. Kb1 Bc3+ 19. Kc1 d4 20. Qd3
+Bxa2 0-1

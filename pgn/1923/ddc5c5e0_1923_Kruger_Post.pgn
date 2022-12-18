@@ -1,0 +1,26 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Krueger, Erich"]
+[Black "Post, Ehrhardt"]
+[Result "0-1"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[HashCode "ddc5c5e0"]
+[Epoch "Knight"]
+[WhiteID "4624718"]
+[WhiteCountry "GER"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 c5 6. dxc5 Qa5 7. cxd5 O-O 8. Bd2
+Qxc5 9. Qb3 Rd8 10. e4 Ng4 11. Nd1 e6 12. Bc4 b5 13. Qxb5 Qxb5 14. Bxb5 exd5
+15. exd5 Bb7 16. Bc4 Nd7 17. O-O Nb6 18. Bb3 Nxd5 19. h3 Ngf6 20. Rc1 Ne4 21.
+Ba5 Rdc8 22. Ne3 Nxe3 23. fxe3 Ng3 24. Rxc8+ Rxc8 25. Re1 Bxb2 26. Nd4 Re8 27.
+Kh2 Rxe3 28. Rxe3 Nf1+ 29. Kg1 Nxe3 30. Nf3 Bd5 31. Bd2 Nc4 32. Bf4 Nb6 33.
+Bxd5 Nxd5 34. Bb8 a6 35. Bd6 f6 36. Nd2 Bd4+ 37. Kh1 Kf7 38. Nb3 Ke6 39. Bf8
+Be3 40. g3 Kf7 41. Bd6 Nc3 42. a3 Ne4 43. Bb8 Bc5 44. a4 Bd6 45. Bxd6 Nxd6 46.
+Nc5 a5 47. Kg2 f5 48. h4 Kf6 49. Kf3 Ke5 50. Nd7+ Ke6 51. Nf8+ Ke7 52. Nxh7 Nc4
+53. Kf4 Nb2 54. h5 gxh5 55. Kxf5 Nxa4 56. Nf6 Nc3 57. g4 h4 58. g5 h3 59. g6 h2
+60. g7 h1=Q 61. g8=Q Qf3+ 0-1

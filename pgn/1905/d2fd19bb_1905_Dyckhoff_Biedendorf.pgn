@@ -1,0 +1,17 @@
+[Event "Barmen-D"]
+[Site "Barmen"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Dyckhoff, Eduard"]
+[Black "Biedendorf"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "d2fd19bb"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 bxc6 7. dxe5
+Nb7 8. Bg5 Be7 9. Bxe7 Qxe7 10. Nc3 O-O 11. Re1 Nc5 12. Nd4 Bb7 13. Nf5 Qg5
+14. Qf3 g6 15. Ng3 Rfe8 16. b4 Ne6 17. Nce4 Qf4 18. Nf6+ 1-0
+

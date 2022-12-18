@@ -1,0 +1,15 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Helbig"]
+[Black "Schroder, (Knight Era)"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "b2c75b91"]
+[Epoch "Knight"]
+[BlackCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nbd2 e6 4. a3 c5 5. dxc5 Bxc5 6. b4 Bxf2+ 7. Kxf2 Ng4+
+8. Kg3 h5 9. Nh4 Qc7+ 10. Kf3 Qc3+ 11. Kf4 Qe3# 0-1

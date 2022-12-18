@@ -1,0 +1,17 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Ferres, M."]
+[Black "Roque"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "85d40d9c"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Bg5 Be7 5. Nf3 O-O 6. e3 b6 7. h4 Bb7 8.
+Bd3 c5 9. Qc2 dxc4 10. Bxc4 Nbd7 11. O-O-O Bxf3 12. gxf3 Qc8 13. d5 Ne5 14.
+Ne4 Nxf3 15. Nxf6+ Bxf6 16. Bxf6 gxf6 17. dxe6 fxe6 18. Qf5 1-0
+

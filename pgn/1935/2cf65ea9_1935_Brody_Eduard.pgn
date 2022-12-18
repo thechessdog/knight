@@ -1,0 +1,17 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Brody, M."]
+[Black "Eduard"]
+[Result "1-0"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[HashCode "2cf65ea9"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 g6 6. Nc3 Bg7 7. O-O O-O 8.
+Qc2 d5 9. cxd5 exd5 10. Bf4 Nbd7 11. Rad1 Nh5 12. Bg5 f6 13. Be3 f5 14. Ng5
+Re8 15. Nxd5 Rxe3 16. Nxe3 Bxg2 17. Qb3+ 1-0
+

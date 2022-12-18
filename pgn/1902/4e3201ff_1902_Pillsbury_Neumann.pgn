@@ -1,0 +1,17 @@
+[Event "Hanover"]
+[Site "Hanover"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Neumann, Augustin"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "4e3201ff"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Bc5 4. c3 O-O 5. f4 d5 6. exd5 exf4 7. Qf3 Bxg1 8.
+Rxg1 Re8+ 9. Kf1 Ng4 10. Qxf4 Re5 11. Bd3 g5 0-1

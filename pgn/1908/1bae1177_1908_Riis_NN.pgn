@@ -1,0 +1,17 @@
+[Event "Roskilde"]
+[Site "Roskilde"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Riis, Thorvald"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "1bae1177"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 7. O-O d5
+8. exd5 Nxd5 9. Re1+ Be6 10. Bg5 Qd7 11. Bxd5 Qxd5 12. Nc3 Qa5 13. d5 O-O
+14. dxe6 fxe6 15. Rxe6 Rxf3 16. Qxf3 Qxg5 17. Rae1 h6 18. Re8+ Rxe8 19.
+Rxe8+ Kh7 20. Qd3+ 1-0
+

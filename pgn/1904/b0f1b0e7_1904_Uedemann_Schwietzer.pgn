@@ -1,0 +1,19 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Uedemann, L."]
+[Black "Schwietzer"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "b0f1b0e7"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Ne2 d5
+8. exd5 Bxc3+ 9. bxc3 Nxd5 10. O-O O-O 11. Bb2 e5 12. Rb1 f5 13. Bc4 Be6
+14. Ba3 Rf7 15. Re1 Rd7 16. Nd4 Nxd4 17. cxd4 e4 18. Qh5 Qf6 19. Bb2 Rc8
+20. Bb3 Nf4 21. Bxe6+ Nxe6 22. c3 Nf4 23. Qd1 Qg6 24. g3 Nd3 25. Qb3+ Kh8
+26. Rf1 f4 27. Qc2 f3 28. a4 Qg4 0-1
+

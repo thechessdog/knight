@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Taeffner"]
+[Black "Ulrich"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "ffdab825"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Qe7 6. Ng5 Bf5 7. Qb5+ Nbd7
+8. d6 Qe5 9. Qxb7 Rb8 10. dxc7 1-0
+

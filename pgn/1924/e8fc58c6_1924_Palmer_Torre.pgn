@@ -1,0 +1,18 @@
+[Event "Detroit sim"]
+[Site "Detroit"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Palmer, Marvin"]
+[Black "Torre, Carlos Repetto"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "e8fc58c6"]
+[Epoch "Knight"]
+[BlackCountry "MEX"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Bc5 10. a4 b4 11. a5 O-O 12. Qe2 Nxd2 13. Bxd2 Bg4 14. Qd3 Bxf3 15.
+Qxf3 Nxe5 16. Qf5 Qf6 17. Qxf6 gxf6 18. Bf4 Rfd8 19. Rfd1 c6 20. Bxe5 fxe5 21.
+Rd3 0-1

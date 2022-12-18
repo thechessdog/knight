@@ -1,0 +1,22 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Grekov"]
+[Black "Pavlov, Mircea"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "28b8be4c"]
+[Epoch "Knight"]
+[BlackID "1200160"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bb5 Bd7 6. Na4 Bb6 7. Nxb6 axb6 8.
+d3 exf4 9. Bxf4 Qf6 10. Qc1 Nge7 11. O-O Qg6 12. d4 O-O 13. e5 dxe5 14. Bxe5
+Rac8 15. Qd2 Qh5 16. Rae1 Ng6 17. Be2 f6 18. Bg3 Qa5 19. Bc4+ Kh8 20. c3 b5 21.
+b4 Qb6 22. Bb3 Rfe8 23. Nh4 Nce7 24. Bf7 Rf8 25. Nxg6+ Nxg6 26. Bxg6 hxg6 27.
+Re7 Be6 28. Re1 Bd5 29. a3 Qc6 30. Qc2 Kh7 31. h4 f5 32. h5 Be4 33. R1xe4 fxe4
+34. Be5 Rg8 35. h6 Kxh6 36. g4 Rh8 37. Qd2+ e3 38. Qxe3+ g5 39. Qh3+ Kg6 40.
+Rxg7# 1-0

@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "25"]
+[White "Marco, Georg"]
+[Black "Moreau, C."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "93d5ab0a"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Re1 Nd6 7. dxe5 Nxb5 8.
+a4 Nbd4 9. Nxd4 Nxd4 10. Qxd4 O-O 11. Bf4 d5 12. exd6 Bxd6 13. Bxd6 Qxd6 14.
+Qxd6 cxd6 15. Re7 Rb8 16. Na3 a6 17. Nc4 d5 18. Nb6 Be6 19. Rd1 Rfd8 20. a5 Kf8
+21. Rc7 Rd6 22. c3 Ke8 23. f3 Rc6 24. Rxc6 bxc6 25. Kf2 Ke7 26. b4 h5 27. Ke3
+g6 28. Kd4 Kd6 29. Na4 Ra8 30. Nc5 Ra7 31. Re1 Ra8 32. h4 Ra7 33. Rg1 Ra8 34.
+g3 Bf5 35. g4 hxg4 36. fxg4 Be6 37. h5 gxh5 38. gxh5 Rh8 39. Rh1 Bc8 40. h6 Ke7
+41. Nd3 Kd6 42. Ne5 Be6 43. h7 Kc7 44. Rh5 Kd6 45. Rh6 Kc7 46. Kc5 Kb7 47. Rh5
+d4 48. Kxd4 Kc7 49. Kc5 Bd5 50. c4 Be4 51. Nxf7 Rxh7 52. Rxh7 Bxh7 53. Ne5 Be4
+54. Kd4 Bf5 55. Nd3 Kb7 56. Nc5+ Ka7 57. Ke5 Bg4 58. Ne6 Be2 59. c5 Bc4 60. Kd6
+Kb7 61. Nd8+ 1-0

@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Swiderski, Rudolf"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "c4271efe"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Bg4 7. Be3 Bxf3
+8. Qxd8+ Rxd8 9. gxf3 Ne7 10. Bf4 Rd7 11. Nd2 Ng6 12. Bg3 Bd6 13. Nc4 Bxg3 14.
+hxg3 b6 15. Ke2 O-O 16. Ne3 Rfd8 17. Rad1 Rxd1 18. Rxd1 Rxd1 19. Kxd1 f6 20. f4
+Kf7 21. Ke2 Nf8 22. f5 g6 23. f4 gxf5 24. Nxf5 Ne6 25. Ke3 Nd8 26. Kd3 Ke6 27.
+Ng7+ Kf7 28. Nf5 Ke6 29. Ng7+ Kf7 30. Nf5 Ke6 31. Nd4+ Kd6 32. Nf5+ Ke6 33.
+Ng7+ Kf7 34. Nf5 Ke6 35. Nd4+ Ke7 36. g4 Nf7 37. Nf3 h6 38. Ke3 c5 39. b3 Ke6
+40. Nh4 Ke7 41. Nf5+ Kd7 42. Kd3 Ke6 43. Ne3 Nd6 44. Nd5 Ne8 45. Ne3 Nd6 46.
+Nf5 Nf7 47. Kc4 Nd6+ 48. Kd3 Nf7 49. Kc4 Nd6+ 50. Nxd6 cxd6 51. a4 d5+ 52.
+exd5+ Kd6 53. f5 b5+ 54. axb5 axb5+ 55. Kxb5 Kxd5 56. c4+ 1-0

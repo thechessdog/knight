@@ -1,0 +1,17 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1947.01.01"]
+[Round "4"]
+[White "Nielsen, Tage"]
+[Black "Sorensen, Tage"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Becker defence"]
+[HashCode "2fd2bb4b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. Bc4 Bg7 6. O-O d6 7. c3 Be6 8. Bxe6
+fxe6 9. Qb3 Qc8 10. g3 fxg3 11. Nxg5 gxh2+ 12. Kh1 hxg5 13. Qb5+ Qd7 14. Qxb7
+Qc6 15. Qc8+ Ke7 16. d5 exd5 17. Qf5 Nf6 18. Bxg5 Qd7 19. Bxf6+ Kf8 20. Bxg7+
+Kxg7 21. Qg5+ Kh7 22. Rf4 Qg7 23. Qf5+ Qg6 24. Rh4+ 1-0

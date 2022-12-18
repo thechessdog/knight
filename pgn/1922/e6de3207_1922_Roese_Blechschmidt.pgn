@@ -1,0 +1,28 @@
+[Event "Oeynhausen"]
+[Site "Oeynhausen"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Roese, Oliver"]
+[Black "Blechschmidt"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "e6de3207"]
+[Epoch "Knight"]
+[WhiteID "4600630"]
+[WhiteCountry "GER"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 d6 5. d3 h6 6. Ne2 Bg4 7. O-O c6 8. Be3
+Qd7 9. Kh1 Bh3 10. Bxh3 Qxh3 11. Ng1 Qe6 12. f4 Nbd7 13. f5 Qe7 14. a3 Ba5 15.
+b4 Bb6 16. Bxb6 axb6 17. Nf3 O-O 18. Qe2 Ra7 19. Ra2 Rfa8 20. Rfa1 Qd8 21. Nd2
+Nh7 22. Nd1 b5 23. c4 Qb6 24. Ne3 Nhf6 25. Nb3 bxc4 26. Nxc4 Qc7 27. Rc1 Nb6
+28. Nba5 Nc8 29. Rac2 Ne8 30. Qe3 Ra6 31. d4 exd4 32. Qxd4 Qe7 33. Nb3 Nf6 34.
+Nbd2 c5 35. Qe3 b5 36. Na5 c4 37. Re1 Ng4 38. Qd4 Qe5 39. Nf3 Qxd4 40. Nxd4 Rb6
+41. Nxb5 Rxb5 42. Rxc4 Re5 43. Kg2 d5 44. Rc5 Rxe4 45. Rxe4 dxe4 46. Nc4 Nf6
+47. b5 Nd7 48. Rc6 Kf8 49. a4 Ne7 50. Rc7 Ke8 51. a5 Nd5 52. Rc6 Kd8 53. b6 Rc8
+54. Rxc8+ Kxc8 55. Nd6+ Kb8 56. Nxf7 Ne3+ 57. Kf2 Nxf5 58. Nd8 e3+ 59. Ke2 h5
+60. Ne6 g6 61. Nf4 Ne5 62. Nd5 Nc4 63. a6 Nd4+ 64. Ke1 Nc6 65. Ke2 Nd4+ 66. Ke1
+Nf3+ 67. Ke2 Nxh2 68. Nf4 Ng4 69. Nxg6 Nxb6 70. Nf4 Na4 71. Nxh5 Nc3+ 72. Ke1
+Ne5 73. Nf4 Nf3+ 74. Kf1 Ka7 75. Ne2 Ne4 76. Kg2 Ne1+ 77. Kf1 Nd3 78. Kg2 Ng5
+79. Nd4 Kxa6 80. Kf1 Nc1 81. Ke1 Kb6 82. Nb3 0-1

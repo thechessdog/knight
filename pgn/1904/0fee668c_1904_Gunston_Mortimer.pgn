@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "4"]
+[White "Gunston, William"]
+[Black "Mortimer, James"]
+[Result "0-1"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[HashCode "0fee668c"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Bd5 Qd7 11. dxe5 Bxf3 12. gxf3 Nxd5 13. exd5 Nxe5 14. f4 Ng6
+15. Be3 Qf5 16. Kh1 Rfe8 17. Rg1 Qe4+ 18. Rg2 Nh4 19. Qg1 Qxg2+ 20. Qxg2 Nxg2
+21. Kxg2 f5 22. Nd2 Bf6 23. Nf3 h6 24. Rd1 Re7 25. Bd4 Kf7 26. Rd2 g5 27. Bxf6
+Kxf6 28. fxg5+ hxg5 29. Nd4 Rae8 30. b3 Re5 31. c4 bxc4 32. bxc4 Re4 33. f3 Rh4
+34. a4 Re1 35. a5 Rc1 36. h3 Rxc4 37. Nc6 Rxc6 38. dxc6 Rc4 39. Kg3 Rxc6 40.
+Rd3 Rc4 41. Re3 d5 42. Rb3 Ke5 43. Re3+ Kf6 44. Re8 Rc6 45. Rf8+ Kg6 46. Rg8+
+Kh5 47. Rh8+ Rh6 48. Rc8 f4+ 49. Kf2 Rc6 50. Rh8+ Kg6 51. Rg8+ Kf5 52. Rf8+ Rf6
+53. Rc8 c6 54. Ra8 c5 55. Rd8 Ke5 56. Rg8 Kd4 57. Rxg5 c4 58. Ke2 c3 59. Kd1
+Kc4 60. h4 d4 61. h5 Kd3 62. Rg6 Rf5 63. Rg2 Rxh5 64. Rd2+ Kc4 0-1

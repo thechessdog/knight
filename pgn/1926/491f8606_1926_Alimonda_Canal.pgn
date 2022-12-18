@@ -1,0 +1,20 @@
+[Event "Merano"]
+[Site "Merano"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Alimonda, Benno de"]
+[Black "Canal, Esteban"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "491f8606"]
+[Epoch "Knight"]
+[BlackCountry "PER"]
+[WhiteCountry "ITA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+Bd2 d5 9. O-O O-O 10. Nxd5 Nxd5 11. exd5 Bxd2 12. Qxd2 cxd5 13. Rfe1 Qf6 14.
+Qc3 Qxc3 15. bxc3 Bb7 16. Rab1 Bc6 17. Rb4 Rfc8 18. Reb1 Kf8 19. Ba6 Rc7 20. f3
+Ke7 21. Kf2 Kd6 22. c4 Bd7 23. Ke3 Bc8 24. Bxc8 Raxc8 25. cxd5 Rc3+ 26. Kd4 e5+
+27. Ke4 g6 28. g4 Rf8 29. g5 f5+ 30. gxf6 Rxf6 0-1

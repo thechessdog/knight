@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Jorgensen, Leon"]
+[Black "Schmidt, Wlodzimierz"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "913b952b"]
+[Epoch "Knight"]
+[BlackID "1100041"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nc6 7. Bd3 dxc4 8.
+Bxc4 Na5 9. Bd3 c5 10. Qc2 g6 11. h4 Nh5 12. g4 Nf6 13. h5 Kg7 14. hxg6 fxg6
+15. O-O-O Nd5 16. Rxh7+ Kxh7 17. Bxg6+ Kg7 18. Bh6+ Kxh6 19. Rh1+ Kg7 20. Rh7+
+Kg8 21. Bf7+ Rxf7 22. Qg6+ Kf8 23. Rh8# 1-0

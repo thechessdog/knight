@@ -1,0 +1,20 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Muilwijk"]
+[Black "Van de Tol"]
+[Result "1-0"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[HashCode "f2589420"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 O-O
+8. e3 b6 9. Bd3 Ba6 10. Nf3 Nd7 11. b3 f5 12. Bb2 c5 13. O-O Rc8 14. Rac1
+cxd4 15. exd4 Qc7 16. Qe2 Qf4 17. Rc2 Rfe8 18. Rfc1 Bb7 19. Nd2 Ndf6 20. f3
+Nxd2 21. Rxd2 Qd6 22. Rdc2 dxc4 23. bxc4 Red8 24. Qe3 Re8 25. Bc3 Red8 26.
+Bb2 Re8 27. Qg5 Kf7 28. d5 h6 29. dxe6+ Rxe6 30. Qxf5 Rc5 31. Qg6+ Kf8 32.
+Bf5 Re7 33. Bc3 a5 34. Rd2 Qf4 35. Rd8+ Re8 36. Rxe8+ Nxe8 37. Re1 1-0
+

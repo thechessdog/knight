@@ -1,0 +1,18 @@
+[Event "Treybal mem"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "11"]
+[White "Katetov, Miroslav"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[HashCode "f4b14b5c"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. g4 a6 12. h4 b5 13. Nd5 Bxd5 14. exd5 Qc7
+15. h5 Rac8 16. hxg6 fxg6 17. Bd3 Rf7 18. Qg5 Ne8 19. Rxh7 Kxh7 20. Qxg6+ Kg8
+21. Rh1 Rf6 1-0

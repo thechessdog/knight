@@ -1,0 +1,19 @@
+[Event "Kautsky mem1"]
+[Site "Prague"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Chodera, Miroslav"]
+[Black "Dobias, Josef"]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "8afc8e65"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Qd5 f5 6. Bc4 Bxf2+ 7. Ke2
+Qe7 8. Ng5 Nxg5 9. Kxf2 Ne4+ 10. Ke1 Nc6 11. Bf4 Nb4 12. Qd1 Qc5 13. Qe2 b5
+14. Bb3 Bb7 15. Be3 Qxe5 16. c3 Nc6 17. Na3 a6 18. Rd1 O-O-O 19. Rd5 Qf6
+20. Rf1 g6 21. Nc2 Rhe8 22. Kd1 Na5 23. Bd4 Qf8 24. Re5 Rxe5 25. Bxe5 Nxb3
+26. axb3 Re8 27. Bd4 Nxc3+ 28. bxc3 Rxe2 29. Kxe2 Bxg2 30. Rf2 Be4 0-1
+

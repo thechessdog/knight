@@ -1,0 +1,21 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Mazel"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "1-0"]
+[ECO "A27"]
+[Opening "English"]
+[Variation "three knights system"]
+[HashCode "0fb70db5"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Nc2 d6 7. g3 Ne5 8. Ne3
+Be6 9. Bg2 c6 10. Ne4 Ke7 11. O-O Nxc4 12. Nxc4 Bxc4 13. Bg5+ f6 14. Qd4 Bd5
+15. Bf4 Bxe4 16. Qxe4+ Kf7 17. Qb4 Qb6 18. Qxd6 Rd8 19. Qa3 Ne7 20. e4 f5 21.
+e5 Rhe8 22. Rfe1 Nd5 23. Bg5 Rc8 24. Qd6 Ne7 25. Bf1 Rcd8 26. Bc4+ Kf8 27. Qe6
+Nd5 28. Bxd8 Qxd8 29. Qd6+ Qxd6 30. exd6 Nb6 31. Rxe8+ Kxe8 32. Re1+ Kd8 33.
+Bg8 h6 34. b3 Bf8 35. Re6 g5 36. Rf6 Nd7 37. Rg6 f4 38. gxf4 gxf4 39. Bf7 b5
+40. Rg8 c5 41. Be6 1-0

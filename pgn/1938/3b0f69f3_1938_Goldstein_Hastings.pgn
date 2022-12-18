@@ -1,0 +1,23 @@
+[Event "match"]
+[Site "match"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Goldstein, M."]
+[Black "Hastings"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "3b0f69f3"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. Bd2 Bxc3 7. bxc3 Ne7 8.
+h4 Nbc6 9. Nf3 h5 10. Bd3 Nf5 11. Bxf5 exf5 12. O-O c4 13. Bg5 Qc7 14. Re1
+Be6 15. Nd2 Ne7 16. Nf1 O-O-O 17. Ng3 g6 18. Ne2 Rdg8 19. Nf4 Nc6 20. Qf3
+Qd7 21. Reb1 Kb8 22. a4 a6 23. Rb6 Ka7 24. Rab1 Rb8 25. R1b2 Ka8 26. Kh2
+Ka7 27. g3 Ka8 28. Qd1 Ka7 29. Ne2 Qc7 30. Qb1 Rhg8 31. Nf4 Rge8 32. Ng2
+Ka8 33. Ne3 Ka7 34. Qh1 Qd7 35. Qa1 Qc7 36. Qa3 Ka8 37. Rb1 Rec8 38. Nd1
+Qd7 39. Nb2 Qc7 40. a5 Re8 41. Na4 Na7 42. Nc5 Bc8 43. Nxa6 bxa6 44. Rxb8+
+Qxb8 45. Rxb8+ Kxb8 46. Qd6+ Ka8 47. Bd8 Bb7 48. Bb6 Nc8 49. Qd7 Re7 50.
+Qd8 Re6 51. Bc5 Kb8 52. Bd6+ Ka7 53. Qc7 1-0
+

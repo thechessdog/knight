@@ -1,0 +1,18 @@
+[Event "Nice-A"]
+[Site "Nice"]
+[Date "1938.09.10"]
+[Round "?"]
+[White "Roebuck, CW."]
+[Black "Hickey, J."]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "4.Bg5 Nbd7"]
+[HashCode "be238f51"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. cxd5 exd5 6. e3 c6 7. Qc2 Be7
+8. Bd3 O-O 9. Nf3 h6 10. Bf4 Re8 11. O-O Nh5 12. Nxd5 cxd5 13. Bc7 Qxc7 14.
+Qxc7 Ndf6 15. Bb5 Bg4 16. Bxe8 Rxe8 17. Ne5 Bf5 18. f3 Kh7 19. g4 Be6 20.
+gxh5 Bd8 21. Qc2+ 1-0
+

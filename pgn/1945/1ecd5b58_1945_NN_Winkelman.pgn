@@ -1,0 +1,17 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Winkelman"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "1ecd5b58"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nc6 6. Bb5 Bc5 7. Nxe4
+dxe4 8. Qxe4 O-O 9. Ne2 Re8 10. Bxc6 bxc6 11. Qxc6 Rxe5 12. Qxa8 Rxe2+ 13.
+Kd1 Bg4 14. Qxd8+ Re8# 0-1
+

@@ -1,0 +1,17 @@
+[Event "Warsaw olm"]
+[Site "Warsaw olm"]
+[Date "1935.01.01"]
+[Round "9"]
+[White "Erdelyi, Stefan"]
+[Black "Nielsen, Julius"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "9f5c49ce"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Be6 6. a3 Nge7 7. g3 Qd7 8. Bg2
+Ng6 9. Qc2 O-O-O 10. b4 Ncxe5 11. O-O d3 12. exd3 Nxd3 13. Bb2 Bh3 14. Bd4 Ndf4
+15. Be3 Bxg2 16. Bxf4 Nxf4 17. gxf4 Bxf3 0-1

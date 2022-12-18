@@ -1,0 +1,22 @@
+[Event "corr FRG"]
+[Site "corr FRG"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Seibold"]
+[Black "Rattmann, K."]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "b22b10a3"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nf6 4. g3 d5 5. exd5 Nxd5 6. Bg2 Be6 7. O-O g6
+8. Ne4 Qb6 9. Ng5 Nc7 10. Nxe6 Nxe6 11. d3 Bg7 12. c3 Rd8 13. Qc2 O-O 14.
+Be3 Qa6 15. Rfd1 Rd7 16. Bh3 Ne5 17. Nf4 g5 18. Nxe6 Nf3+ 19. Kh1 fxe6 20.
+Bg2 Qc6 21. Qe2 g4 22. Bxc5 Rd5 23. Be3 Rh5 24. Bxf3 gxf3 25. Qf1 Qd5 26.
+Re1 Qf5 27. Bd2 Rd8 28. Re4 Rxd3 29. Rf4 Qd5 30. Be3 Rf5 31. Bd4 Rd2 32.
+Rg4 e5 33. c4 Qc6 34. Bc3 Re2 35. Rd1 h5 36. Rh4 e4 37. Qh3 Qg6 38. g4 Rf4
+39. Rxh5 e3 40. Qg3 Rf8 41. Qh4 exf2 42. Rg5 Re1+ 43. Rxe1 fxe1=Q+ 44. Bxe1
+Qe4 45. Bf2 Rd8 46. h3 Rd1+ 0-1
+

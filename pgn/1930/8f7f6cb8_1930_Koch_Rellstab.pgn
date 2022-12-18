@@ -1,0 +1,19 @@
+[Event "Swinemunde"]
+[Site "Swinemunde"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Rellstab, Ludwig"]
+[Result "0-1"]
+[ECO "E10"]
+[Opening "Blumenfeld counter-gambit, Dus-Chotimursky variation"]
+[HashCode "8f7f6cb8"]
+[Epoch "Knight"]
+[BlackID "4671155"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 b5 5. Bg5 bxc4 6. Nc3 d6 7. e4 e5 8. h3 Be7
+9. Bxc4 Nbd7 10. O-O O-O 11. Qe2 Rb8 12. b3 Nb6 13. Be3 Ne8 14. Nd2 f5 15. exf5
+Nxc4 16. Nxc4 Bxf5 17. f4 exf4 18. Bxf4 Bf6 19. Rac1 Rb7 20. g4 Re7 21. Qf3 Bg6
+22. Qg3 Bd4+ 23. Kh1 Ref7 24. Nd2 Qa8 25. Kh2 Rxf4 26. Rxf4 Rxf4 0-1

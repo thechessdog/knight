@@ -1,0 +1,18 @@
+[Event "Wurzburg"]
+[Site "Wurzburg"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Bogoljubov, Efim"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "LaBourdonnais variation"]
+[HashCode "72dabfbb"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. Be3 Nf6 8.
+Nc3 O-O 9. O-O Bg4 10. d5 Ne5 11. Be2 Qe7 12. Nd4 Bxe2 13. Qxe2 Bxd4 14. Bxd4
+Rfe8 15. Rae1 a6 16. f4 Ng6 17. e5 Nd7 18. e6 Nf6 19. f5 Nf8 20. Qd3 h6 21.
+Bxf6 Qxf6 22. Ne4 Qh4 23. f6 g6 24. Qc4 Rac8 25. exf7+ Kxf7 26. Nxd6+ 1-0

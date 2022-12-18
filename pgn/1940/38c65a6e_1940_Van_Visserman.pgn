@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Van den Berg, Carel Benjamin"]
+[Black "Visserman"]
+[Result "1-0"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[HashCode "38c65a6e"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 c5 7. Bg2 cxd4 8.
+Nxd4 Nb6 9. Qd3 Bc5 10. Be3 O-O 11. Nc3 Re8 12. Rd1 e5 13. Nc2 Qxd3 14. Rxd3
+Bxe3 15. Nxe3 g6 16. a4 a5 17. Rd6 Nfd7 18. O-O f5 19. Bd5+ Nxd5 20. Nexd5 Ra6
+21. Nb5 Re6 22. Rxe6 Rxe6 23. Rc1 1-0

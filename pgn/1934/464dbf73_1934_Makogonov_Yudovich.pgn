@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1934.12.01"]
+[Round "1"]
+[White "Makogonov, Vladimir"]
+[Black "Yudovich, Mikhail Sr"]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[HashCode "464dbf73"]
+[Epoch "Knight"]
+[WhiteCountry "AZE"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 b6 7. e3 O-O 8. Bd3
+dxc4 9. Bxc4 Bb7 10. Nf3 Nbd7 11. O-O Rc8 12. b4 c5 13. dxc5 bxc5 14. Bb2 Nb6
+15. b5 Na4 16. Qb3 Nxb2 17. Qxb2 Qc7 18. Ne5 Rfd8 19. Rfd1 Rd6 20. Rxd6 Qxd6
+21. h3 Rd8 22. Rc1 Ne4 23. Nf3 Kf8 1/2-1/2

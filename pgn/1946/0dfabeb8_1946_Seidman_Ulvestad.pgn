@@ -1,0 +1,24 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Ulvestad, Olaf"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence, Bogolyubov variation"]
+[HashCode "0dfabeb8"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 e6 4. e5 Bb4 5. Be3 Nce7 6. f4 Nf5 7. Bf2 h5 8. Nf3
+c5 9. dxc5 Qa5 10. Qd2 Bd7 11. Nd4 Nxd4 12. Bxd4 Ne7 13. O-O-O Nf5 14. a3 Bxc5
+15. Bxc5 Qxc5 16. Ne4 Qb6 17. Ng5 Rc8 18. Bd3 Ne3 19. Kb1 Nxd1 20. Rxd1 g6 21.
+Qe1 Bb5 22. Nxf7 Kxf7 23. Qh4 Qd8 24. Qxd8 Rcxd8 25. Bxb5 h4 26. Kc1 g5 27. Rf1
+gxf4 28. Rxf4+ Ke7 29. Rb4 Rdg8 30. Bf1 b6 31. Kd2 Rg5 32. a4 Rxe5 33. a5 Rf8
+34. axb6 axb6 35. Bd3 Rf2+ 36. Kc3 h3 37. gxh3 Rxh2 38. Rxb6 Rxh3 39. Kd4 Reh5
+40. Kc5 Rh8 41. Rb7+ Kf6 42. b4 Ke5 43. b5 Rc8+ 44. Kb6 Kd4 45. Re7 e5 46. Kb7
+Rhh8 47. b6 e4 48. Ba6 Rxc2 49. Ka7 Rb2 50. b7 Rh6 51. Bf1 Rhb6 52. Ba6 Ke3 53.
+Re8 d4 0-1

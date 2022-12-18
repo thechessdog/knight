@@ -1,0 +1,16 @@
+[Event "Lhassa"]
+[Site "Lhassa"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Ze Dhe"]
+[Black "Hicks"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner, Heinrichsen) opening"]
+[HashCode "6a78b9d9"]
+[Epoch "Knight"]
+
+1. Nc3 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nce7 5. e4 f5 6. Bg5 h6 7. Bh4 g5 8.
+Nxe5 dxe5 9. Qh5+ Kd7 10. Bxg5 Bg7 11. Bb5+ Kd6 12. Be3 f4 13. Bxf4 exf4
+14. e5+ Kc5 15. Na4+ Kxb5 16. Qe2+ Kxa4 17. Qc4+ Ka5 18. b4+ Ka4 1-0
+

@@ -1,0 +1,16 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Ferrer"]
+[Black "Grau, Roberto"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "12b86915"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Qb3 Nc6 5. c5 Rb8 6. e3 Be7 7. Bb5 Bf6 8. Bxc6+
+bxc6 9. Qa4 Ne7 10. Nc3 O-O 11. O-O Qd7 12. Qa6 Ng6 13. b3 e5 14. dxe5 Nxe5 15.
+Nd4 Bd3 16. Qa4 Bxf1 17. Kxf1 Rfe8 18. Bd2 Qg4 19. h3 Qg6 20. Rd1 Nd3 0-1

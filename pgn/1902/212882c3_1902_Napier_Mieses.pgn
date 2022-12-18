@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "17"]
+[White "Napier, William Ewart"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "B44"]
+[Opening "Sicilian, Szen (`anti-Taimanov') variation"]
+[HashCode "212882c3"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 Nf6 6. Bf4 e5 7. Bg5 Bb4+ 8.
+N1c3 O-O 9. a3 Be7 10. Bxf6 Bxf6 11. Nd5 d6 12. Nxf6+ Qxf6 13. Qxd6 Qf4 14. Bd3
+f5 15. Bc4+ Be6 16. Qxe6+ Kh8 17. O-O Rf6 18. Qd5 Rd8 19. Qc5 a6 20. Rad1 Rdf8
+21. Nc3 Nd4 22. Rxd4 exd4 23. e5 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Paris"]
+[Black "Bern"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, main line"]
+[HashCode "15f980a2"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Ne4 5. Qxd4 d5 6. exd6 Nxd6 7. Bd3 Nc6
+8. Qf4 Be7 9. O-O Be6 10. Nc3 O-O 11. b3 Bf6 12. Bb2 Qc8 13. Rad1 Bg4 14.
+Rfe1 Bxf3 15. Qxf3 Nb4 16. Re3 Nxd3 17. Nd5 Nxb2 18. Nxf6+ Kh8 19. Rd5 h6
+20. g4 Qd8 21. g5 Rg8 22. Qh5 Qf8 23. Nxg8 Re8 24. Nxh6 gxh6 25. Qxh6+ Kg8
+26. Qxf8+ Kxf8 27. Rxe8+ 1-0
+

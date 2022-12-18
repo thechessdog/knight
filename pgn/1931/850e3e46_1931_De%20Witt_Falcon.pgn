@@ -1,0 +1,21 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "De Witt, Rodolfo"]
+[Black "Falcon"]
+[Result "0-1"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[HashCode "850e3e46"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. Nbd2 O-O 6. O-O Nbd7 7. b3 c5 8. Bb2
+Re8 9. c4 cxd4 10. Bxd4 e5 11. Bb2 d4 12. e3 dxe3 13. fxe3 Ng4 14. Re1 Qb6 15.
+c5 Nxc5 16. Nc4 Qc7 17. e4 Be6 18. Bf1 Rad8 19. Qc2 Bxc4 20. Bxc4 Ne6 21. Qe2
+h5 22. h3 Nh6 23. Bxe6 Rxe6 24. Rac1 Qb6+ 25. Qe3 Qxe3+ 26. Rxe3 Re7 27. Rec3
+f6 28. Rc7 Red7 29. Kf2 Nf7 30. Ba3 Bf8 31. Bxf8 Kxf8 32. Ke3 g5 33. h4 Rd3+
+34. Kf2 g4 35. Ne1 Rd2+ 36. Ke3 Rxa2 37. Rxb7 Rdd2 38. Rc8+ Nd8 39. Rbb8 Ke8
+40. Rc7 Re2+ 41. Kd3 0-1

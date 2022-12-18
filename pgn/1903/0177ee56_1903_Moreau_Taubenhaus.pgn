@@ -1,0 +1,24 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "16"]
+[White "Moreau, C."]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "0177ee56"]
+[Epoch "Knight"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. Nc3 Be7 6. O-O O-O 7. Bxc6 bxc6 8.
+Ne2 Rb8 9. c3 c5 10. Ng3 h6 11. h3 c6 12. Qc2 Be6 13. b3 Nd7 14. Be3 d5 15. d4
+dxe4 16. Nxe5 Nxe5 17. dxe5 Qd3 18. Rac1 c4 19. Nxe4 Qxc2 20. Rxc2 cxb3 21.
+axb3 Bxb3 22. Rd2 Bd5 23. Nc5 Rb5 24. Nd3 a5 25. Ra1 Rfb8 26. Kh2 g5 27. f3 Bc4
+28. Nf2 Be6 29. Bd4 Rd8 30. Ng4 c5 31. Be3 Kg7 32. Rxd8 Bxd8 33. Nf2 Bc7 34. f4
+Rb2 35. Bxc5 gxf4 36. Bd4 Bd5 37. c4 Rd2 38. cxd5 Rxd4 39. d6 Bd8 40. Ra2 Bh4
+41. Kg1 a4 42. Kf1 Kg6 43. Ke2 Bxf2 44. Kxf2 Kf5 45. Re2 Ke6 46. g3 fxg3+ 47.
+Kxg3 a3 48. Kf3 Ra4 49. Ra2 Ra5 50. Kf4 Ra4+ 51. Kf3 f6 52. exf6 Kxd6 53. Re2
+Ra7 54. Ra2 Ke6 55. Kg4 Kxf6 56. Kh5 Ra4 57. Rf2+ Kg7 58. Ra2 Ra5+ 59. Kg4 Kg6
+60. h4 Ra4+ 61. Kh3 Kf5 62. Kg3 Ke4 63. Kg4 Ra5 0-1

@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Petersen, Johannes"]
+[Black "Hage, Poul"]
+[Result "1-0"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "25dff442"]
+[Epoch "Knight"]
+[WhiteID "4646819"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. e3 c6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne2 Be7 10. Ng3 c5 11. O-O O-O 12. e4 cxd4 13. e5 Ne8 14. Re1 Bb7 15. Be4
+Bxe4 16. Rxe4 Nb6 17. Nxd4 Rc8 18. Be3 Nd5 19. Nb3 Nxe3 20. Rxe3 Nc7 21. Rd3
+Nd5 22. Nf5 Qc7 23. Rc1 Qb7 24. Rxc8 Rxc8 25. Rxd5 exf5 26. Rd7 Qxd7 27. Qxd7
+Rd8 28. e6 Kf8 29. Nd4 1-0

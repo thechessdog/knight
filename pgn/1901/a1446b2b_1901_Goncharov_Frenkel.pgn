@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Goncharov"]
+[Black "Frenkel"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "a1446b2b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2
+Nge7 8. Ng5 O-O 9. Qh5 h6 10. Bxf7+ 1-0
+

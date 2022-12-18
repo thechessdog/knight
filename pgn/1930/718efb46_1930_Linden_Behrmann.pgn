@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Linden"]
+[Black "Behrmann, Joachim"]
+[Result "1-0"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[HashCode "718efb46"]
+[Epoch "Knight"]
+[BlackID "4607589"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O f5 6. d4 fxe4 7. Ng5 exd4 8.
+Qxd4 Nf6 9. Nxe4 Bd7 10. Re1 Kf7 11. Bb3+ Kg6 12. Qd3 Ne5 13. Nxd6+ Nxd3 14.
+Bf7# 1-0

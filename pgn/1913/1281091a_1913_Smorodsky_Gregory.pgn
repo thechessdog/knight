@@ -1,0 +1,17 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Smorodsky"]
+[Black "Gregory, Bernhard"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "1281091a"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nge7 4. Bc4 Ng6 5. d4 Be7 6. Be3 d6 7. h3 f5 8. dxe5
+Ncxe5 9. Nxe5 Nxe5 10. Bb3 c6 11. O-O fxe4 12. Nxe4 d5 13. Qh5+ Nf7 14. Rad1 g6
+15. Qe2 Qc7 16. Ng5 O-O 17. Nxf7 Kxf7 18. Bh6 Re8 19. Rxd5 cxd5 20. Bxd5+ Kf6
+21. Qe3 Bf5 22. Qd4+ Qe5 23. Qh4+ g5 24. Qxg5# 1-0

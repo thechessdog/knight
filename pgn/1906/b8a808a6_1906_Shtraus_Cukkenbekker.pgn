@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Shtraus"]
+[Black "Cukkenbekker"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov three knights game"]
+[HashCode "b8a808a6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nd5 Nxd5 5. exd5 d6 6. c3 Bc5 7. d4 exd4
+8. Bd3 Qe7+ 9. Kd2 dxc3+ 10. bxc3 O-O 11. Re1 Qd7 12. Ng5 h6 13. Qh5 Qg4
+14. Qxf7+ Rxf7 15. Re8+ Rf8 16. Bh7+ Kh8 17. Rxf8# 1-0
+

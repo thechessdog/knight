@@ -1,0 +1,15 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Locher"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "cb45f009"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 c6 6. Be3 Bg4 7. Qf2 e6 8. h3
+Bh5 9. g4 Bg6 10. Bg5 Nxg4 0-1

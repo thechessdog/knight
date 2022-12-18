@@ -1,0 +1,17 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Kahn, Evarth Dr."]
+[Result "0-1"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "f6b0aee5"]
+[Epoch "Knight"]
+[BlackID "703257"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O d5 9. e5 Ng4 10. f4 Qh4 11. h3 Bc5+ 12. Kh1 Qg3 13. hxg4 Qh4# 0-1

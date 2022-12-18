@@ -1,0 +1,19 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Litmanowicz, Wladis"]
+[Black "Zarycki"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "64f85ee8"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. d5 e6 5. e4 exd5 6. exd5 Nf6 7. Nc3 Nbd7
+8. d6 Nb6 9. Nb5 Nfd5 10. Bxc4 Nxc4 11. Qxd5 Qa5+ 12. Nc3 Nxd6 13. O-O Be6
+14. Re1 O-O-O 15. Rxe6 fxe6 16. Qxe6+ Kb8 17. Bf4 Ka8 18. Nd5 h6 19. a4 Ne8
+20. Ne5 g5 21. Rd1 Nc7 22. Nb6+ axb6 23. Rxd8+ Ka7 24. Nc6+ bxc6 25. Bxc7
+Rh7 26. Ra8+ Kxa8 27. Qc8+ 1-0
+

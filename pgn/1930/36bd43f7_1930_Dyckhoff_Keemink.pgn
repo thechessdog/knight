@@ -1,0 +1,18 @@
+[Event "corr Bundes-ch"]
+[Site "corr Bundes-ch"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Dyckhoff"]
+[Black "Keemink"]
+[Result "1/2-1/2"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "36bd43f7"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. Nf3 Nc6 6. dxc5 Bxc5 7. Bf4 O-O
+8. e3 b6 9. Be2 Bb7 10. a3 Qc8 11. Rc1 Nh5 12. Bg5 f5 13. Qd1 h6 14. Bh4 g5
+15. Bg3 g4 16. Nh4 Nxg3 17. hxg3 Ne5 18. Nb5 Qc6 19. Nd4 Qc7 20. Nb5 Qc6
+21. Nd4 Qc7 1/2-1/2
+

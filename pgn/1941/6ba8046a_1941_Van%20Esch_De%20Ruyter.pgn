@@ -1,0 +1,15 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Van Esch, W."]
+[Black "De Ruyter, A."]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "6ba8046a"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 d5 5. Bg5 Bb4+ 6. Nd2 Nc6 7. c5 O-O
+8. a3 Re8+ 9. Ne2 Bf5 10. axb4 Nxb4 11. Rc1 Nd3# 0-1
+

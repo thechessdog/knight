@@ -1,0 +1,19 @@
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "42326c6a"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "FRA"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 a6 5. a4 f5 6. f4 Nf6 7. fxe5 dxe5 8. exf5
+Bxf5 9. Bg5 Bd6 10. Nge2 Nbd7 11. Ng3 Bg6 12. Bd3 Bxd3 13. Qxd3 Qc7 14. Nf5 O-O
+15. Nxd6 Qxd6 16. O-O c4 17. Qxc4 Qb6+ 18. Kh1 Qxb2 19. d6+ Kh8 20. Rfb1 Qxc2
+21. Rxb7 Rac8 22. Rc7 Rxc7 23. dxc7 Ne4 24. c8=Q Nf2+ 25. Kg1 Nh3+ 26. gxh3
+Qf2+ 1/2-1/2

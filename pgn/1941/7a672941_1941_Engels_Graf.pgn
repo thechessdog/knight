@@ -1,0 +1,19 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1941.03.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Graf, Sonja"]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "7a672941"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 b5 7. Bb3 Na5 8. Bc2
+c5 9. d4 Qc7 10. a4 cxd4 11. axb5 Bb7 12. cxd4 axb5 13. Nc3 Ba6 14. dxe5 dxe5
+15. Nd5 Nxd5 16. Qxd5 Rc8 17. Bd2 Qxc2 18. Qxe5+ Be7 19. Qxg7 Rf8 20. Rxa5 Qc6
+21. Qe5 Rg8 22. Bb4 Rc7 23. Rxa6 1-0

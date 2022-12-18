@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Moskowitz, Jack"]
+[Black "Platz, Joseph"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "0995e2ec"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. a4 Rb8 11. axb5 axb5 12. Ra6 Qd7 13. Nbd2 Nc5 14. Ra1 O-O 15.
+Qe2 b4 16. Bc2 b3 17. Bb1 d4 18. Ne4 d3 19. Qe3 Nxe4 20. Qxe4 Rfd8 21. Bxd3
+Qxd3 22. Qxc6 Bd5 23. Qxc7 Bxf3 24. gxf3 Qxf3 25. Ra4 Rb7 26. Qc4 Rb6 27. Bf4
+h5 28. Bg3 Rd1 29. Rxd1 Qxd1+ 30. Kg2 h4 31. Bxh4 Bxh4 32. Qc8+ Bd8 0-1

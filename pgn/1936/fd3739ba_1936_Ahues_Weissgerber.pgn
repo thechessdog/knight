@@ -1,0 +1,20 @@
+[Event "Bad Nauheim"]
+[Site "Bad Nauheim"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Ahues, Carl Oscar"]
+[Black "Weissgerber, Gerhard"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[HashCode "fd3739ba"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d3 Bg4 11. Nbd2 O-O 12. Nf1 Nc6 13. Ne3 Bh5 14. h3 d5 15. Qe2
+d4 16. Nf5 Nd7 17. g4 Bg6 18. Kh1 Nb6 19. Rg1 Kh8 20. h4 f6 21. Rg2 Bf7 22. h5
+Qd7 23. N3h4 Rfd8 24. g5 c4 25. g6 cxd3 26. Bxd3 Be6 27. h6 Bf8 28. Qh5 Bg8 29.
+hxg7+ Bxg7 30. Bh6 Bxh6 31. g7+ Bxg7 32. Ng6# 1-0

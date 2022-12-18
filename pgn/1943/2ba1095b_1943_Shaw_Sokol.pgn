@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Shaw, S."]
+[Black "Sokol, P."]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Lolli gambit (wild Muzio gambit)"]
+[HashCode "2ba1095b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Bxf7+ Kxf7 6. Ne5+ Ke8 7. Qxg4
+Nf6 8. Qxf4 d6 9. Nc4 Rg8 10. O-O Be7 11. d4 Rg4 12. Qh6 Rg6 13. Qh4 Qd7
+14. Ne3 Qh3 15. Qf4 Qh5 16. Nc3 Nc6 17. Ncd5 Nxd4 18. Qf2 Ne2+ 0-1
+

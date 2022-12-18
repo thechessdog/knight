@@ -1,0 +1,17 @@
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Sereda, Victor"]
+[Black "Gambarashvilli"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[HashCode "45c2f8f8"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 b6 5. Nbd2 Nc6 6. b3 cxd4 7. exd4 Bb7
+8. O-O Nd5 9. c4 Nf4 10. Bb1 Nxd4 11. Bb2 Nde2+ 12. Kh1 Qg5 13. Rg1 Qg4 14.
+h3 Qh5 15. Be4 Bxe4 16. Nxe4 Nxh3 17. Nh2 Nxf2+ 18. Nxf2 Ng3# 0-1
+

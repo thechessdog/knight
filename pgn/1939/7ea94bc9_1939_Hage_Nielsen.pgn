@@ -1,0 +1,18 @@
+[Event "DEN-ch"]
+[Site "Naestved"]
+[Date "1939.04.08"]
+[Round "7"]
+[White "Hage, Poul"]
+[Black "Nielsen, Julius"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "Svenonius variation"]
+[HashCode "7ea94bc9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d5
+8. Bxc6 bxc6 9. Nxe5 Qd6 10. Bf4 Re8 11. exd5 Rxe5 12. d4 Re1 13. Bxd6 Rxd1
+14. Rfxd1 cxd6 15. dxc6 Be6 16. Rab1 Kf8 17. c7 Rc8 18. Rb7 a6 19. Rb6 Rxc7
+20. Rxd6 Bxa2 21. Rxa6 Be6 1/2-1/2
+

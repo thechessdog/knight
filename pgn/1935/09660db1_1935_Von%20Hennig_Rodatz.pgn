@@ -1,0 +1,19 @@
+[Event "Luneburg"]
+[Site "Luneburg"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Von Hennig, Heinric"]
+[Black "Rodatz"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein, Capablanca line"]
+[HashCode "09660db1"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5
+Be7 8. Bd3 O-O 9. O-O c5 10. dxc5 Qc7 11. Re1 Bxc5 12. Bf4 Bd6 13. Bg3 Rd8
+14. Qf3 Bd7 15. Re2 Be8 16. Rae1 Rab8 17. Bh4 Be7 18. Qh3 h6 19. Re3 Nd5
+20. Bxe7 Qxe7 21. Rg3 Kh8 22. Re4 Nf6 23. Rh4 Qf8 24. Rf3 Rd5 25. Rxf6 Rxe5
+26. Rfxh6+ gxh6 27. Rxh6+ Kg7 28. Rh7+ Kf6 29. Qh4+ 1-0
+

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Menke, G."]
+[Black "Busch"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen-Richter variation"]
+[HashCode "c8b61071"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4 O-O
+8. Bd3 f5 9. Qh3 c5 10. dxc5 Nc6 11. f4 Bxc5 12. a3 Bd7 13. g4 Ne7 14. Nf3
+Qb6 15. gxf5 Nxf5 16. Nd1 Rac8 17. Rf1 Be7 18. c3 Bb5 19. Ng1 Bh4+ 20. Ke2
+d4 21. Bxb5 Qxb5+ 22. Qd3 Qa4 23. Nf3 dxc3 0-1
+

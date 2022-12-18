@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "15"]
+[White "Taubenhaus, Jean"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "81e936df"]
+[Epoch "Knight"]
+[BlackCountry "ROU"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. exf6 Nxf6 13. Ng5 Bg4 14. Ndf3 h6 15.
+h3 Bc8 16. Qd3 hxg5 17. Bxg5 Qd7 18. b4 Bxb4 19. Bxf6 gxf6 20. Bb3 Rd8 21. cxb4
+Ne5 22. Nxe5 fxe5 23. Rfe1 Qe7 24. f4 e4 25. Rxe4 Bf5 26. Qxd5+ Rxd5 27. Bxd5+
+Qf7 28. Bxf7+ Kxf7 29. Re5 Be6 1-0

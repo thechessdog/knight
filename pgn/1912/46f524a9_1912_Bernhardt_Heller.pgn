@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Bernhardt, Rolf"]
+[Black "Heller"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "46f524a9"]
+[Epoch "Knight"]
+[WhiteID "4600800"]
+[WhiteCountry "GER"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bb4 6. a3 Bxd2+ 7. Bxd2 Bg4 8.
+Qb3 Nge7 9. g3 d3 10. h3 Bxf3 11. exf3 Nxe5 12. Bg2 N7c6 13. f4 Nd4 14. Qxb7
+Nc2+ 15. Kd1 Rb8 16. Qe4 O-O 17. Ra2 Qd7 18. a4 Rxb2 0-1

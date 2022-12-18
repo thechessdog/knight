@@ -1,0 +1,17 @@
+[Event "Naestved"]
+[Site "Naestved"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Enevoldsen, Harald"]
+[Black "Bager, A."]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Spielmann variation"]
+[HashCode "eefe2946"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6 fxe6 5. d4 c5 6. Bd3 Nf6 7. Bf4 c4 8. Be2
+Nc6 9. Nf3 g6 10. Ne5 Bg7 11. Qd2 Qa5 12. h4 Nxe5 13. Bxe5 Bd7 14. O-O O-O 15.
+Rae1 Ne8 16. h5 Nd6 17. hxg6 hxg6 18. Qg5 Ne4 19. Nxe4 dxe4 20. Qxg6 1-0

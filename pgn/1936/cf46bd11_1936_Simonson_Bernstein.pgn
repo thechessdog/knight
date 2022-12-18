@@ -1,0 +1,21 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1936.01.01"]
+[Round "11"]
+[White "Simonson, Albert"]
+[Black "Bernstein, Sidney Norman"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "cf46bd11"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 e5 4. Nxe5 Nxe5 5. dxe5 d4 6. e3 Bc5 7. f4 Nh6 8. e4
+d3 9. Qxd3 Ng4 10. Qxd8+ Kxd8 11. Be2 Nf2 12. Rf1 Nxe4 13. Bf3 f5 14. Nd2 Be6
+15. Nxe4 fxe4 16. Bxe4 Bxc4 17. Rf3 Bd4 18. Be3 Bxb2 19. Rb1 Bc3+ 20. Kf2 Ba6
+21. Bxb7 Bxb7 22. Rxb7 Kd7 23. Rxa7 Rhb8 24. Rxa8 Rxa8 25. Rg3 Rxa2+ 26. Kf3 g6
+27. Rh3 h5 28. g4 hxg4+ 29. Kxg4 Rg2+ 30. Kf3 Ra2 31. Rh7+ Ke6 32. Rxc7 Bxe5
+33. fxe5 Kxe5 34. Bf4+ Kf5 35. Rc5+ Kf6 36. Kg4 Rg2+ 37. Bg3 Ra2 38. Rc6+ Kf7
+39. Be5 1-0

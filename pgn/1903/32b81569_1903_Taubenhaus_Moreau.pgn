@@ -1,0 +1,18 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "3"]
+[White "Taubenhaus, Jean"]
+[Black "Moreau, C."]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "closed Berlin defence, Wolf variation"]
+[HashCode "32b81569"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 exd4 7. Nxd4 Nxd4 8.
+Qxd4 Bxb5 9. Nxb5 a6 10. Nc3 Be7 11. b3 Qd7 12. Bb2 O-O 13. Rad1 Qg4 14. f4
+Rad8 15. Rf3 c5 16. Qe3 Nh5 17. Nd5 Rfe8 18. e5 Qc8 19. Rh3 g6 20. Qc3 dxe5 21.
+Rxh5 Rxd5 22. Rxd5 gxh5 23. Rxe5 f6 24. Rxh5 Qg4 25. Rg5+ 1-0

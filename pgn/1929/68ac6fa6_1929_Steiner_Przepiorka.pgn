@@ -1,0 +1,30 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Steiner, Endre"]
+[Black "Przepiorka, Dawid"]
+[Result "0-1"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Alapin variation"]
+[HashCode "68ac6fa6"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. O-O Ne7 8.
+dxe5 fxe5 9. Bg5 h6 10. Bh4 Qd7 11. Nxe5 dxe5 12. Qh5+ g6 13. Qxe5 Kf7 14. Nc3
+Bg7 15. Qa5 Rd8 16. Rad1 Bd4 17. Ne2 c5 18. c3 g5 19. Bg3 Qg4 20. Nc1 Bxc3 21.
+Qa4 Rxd1 22. Rxd1 Bd4 23. Re1 Qd7 24. Qb3+ Qe6 25. Qf3+ Kg7 26. Nb3 Bb7 27.
+Nxc5 Bxc5 28. Qc3+ Kf7 29. Qxc5 Rd8 30. h4 gxh4 31. Bxh4 Rd7 32. Bg3 Qc6 33.
+Qh5+ Qg6 34. Qf3+ Ke8 35. Qe3 Nc8 36. Qc3 Rg7 37. Qb4 Qb6 38. Qc3 Qg6 39. Qe5+
+Re7 40. Qh8+ Kf7 41. Qd8 Rxe4 42. Qxc7+ Ne7 43. Rd1 Bc6 44. f3 Re6 45. Rd4 h5
+46. Kh2 Kg8 47. Rd8+ Be8 48. Qb8 Nf5 49. Bf2 Kh7 50. Rd2 Re7 51. Qf4 Rg7 52.
+Be1 Bb5 53. Kg1 Re7 54. Bf2 Rf7 55. a4 Bc6 56. Kh2 Rg7 57. Be1 Rf7 58. Bf2 Nh6
+59. Qh4 Rg7 60. Qh3 Nf5 61. b3 Qg5 62. Re2 Qf4+ 63. Kh1 h4 64. Rc2 Bd5 65. b4
+Be6 66. Re2 Rg3 67. Qh2 Bd5 68. Kg1 Kg6 69. b5 axb5 70. axb5 Bxf3 71. Bxg3 hxg3
+72. Re6+ Kf7 73. Qh7+ Kxe6 74. Qg8+ Ke5 75. Qb8+ Nd6 76. Qh8+ Kd5 77. Qa8+ Ke5
+78. gxf3 Qe3+ 79. Kg2 Qf2+ 80. Kh3 Qh2+ 81. Kg4 g2 82. Qa1+ Ke6 83. Qa2+ Ke7
+84. Qa7+ Kf6 85. Qa1+ Kg6 86. Qb1+ Kf7 87. Qa2+ Kf8 88. Qa8+ Ne8 89. Qa3+ Qd6
+90. Qe3 g1=Q+ 0-1

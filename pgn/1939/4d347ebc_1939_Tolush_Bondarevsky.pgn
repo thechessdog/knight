@@ -1,0 +1,22 @@
+[Event "Leningrad/Moscow"]
+[Site "Leningrad"]
+[Date "1939.01.01"]
+[Round "9"]
+[White "Tolush, Alexander"]
+[Black "Bondarevsky, Igor"]
+[Result "1-0"]
+[ECO "B26"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Be3"]
+[HashCode "4d347ebc"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 e6 7. Qd2 Nd4 8. Nd1
+Ne7 9. c3 Ndc6 10. Bh6 O-O 11. h4 Bxh6 12. Qxh6 Kh8 13. Qd2 Ng8 14. Nh3 e5 15.
+h5 Bxh3 16. hxg6 fxg6 17. Rxh3 b5 18. Ne3 Qg5 19. O-O-O b4 20. Rdh1 Rf7 21. f4
+bxc3 22. bxc3 Qd8 23. Bf3 Rb8 24. Qh2 Rbb7 25. f5 g5 26. Bh5 Rfd7 27. Bg6 Nf6
+28. Nd5 Ng4 29. Qe2 Qa5 30. Qxg4 Qa3+ 31. Kd2 Nd4 32. Ke3 Nc2+ 33. Kf3 Qa6 34.
+Qxg5 Qxd3+ 35. Ne3 Qxe3+ 36. Qxe3 Nxe3 37. Kxe3 Kg8 38. Be8 Re7 39. Bc6 Rb2 40.
+Bd5+ 1-0

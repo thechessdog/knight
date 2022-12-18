@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Gastaldi"]
+[Black "Porreca"]
+[Result "0-1"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "d3c0535a"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 Nfd7 6. Be3 e5 7. Qd2 O-O 8.
+Nge2 Nc6 9. d5 Ne7 10. g4 f5 11. gxf5 gxf5 12. f4 exf4 13. Nxf4 Ne5 14.
+O-O-O fxe4 15. Qg2 Ng4 16. Rg1 Ng6 17. Qxe4 Nxe3 18. Ne6 Nxf1 19. Nxd8 Bh6+
+20. Kb1 Nd2+ 21. Rxd2 Rxd8 0-1
+

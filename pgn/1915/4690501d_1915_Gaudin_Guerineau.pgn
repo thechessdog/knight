@@ -1,0 +1,17 @@
+[Event "Bordeaux"]
+[Site "Bordeaux"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Gaudin"]
+[Black "Guerineau"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "4690501d"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 e6 7. h4 h6 8.
+Ne5 Bh7 9. Be2 Nd7 10. Bf4 Ngf6 11. Bf3 Nd5 12. Bxd5 exd5 13. Qe2 Qe7 14.
+O-O O-O-O 15. Nxc6 bxc6 16. Qa6# 1-0
+

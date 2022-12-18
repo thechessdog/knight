@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Decker, Arnold Sheldon"]
+[Black "Avram, Herbert"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Rubinstein variation"]
+[HashCode "9f472191"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 Bf8 12. g4 Qd5 13. Nxf7 Kxf7 14. Ng5+
+Kg8 15. Nxe6 Ne5 16. f7+ Kxf7 17. Ng5+ Kg8 18. Rxe5 Qxe5 19. Qf3 1-0

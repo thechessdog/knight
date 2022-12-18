@@ -1,0 +1,21 @@
+[Event "Treybal mem"]
+[Site "Prague"]
+[Date "1946.01.01"]
+[Round "4"]
+[White "Kottnauer, Cenek"]
+[Black "Stoltz, Gösta"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e2fe0c0f"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "SWE"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. d4 Be7 5. Nf3 O-O 6. O-O b6 7. cxd5 Nxd5 8. e4
+Nf6 9. Nc3 Bb7 10. Qc2 Nc6 11. Rd1 Nb4 12. Qb1 Qc8 13. a3 Na6 14. b4 c5 15.
+dxc5 bxc5 16. b5 Nc7 17. Bf4 a6 18. b6 Nb5 19. Nxb5 axb5 20. Qxb5 Bc6 21. Qf1
+Qb7 22. Ne5 Ba4 23. Rdb1 Nxe4 24. Qc4 f5 25. Qxe6+ Kh8 26. Nf7+ Rxf7 27. Qxf7
+Rf8 28. Qc4 Bc6 29. a4 Bf6 30. a5 Bd4 31. Bxe4 Bxe4 32. a6 Qc6 33. b7 Bxb1 34.
+Rxb1 Qe4 35. b8=Q 1-0

@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Ropstorff"]
+[Black "Plensat"]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "384ef430"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 exd4 6. Nxd4 Nxd4 7. Bxd7+
+Qxd7 8. Qxd4 Ne7 9. O-O Nc6 10. Qe3 Be7 11. Qg3 Bf6 12. Nd5 Be5 13. f4 Bd4+
+14. Kh1 O-O-O 15. c3 Bf6 16. b4 Ne7 17. Qd3 Nxd5 18. exd5 c6 19. Be3 b6 20.
+a4 cxd5 21. b5 Rhe8 22. a5 d4 23. cxd4 d5 24. axb6 axb6 25. Rfc1+ Kb7 26.
+Rc6 Ra8 27. Rac1 Rec8 28. f5 Qe7 29. Bf4 Rxc6 30. bxc6+ Kc8 31. Qb5 Bxd4
+32. Qxd5 Bc5 33. Bg5 Qe8 34. c7 Ra7 35. Qd8+ 1-0
+

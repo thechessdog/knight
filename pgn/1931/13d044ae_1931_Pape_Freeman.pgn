@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Pape"]
+[Black "Freeman"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[HashCode "13d044ae"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c6 4. e3 Qb6 5. Bd3 Qxb2 6. Nbd2 Qb6 7. O-O e6
+8. e4 dxe4 9. Nxe4 Nxe4 10. Bxe4 Nd7 11. Qe2 Nf6 12. Bd3 Be7 13. Be5 O-O
+14. Ng5 g6 15. Qf3 Qd8 16. Qh3 h5 17. g4 Nxg4 18. Qxh5 1-0
+

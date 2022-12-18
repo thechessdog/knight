@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Soyka"]
+[Black "Kolta"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "3272215f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. g3 g6 3. Bg2 Bg7 4. Ne2 Ne7 5. d3 Nbc6 6. O-O O-O 7. f4 exf4 8.
+Bxf4 Bxb2 9. Nd2 Bxa1 10. Qxa1 f6 11. Bh6 Rf7 12. Rxf6 Qe8 13. Nf3 Rxf6 14.
+Qxf6 Qf7 15. Qc3 d5 16. Ng5 d4 17. Nxd4 Qf6 18. Nxc6 Qxc3 19. Nxe7+ Kh8 20.
+Nf7# 1-0
+

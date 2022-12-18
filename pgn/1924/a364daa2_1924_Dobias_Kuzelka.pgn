@@ -1,0 +1,20 @@
+[Event "Kautsky mem1"]
+[Site "Prague"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Dobias, Josef"]
+[Black "Kuzelka, J."]
+[Result "0-1"]
+[ECO "B16"]
+[Opening "Caro-Kann"]
+[Variation "Bronstein-Larsen variation"]
+[HashCode "a364daa2"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 Bf5 7. Ne2
+e6 8. Ng3 Bg6 9. c3 Qc7 10. Qf3 Nd7 11. Bf4 Bd6 12. Bxd6 Qxd6 13. O-O O-O-O
+14. a4 h5 15. a5 h4 16. Ne4 Bxe4 17. Qxe4 f5 18. Qe2 Rdg8 19. Ra3 Rg6 20.
+f4 Rhg8 21. Rf2 Rg4 22. Rb3 Rxf4 23. Ba6 bxa6 24. Qxa6+ Kd8 25. Rd2 Ke7 26.
+Qxa7 Re4 27. Rb7 Rd8 28. Qa6 Qf4 29. Rd1 Qe3+ 30. Kh1 h3 31. Qf1 Rf4 32.
+Qg1 Rf2 33. d5 cxd5 34. Rd3 0-1
+

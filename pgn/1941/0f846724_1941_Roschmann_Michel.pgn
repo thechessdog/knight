@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Roschmann"]
+[Black "Michel, Paul"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "0f846724"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 e5 2. d5 Nf6 3. c4 Bc5 4. Nc3 d6 5. h3 Nbd7 6. e4 Bb4 7. Bg5 h6 8. Bxf6
+Qxf6 9. Bd3 Nc5 10. Bc2 Qg6 11. Qf3 O-O 12. Ne2 f5 13. exf5 Bxf5 14. Bxf5 Rxf5
+15. Qe3 Rxf2 16. O-O-O Raf8 17. Rhg1 a5 18. Rd2 Rf1+ 19. Rd1 Nd3+ 20. Kb1 Nf2+
+21. Ka1 Nxd1 22. Nxd1 Qc2 23. Nc3 Bxc3 24. bxc3 R8f2 25. Qxf2 Qc1# 0-1

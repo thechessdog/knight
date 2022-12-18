@@ -1,0 +1,18 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1942.03.01"]
+[Round "15"]
+[White "Rossetto, Hector"]
+[Black "Michel, Paul"]
+[Result "1/2-1/2"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "48a2584e"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd2 O-O
+8. Bd3 d5 9. O-O Bxc3 10. Bxc3 Nxe4 11. Bxe4 dxe4 12. Re1 Qxd1 13. Raxd1 Bf5
+14. Rd4 Rfe8 1/2-1/2

@@ -1,0 +1,21 @@
+[Event "Londen I"]
+[Site "Londen I"]
+[Date "1946.05.01"]
+[Round "6"]
+[White "Opocensky, Karel"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "47faf653"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 c5 8. dxc5
+Qa5 9. Nbd2 Qxc5 10. Nxc4 Nc6 11. Be3 Qb5 12. a4 Qa6 13. Nfe5 Bd7 14. Nxd7 Nxd7
+15. Qb3 Nb4 16. Rfd1 Rad8 17. Bg5 Bxg5 18. Qxb4 Nb6 19. Nxb6 Qxb6 20. Qxb6 axb6
+21. b3 Bd2 22. Bxb7 g6 23. Ba6 Kg7 24. Ra2 Bb4 25. Rxd8 Rxd8 26. Rc2 Rd1+ 27.
+Kg2 Rb1 28. Rc6 Ba5 29. Bc4 h5 30. h4 Kf6 31. f4 Rb2 32. Rc8 Kg7 33. Rb8 Kf6
+34. Rb7 Rd2 35. Kf3 Rd1 36. e4 Rg1 37. e5+ Kg7 38. Bxe6 Rc1 39. Bxf7 1-0

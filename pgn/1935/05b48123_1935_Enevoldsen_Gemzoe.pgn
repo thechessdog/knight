@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Enevoldsen, Jens"]
+[Black "Gemzoe, Jacob"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "05b48123"]
+[Epoch "Knight"]
+[BlackID "1412396"]
+[BlackCountry "DEN"]
+[WhiteCountry "DNK"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Be7 5. Nc3 O-O 6. e3 Nbd7 7. Qc2 c5 8. Rd1
+cxd4 9. exd4 dxc4 10. Bxc4 Nb6 11. Bb3 Bd7 12. O-O Bc6 13. Ne5 Bd5 14. Nxd5
+Nfxd5 15. Bc1 Rc8 16. Qe4 Qc7 17. f4 Nf6 18. Qf3 Bd6 19. f5 exf5 20. Qxf5 Nbd5
+21. Bg5 h6 22. Rc1 Qb6 23. Rxc8 Qxd4+ 24. Kh1 hxg5 25. Rxf8+ Bxf8 26. Nxf7 1-0

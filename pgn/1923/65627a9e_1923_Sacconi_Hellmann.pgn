@@ -1,0 +1,18 @@
+[Event "Trieste-ch"]
+[Site "Trieste"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Sacconi, Antonio"]
+[Black "Hellmann, Ernesto"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "65627a9e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5
+8. Ne5 O-O 9. Bxc6 bxc6 10. exd5 Qxd5 11. Be3 Ba6 12. Nc3 Qe6 13. Re1 Rad8
+14. Qa4 Bc8 15. Bg5 Rxd4 16. Qa3 Rd6 17. Nf3 Qf5 18. Bxe7 Rg6 19. Ne4 Qh3
+20. Ng3 Rxg3 21. hxg3 Qxg3 22. Bc5 Qg6 23. Bxb6 axb6 24. Rad1 h5 1-0
+

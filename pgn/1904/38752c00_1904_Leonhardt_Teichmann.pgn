@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Leonhardt, Paul Saladin"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "38752c00"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 g3 11. d4 Ng4 12. Nd2 Qxh4 13. Nf3 Qh6 14. Rxe5+ Kd8 15.
+Qe1 Nf2 16. Kf1 Bg4 17. Ng1 Nd7 18. d6 cxd6 19. Re7 Be6 20. Rxe6 fxe6 21. Qxe6
+Qxe6 22. Bxe6 Re8 23. Bd5 Nf6 24. Bxb7 N6g4 25. Ne2 Rb8 26. Ba6 Rb6 27. Bc4 d5
+28. Bxd5 Nd3 0-1

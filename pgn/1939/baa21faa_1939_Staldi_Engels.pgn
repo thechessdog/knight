@@ -1,0 +1,25 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1939.05.01"]
+[Round "8"]
+[White "Staldi, Cherubino"]
+[Black "Engels, Ludwig"]
+[Result "1-0"]
+[ECO "A82"]
+[Opening "Dutch"]
+[Variation "Staunton gambit"]
+[HashCode "baa21faa"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 g6 4. Nxe4 d5 5. Ng3 Bg7 6. h4 Nc6 7. c3 Qd6 8. f4
+Nh6 9. Be2 O-O 10. Nf3 Ng4 11. Ne5 Bxe5 12. dxe5 Ncxe5 13. Rf1 Bd7 14. a4 c5
+15. Nh1 Kg7 16. g3 h5 17. fxe5 Rxf1+ 18. Bxf1 Qxe5+ 19. Qe2 Qd6 20. Bg5 Re8 21.
+Bg2 e5 22. c4 d4 23. Be4 Rf8 24. b3 Bc6 25. O-O-O Rf7 26. Bd2 b6 27. Qg2 Bxe4
+28. Qxe4 Qf6 29. Kc2 Qf3 30. Re1 a5 31. Qxf3 Rxf3 32. Bg5 Rc3+ 33. Kb2 Rd3 34.
+Bd8 Rd2+ 35. Kc1 Rh2 36. Bxb6 Ne3 37. Bxc5 Rc2+ 38. Kb1 Rc3 39. Bd6 Kf6 40. Nf2
+Rxb3+ 41. Ka2 Rb7 42. Ne4+ Kf5 43. Nd2 Ke6 44. Ba3 Rc7 45. Rc1 Rc6 46. Bf8 Rc8
+47. Ba3 Rc6 48. c5 Kd5 49. Nb3 d3 50. Nxa5 d2 51. Nxc6 Kxc6 52. Kb3 dxc1=Q 53.
+Bxc1 Nf5 54. Kc4 Nxg3 55. a5 Nf5 56. Bg5 Nd4 57. a6 Nb5 58. Kd3 Nc7 59. a7 Kb7
+60. Bd8 Nb5 61. Bb6 Nxa7 62. Bxa7 Kxa7 63. Ke4 Kb7 64. Kxe5 Kc6 65. Kd4 Kb7 66.
+Kd5 Ka7 67. Kd6 g5 68. c6 gxh4 69. c7 h3 70. c8=Q 1-0

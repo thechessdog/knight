@@ -1,0 +1,21 @@
+[Event "Hampstead"]
+[Site "Hampstead"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Solomon"]
+[Black "Beach, S."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Tartakower variation"]
+[HashCode "c17732a9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Qe2 Nc5 7. Bxc6
+dxc6 8. d4 Ne6 9. dxe5 Bc5 10. Be3 Bxe3 11. Qxe3 O-O 12. Nc3 Qe7 13. Ne4
+Bd7 14. Nfd2 c5 15. c3 Bb5 16. f4 Rad8 17. Qg3 Bxf1 18. Rxf1 Rxd2 19. Nxd2
+f5 20. Qf3 Rd8 21. Nc4 b5 22. Ne3 g6 23. Nd5 Qf7 24. Nf6+ Kg7 25. g4 fxg4
+26. Qxg4 c4 27. f5 Nf8 28. Qg5 Rd3 29. Nh5+ Kg8 30. e6 Nxe6 31. fxe6 Qxe6
+32. Nf6+ Kg7 33. Ng4 Qb6+ 34. Rf2 Rd1+ 35. Kg2 Qc6+ 36. Kh3 Rd3+ 37. Kh4
+Rf3 38. Qe5+ 1-0
+

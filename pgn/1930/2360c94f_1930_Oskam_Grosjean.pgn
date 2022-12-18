@@ -1,0 +1,16 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Oskam, Gerard"]
+[Black "Grosjean"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Wing gambit"]
+[HashCode "2360c94f"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Bc4 Bc5 3. b4 Bb6 4. Nc3 Nf6 5. Nf3 Nxe4 6. Bxf7+ Kxf7 7. Nxe5+ Ke6
+8. Nxe4 Kxe5 9. Bb2+ Kxe4 10. Qf3# 1-0

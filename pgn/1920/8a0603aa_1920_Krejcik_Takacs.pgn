@@ -1,0 +1,15 @@
+[Event "Vienna blitz"]
+[Site "Vienna blitz"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "Takacs, Sandor"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "8a0603aa"]
+[Epoch "Knight"]
+[BlackID "791601"]
+[BlackCountry "HUN"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Qd5 4. d3 exd3 5. Bxd3 Qxg2 6. Be4 1-0

@@ -1,0 +1,18 @@
+[Event "Hastings3233"]
+[Site "Hastings"]
+[Date "1932.12.01"]
+[Round "2"]
+[White "Tylor, Theodore Henry"]
+[Black "Jackson, Edward Mackenzie"]
+[Result "0-1"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "0689b29d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 b6 8. e3
+Bb7 9. Be2 Rc8 10. a3 Be7 11. Qc2 O-O 12. O-O Na5 13. Nd2 d5 14. Rfd1 Qe8 15.
+Bxf6 Bxf6 16. Nb5 Qxb5 0-1

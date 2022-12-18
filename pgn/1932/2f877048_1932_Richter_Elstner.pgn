@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Elstner"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "2f877048"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[WhiteCountry "GER"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 O-O 7. a3 Bxc3+ 8.
+Nxc3 d5 9. e5 Nfd7 10. Bd3 Nxe5 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Qxe5 Nc6 14.
+Qg3 Qf6 15. O-O Nd4 16. Bg5 Qg6 17. Qf4 Nc6 18. Qd2 Ne5 19. f4 Nc4 20. Qe2 f6
+21. Bh4 Qf7 22. Ne4 Nxb2 23. Nxf6+ gxf6 24. Rf3 Rd8 25. f5 e5 26. Rg3+ Kf8 27.
+Qd2 Ke8 28. Qh6 Qf8 29. Rg7 Rd7 30. Qg6+ Rf7 31. Rg8 Qxg8 32. Qxg8+ Ke7 33. g4
+Nc4 34. g5 Nd6 35. g6 Rf8 36. Qh7+ Nf7 37. Qg7 Bxf5 38. Qxf6+ 1-0

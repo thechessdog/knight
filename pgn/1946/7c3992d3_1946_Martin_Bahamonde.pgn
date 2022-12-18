@@ -1,0 +1,18 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Bahamonde, Antonio"]
+[Result "1-0"]
+[ECO "B71"]
+[Opening "Sicilian"]
+[Variation "dragon, Levenfish variation"]
+[HashCode "7c3992d3"]
+[Epoch "Knight"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Bg7 7. e5 dxe5 8.
+fxe5 Ng4 9. Bb5+ Nc6 10. Nxc6 Qxd1+ 11. Nxd1 a6 12. Ba4 Bd7 13. h3 Nh6 14. e6
+fxe6 15. Nd4 Bxd4 16. Bxd7+ Kxd7 17. Bxh6 g5 18. Bxg5 Rhg8 19. Be3 1-0

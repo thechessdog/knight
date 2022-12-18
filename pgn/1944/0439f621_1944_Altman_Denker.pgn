@@ -1,0 +1,17 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Altman, B."]
+[Black "Decker, Arnold Sheldon"]
+[Result "1/2-1/2"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[HashCode "0439f621"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8.
+O-O Nc6 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Bd3 Bxd3 13. cxd3 Nxb3 14. Qxb3
+Ng4 1/2-1/2

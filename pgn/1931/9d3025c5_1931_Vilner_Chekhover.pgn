@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Vilner, Yakov S"]
+[Black "Chekhover, Vitaly"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "9d3025c5"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Nc6 5. Bc4 d6 6. Nf3 Be7 7. O-O Nh6 8. h3
+O-O 9. Nc3 Kh8 10. g4 Ng8 11. b3 Be6 12. Be2 f6 13. Bb2 Bf7 14. Nd5 Qd7 15. Qe1
+Rae8 16. Qg3 Bd8 17. Bd3 Nce7 18. Nxe7 Bxe7 19. Rae1 Qd8 20. Qh4 f5 21. g5 Bg6
+22. exf5 Bxf5 23. Nd4 Nh6 24. Ne6 Bxg5 25. fxg5 Rxe6 26. Rxe6 Bxe6 27. Bxg7+
+Kg8 28. Bxh7+ 1-0

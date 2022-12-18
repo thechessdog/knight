@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "MacMurray, Donald"]
+[Black "Kussman, A."]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "30675359"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Kf8 6. Bb3 d5 7. O-O h6 8.
+exd5 hxg5 9. dxc6 e4 10. d3 Qd6 11. g3 Bg4 12. cxb7 Rb8 13. Qd2 Qxg3+ 14. hxg3
+Bf3 0-1

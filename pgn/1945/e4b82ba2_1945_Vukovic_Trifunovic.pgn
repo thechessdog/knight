@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "14"]
+[White "Vukovic, Sava"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "e4b82ba2"]
+[Epoch "Knight"]
+[WhiteID "941387"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. Bf4 dxc4 7. e3 Bd6 8. Be5
+Nb4 9. Qd1 Nd3+ 10. Bxd3 cxd3 11. Qxd3 O-O 12. O-O b6 13. Qc2 h6 14. Ne4 Nxe4
+15. Qxe4 Rb8 16. Rfc1 Bb7 17. Qf4 Rc8 18. Rc3 Bxf3 19. gxf3 f6 20. Bxd6 Qxd6
+21. Qxd6 cxd6 22. Rac1 Rxc3 23. Rxc3 Rf7 24. Rc8+ Kh7 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Wildermann, W."]
+[Black "Kelley, V."]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[HashCode "f997ffc3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Nd5 Nxd5 7. Bxd5 O-O
+8. a3 Kh8 9. h4 f5 10. h5 Ne7 11. Bg5 c6 12. Bxe7 Qxe7 13. Nh4 Rf6 14. Ng6+
+Rxg6 15. hxg6 cxd5 16. Rxh7+ Kg8 17. Rh8+ Kxh8 18. Qh5+ Kg8 19. Qh7+ Kf8
+20. Qh8# 1-0
+

@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Adams, Weaver Warren"]
+[Black "Shainswit, George"]
+[Result "0-1"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[HashCode "70dc9239"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. g3 Bd6 7. Bg2 O-O 8.
+Ne2 Bg4 9. f3 Bf5 10. O-O Re8 11. c4 Na6 12. Nc3 c5 13. d5 Be5 14. Nb5 Nb4 15.
+f4 Bd4+ 16. Nxd4 cxd4 17. a3 Nc2 18. Ra2 d3 19. b4 h5 20. h3 Qc8 21. c5 a5 22.
+g4 hxg4 23. hxg4 Be4 24. Bxe4 Rxe4 25. f5 axb4 26. Qxd3 Qxc5+ 27. Kh2 b3 28.
+Qxb3 Re2+ 29. Kh1 Rae8 30. Qf3 Re1 0-1

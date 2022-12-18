@@ -1,0 +1,18 @@
+[Event "Ebensee"]
+[Site "Ebensee"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Harum"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "389931f4"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Nxc5 7. Nf3 Nc6 8. a3
+a5 9. Be3 Be7 10. Qd2 Bd7 11. O-O-O O-O 12. g4 f6 13. exf6 Rxf6 14. Nxd5 exd5
+15. Bxc5 Bxg4 16. Bxe7 Nxe7 17. Be2 Qc7 18. Nd4 Qxf4 19. Bxg4 Qxg4 20. Rhg1 Qf4
+21. Rxg7+ 1-0

@@ -1,0 +1,18 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Ravinsky, Grigory Ionovich"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "13463f42"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Be7
+8. Nf3 O-O 9. O-O Bd6 10. Re1 Bg4 11. Qe4 Bxf3 12. Qxf3 Qc7 13. Bh6 gxh6 14.
+Qxf6 Bxh2+ 15. Kh1 Nd7 16. Qf5 Qd6 17. Re4 Rae8 18. Rxe8 1-0

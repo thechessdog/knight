@@ -1,0 +1,24 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Garcia Vera, Romeo"]
+[Black "Vinuesa, Juan"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "39201d82"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. Re1
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 O-O 12. Nbd2 cxd4 13. cxd4 Bd7 14. Nf1 Rac8 15.
+Ne3 Nc6 16. d5 Nb4 17. Bb1 a5 18. a3 Na6 19. b4 g6 20. Kh2 Nh5 21. Bd2 a4 22.
+g3 Ng7 23. g4 Kh8 24. Rg1 Qb6 25. Qe2 Nc7 26. Bd3 Qb7 27. Rg2 f5 28. gxf5 gxf5
+29. Rag1 Rg8 30. Ng5 Bxg5 31. Rxg5 f4 32. Ng4 Nce8 33. Nh6 Rf8 34. Qh5 Rf6 35.
+Nf7+ Kg8 36. Nxd6 Rxd6 37. Rxe5 Qb6 38. Reg5 Rh6 39. Qxe8+ Bxe8 40. Rxg7+ Kf8
+41. Rg8+ Ke7 42. R1g7+ Kf6 43. e5+ Kxe5 44. Rg5+ Kd4 45. Bf5 Qc7 46. Rg4 Bd7
+47. Bxf4 Rxg8 48. Bxc7+ Rxg4 49. Bxd7 Rg7 50. Bf4 Rxd7 51. Bxh6 Ke4 52. Kg3
+Rxd5 53. Kg4 Rd3 54. Bc1 Rc3 55. Bb2 Rf3 56. h4 Rxf2 57. Bc1 Rc2 58. Bg5 Rc3
+59. Kh5 Rxa3 60. Kh6 Rb3 61. Kxh7 Kf5 0-1

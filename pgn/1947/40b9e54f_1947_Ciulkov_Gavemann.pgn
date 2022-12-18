@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Ciulkov"]
+[Black "Gavemann"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Forgacs variation"]
+[HashCode "40b9e54f"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Be7 7. Qh5
+O-O 8. Ne2 g6 9. Qf3 Nd7 10. Bh6 Re8 11. Bxf7+ Kxf7 12. Qb3# 1-0
+

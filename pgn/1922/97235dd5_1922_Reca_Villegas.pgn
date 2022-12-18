@@ -1,0 +1,25 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Reca, Damian"]
+[Black "Villegas, Benito"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "97235dd5"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 d6 3. Nc3 Nbd7 4. e4 e5 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. a4
+h6 9. h3 Nh7 10. Be3 Bf6 11. Rad1 Qe7 12. Rfe1 Re8 13. Ba2 Ndf8 14. b4 Ne6 15.
+dxe5 dxe5 16. Qc4 Nhg5 17. Nxg5 Bxg5 18. b5 Bxe3 19. Rxe3 Nd4 20. Qd3 Be6 21.
+Bxe6 Qxe6 22. bxc6 bxc6 23. Rc1 a5 24. Ne2 Red8 25. Nxd4 Rxd4 26. Qb3 Qg6 27.
+Rce1 Rb4 28. Qa2 Rab8 29. c3 Rb3 30. Rd1 Qe6 31. Qe2 Ra3 32. Qa6 Rxa4 33. Red3
+Rxe4 34. Qxa5 Kh7 35. Rd6 Qb3 36. Qc7 Rb6 37. R6d3 Ra6 38. Qc8 Rea4 39. Kh2 Qe6
+40. Qxe6 fxe6 41. Rd7 Rf4 42. Rc7 Rf6 43. Rdd7 Kg6 44. g4 Kh7 45. Rxg7+ Kh8 46.
+Rgd7 Ra8 47. Kg3 e4 48. Rxc6 Raf8 49. Re7 h5 50. Rcc7 Rg6 51. Rh7+ Kg8 52. Rxh5
+Rf3+ 53. Kh4 Rxf2 54. Rg5 Rxg5 55. Kxg5 Kf8 56. Rc4 e3 57. Re4 Rf3 58. h4 Kf7
+59. c4 Ke7 60. h5 Kd6 61. h6 Kc5 62. h7 Rh3 63. Kg6 Rh4 64. Rxe3 Rxg4+ 65. Kh5
+Rg1 66. Rh3 1-0

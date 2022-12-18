@@ -1,0 +1,20 @@
+[Event "Moskou ch-URS"]
+[Site "Moskou ch-URS"]
+[Date "1940.09.01"]
+[Round "1"]
+[White "Konstantinopolsky, Alexander"]
+[Black "Petrovs, Vladimirs"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "b99fe00a"]
+[Epoch "Knight"]
+[WhiteCountry "UKR"]
+[BlackCountry "LVA"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Be7
+8. O-O O-O 9. d4 Bd6 10. Re1 Bg4 11. h3 Bh5 12. g4 Bg6 13. Nh4 Nd7 14. Nxg6
+hxg6 15. Qf3 g5 16. Kg2 g6 17. Rh1 Kg7 18. h4 gxh4 19. Bh6+ Kxh6 20. Rxh4+ Kg7
+21. Rah1 Rh8 22. Rxh8 Qxh8 23. Rxh8 Rxh8 24. Qb3 b6 25. Bxf7 Nf8 26. Be8 Rh2+
+27. Kf1 Kh6 28. Qe3+ Kg7 29. Bxc6 Rh4 30. Bf3 Nh7 31. Qe6 Bf4 32. d5 1-0

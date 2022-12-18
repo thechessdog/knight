@@ -1,0 +1,21 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Corte, Cesar Juan"]
+[Black "Marini, Luis"]
+[Result "0-1"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[HashCode "e7ed5e3c"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 Be7 11. Nf3 b5 12. Bd3 b4 13. Ne2 Qc7 14. Rhg1 e5
+15. f5 a5 16. g4 b3 17. a3 d5 18. Bxf6 Bxf6 19. Nc3 Nb4 20. Nxd5 Nxd5 21. exd5
+bxc2 22. Qxc2 Qb6 23. Kb1 Rb8 24. Rg2 O-O 25. Be4 Rfc8 26. Qd3 Bb5 27. Qd2 Bc4
+28. Rc1 Qb3 29. Rc3 Qa2+ 30. Kc1 Qa1+ 31. Bb1 Ba2 32. Qc2 Rxc3 33. Qxc3 Qxb1+
+34. Kd2 e4 0-1

@@ -1,0 +1,17 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "6"]
+[White "Fajer"]
+[Black "Rabar, Braslav"]
+[Result "1/2-1/2"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "69f9e888"]
+[Epoch "Knight"]
+[BlackCountry "HRV"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 b6 10. Qd3 Bb7 11. Rd1 Qc8 12. Bg5 Bxc3 13. bxc3 Ba6 14. Bxa6 Qxa6
+15. Qxa6 Nxa6 16. Bxf6 gxf6 17. Rac1 1/2-1/2

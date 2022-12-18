@@ -1,0 +1,17 @@
+[Event "Novosibirsk"]
+[Site "Novosibirsk"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Sokolsky, Alexey"]
+[Black "Navrodsky"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "945ca519"]
+[Epoch "Knight"]
+[WhiteCountry "UKR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Nc5 6. O-O Be7 7. Nc3 O-O 8.
+Nd5 Ne6 9. Be3 f6 10. Nxe7+ Qxe7 11. exf6 Qxf6 12. Ng5 Kh8 13. f4 Qe7 14. Nxh7
+Kxh7 15. Qh5+ Kg8 16. f5 Ne5 17. fxe6 Rxf1+ 18. Rxf1 Nxc4 19. Qf7+ Qxf7 20.
+exf7+ Kf8 21. Bd4 1-0

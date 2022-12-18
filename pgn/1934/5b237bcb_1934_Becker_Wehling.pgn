@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Becker, R."]
+[Black "Wehling"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack, Breyer variation"]
+[HashCode "5b237bcb"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8.
+Nb5 O-O 9. Nc7 cxd4 10. Nxa8 Nc6 11. a3 f6 12. exf6 Nxf6 13. Bd3 e5 14. Qe2
+Ng4 15. f3 Ne3 16. g3 e4 17. fxe4 Bg4 18. Qd2 dxe4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Nyholm, Gustaf"]
+[Black "Lowcki, Moishe Leopoldowicz"]
+[Result "0-1"]
+[ECO "C87"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Averbach variation"]
+[HashCode "c89f8380"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 Be7 7. c3 O-O 8. d4
+b5 9. Bc2 Bg4 10. Be3 Re8 11. Nbd2 Bf8 12. h3 Bh5 13. d5 Na5 14. Kh2 Rb8 15. b4
+Nb7 16. a4 Qd7 17. Bg5 c6 18. axb5 axb5 19. Bxf6 gxf6 20. g4 Bg6 21. Nb3 Bh6
+22. Nh4 Rec8 23. Nf5 Bf4+ 24. Kg2 cxd5 25. Qxd5 Rxc3 26. Bd3 Nd8 27. Nc5 Qe8
+28. Na6 Rb6 29. Ra5 Bxf5 30. exf5 Qc6 0-1

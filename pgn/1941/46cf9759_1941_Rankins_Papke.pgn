@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Rankins"]
+[Black "Papke"]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Fischer defence"]
+[HashCode "46cf9759"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Bg4 5. Nc3 g5 6. Ne5 dxe5 7. Qxg4 c6
+8. Qf5 Qf6 9. Qc8+ Qd8 10. Bxf7+ 1-0
+

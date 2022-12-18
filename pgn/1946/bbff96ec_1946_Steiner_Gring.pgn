@@ -1,0 +1,18 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Gring, A."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "bbff96ec"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. c4 d5 5. Nc3 c6 6. e3 Nbd7 7. Qc2 O-O 8. a3
+Re8 9. Rd1 Nf8 10. Bd3 dxc4 11. Bxc4 Ng6 12. h4 h6 13. h5 Nf8 14. Bf4 Nd5 15.
+Be5 Nxc3 16. Qxc3 Bf6 17. Rh3 Qe7 18. Ba2 Rd8 19. Rg3 Bd7 20. d5 Bxe5 21. Nxe5
+f6 22. d6 Qe8 23. Ng4 Kh7 24. Nxf6+ gxf6 25. Qxf6 1-0

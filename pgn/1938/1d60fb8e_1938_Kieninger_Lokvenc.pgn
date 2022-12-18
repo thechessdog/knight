@@ -1,0 +1,21 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.01.01"]
+[Round "5"]
+[White "Kieninger, Georg"]
+[Black "Lokvenc, Josef"]
+[Result "1-0"]
+[ECO "B80"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, fianchetto variation"]
+[HashCode "1d60fb8e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 a6 7. Bg2 Qc7 8. O-O
+Bd7 9. Nce2 Be7 10. h3 O-O 11. c3 Rd8 12. Be3 Be8 13. g4 Nc6 14. g5 Nd7 15. Ng3
+Rac8 16. f4 Nb6 17. b3 d5 18. e5 g6 19. Rf2 Nd7 20. h4 b5 21. h5 Nf8 22. Qg4
+Nxe5 23. fxe5 Qxc3 24. Nc2 Qxe5 25. Re1 Qb2 26. Bd4 Qxa2 27. Qf4 Nd7 28. hxg6
+hxg6 29. Qh4 e5 30. Rxe5 Nxe5 31. Bxe5 f5 32. gxf6 Bc5 33. f7+ Kf8 34. Qh8+ Ke7
+35. Qf6+ 1-0

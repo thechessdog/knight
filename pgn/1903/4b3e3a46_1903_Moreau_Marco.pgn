@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "11"]
+[White "Moreau, C."]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "4b3e3a46"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Bg5 Be7 7. Bxf6 Bxf6 8.
+Bxc6+ bxc6 9. h3 Rb8 10. b3 d5 11. Nbd2 O-O 12. O-O g6 13. Qe2 Qd6 14. a4 Bg7
+15. Nh2 f5 16. Rab1 a5 17. c4 Be6 18. Rfd1 fxe4 19. dxe4 d4 20. Ndf3 h6 21. Nf1
+Rf7 22. Qd3 Rbf8 23. N1d2 g5 24. Rf1 Qe7 25. Nh2 h5 26. Qe2 g4 27. hxg4 hxg4
+28. Nxg4 Qh4 29. f3 Bxg4 30. fxg4 Bh6 31. Rf3 Bxd2 32. Qxd2 Rxf3 33. gxf3 Rxf3
+34. Qg2 Rg3 35. Rb2 Rxg2+ 36. Rxg2 Qe1+ 37. Kh2 d3 0-1

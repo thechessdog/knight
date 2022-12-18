@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Gabarain"]
+[Black "Montalban, J."]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[Opening "Semi-Benoni (`blockade variation')"]
+[HashCode "8feaa950"]
+[Epoch "Knight"]
+
+1. d4 c5 2. d5 d6 3. e4 e5 4. Nc3 f5 5. Bb5+ Kf7 6. exf5 Bxf5 7. Bd3 Bxd3
+8. Qxd3 Nf6 9. Nf3 h6 10. Nh4 e4 11. Nxe4 Qe7 12. f3 Qe5 13. c4 b5 14. O-O
+bxc4 15. Qxc4 Qxd5 16. Nf5 Ke6 17. Nfxd6 Bxd6 18. Nxd6 Kxd6 19. Bf4+ Ke7
+20. Qe2+ Kf7 21. Rad1 Re8 22. Qb5 Qc6 23. Qc4+ Qe6 24. Qa4 Qa6 25. Qc2 Nbd7
+26. Rd6 Qe2 27. Qf5 Rad8 28. Rfd1 Nf8 29. Qxc5 Rxd6 30. Qxd6 Qxb2 31. Qc7+
+Re7 32. Qc4+ Ne6 33. h4 Qb6+ 34. Kh1 Qf2 35. Bh2 Rb7 36. Bg1 Qb2 37. Re1
+Re7 38. Bc5 Qd2 39. Re2 Qd1+ 40. Kh2 Re8 41. Bxa7 Nd5 42. Re5 Nf6 43. Bf2
+Qd6 44. Bg3 Qd7 45. a4 Rc8 46. Qb3 Rc6 47. Rb5 Qd2 48. Rb6 Qc2 49. a5 Qxb3
+50. Rxb3 Nd5 51. Rb5 Ne3 52. Bf2 Nc4 53. g4 Nc7 54. Rc5 Rxc5 55. Bxc5 Ke6
+56. h5 Kf7 57. Kg3 Na6 58. Bd4 Nxa5 59. f4 Nc6 60. Bxg7 Kxg7 61. g5 1/2-1/2
+

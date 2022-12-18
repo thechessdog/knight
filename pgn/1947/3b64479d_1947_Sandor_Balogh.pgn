@@ -1,0 +1,23 @@
+[Event "Hungary"]
+[Site "Budapest"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Sandor, Bela"]
+[Black "Balogh, Janos"]
+[Result "1-0"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "3b64479d"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "ROU"]
+
+1. Nf3 d5 2. c4 d4 3. e3 c5 4. exd4 cxd4 5. b4 f6 6. a3 e5 7. d3 a5 8. b5 Nd7
+9. Nh4 g6 10. g3 Ne7 11. Bg2 Bg7 12. a4 Nc5 13. Ba3 Qc7 14. O-O O-O 15. f4 Rb8
+16. fxe5 fxe5 17. Rxf8+ Bxf8 18. Nd2 Be6 19. Ne4 Nxe4 20. Bxe4 Nf5 21. Qg4 Bxa3
+22. Bxf5 Bxf5 23. Nxf5 Rf8 24. Rf1 Bc1 25. Nh4 Be3+ 26. Kg2 Rxf1 27. Kxf1 Qf7+
+28. Qf3 Bg5 29. Qxf7+ Kxf7 30. Nf3 Bf6 31. Nd2 Ke6 32. Kg2 h5 33. Kf3 b6 34. c5
+bxc5 35. Ke4 Bd8 36. Nc4 Bc7 37. b6 Bb8 38. Nxa5 Kd6 39. Nc4+ Kc6 40. a5 Kb5
+41. Nxe5 Kxa5 42. Nc6+ Kxb6 43. Nxb8 Kc7 44. Kd5 Kxb8 45. Kxc5 Kc7 46. h4 Kd7
+47. Kxd4 1-0

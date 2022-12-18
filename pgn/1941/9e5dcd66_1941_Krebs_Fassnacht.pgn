@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Krebs"]
+[Black "Fassnacht"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "9e5dcd66"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 f5 5. d3 Be7 6. dxe4 fxe4 7. Qxe4 Nf6
+8. Qa4+ Nbd7 9. c4 O-O 10. Be3 Ng4 11. Bd4 c5 12. dxc6 Nb6 13. Qb3 Rxf3 14.
+gxf3 Qxd4 15. fxg4 Bc5 0-1
+

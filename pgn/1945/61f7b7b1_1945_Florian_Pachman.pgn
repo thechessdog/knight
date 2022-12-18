@@ -1,0 +1,21 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Florian, Tibor"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[ECO "C99"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...c5d4"]
+[HashCode "61f7b7b1"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. Nbd2 O-O 12. h3 cxd4 13. cxd4 Nc6 14. Nf1 Nxd4 15.
+Nxd4 exd4 16. b3 d5 17. e5 Ne4 18. Nd2 Nxf2 19. Kxf2 Qc3 20. Nf3 Qxa1 21. Qd3
+g6 22. Bg5 Qxa2 23. Bxe7 Bf5 24. Qxd4 Rfc8 25. Re2 Rxc2 26. Nd2 Rac8 27. Qf4 a5
+28. Kg1 Qa1+ 29. Kh2 Rc1 30. Qh6 Rh1+ 31. Kg3 Qc1 32. Bf6 Rc3+ 33. Kf4 Rf1+ 34.
+Kg5 Rg3+ 35. Kh4 Rg4+ 36. hxg4 Rh1+ 37. Kg5 Rxh6 38. Kxh6 Qh1+ 39. Kg5 Qh2 0-1

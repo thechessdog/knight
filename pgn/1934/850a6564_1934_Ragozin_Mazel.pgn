@@ -1,0 +1,17 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1934.12.01"]
+[Round "1"]
+[White "Ragozin, Viacheslav"]
+[Black "Mazel, Isaak"]
+[Result "1/2-1/2"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, 4...c5, 5.dc Nc6"]
+[HashCode "850a6564"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Bg5 Qa5 7. Bxf6 gxf6 8.
+Nf3 Bxc5 9. e3 b6 10. O-O-O Bb7 11. Be2 Rg8 12. Rhg1 Be7 13. a3 Rc8 1/2-1/2

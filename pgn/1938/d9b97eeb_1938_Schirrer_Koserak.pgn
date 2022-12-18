@@ -1,0 +1,24 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1938.09.02"]
+[Round "1"]
+[White "Schirrer, A."]
+[Black "Koserak, W."]
+[Result "0-1"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "d9b97eeb"]
+[Epoch "Knight"]
+
+1. e4 c5 2. c3 e5 3. d4 cxd4 4. cxd4 exd4 5. Qxd4 Nc6 6. Qd1 Nf6 7. Bd3
+Bb4+ 8. Bd2 O-O 9. Ne2 Re8 10. Nbc3 Bxc3 11. Nxc3 d5 12. f3 dxe4 13. Bxe4
+Nxe4 14. fxe4 Bf5 15. O-O Bxe4 16. Nxe4 Rxe4 17. Qf3 Qe7 18. Rae1 Rxe1 19.
+Rxe1 Qd7 20. Bc3 Re8 21. Rd1 Qe7 22. Qg3 f6 23. h3 Qe3+ 24. Qxe3 Rxe3 25.
+Kf2 Re7 26. a4 Kf7 27. b4 a6 28. b5 axb5 29. axb5 Ne5 30. Bxe5 Rxe5 31.
+Rd7+ Re7 32. Rd6 Ke8 33. Rd2 Rd7 34. Rc2 Kd8 35. Ke3 Rc7 36. Rb2 Kd7 37.
+Kd4 Kd6 38. g3 Rc1 39. Rb3 Ra1 40. Ke4 Ra4+ 41. Kf5 Rd4 42. h4 Rd5+ 43. Ke4
+Re5+ 44. Kd4 Kc7 45. Kc4 Kb6 46. Rd3 Rc5+ 47. Kd4 Rxb5 48. Re3 Re5 49. Rb3+
+Kc7 50. g4 h6 51. Rg3 b5 52. Ra3 Kb6 53. Ra8 Re7 54. Kd5 Rd7+ 55. Ke6 Rb7
+56. Kd6 b4 0-1
+

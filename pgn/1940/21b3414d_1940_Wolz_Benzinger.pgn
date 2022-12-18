@@ -1,0 +1,17 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Wolz"]
+[Black "Benzinger"]
+[Result "0-1"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "21b3414d"]
+[Epoch "Knight"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. g3 Ne5 7. Qb3
+Bxc3+ 8. bxc3 Qe7 9. Be3 Nfg4 10. Nc2 Nxf2 11. Kxf2 Ng4+ 12. Kf3 f5 13. Kg2
+Qe4+ 14. Kg1 Nxe3 15. Nxe3 Qxe3+ 16. Kg2 b6 0-1
+

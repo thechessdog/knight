@@ -1,0 +1,18 @@
+[Event "Blackpool"]
+[Site "Blackpool"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Atkins"]
+[Black "Michell"]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "51c82851"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. e3 O-O 6. Nf3 c5 7. Bd3 dxc4 8.
+Bxc4 Nc6 9. dxc5 Bxc5 10. O-O a6 11. a3 Qc7 12. b4 Bd6 13. Be2 Ne5 14. h3
+Bd7 15. Bb2 Rac8 16. Rac1 Nc4 17. Bxc4 Qxc4 18. Rfd1 Bb8 19. Qb1 Qc7 20.
+Nd5 Qd8 21. Rxc8 1-0
+

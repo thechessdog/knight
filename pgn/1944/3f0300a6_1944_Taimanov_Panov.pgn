@@ -1,0 +1,20 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Taimanov, Mark"]
+[Black "Panov, Vasily"]
+[Result "1-0"]
+[ECO "B83"]
+[Opening "Sicilian"]
+[Variation "modern Scheveningen"]
+[HashCode "3f0300a6"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Nc6 7. O-O Be7 8. b3
+O-O 9. Bb2 a6 10. Kh1 Bd7 11. f4 Qa5 12. Bf3 Rfd8 13. g4 Nxd4 14. Qxd4 Rac8 15.
+g5 Ne8 16. Rad1 Bf8 17. f5 Qc5 18. Qd2 b5 19. Rf2 b4 20. Na4 Qa5 21. a3 d5 22.
+fxe6 Bxe6 23. exd5 Nc7 24. axb4 Bxb4 25. Qd4 Bf8 26. c4 Qb4 27. Qd3 Rb8 28. Be5
+Rb7 29. Be4 Kh8 30. Rxf7 Qxb3 31. Rxg7 1-0

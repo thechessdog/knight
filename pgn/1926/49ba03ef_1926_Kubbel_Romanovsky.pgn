@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Kubbel, Arvid"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "49ba03ef"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 e6 5. c4 Nb6 6. exd6 cxd6 7. b3 Be7 8. Bd3
+N8d7 9. Nc3 O-O 10. Qe2 Re8 11. Bb2 d5 12. O-O dxc4 13. bxc4 Nf6 14. Rad1 Bd7
+15. Ne5 Na4 16. Nxd7 Qxd7 17. Nxa4 Qxa4 18. Bc2 Qa6 19. Ba1 Rac8 20. Bd3 Qa5
+21. Rb1 Qc7 22. f4 Red8 23. g4 b6 24. g5 Ne8 25. f5 exf5 26. Bxf5 Bxg5 27. Bxc8
+Rxc8 28. Rb5 h6 29. c5 Nf6 30. cxb6 axb6 31. d5 Re8 32. Qg2 Qc4 33. Rb3 Nxd5
+34. h4 Ne3 0-1

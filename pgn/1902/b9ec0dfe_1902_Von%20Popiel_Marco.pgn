@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Von Popiel, Ignatz"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "b9ec0dfe"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. Nc3 Be7 5. d4 Nd7 6. Be3 Ngf6 7. Qe2 Qc7 8. Ng5
+O-O 9. f4 b5 10. Bd3 a6 11. O-O Bb7 12. Rae1 h6 13. Nf3 Ng4 14. Nd1 c5 15. c3
+exd4 16. cxd4 Nxe3 17. Nxe3 cxd4 18. Nxd4 Nc5 19. Nef5 Bf6 20. Bb1 Rfe8 21. Qf3
+Ne6 22. Nxe6 fxe6 23. Qb3 Kh8 24. Ng3 Bd4+ 25. Kh1 Qc4 26. Qd1 Bxb2 27. Qxd6
+Rad8 28. Qb6 Rd7 29. Qf2 Bd4 30. Qf3 Rf8 31. Rc1 Qb4 32. Qd3 e5 33. fxe5 Rxf1+
+34. Rxf1 Qe7 35. Nf5 Qxe5 36. Rd1 1-0

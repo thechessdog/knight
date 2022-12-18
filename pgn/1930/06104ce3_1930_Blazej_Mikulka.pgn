@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Blazej, A."]
+[Black "Mikulka, R."]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "06104ce3"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. e3 e5 5. dxe5 d4 6. Qa4 Bxf3 7. gxf3 Bb4+
+8. Nd2 dxe3 9. fxe3 Qh4+ 10. Ke2 O-O-O 11. f4 Qg4+ 12. Nf3 Nxe5 13. fxe5
+Qxc4+ 14. Kf2 Be1+ 15. Kxe1 Qxa4 0-1
+

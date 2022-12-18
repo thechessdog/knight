@@ -1,0 +1,20 @@
+[Event "Blackpool"]
+[Site "Blackpool"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Morry"]
+[Black "Atkins"]
+[Result "0-1"]
+[ECO "D81"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[HashCode "dc1d54fb"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 c6 5. Nf3 Bg7 6. e3 O-O 7. Bd2 e6 8.
+Bd3 Nbd7 9. O-O dxc4 10. Bxc4 c5 11. Rfd1 a6 12. Qa3 cxd4 13. Nxd4 Re8 14.
+Rac1 Bf8 15. Qb3 b5 16. Be2 Nc5 17. Qc2 e5 18. Nf3 Bf5 19. e4 Ncxe4 20.
+Nxe4 Bxe4 21. Qc3 Qe7 22. Qa5 h6 23. Rc7 Qe6 24. Rdc1 Bd6 25. R7c3 Nd5 26.
+Rc6 Nf4 27. Bxf4 Bxc6 28. Bxh6 Bxf3 29. Bxf3 e4 30. Be2 Qe5 31. g3 Qxb2 32.
+Qb6 Bf8 0-1
+

@@ -1,0 +1,15 @@
+[Event "Carrasco"]
+[Site "Carrasco"]
+[Date "1921.01.01"]
+[Round "4"]
+[White "Montalban, Jose"]
+[Black "Ellerman, Arnoldo"]
+[Result "1-0"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "b85feca9"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 Nbd7 4. c4 c6 5. Nc3 Qa5 6. Bh4 Ne4 7. Qb3 e5 8. cxd5
+exd4 9. exd4 Bb4 10. Rc1 O-O 11. dxc6 bxc6 12. Bd3 Re8 13. Ne2 Ndc5 14. dxc5
+Nxc5 15. Bxh7+ Kxh7 16. Qc2+ g6 17. O-O Bf5 18. Qd2 Ne4 19. Qd4 1-0

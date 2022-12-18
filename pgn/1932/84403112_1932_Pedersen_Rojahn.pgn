@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Petersen, Finn"]
+[Black "Rojahn, Ernst"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "84403112"]
+[Epoch "Knight"]
+[WhiteID "1400754"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 f6 6. exf6 Qxf6 7. Nbd2 Bf5 8. g3
+O-O-O 9. Nh4 Bg4 10. f3 Be7 11. Ne4 Qe6 12. Ng5 Bxg5 13. Bxg5 Nf6 14. fxg4 d3
+15. Qb3 Ne4 16. O-O-O Nd4 17. Qa4 b5 18. Qb4 c5 19. Qe1 Qxc4+ 20. Kb1 Qc2+ 21.
+Ka1 Nb3+ 0-1

@@ -1,0 +1,20 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Pilnick, Carl"]
+[Black "Depetris"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "6fea1abd"]
+[Epoch "Knight"]
+[WhiteID "2003414"]
+[WhiteCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Bd3 Be7 7. Bxf6 Nxf6
+8. Nxf6+ Bxf6 9. Nf3 c5 10. Qe2 cxd4 11. O-O-O Bd7 12. Ne5 Bc6 13. Nxc6 bxc6
+14. f4 Qc7 15. Qe4 Rd8 16. h4 h5 17. Bc4 Ke7 18. Rd3 g6 19. Re1 Rd6 20. f5 gxf5
+21. Qxf5 Bg7 22. Rf3 Ke8 23. Bxe6 Rxe6 24. Rxe6+ fxe6 25. Qxe6+ Qe7 26. Qc8+
+Qd8 27. Qxc6+ Qd7 28. Qxd7+ 1-0

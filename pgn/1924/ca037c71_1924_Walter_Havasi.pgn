@@ -1,0 +1,25 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Walter, Max"]
+[Black "Havasi, Kornel"]
+[Result "1-0"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "ca037c71"]
+[Epoch "Knight"]
+[WhiteID "12931306"]
+[WhiteCountry "GER"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 Nc6 7. Be3 b5 8. O-O
+Nf6 9. a3 Bb7 10. Kh1 Be7 11. f4 d6 12. Bf3 Na5 13. Qe2 O-O 14. Rad1 Nc4 15.
+Bc1 Rac8 16. Rd3 Nd7 17. b3 Ncb6 18. Bb2 Nc5 19. Rd2 Rfd8 20. Rfd1 d5 21. e5
+Ncd7 22. Na2 Nf8 23. Nc1 Ng6 24. Nd3 Nd7 25. g3 Nc5 26. Nxc5 Bxc5 27. Qf1 Qe7
+28. Ra1 Rd7 29. b4 Bb6 30. Nb3 Rdc7 31. Bd4 Bxd4 32. Nxd4 Nf8 33. Be2 Nd7 34.
+Bd3 Rc3 35. Qh3 g6 36. Qg4 Rxa3 37. Rxa3 Qxb4 38. Rd1 Qxa3 39. Nxe6 Qe7 40. Nd4
+Kh8 41. h4 Nc5 42. h5 Nxd3 43. Rxd3 Rc4 44. hxg6 hxg6 45. Qh3+ Kg8 46. g4 Qb4
+47. Qe3 Qe7 48. Qe1 Qb4 49. Qe3 Rc7 50. f5 f6 51. exf6 Rh7+ 52. Kg2 gxf5 53.
+Qg5+ Kh8 54. f7 Qd6 55. Qg8# 1-0

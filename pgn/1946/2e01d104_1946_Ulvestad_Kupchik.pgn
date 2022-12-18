@@ -1,0 +1,27 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Ulvestad, Olaf"]
+[Black "Kupchik, Abraham"]
+[Result "1-0"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "2e01d104"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. g3 c6 6. Bg2 O-O 7. Qb3 dxc4 8. Qxc4
+Nbd7 9. O-O Nb6 10. Qd3 Nfd5 11. Rd1 f5 12. Bf4 Nxf4 13. gxf4 e6 14. Rac1 Nd5
+15. e3 Qe7 16. Na4 Rd8 17. a3 Bd7 18. Nc5 Be8 19. Qb3 Rab8 20. Nd3 Rbc8 21. Rd2
+Rc7 22. Rdc2 Rdc8 23. Kh1 Kh8 24. Qc4 Bf8 25. Qc5 Qxc5 26. Nxc5 Bxc5 27. Rxc5
+Rd8 28. Ne5 Nb6 29. R5c2 Kg7 30. Bf3 Kf6 31. h4 Nc8 32. b4 Nd6 33. Be2 a6 34.
+a4 Rg7 35. Kg2 Ra8 36. a5 h6 37. Rh1 Rc8 38. Kf1 Rcc7 39. Bd3 Rg8 40. f3 Rcg7
+41. Rg2 Ke7 42. Rhg1 h5 43. Ke2 Bf7 44. e4 Be8 45. Ke3 Bf7 46. Bc4 Nxc4+ 47.
+Nxc4 Rd8 48. Ne5 Kf6 49. Kd3 Be8 50. Kc4 Rg8 51. Kc5 Rg7 52. Rd2 Re7 53. Nc4
+fxe4 54. fxe4 Red7 55. Rg5 Bf7 56. Ne5 Re7 57. Rdg2 Rg8 58. Kb6 Ree8 59. Nd7+
+Ke7 60. Nc5 Rd8 61. Rd2 Rb8 62. Nxb7 Kd7 63. b5 axb5 64. a6 Rgc8 65. Rc5 Be8
+66. Rdc2 Ke7 67. d5 b4 68. dxc6 Ra8 69. c7 Bd7 70. e5 Ba4 71. R2c4 Bd1 72. Rxb4
+Be2 73. a7 Bf3 74. Nd6 1-0

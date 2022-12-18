@@ -1,0 +1,16 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Metzger, H."]
+[Black "Rubinow, Sol"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "62dd769b"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bg5 Qa5 7. Bd2 Qb6 8.
+Nb3 Bxc3 9. Bxc3 Nxe4 10. Bd4 Qb4+ 11. c3 Qf8 12. f3 Nf6 13. Bc5 d6 14. Bxd6
+Qg8 15. Nc5 a6 16. Qa4+ Bd7 17. Nxd7 Nfxd7 18. Bb5 f6 19. Bxb8 1-0

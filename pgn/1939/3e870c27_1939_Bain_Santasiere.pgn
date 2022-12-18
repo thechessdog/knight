@@ -1,0 +1,18 @@
+[Event "Ventnor City"]
+[Site "Ventnor City"]
+[Date "1939.07.01"]
+[Round "1"]
+[White "Bain, M."]
+[Black "Santasiere, Anthony Edward"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "3e870c27"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. Nf3 d5 2. d4 c5 3. e3 Nc6 4. c4 cxd4 5. exd4 Nf6 6. Nc3 g6 7. Bf4 Bg7 8. c5
+O-O 9. Be2 Ne4 10. O-O Bg4 11. Ne5 Bxe2 12. Nxe2 Nxe5 13. Bxe5 Bxe5 14. dxe5
+Nxc5 15. Nd4 Qb6 16. Rc1 Rac8 17. Rc2 Rfd8 18. Qg4 Ne6 19. Rxc8 Rxc8 20. Nf5
+Rc4 21. Qg3 Qc5 22. h4 Rf4 23. Ne3 d4 24. Nd1 Qxe5 25. Qa3 Rxh4 26. Qxe7 Qh2#
+0-1

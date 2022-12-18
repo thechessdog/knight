@@ -1,0 +1,16 @@
+[Event "Silesia"]
+[Site "Silesia"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Dudek, Ryszard"]
+[Black "Kuhn"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "a809e742"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Be7 5. Re1 O-O 6. c3 Nxe4 7. Bxf7+
+Rxf7 8. Rxe4 d5 9. Rxe5 Rxf3 10. Rxe7 Qxe7 11. gxf3 Qg5+ 12. Kh1 Bh3 13.
+Qg1 Qxg1+ 14. Kxg1 Re8 0-1
+

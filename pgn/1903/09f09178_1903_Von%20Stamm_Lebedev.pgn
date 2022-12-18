@@ -1,0 +1,20 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "1"]
+[White "Von Stamm, Wilhelm"]
+[Black "Lebedev, Sergey Fedorovich"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "09f09178"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be7 7. e3 O-O 8. Bd3
+c6 9. O-O Re8 10. Ne5 Nbd7 11. f4 Nf8 12. h3 N6d7 13. Bxe7 Qxe7 14. Rf3 f6 15.
+Ng4 Ne6 16. Qc2 Ndf8 17. Rg3 Kh8 18. h4 Nc7 19. f5 c5 20. dxc5 Qxc5 21. Ne2 Qd6
+22. Nf4 Bd7 23. Qb3 Bc6 24. Rf1 Re7 25. Qc3 Nd7 26. Bb1 Rae8 27. a3 Ne5 28. Nf2
+Nc4 29. Nd1 Nb5 30. Qc1 Qe5 31. Ba2 Ncd6 32. Bb1 d4 33. exd4 Qxd4+ 34. Kh2 Re1
+35. Rxe1 Rxe1 36. Rd3 Qg1+ 37. Kg3 Nd4 38. Rd2 Nf3 39. Rxd6 Qh2+ 40. Kf2 Qxh4+
+41. g3 Qh2+ 42. Ng2 Qg1# 0-1

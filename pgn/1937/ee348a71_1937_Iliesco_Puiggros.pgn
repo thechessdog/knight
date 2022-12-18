@@ -1,0 +1,19 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Iliesco, Juan Traian"]
+[Black "Puiggros, Guillermo"]
+[Result "0-1"]
+[ECO "D64"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein attack (with Rc1)"]
+[HashCode "ee348a71"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+[BlackCountry "URY"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Rc1 c6 8. Qc2
+Re8 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bxe7 Qxe7 12. Rd1 h6 13. O-O N5b6 14. Bb3 e5
+15. d5 cxd5 16. Nb5 e4 17. Nfd4 Nc5 18. Rc1 Nxb3 19. axb3 Bg4 20. Qc7 Qg5 21.
+Qg3 Re7 22. Nxa7 Rxa7 23. Qb8+ Kh7 24. Qxa7 Bf3 25. g3 Qg4 26. Ne2 g5 0-1

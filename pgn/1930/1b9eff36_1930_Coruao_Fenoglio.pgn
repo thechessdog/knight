@@ -1,0 +1,20 @@
+[Event "radiomatch"]
+[Site "radiomatch"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Coruao"]
+[Black "Fenoglio"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[Opening "Dutch"]
+[Variation "Staunton gambit, Chigorin variation"]
+[HashCode "1b9eff36"]
+[Epoch "Knight"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. f3 exf3 6. Nxf3 d6 7. Qd2 Bg4
+8. O-O-O Nbd7 9. Re1 Qa5 10. Bc4 O-O-O 11. Qe3 Nb6 12. Be6+ Bxe6 13. Qxe6+
+Kc7 14. Bd2 Nbd5 15. Ng5 Rd7 16. Nxd5+ Qxd5 17. Qxd5 cxd5 18. Ne6+ Kb8 19.
+Rhf1 Rg8 20. g4 h6 21. h4 g5 22. hxg5 hxg5 23. Rf5 Bh6 24. Rh1 Rg6 25. Bxg5
+Bxg5+ 26. Rxg5 Rxg5 27. Nxg5 Rd8 28. Ne6 Rg8 29. g5 Ne4 30. Rh7 Nxg5 31.
+Nxg5 Rxg5 32. Rxe7 a5 1/2-1/2
+

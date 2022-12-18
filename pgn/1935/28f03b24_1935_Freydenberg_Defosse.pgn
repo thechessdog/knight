@@ -1,0 +1,16 @@
+[Event "Brussels"]
+[Site "Brussels"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Freydenberg"]
+[Black "Defosse"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "28f03b24"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qd4 Nc5 5. b4 Nc6 6. Qb2 Nxb4 7. Bd2 Nc6
+8. Nf3 d6 9. exd6 Qxd6 10. Nc3 Bf5 11. Rd1 Qe6 12. Nd5 Nd3# 0-1
+

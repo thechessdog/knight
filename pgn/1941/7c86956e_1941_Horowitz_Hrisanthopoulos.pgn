@@ -1,0 +1,18 @@
+[Event "Austin,TX"]
+[Site "Austin,TX"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Horowitz, Israel Albert"]
+[Black "Hrisanthopoulos, Di"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Andreaschek gambit"]
+[HashCode "7c86956e"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3 Nc6 5. cxd4 Bb4+ 6. Nc3 exd4 7. Nxd4 Nf6 8.
+Nxc6 bxc6 9. Bd3 d5 10. exd5 Nxd5 11. O-O Nxc3 12. bxc3 Bxc3 13. Ba3 Bxa1 14.
+Qe2+ Be6 15. Rxa1 Qa5 16. Qb2 O-O-O 17. Rb1 Kd7 18. Be4 f6 19. Bxc6+ Kxc6 20.
+Qb7# 1-0

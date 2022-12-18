@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Pryer"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "e82bae0f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 c5 4. cxd4 cxd4 5. Qxd4 Nc6 6. Qd1 d6 7. Nf3 h6
+8. Be2 Bd7 9. O-O Nf6 10. Nc3 Be6 11. Nd4 Ne5 12. Nxe6 fxe6 13. f4 Ned7 14.
+f5 e5 15. Bh5+ Nxh5 16. Qxh5+ Ke7 17. Nd5# 1-0
+

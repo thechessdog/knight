@@ -1,0 +1,20 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Vajda, Arpad"]
+[Black "Steiner, Endre"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine, Abonyi variation"]
+[HashCode "fb32665c"]
+[Epoch "Knight"]
+[WhiteCountry "HUN"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6 6. a3 d6 7. b4 Be7 8. Bb2
+O-O 9. Nc3 f5 10. Qd5+ Kh8 11. e5 dxe5 12. fxe5 Nxe5 13. O-O-O Nbd7 14. Nh3 a5
+15. Ne2 Ng4 16. Nd4 Ne3 17. Qf3 Nxd1 18. Ne6 Ne5 19. Bxe5 Bxe6 20. Be2 Bf6 21.
+Rxd1 Qe7 22. Qf4 axb4 23. Bxc7 bxa3 24. Bd6 a2 25. Kc2 Qd7 26. Bxf8 a1=Q 27.
+Rxa1 Rxa1 28. Qb8 Ra2+ 0-1

@@ -1,0 +1,22 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Khavin, Abram Leonidovich"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "dd04bab8"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Nf3 f5 6. Qg3 Ne7 7. Bd3 Nec6 8. O-O
+Nd7 9. a3 Nc5 10. b4 Ne4 11. Qh3 Qc7 12. Bf4 a6 13. Nbd2 Be7 14. Nb3 O-O 15.
+Nbxd4 Nxd4 16. Nxd4 g5 17. Bxe4 gxf4 18. Bf3 Qxe5 19. Rad1 Qf6 20. Rfe1 Kh8 21.
+Nb3 Bd7 22. c4 Ba4 23. Be2 b6 24. cxd5 e5 25. Rc1 Rg8 26. Qc3 Rg6 27. Bf1 Qg7
+28. Nd2 Rg8 29. g3 Bf6 30. Bg2 e4 31. Qc7 Qh6 32. Nc4 f3 33. Nd6 R6g7 34. Nxf5
+Rxc7 35. Nxh6 Rxc1 36. Rxc1 Rf8 37. Bh3 Bg5 38. Rc6 e3 39. fxe3 Bxe3+ 40. Kh1
+Bxc6 41. Ng4 Bd7 0-1

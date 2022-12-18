@@ -1,0 +1,17 @@
+[Event "Brno Morava"]
+[Site "Brno Morava"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Vanek, Karel"]
+[Black "Dobrowolny, R."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Riga variation"]
+[HashCode "b7d003b3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4 7. Re1 d5 8.
+Nxd4 Bd6 9. Nxc6 Bxh2+ 10. Kh1 Qh4 11. Rxe4+ dxe4 12. Qd8+ Qxd8 13. Nxd8+ Kxd8
+14. Kxh2 Ke7 15. Nc3 b5 16. Bb3 Bb7 17. Nd5+ Kd8 18. Bf4 c5 19. c4 Bxd5 20. Rd1
+Re8 21. Rxd5+ Ke7 22. cxb5 axb5 23. Rxc5 1-0

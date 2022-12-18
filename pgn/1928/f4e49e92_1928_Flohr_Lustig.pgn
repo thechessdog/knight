@@ -1,0 +1,20 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Lustig"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "f4e49e92"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 b5 7. Bb3 d6 8. h3
+Na5 9. Bc2 c5 10. d4 Qc7 11. O-O O-O 12. d5 c4 13. Be3 Bd7 14. Ne1 Nb7 15. Nd2
+Rfe8 16. g4 g6 17. f4 exf4 18. Rxf4 Rf8 19. Rf2 Ne8 20. Nef3 Nd8 21. Raf1 f6
+22. Bh6 Ng7 23. e5 dxe5 24. Ne4 Nf7 25. Bxg7 Kxg7 26. Nh4 Nd6 27. Nxf6 Bxf6 28.
+g5 Ne8 29. Nxg6 hxg6 30. Bxg6 Kxg6 31. Qe4+ Kg7 32. Qh4 Kg8 33. gxf6 Nxf6 34.
+Qg5+ Kh8 35. Rxf6 Qc5+ 36. Kh2 1-0

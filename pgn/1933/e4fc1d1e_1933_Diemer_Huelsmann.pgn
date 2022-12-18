@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Huelsmann"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern variation"]
+[HashCode "e4fc1d1e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. e6 fxe6 7. Ng5 Bd7 8. Bd3
+g6 9. Nxh7 Qc8 10. Bxg6+ Kd8 11. Ng5 Be8 12. Qg4 Bxg6 13. Nxe6+ Ke8 14. Qxg6+
+Kd7 15. Qf5 1-0

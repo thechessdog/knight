@@ -1,0 +1,15 @@
+[Event "simul"]
+[Site "simul"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "819ff740"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. Nc3 Nbd7 5. d4 exd4 6. Qxd4 Be7 7. Bxf7+ Kxf7
+8. Ng5+ Kg8 9. Qc4+ d5 10. Nxd5 Ne5 11. Nxf6+ Kf8 12. Ngxh7+ 1-0

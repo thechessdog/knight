@@ -1,0 +1,18 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Nietsche"]
+[Black "Faktor, Samuel"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "6cac675e"]
+[Epoch "Knight"]
+[BlackID "73612537"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nf3 Qh5 6. h4 d5 7. Bxd5 Nf6 8.
+Nc3 Nc6 9. Bxc6+ bxc6 10. d4 Ba6+ 11. Kg1 g4 12. Ne5 Qxe5 13. dxe5 Bc5+ 14. Kh2
+g3+ 15. Kh3 Bc8+ 16. Qg4 Bxg4# 0-1

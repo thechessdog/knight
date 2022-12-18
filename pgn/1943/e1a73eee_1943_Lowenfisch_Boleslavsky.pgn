@@ -1,0 +1,21 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Levenfish, Grigory"]
+[Black "Boleslavsky, Isaac"]
+[Result "0-1"]
+[ECO "B58"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation"]
+[HashCode "e1a73eee"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nf3 h6 8. O-O
+Be7 9. Be3 O-O 10. Qd2 Be6 11. Rad1 Re8 12. h3 Rc8 13. Nh2 Na5 14. Qe1 Nc4 15.
+Bc1 a6 16. Nf3 Qa5 17. Bd3 b5 18. b3 Na3 19. Nd5 Qxe1 20. Nxf6+ Bxf6 21. Nxe1
+Nb1 22. Bb2 Nc3 23. Ra1 d5 24. f3 d4 25. a4 Bd7 26. axb5 Bxb5 27. g3 Bxd3 28.
+cxd3 Re6 29. f4 Rb8 30. Bxc3 dxc3 31. fxe5 Bxe5 32. Nf3 Bxg3 33. Nd4 Rd6 34.
+Nf5 Rxd3 35. Rxa6 Rxb3 36. Rc6 Rb2 37. Ne7+ Kh7 38. Rxf7 Rd1+ 0-1

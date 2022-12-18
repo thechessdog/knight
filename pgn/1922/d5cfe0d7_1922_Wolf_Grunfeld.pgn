@@ -1,0 +1,18 @@
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Wolf, Heinrich"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "d5cfe0d7"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 Nf6 2. d3 d5 3. e5 Nfd7 4. d4 e6 5. f4 c5 6. c3 Qb6 7. Nf3 Nc6 8. Be2 Be7
+9. b3 cxd4 10. cxd4 Bb4+ 11. Kf2 f6 12. Be3 fxe5 13. fxe5 O-O 14. a3 Be7 15.
+Qd3 Rf7 1/2-1/2

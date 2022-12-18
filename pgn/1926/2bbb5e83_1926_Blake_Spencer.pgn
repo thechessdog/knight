@@ -1,0 +1,19 @@
+[Event "Weston"]
+[Site "Weston"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Blake"]
+[Black "Spencer"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 8.c3"]
+[HashCode "2bbb5e83"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 Bb7 9. d4 Na5 10. Bc2 d5 11. Nxe5 Nxe4 12. f3 Ng5 13. Qd3 g6 14. h4 Ne6
+15. Nxg6 fxg6 16. Rxe6 Rf7 17. h5 Qd7 18. hxg6 Qxe6 19. gxf7+ Qxf7 20. Bh6
+Nc4 21. b3 Nd6 22. Nd2 Bc8 23. g4 a5 24. Kg2 b4 25. Rh1 Ba6 26. c4 Rd8 27.
+Be3 dxc4 28. bxc4 1-0
+

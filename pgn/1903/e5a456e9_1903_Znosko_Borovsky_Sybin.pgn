@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Znosko Borovsky, Eugene"]
+[Black "Zybin, Ivan Andreevich"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "e5a456e9"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. d3 d6 6. Na4 Bg4 7. f3 Be6 8. Nxc5
+dxc5 9. Be3 Qd6 10. Nh3 h6 11. Nf2 g5 12. Qd2 O-O-O 13. h4 gxh4 14. Rxh4 h5 15.
+Bg5 Bd7 16. O-O-O Rdg8 17. Rdh1 Ne8 18. Rxh5 Rxh5 19. Rxh5 Qg6 20. g4 f5 21.
+exf5 Bxf5 22. Be3 Be6 23. Rh6 Qf7 24. Ne4 Bd7 25. Nxc5 Qxa2 26. Qc3 Nd6 27.
+Nxd7 Kxd7 28. f4 exf4 29. Bxf4 Qa1+ 30. Kd2 Qg1 31. Bxc6+ bxc6 32. Rh7+ Kc8 33.
+Qxc6 Qf2+ 34. Kc3 Qb6 35. Qa8+ Qb8 36. Qd5 Nb5+ 37. Kd2 Rf8 38. Qd7+ 1-0

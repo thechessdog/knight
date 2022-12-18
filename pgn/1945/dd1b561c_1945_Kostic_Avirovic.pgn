@@ -1,0 +1,20 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "22"]
+[White "Kostic, Boris"]
+[Black "Avirovic, Djordje"]
+[Result "1-0"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "dd1b561c"]
+[Epoch "Knight"]
+[WhiteCountry "SRB"]
+[BlackCountry "SRB"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. Nf3 h6 7. Bd3 dxc4 8. Bxc4
+Nd7 9. O-O Nb6 10. Bb3 Ned5 11. Qe2 Be7 12. Ne4 O-O 13. Bd2 a5 14. a3 Nd7 15.
+Ng3 Bg6 16. Bc4 Qb6 17. Bd3 Bxd3 18. Qxd3 c5 19. dxc5 Nxc5 20. Qc4 Rac8 21. Qg4
+Kh7 22. Rad1 Qxb2 23. Bxh6 gxh6 24. Rxd5 exd5 25. Nf5 Bf6 26. Qh5 Ne4 27. Qxh6+
+Kg8 28. Ng5 1-0

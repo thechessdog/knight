@@ -1,0 +1,26 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Landau, Salo"]
+[Black "Prins, Lodewijk"]
+[Result "1-0"]
+[ECO "D95"]
+[Opening "Gruenfeld"]
+[Variation "Botvinnik variation"]
+[HashCode "01fbbfec"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. d4 Bg7 5. e3 O-O 6. Qb3 e6 7. Bd2 Ne4 8. cxd5
+Nxc3 9. Bxc3 exd5 10. Be2 c6 11. O-O Qb6 12. Bb4 Re8 13. Qa3 Qd8 14. Bd6 Bf5
+15. Bf4 Nd7 16. Rac1 Qb6 17. Bd6 c5 18. Bxc5 Nxc5 19. Qxc5 Qxb2 20. Qb5 Qxb5
+21. Bxb5 Rec8 22. h3 Bf8 23. g4 Be4 24. Nd2 Bc2 25. Bc4 dxc4 26. Rxc2 b5 27.
+Rb1 c3 28. Ne4 b4 29. Kf1 Kg7 30. Ke2 f5 31. gxf5 gxf5 32. Ng3 Kf6 33. Kd3 Bd6
+34. Ne2 a5 35. f3 Ra7 36. e4 Rd7 37. Ke3 fxe4 38. fxe4 Bf8 39. e5+ Ke7 40. Ke4
+Bh6 41. d5 Rc5 42. d6+ Ke8 43. Rd1 Rb7 44. Nd4 Rf7 45. Ne6 Rc8 46. Kd5 Be3 47.
+Rd3 Bb6 48. Rg3 Kd7 49. Rcg2 c2 50. Rg7 Rf8 51. Nxf8+ Ke8 52. Nxh7 Rxg7 53.
+Nf6+ Kf7 54. Rxc2 Rg3 55. Nd7 Rd3+ 56. Ke4 Rd4+ 57. Kf5 Bd8 58. Rg2 Rd5 59. Ke4
+Rd1 60. Rf2+ Ke8 61. Nc5 Rc1 62. Nd3 Rh1 63. Nf4 a4 64. Kd5 a3 65. Ke6 Bb6 66.
+Rg2 Rg1 67. Rxg1 Bxg1 68. d7+ Kd8 69. Kd6 Bc5+ 70. Kxc5 b3 71. Kd6 1-0

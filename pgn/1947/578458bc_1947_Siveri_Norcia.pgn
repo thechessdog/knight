@@ -1,0 +1,18 @@
+[Event "Reggio Emilia"]
+[Site "Reggio Emilia"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Siveri"]
+[Black "Norcia"]
+[Result "1-0"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[HashCode "578458bc"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 Qb6 5. Ngf3 Nc6 6. exd5 exd5 7. Nb3 c4 8.
+Nbd2 Nf6 9. Bxc4 dxc4 10. Nxc4 Qc7 11. d5 Na5 12. Qe2+ Kd8 13. Nce5 Nxd5
+14. Bg5+ f6 15. O-O-O Be6 16. Nd4 Bg8 17. Rhe1 Be7 18. Nf5 fxg5 19. Ng6
+hxg6 20. Nxe7 Qf4+ 21. Kb1 Qc4 22. Qxc4 Nxc4 23. Nxg8 1-0
+

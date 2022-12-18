@@ -1,0 +1,19 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Ban, Jeno"]
+[Black "Szily, Jozsef"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "0df7653a"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c4 Bd7 7. d4 Be7 8. Nc3
+O-O 9. Re1 Re8 10. a3 Ng4 11. Bc2 exd4 12. Nxd4 Bf6 13. Nxc6 bxc6 14. h3 Ne5
+15. c5 Rb8 16. cxd6 cxd6 17. Qxd6 Nc4 18. Qd3 Be6 19. Qe2 Nxb2 20. Bxb2 Rxb2
+21. e5 Bf5 22. Rad1 Qb8 23. Bxf5 Rxe2 24. Rxe2 Rxe5 25. Be4 g6 26. Bxc6 Rxe2
+27. Nxe2 Qb3 28. Rd7 Qe6 0-1

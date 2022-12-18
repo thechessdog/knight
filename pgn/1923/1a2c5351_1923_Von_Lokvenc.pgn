@@ -1,0 +1,24 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Von Holzhausen, Walther"]
+[Black "Lokvenc, Josef"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "1a2c5351"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 a6 7. O-O Qc7 8. f4
+Nxd4 9. Bxd4 Bc5 10. Bf2 h5 11. h3 b5 12. Nd2 Bb7 13. Qe2 d5 14. e5 Nd7 15. Nb3
+Bxf2+ 16. Qxf2 g6 17. c3 Qb6 18. Nd4 Nc5 19. Bc2 Ne4 20. Qe3 Rc8 21. Rac1 Qc5
+22. Kh2 Qc7 23. a4 bxa4 24. Bxa4+ Kf8 25. h4 Rb8 26. Ra1 Bc8 27. Rfb1 Kg7 28.
+Bc2 Nc5 29. Ra3 Rg8 30. b4 Nd7 31. Bd3 Ra8 32. Rba1 Nb8 33. Be2 Rd8 34. Nb3 Kg8
+35. Nc5 Qb6 36. Qd2 Ra7 37. Bf1 d4 38. c4 Nc6 39. Rb1 Qc7 40. Ne4 Ne7 41. Nd6
+Nf5 42. c5 Nxh4 43. Qxd4 Nf5 44. Qf2 Qc6 45. b5 Qa8 46. b6 Rad7 47. Bb5 Rxd6
+48. exd6 Qd5 49. Bxa6 Bxa6 50. Rxa6 Nh6 51. Kh1 Ng4 52. Qc2 Qd4 53. Rf1 Ne3 54.
+Qf2 Qc4 55. Rfa1 Ng4 56. Qh4 Rd7 57. Ra8+ Kg7 58. Qg5 Qc3 59. b7 1-0

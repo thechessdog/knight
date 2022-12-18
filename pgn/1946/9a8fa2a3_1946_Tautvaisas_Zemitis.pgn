@@ -1,0 +1,19 @@
+[Event "Mannheim"]
+[Site "Mannheim"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Tautvaisas, Povilas"]
+[Black "Zemitis, Val"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "9a8fa2a3"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qf6 4. d4 d6 5. Nc4 fxe4 6. Be2 Qd8 7. Nc3 Nf6
+8. Bg5 Be7 9. Bxf6 Bxf6 10. Nxe4 O-O 11. Nxf6+ Qxf6 12. O-O Nc6 13. c3 Qh4
+14. Bf3 Bd7 15. Ne3 Rf6 16. g3 Qg5 17. Bg2 Raf8 18. Qb3+ Kh8 19. Qxb7 Nd8
+20. Qxc7 Bg4 21. Nxg4 Qxg4 22. Rae1 Ne6 23. Qxd6 Nf4 24. Qe7 Qg6 25. Qe4
+Qg5 26. d5 h5 27. h4 Qg4 28. Bf3 Nh3+ 29. Kg2 Rxf3 30. Re2 Nf4+ 31. Kh2
+Qh3+ 32. Kg1 Qg2# 0-1
+

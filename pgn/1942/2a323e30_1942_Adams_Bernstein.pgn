@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Adams, Weaver Warren"]
+[Black "Bernstein, Sidney Norman"]
+[Result "0-1"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...Be7"]
+[HashCode "2a323e30"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Bxf6 Bxf6 10. Nxc6 bxc6 11. Qxd6 Qa5 12. Qg3 Bb7 13. Bc4 Rab8 14.
+Bb3 Ba6 15. f4 c5 16. e5 Bd8 17. f5 exf5 18. Rd5 Bc8 19. Na4 Be7 20. Rhd1 Be6
+21. Rd7 Bxd7 22. Rxd7 Rbd8 23. Rxd8 Rxd8 24. c3 c4 25. Bc2 Qd5 26. Kb1 Qd2 27.
+a3 Bg5 0-1

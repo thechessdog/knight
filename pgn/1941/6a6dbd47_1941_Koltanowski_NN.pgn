@@ -1,0 +1,20 @@
+[Event "Washington,DC simul"]
+[Site "Washington,DC simul"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marshall variation"]
+[HashCode "6a6dbd47"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. e5 e6 5. axb4 Bxb4 6. c3 Bf8 7. d4 Nc6 8. Bd3
+Bd7 9. Ne2 Rc8 10. O-O a6 11. f4 g6 12. Nd2 Nge7 13. Nf3 Na5 14. g4 Nc4 15. Qc2
+Bg7 16. Ng3 Qc7 17. f5 gxf5 18. gxf5 exf5 19. Nxf5 Nxf5 20. Bxf5 h6 21. Ra2
+Bxf5 22. Qxf5 Qd7 23. e6 fxe6 24. Re2 Rc6 25. Nh4 Kd8 26. Qh5 Nd6 27. Bd2 Qe8
+28. Ng6 Rg8 29. Rg2 Ne4 30. Bxh6 Bxh6 31. Qxh6 e5 32. Qh4+ Kc7 33. Nxe5 Rxg2+
+34. Kxg2 Qg8+ 35. Kh1 Rxc3 36. Qe7+ Kb6 37. Rb1+ Ka5 38. Qb4# 1-0

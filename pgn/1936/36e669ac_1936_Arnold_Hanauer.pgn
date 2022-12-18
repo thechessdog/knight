@@ -1,0 +1,14 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Arnold"]
+[Black "Hanauer"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "36e669ac"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bc5 4. Bg5 Ne4 5. Bxd8 Bxf2# 0-1
+

@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Courel, H."]
+[Black "Blake"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Gifford variation"]
+[HashCode "080196b5"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. g3 fxg3 7. Kg2 Bd6
+8. h3 Ne7 9. Nf3 Qh5 10. Nc3 Ng6 11. d4 Bf4 12. Ne2 Qxf3+ 0-1
+

@@ -1,0 +1,17 @@
+[Event "Weidenau"]
+[Site "Weidenau"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Lange, Wilfried"]
+[Black "Diemer, Emil Josef"]
+[Result "1-0"]
+[ECO "A84"]
+[Opening "Dutch defence"]
+[HashCode "81162243"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. d4 f5 2. c4 e6 3. e3 d5 4. Bd3 c6 5. Nf3 Bd6 6. O-O Qf6 7. Nc3 Ne7 8. e4
+dxe4 9. Bxe4 e5 10. dxe5 Bxe5 11. Bg5 Qd6 12. Nxe5 Qxd1 13. Raxd1 fxe4 14. Nxe4
+Nd7 15. Nd6+ Kf8 16. Bxe7+ Kxe7 17. Nxc8+ 1-0

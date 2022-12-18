@@ -1,0 +1,19 @@
+[Event "San Francisco"]
+[Site "San Francisco"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Bagby, C."]
+[Black "Rosenthal"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "4c6eef9f"]
+[Epoch "Knight"]
+
+1. e4 g6 2. d4 Bg7 3. f4 b6 4. Nf3 Bb7 5. Bd3 Nc6 6. c3 e6 7. Be3 Nh6 8. h3
+O-O 9. g4 f6 10. Qe2 Nf7 11. Nbd2 Ne7 12. h4 d5 13. h5 dxe4 14. hxg6 Nxg6
+15. Nxe4 f5 16. gxf5 exf5 17. Neg5 Nxg5 18. fxg5 f4 19. Bc4+ Kh8 20. Bd2
+Re8 21. Ne5 Bxh1 22. Nf7+ Kg8 23. Nxd8+ Kf8 24. Ne6+ Kg8 25. O-O-O f3 26.
+Qe4 Kh8 27. Rxh1 1-0
+

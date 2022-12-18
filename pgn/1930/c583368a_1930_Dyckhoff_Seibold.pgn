@@ -1,0 +1,19 @@
+[Event "corr Bundes-ch"]
+[Site "corr Bundes-ch"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Dyckhoff"]
+[Black "Seibold, M."]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "5...c6"]
+[HashCode "c583368a"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. cxd5 exd5 7. Bd3 Be7
+8. Qc2 h6 9. Bf4 O-O 10. h3 Re8 11. O-O-O Nf8 12. g4 b5 13. Nf3 a5 14. Ne5
+Bd7 15. Rdg1 b4 16. Na4 c5 17. Nxc5 Bxc5 18. dxc5 Ne6 19. c6 Bxc6 20. Nxc6
+Qb6 21. Kb1 a4 22. g5 b3 23. Qc3 d4 24. Qc4 hxg5 25. Bxg5 Nxg5 26. Rxg5
+bxa2+ 27. Ka1 dxe3 28. Rhg1 1-0
+

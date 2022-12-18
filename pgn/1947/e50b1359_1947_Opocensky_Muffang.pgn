@@ -1,0 +1,18 @@
+[Event "FRA-CSR"]
+[Site "Paris"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Opocensky, Karel"]
+[Black "Muffang, Andre"]
+[Result "0-1"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[HashCode "e50b1359"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O c6 7. Nbd2 b6 8. Qc2
+Bb7 9. e4 dxc4 10. e5 Nd5 11. Nxc4 Nd7 12. b3 Rc8 13. Bb2 c5 14. Qe4 b5 15. Nd6
+Bxd6 16. exd6 N7f6 17. Qh4 c4 18. bxc4 Rxc4 19. Ne5 Rc2 20. Bc1 Qxd6 21. Ng4
+Nxg4 22. Be4 Ndf6 23. Bxb7 Rxf2 0-1

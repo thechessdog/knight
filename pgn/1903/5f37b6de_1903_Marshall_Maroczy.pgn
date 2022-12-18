@@ -1,0 +1,19 @@
+[Event "Monaco"]
+[Site "Monaco"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Marshall, Frank James"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "6.Nf3"]
+[HashCode "5f37b6de"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Ne4 7. Bxe7 Qxe7 8.
+Bd3 c5 9. cxd5 Nxc3 10. bxc3 exd5 11. Qc2 f5 12. dxc5 Qxc5 13. c4 Kh8 14. cxd5
+Qxd5 15. O-O Nc6 16. Bc4 Qc5 17. Rac1 f4 18. Qe4 fxe3 19. Bd5 exf2+ 20. Kh1 Qa3
+21. Bxc6 bxc6 22. Qxc6 Ba6 23. Rc3 Bxf1 24. Nd2 Qa6 25. Qe4 Bd3 0-1

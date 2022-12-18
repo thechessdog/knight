@@ -1,0 +1,18 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Loman, Rudolf"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Blachly gambit"]
+[HashCode "601431f6"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. Nf3 g5 5. d4 Bg7 6. h4 h6 7. hxg5 hxg5 8.
+Rxh8 Bxh8 9. c3 Qe7 10. Qc2 d6 11. b4 Bd7 12. b5 Na5 13. Bd3 f5 14. Ba3 fxe4
+15. Bxe4 Nc4 16. Kf2 O-O-O 17. Bc1 g4 18. Ng1 Re8 0-1

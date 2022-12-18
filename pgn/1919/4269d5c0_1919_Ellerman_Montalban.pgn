@@ -1,0 +1,23 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Ellerman, Arnoldo"]
+[Black "Montalban, J."]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein, Capablanca line"]
+[HashCode "4269d5c0"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5
+Be7 8. Be2 O-O 9. O-O c5 10. dxc5 Bxc5 11. Qxd8 Rxd8 12. Bg5 Rd5 13. Bxf6
+gxf6 14. Nd3 Be7 15. f4 Bd7 16. Bf3 Rb5 17. a4 Ra5 18. Bxb7 Rb8 19. Bf3
+Rxa4 20. b3 Rd4 21. Kh1 Rc8 22. Ne1 Rc7 23. g3 Bb4 24. c4 Bxe1 25. Raxe1
+Rd3 26. Bd1 Bc6+ 27. Kg1 Rcd7 28. Bc2 Rd2 29. Rf2 f5 30. Ree2 R2d4 31. Kf1
+Kg7 32. Ke1 h5 33. Rd2 Kg6 34. Rxd4 Rxd4 35. Rd2 Rxd2 36. Kxd2 h4 37. Ke3
+hxg3 38. hxg3 Kf6 39. Kd4 Ke7 40. Bd1 f6 41. b4 Kd6 42. c5+ Kc7 43. Be2 Kb7
+44. b5 Be8 45. Bf1 Kc7 46. Bd3 Bh5 47. Bc4 Bf7 48. Kc3 Kb7 49. Kb4 Bg8 50.
+Ka5 Bf7 51. c6+ Kb8 52. b6 axb6+ 53. Kxb6 1-0
+

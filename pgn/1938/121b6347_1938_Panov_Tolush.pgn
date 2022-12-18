@@ -1,0 +1,27 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Tolush, Alexander"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "121b6347"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bg4 7. Re1 Be7 8. d3
+h6 9. Nbd2 Nh7 10. h3 Bd7 11. d4 b5 12. Bb3 g5 13. dxe5 dxe5 14. Nf1 Bd6 15.
+Ne3 Qf6 16. a4 Rd8 17. axb5 axb5 18. Qe2 Ne7 19. Nh2 Qg6 20. Bc2 h5 21. Nhf1
+Nf8 22. Nf5 Ne6 23. Nxd6+ cxd6 24. Bd3 Rb8 25. Ra5 b4 26. Bb5 bxc3 27. Bxd7+
+Kxd7 28. Ra7+ Nc7 29. bxc3 Nc6 30. Ra6 Nxa6 31. Qxa6 Rhc8 32. Qd3 Ne7 33. Nd2
+Qe6 34. Ba3 Rb6 35. Rd1 f6 36. c4 Ke8 37. c5 dxc5 38. Nc4 Rbc6 39. Nd6+ Rxd6
+40. Qxd6 Qxd6 41. Rxd6 Kf7 42. Kf1 Rc7 43. Ra6 Ng6 44. Ra5 c4 45. g3 Nf8 46.
+Bxf8 Kxf8 47. Ke2 Kf7 48. f4 h4 49. fxe5 hxg3 50. exf6 Kxf6 51. Rf5+ Kg6 52.
+Rf3 g2 53. Rg3 Ra7 54. Kf2 Rc7 55. Rc3 Kf6 56. Kxg2 Ke5 57. Kf3 Kd4 58. Rc1 c3
+59. Rd1+ Ke5 60. Kg4 Kf6 61. Rf1+ Kg6 62. Rc1 c2 63. e5 Rc4+ 64. Kf3 Kf5 65.
+Kg3 Kxe5 66. Kf3 Rc5 67. Kg4 Kd4 68. Rxc2 Rxc2 69. Kxg5 Ke5 70. h4 Rg2+ 71. Kh6
+Kf6 72. h5 Rg8 0-1

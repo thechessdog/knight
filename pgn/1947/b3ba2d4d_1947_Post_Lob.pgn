@@ -1,0 +1,17 @@
+[Event "Lausanne"]
+[Site "Lausanne"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Post"]
+[Black "Lob"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "b3ba2d4d"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 Nc6 5. f4 d5 6. c5 Nd7 7. Nf3 e6 8. Bb5
+Ne7 9. Nc3 c6 10. Bd3 a5 11. O-O b6 12. Ng5 h6 13. Nxe6 fxe6 14. Qh5+ g6
+15. Bxg6+ Nxg6 16. Qxg6+ Ke7 17. f5 Qe8 18. Qxe6+ Kd8 19. Qxc6 Rb8 20. Nxd5
+Rb7 21. cxb6 Rg8 22. Qc7+ Rxc7 23. bxc7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Belgique"]
+[Site "Belgique"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Gilles"]
+[Black "Rubinstein, S."]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "f8c1a03c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nge7 6. d4 Ng6 7. Bxc6 Bxc6
+8. Nbd2 Be7 9. Nc4 O-O 10. Qd3 f5 11. Qb3 Kh8 12. exf5 Rxf5 13. Ne3 Rxf3
+14. gxf3 Nh4 15. Nd5 Qd7 16. Kf1 Qh3+ 17. Ke2 Nxf3 18. Qxf3 Bb5+ 19. Ke3
+Bg5+ 20. Ke4 Qh4+ 21. Bf4 c6 22. Nc7 Rf8 23. Ne6 Bxf4 24. Qg2 Bd2+ 25. f4
+Rxf4+ 0-1
+

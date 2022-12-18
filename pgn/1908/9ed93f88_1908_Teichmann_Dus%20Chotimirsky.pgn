@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Teichmann, Richard"]
+[Black "Duz-Khotimirsky, Fedor Ivanovich"]
+[Result "0-1"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[HashCode "9ed93f88"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. e3 Nf6 5. Nf3 Nc6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Bd6 9. Bb2 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. O-O Ne5 13. Nxe5 Bxe5 14. Qe2 O-O
+15. Rad1 Qe7 16. f4 Bc7 17. e4 Bb6+ 18. Kh1 Rfd8 19. Bb1 Rac8 20. Rxd8+ Qxd8
+21. Rd1 Qe7 22. e5 Nd5 23. Nxd5 Bxd5 24. Qg4 Qb7 25. f5 Rc4 26. Qg3 Rf4 27. f6
+g6 28. Ba2 Rf2 29. Bxd5 Qxd5 30. Rc1 Rxb2 0-1

@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1904.01.01"]
+[Round "12"]
+[White "Mackenzie, Arthur John"]
+[Black "Loman, Rudolf"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[HashCode "b02afe4d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "NLD"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. e3 Nc6 5. Nc3 Nf6 6. a3 a6 7. dxc5 Bxc5 8. b4
+Be7 9. c5 O-O 10. Be2 e5 11. Bb2 Be6 12. Na4 Nd7 13. Bc3 Bf6 14. Qd2 Qc7 15.
+O-O Rfd8 16. Qb2 Nf8 17. Nb6 Rab8 18. Rfd1 Ng6 19. a4 Nce7 20. Rac1 Nc8 21. a5
+Na7 22. b5 axb5 23. Bxb5 e4 24. Nd4 Ne5 25. Be2 Nac6 26. Nb5 Qe7 27. Nd6 Nf3+
+28. gxf3 Bxc3 29. Qxc3 Qg5+ 30. Kh1 exf3 31. Rg1 Qh5 32. Qxg7# 1-0

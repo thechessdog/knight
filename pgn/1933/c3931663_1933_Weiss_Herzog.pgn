@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Herzog"]
+[Result "1-0"]
+[ECO "B73"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, 8.O-O"]
+[HashCode "c3931663"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7
+8. Be3 O-O 9. h3 d5 10. exd5 Nxd5 11. Nxd5 Qxd5 12. c4 Qd7 13. Nxc6 Qxc6
+14. Qb3 Qa6 15. Bf3 Rb8 16. Rfd1 Be6 17. Bd5 Bxd5 18. Rxd5 b6 19. Rad1 Rbc8
+20. Rd7 e6 21. R1d3 Rc6 22. Qb5 Qc8 23. Rxa7 Rxc4 24. Rdd7 Rc2 25. b3 Qc3
+26. Rd1 Be5 27. Bh6 Qb2 28. Qxb6 Bg3 29. Be3 Bb8 30. Rad7 Qe5 31. g3 Bc7
+32. Qb7 Qh5 33. Kg2 Rb8 34. Qa7 Rc8 35. Qa6 Ba5 36. Rxf7 Qxd1 37. Qxe6 Qa1
+38. Rc7+ Kh8 39. Qxc8# 1-0
+

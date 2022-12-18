@@ -1,0 +1,19 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1926.07.04"]
+[Round "11"]
+[White "Takacs, Sandor"]
+[Black "Monticelli, Mario"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights system"]
+[HashCode "f574760d"]
+[Epoch "Knight"]
+[WhiteID "791601"]
+[WhiteCountry "HUN"]
+[BlackCountry "ITA"]
+
+1. c4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. g3 Ne4 7. Qd3 Qe7 8.
+Bg2 Nxf2 9. Kxf2 Ne5 10. Qe4 f5 11. Nxf5 O-O 12. Bf4 Ng4+ 13. Kg1 Qf6 14. h3 d5
+15. Nxd5 Bc5+ 16. e3 1-0

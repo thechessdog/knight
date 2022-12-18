@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Amsterdam"]
+[Black "Copenhagen"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "78d2fcc5"]
+[Epoch "Knight"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d3 Ng4 6. Bg5 f6 7. Bc1 c6
+8. g3 Qc7 9. Bh3 h5 10. Kf1 g5 11. Kg2 h4 12. Qg1 Na6 13. Qd4 Qe7 14. Nc3
+Nf2 15. Bxc8 Bc5 16. Qd7+ Qxd7 17. Bxd7+ Kxd7 18. d4 Bxd4 19. Nxd4 hxg3 20.
+Be3 Nxh1 21. Rxh1 Rxh2+ 22. Rxh2 gxh2 23. Kxh2 Re8 24. Bf2 Nc5 25. Kg2 Ne4
+26. Nxe4 Rxe4 27. Kf3 Rf4+ 28. Kg3 c5 29. Nf3 Rc4 30. c3 Re4 31. e3 b5 32.
+Nd2 Ra4 33. a3 b4 34. Nb1 Kc6 35. Be1 bxa3 36. Nxa3 Kd5 37. Kf3 g4+ 38. Ke2
+c4 39. Bg3 f5 40. Nc2 Ra5 41. Kd2 Rb5 42. Kc1 Ke4 43. Nd4 Ra5 44. Kd2 Ra2
+45. Kc2 Ra1 46. Bf4 Rg1 47. Ne2 Rg2 48. Kd1 a5 49. Bg5 g3 0-1
+

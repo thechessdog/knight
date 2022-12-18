@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "List, Paul"]
+[Black "Von Holzhausen, Walther"]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[HashCode "886225af"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Nf3 Nc6 6. e3 e6 7. Bd3 Bd6 8. e4
+dxe4 9. Nxe4 Nxe4 10. Bxe4 Bb4+ 11. Kf1 Bd7 12. Bg5 Be7 13. Be3 Rc8 14. h4 Na5
+15. Ne5 Bb5+ 16. Kg1 f6 17. Qh5+ g6 18. Bxg6+ hxg6 19. Qxg6+ 1-0

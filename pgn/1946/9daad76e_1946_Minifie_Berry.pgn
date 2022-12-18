@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Minifie"]
+[Black "Berry, A."]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "Two knights defence"]
+[HashCode "9daad76e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Nxe4 5. Bxf7+ Ke7 6. d4 Nxd4 7. c3
+Ne6 8. Bxe6 Nxf2 9. Qf3 Nxh1 10. Qf7+ Kd6 11. Ne4+ Kc6 12. Bd5+ Kb6 13. Bg5
+Be7 14. Bxe7 Qe8 15. Bc5+ Ka6 16. Qf1+ b5 17. a4 c6 18. Qxb5+ cxb5 19.
+axb5+ Kxb5 20. c4# 1-0
+

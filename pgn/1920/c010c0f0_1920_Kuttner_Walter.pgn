@@ -1,0 +1,19 @@
+[Event "Berlin CC"]
+[Site "Berlin CC"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Kuttner, R."]
+[Black "Walter, H."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "c010c0f0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Bxc6+ bxc6 7. h3 h6 8. Nc3
+c5 9. O-O Be7 10. Nh2 O-O 11. f4 exf4 12. Bxf4 Be6 13. Qe2 Re8 14. Rae1 Nd7 15.
+Bc1 Ne5 16. Nf3 Bf6 17. Nxe5 Bxe5 18. Qf3 Qh4 19. Ne2 g5 20. Qf2 Qh5 21. Ng3
+Qg6 22. c3 Bg7 23. Nf5 Bf8 24. b3 a5 25. d4 a4 26. d5 Bd7 27. b4 Bb5 28. bxc5
+Bxf1 29. Qxf1 dxc5 30. c4 Rab8 31. Ba3 Qf6 32. Qf3 Rb6 33. e5 Rxe5 34. Nxh6+
+Bxh6 0-1

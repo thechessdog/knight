@@ -1,0 +1,20 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Vajda, Arpad"]
+[Black "Barcza, Gedeon"]
+[Result "0-1"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[HashCode "885d7006"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+[WhiteCountry "HUN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. c4 c5 5. cxd5 cxd4 6. Qa4+ Qd7 7. Qxd4 Qxd5
+8. e4 Qxd4 9. Nxd4 Bg7 10. Nb5 Na6 11. Rb1 O-O 12. b4 Be6 13. a3 Rfd8 14. Bc4
+Bxc4 15. Nxc4 Nxe4 16. Be3 Nc3 17. Nxc3 Bxc3+ 18. Ke2 Rac8 19. Rhd1 Rxd1 20.
+Rxd1 Rxc4 21. Rd8+ Kg7 22. Bxa7 b5 23. Rd7 Rc7 24. Rxc7 Nxc7 25. Kd3 Nd5 26. a4
+bxa4 27. Kc4 a3 0-1

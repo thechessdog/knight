@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Woog"]
+[Black "Neumann"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "d095defc"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 exd4
+8. Re1 d5 9. Nc3 Bb4 10. Bxd5 Bb7 11. Rxe4+ Be7 12. Nxd4 Na5 13. Bxb7 Nxb7
+14. Nc6 Qxd1+ 15. Nxd1 Kd7 16. Nxe7 Rhe8 17. Bg5 f6 18. Bxf6 gxf6 19. Nd5
+1-0
+

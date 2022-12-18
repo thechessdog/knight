@@ -1,0 +1,17 @@
+[Event "Cambridge"]
+[Site "Cambridge"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Goudling Brown"]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "19586a3b"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. e3 c6 6. Bd3 Bxd3 7. Qxd3 e5 8.
+Nge2 Be7 9. O-O-O Qa5 10. dxe5 Nxe5 11. Qf5 Nc4 12. Nd4 Ba3 13. Bxf6 Qxc3 14.
+Nb5 Bxb2+ 15. Kb1 Qb4 16. Nc7+ Kf8 17. Rd3 Bxf6+ 18. Rb3 Nd2+ 19. Kc1 Nxb3+ 20.
+axb3 Rd8 0-1

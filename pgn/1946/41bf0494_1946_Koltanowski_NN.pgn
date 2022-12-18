@@ -1,0 +1,17 @@
+[Event "Montana"]
+[Site "Montana"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit"]
+[HashCode "41bf0494"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. e4 c5 2. b4 e6 3. bxc5 Bxc5 4. d4 Bd6 5. Nf3 Nc6 6. c3 Nge7 7. Bd3 O-O 8. e5
+Bc7 9. Bxh7+ Kxh7 10. Ng5+ Kg6 11. h4 Nxe5 12. h5+ Kf5 13. g4+ Nxg4 14. Qf3+
+1-0

@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Langborg, Hugo"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "da7de33f"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. Nxc5 Qxc5 13. Nxe6 fxe6 14.
+Rxe6 gxf6 15. Rxf6 Rhg8 16. Qf3 Nb4 17. Qe4 Qd5 18. Qxd5 Rxd5 19. Bd2 Nxc2 20.
+Rc1 d3 21. Re6 Nd4 0-1

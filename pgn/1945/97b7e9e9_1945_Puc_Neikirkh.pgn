@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.??.??"]
+[Round "22"]
+[White "Puc, Stojan"]
+[Black "Neikirkh, Oleg"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[HashCode "97b7e9e9"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+[BlackCountry "BGR"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 Nc6 7. O-O a6 8. Qe2
+Qe7 9. e4 dxc4 10. Bxc4 e5 11. Bg5 Bg4 12. dxe5 Nxe5 13. Nd5 Qd6 14. Nxf6+ gxf6
+15. Bh4 Rad8 16. Rfd1 Qb6 17. Bb3 Be7 18. Rxd8 Rxd8 19. Rd1 c6 20. Rxd8+ Qxd8
+21. Qd1 Qxd1+ 22. Bxd1 Bxf3 23. gxf3 1/2-1/2

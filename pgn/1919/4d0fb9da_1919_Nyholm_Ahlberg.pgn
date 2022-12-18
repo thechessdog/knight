@@ -1,0 +1,20 @@
+[Event "Gothenborg"]
+[Site "Gothenborg"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Nyholm, Gustaf"]
+[Black "Ahlberg, A."]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[Variation "Schlechter defence"]
+[HashCode "4d0fb9da"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d5 6. Bxd5 Nf6 7. Bxf7+ Kxf7
+8. Qxd8 Bb4+ 9. Qd2 Bxd2+ 10. Nxd2 c5 11. Ngf3 Be6 12. Ng5+ Ke7 13. f4 Rd8 14.
+Nxe6 Kxe6 15. O-O-O Nc6 16. e5 Nd5 17. Ne4 b6 18. Rdf1 Ndb4 19. Kb1 h6 20. Rf3
+Rd3 21. Rhf1 Nd4 22. Rxd3 Nxd3 23. Bxd4 cxd4 24. Kc2 Nc5 25. Nd6 Rf8 26. g4 g5
+27. f5+ Kxe5 28. Nc4+ Kd5 29. Nd2 Rf6 30. Re1 Rc6 31. Kd1 Nd3 32. Rf1 Rc1+ 33.
+Ke2 Nf4+ 34. Kf2 Rc2 0-1

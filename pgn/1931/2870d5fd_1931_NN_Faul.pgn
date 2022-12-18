@@ -1,0 +1,17 @@
+[Event "Melbourne"]
+[Site "Melbourne"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Faul"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "2870d5fd"]
+[Epoch "Knight"]
+
+1. e4 d5 2. e5 e6 3. d4 Nc6 4. f4 Nge7 5. c3 Nf5 6. Bd3 Qh4+ 7. Kd2 Qxf4+
+8. Kc2 Ncxd4+ 9. cxd4 Nxd4+ 10. Kc3 Bb4+ 11. Kxb4 Nc6+ 12. Kc3 Qb4+ 13. Kc2
+Nd4# 0-1
+

@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Fox"]
+[Black "Marshall, Frank James"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "f1e0db7a"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Be6 6. Nge2 h5 7. d4 exd4 8.
+Nxd4 Nxc3 9. bxc3 Bd5 10. Qe2+ Be7 11. Bxd5 Qxd5 12. Ba3 O-O 13. Qxe7 Nc6 14.
+Nxc6 Qxh1+ 15. Kd2 Qxa1 0-1

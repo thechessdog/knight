@@ -1,0 +1,15 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Wiesel"]
+[Black "Weigel"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[HashCode "cb7bff55"]
+[Epoch "Knight"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. Bb5
+Qb6 8. Nd5 Qa5 9. b4 1-0
+

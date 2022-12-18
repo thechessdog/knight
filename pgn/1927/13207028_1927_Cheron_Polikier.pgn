@@ -1,0 +1,16 @@
+[Event "Chamonix"]
+[Site "Chamonix"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Cheron, Andre"]
+[Black "Polikier"]
+[Result "1-0"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "two knights variation"]
+[HashCode "13207028"]
+[Epoch "Knight"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 Nd7 5. Bc4 Ngf6 6. e5 dxe5 7. dxe5 Nh5
+8. Bxf7+ Kxf7 9. Ng5+ Kg8 10. Qd5+ 1-0
+

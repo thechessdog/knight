@@ -1,0 +1,16 @@
+[Event "Odense"]
+[Site "Odense"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Blom, Carl"]
+[Black "Jensen, Niels"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "a5d53f80"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd6 5. Bd3 Ne7 6. Bg5 O-O 7. Nf6+
+gxf6 8. Bxf6 Qd7 9. Bxh7+ Kxh7 10. Qh5+ Kg8 11. Qh8# 1-0
+

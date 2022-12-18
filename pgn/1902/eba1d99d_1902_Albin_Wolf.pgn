@@ -1,0 +1,19 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Albin, Adolf"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "eba1d99d"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 Bd6 9. Nc3 O-O 10. Nce4 Nxe4 11. Nxe4 Be7 12. Qe2 f5 13. Bc4+ Kh8 14. Nc3
+Bd6 15. d3 Nxc4 16. dxc4 Ba6 17. O-O Qf6 18. Bd2 e4 19. Rad1 Be5 20. Na4 Rab8
+21. b4 Qf7 22. b5 cxb5 23. Nc5 Bc8 24. cxb5 Qe7 25. Bb4 a5 26. Ba3 Bxh2+ 27.
+Kh1 Rf6 28. g4 Rh6 29. f4 Bxf4+ 30. Kg1 Be3+ 0-1

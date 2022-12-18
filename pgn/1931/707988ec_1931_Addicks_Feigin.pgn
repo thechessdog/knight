@@ -1,0 +1,17 @@
+[Event "Praag olm"]
+[Site "Praag olm"]
+[Date "1931.07.01"]
+[Round "1"]
+[White "Addicks, J."]
+[Black "Feigins, Movsa"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[HashCode "707988ec"]
+[Epoch "Knight"]
+[BlackCountry "LVA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Ne5 d6 4. Nd3 Nc6 5. e3 e5 6. c3 Be7 7. f3 O-O 8. Nf2
+Be6 9. e4 d5 10. c4 Bb4+ 11. Bd2 dxe4 12. Bxb4 Nxb4 13. dxe5 Qxd1+ 14. Kxd1 e3
+15. exf6 exf2 16. fxg7 Rfe8 17. Nc3 Bf5 18. Kd2 Rad8+ 19. Nd5 c6 20. Kc3 cxd5
+21. Kxb4 Re1 22. Bd3 Rxh1 0-1

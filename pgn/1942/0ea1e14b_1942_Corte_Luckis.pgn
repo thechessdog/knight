@@ -1,0 +1,21 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1942.03.01"]
+[Round "16"]
+[White "Corte, Cesar Juan"]
+[Black "Luckis, Marcos"]
+[Result "0-1"]
+[ECO "B66"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6"]
+[HashCode "0ea1e14b"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+[WhiteCountry "ARG"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8. Be2
+h6 9. Bh4 Be7 10. O-O-O O-O 11. f4 Qc7 12. Qe1 Bd7 13. g4 b5 14. Nxc6 Bxc6 15.
+Bd3 b4 16. Nb1 e5 17. Rg1 exf4 18. g5 hxg5 19. Bxg5 Nh7 20. Bh6 Bf6 21. e5 dxe5
+22. Qh4 e4 23. Rxg7+ Bxg7 24. Rg1 Qe5 25. Bxg7 Qxg7 26. Rxg7+ Kxg7 27. Bc4 f3
+28. Nd2 Rae8 29. Nf1 e3 30. Nxe3 Re4 31. Qg3+ Kh8 32. Nf5 Rg8 33. Qf2 Rg2 34.
+Qf1 f2 35. Kd2 Re1 0-1

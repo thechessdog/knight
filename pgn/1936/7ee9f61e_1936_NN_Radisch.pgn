@@ -1,0 +1,17 @@
+[Event "Jagerndorf"]
+[Site "Jagerndorf"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Radisch"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Maroczy variation"]
+[HashCode "7ee9f61e"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. d3 e5 3. f4 Bc5 4. fxe5 Nxe4 5. dxe4 Qh4+ 6. g3 Qxe4+ 7. Qe2
+Qxh1 8. Nf3 O-O 9. Bf4 Nc6 10. c3 d6 11. Kd2 dxe5 12. Bg2 Rd8+ 13. Kc2 Bf5+
+14. Kb3 Na5+ 15. Ka4 Bd7+ 16. Kxa5 a6 0-1
+

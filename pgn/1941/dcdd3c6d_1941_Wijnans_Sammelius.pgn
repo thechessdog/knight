@@ -1,0 +1,16 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Wijnans, Arthur Joseph"]
+[Black "Sammelius, C."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "dcdd3c6d"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. Nxe5
+Na5 9. Nxf7 Nxb3 10. Nxd8 Nxa1 11. Qh5+ Kxd8 12. Qxd5+ Nd6 13. Qxa8 Nxc2 14.
+Qc6 Bf5 15. Bg5+ Kc8 16. Qa8+ Kd7 17. d5 1-0

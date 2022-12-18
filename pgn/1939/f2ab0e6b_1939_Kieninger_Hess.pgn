@@ -1,0 +1,19 @@
+[Event "Stuttgart"]
+[Site "Stuttgart"]
+[Date "1939.05.01"]
+[Round "1"]
+[White "Kieninger, Georg"]
+[Black "Hess, Theobald"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "f2ab0e6b"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nc3 Ne7 9. Be3 Bd7 10. Nb3 O-O-O 11. Nc5 Rhe8 12. Nxd7 Rxd7 13. O-O-O f5 14.
+Rde1 Bb4 15. Bd2 Red8 16. Re2 Bxc3 17. Bxc3 fxe4 18. Rxe4 Nd5 19. Bd2 c5 20.
+Rhe1 Rf7 21. f3 Rd6 22. R1e2 b5 23. h3 Kd7 24. Re5 c4 25. R5e4 Kc6 26. f4 Kc5
+27. Re5 g6 28. g3 Kc6 29. a3 Kb6 30. Re6 Kc6 31. R2e5 1-0

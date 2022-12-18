@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Izvekov"]
+[Black "Zubakin"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans counter-gambit"]
+[HashCode "96934585"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 d5 5. exd5 Nxb4 6. O-O Ne7 7. Nxe5
+Nbxd5 8. d4 Bd6 9. Re1 O-O 10. Bb2 b5 11. Be2 f6 12. Nd3 c6 13. Nd2 Ng6 14.
+Ne4 Bb8 15. Ba3 f5 16. Ng3 Nc3 17. Qc1 f4 18. Bf3 fxg3 19. Bxf8 Qxf8 20.
+Bxc6 Nf4 21. Qd2 Nxd3 22. cxd3 gxf2+ 23. Qxf2 Bxh2+ 24. Kf1 Bf5 25. Re3 Rc8
+26. d5 Qc5 27. Rf3 Qxf2+ 28. Kxf2 Bg4 29. g3 Bxf3 30. Kxf3 Rd8 31. a3 a6
+32. Bb7 Rd6 33. Kg2 Bxg3 34. Kxg3 Nxd5 35. Rc1 Nf6 36. Rc3 g5 37. Kf3 Kf7
+38. Ke2 Kg6 39. Rc8 Rb6 40. Ba8 a5 41. Kd2 g4 42. d4 h5 43. d5 Kf5 44. Bc6
+b4 45. a4 g3 46. Rf8 g2 0-1
+

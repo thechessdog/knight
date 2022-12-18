@@ -1,0 +1,20 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Riumin"]
+[Black "Kirilov"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "c986722d"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3
+b6 8. Qe2 Bb7 9. O-O Be7 10. c4 O-O 11. Rd1 Qe8 12. Ne5 Rd8 13. Bf4 c5 14.
+dxc5 Bxc5 15. Bg5 Be7 16. Bc2 h6 17. Bh4 Rxd1+ 18. Rxd1 Qc8 19. Bxf6 gxf6
+20. Qg4+ Kh8 21. Qh5 Kg7 22. Qg4+ Kh8 23. Ng6+ fxg6 24. Qxg6 f5 25. Qxh6+
+Kg8 26. Qg6+ Kh8 27. Rd3 Bh4 28. Rh3 Qd8 29. g3 Qf6 30. Rxh4+ Qxh4 31. gxh4
+Rg8 32. Qg5 1-0
+

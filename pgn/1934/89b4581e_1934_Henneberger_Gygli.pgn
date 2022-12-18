@@ -1,0 +1,18 @@
+[Event "Zuerich"]
+[Site "Zuerich"]
+[Date "1934.07.01"]
+[Round "1"]
+[White "Henneberger, Walter"]
+[Black "Gygli, Fritz"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "89b4581e"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Ne4 7. Nxe4 dxe4 8.
+d5 Ne5 9. Qd4 f6 10. Qxe4 g6 11. Bd2 Bf5 12. Qd4 e6 13. Bc3 Qc7 14. Be2 Bc5 15.
+Qd2 Qb6 16. Bf1 a5 17. Nf3 Nxf3+ 18. gxf3 O-O 19. Bg2 exd5 20. cxd5 Rfe8+ 21.
+Kd1 Bxf2 22. Rf1 Be3 23. Qe2 Rad8 24. f4 Bd4 25. Bxd4 Qxd4+ 26. Qd2 Bg4+ 0-1

@@ -1,0 +1,19 @@
+[Event "Osyky "]
+[Site "Osyky"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Samanek, J."]
+[Black "Dittrich, F."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "80047847"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. Nbd2 Bf5 9. Re1 Re8 10. c4 Nxd2 11. Qxd2 Rxe1+ 12. Nxe1 Bxd3 13. Qxd3
+dxc4 14. Qxc4 Qh4 15. Nf3 Qe4 16. Be3 Nc6 17. Ng5 Qg6 18. Rd1 h6 19. Nf3
+Re8 20. d5 Ne5 21. Nxe5 Rxe5 22. Qb5 Qh5 23. Rd2 Re4 24. g3 f5 25. Qxb7 f4
+26. gxf4 Qg4+ 27. Kf1 Bxf4 28. Bxf4 0-1
+

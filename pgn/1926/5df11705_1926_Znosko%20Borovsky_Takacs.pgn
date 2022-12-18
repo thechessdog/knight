@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1926.07.01"]
+[Round "8"]
+[White "Znosko Borovsky, Eugene"]
+[Black "Takacs, Alexander"]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "5df11705"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. bxc3 d6 5. exd6 Qxd6 6. Nf3 Qg6 7. Bc4 Be6
+8. Bxe6 Qxe6+ 9. Kf1 Nd7 10. d3 g6 11. Nd4 Qa6 12. Qe2 Bg7 13. a4 c5 14. Nb5
+Qc6 15. Bg5 e6 0-1

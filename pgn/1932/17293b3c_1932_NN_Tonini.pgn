@@ -1,0 +1,17 @@
+[Event "Parigi"]
+[Site "Parigi"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Tonini, A."]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack"]
+[HashCode "17293b3c"]
+[Epoch "Knight"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 g6 7. Bg5 Ne4 8.
+Nxd5 Nxg5 9. Nxg5 e6 10. Qf3 Qxg5 11. Nc7+ Kd8 12. Qxf7 Bb4+ 13. Ke2 Qd2+
+14. Kf3 Nxd4+ 15. Kg4 e5+ 16. Kh4 Qh6+ 17. Kg3 Qg5# 0-1
+

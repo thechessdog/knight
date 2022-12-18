@@ -1,0 +1,16 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Znosko Borovsky, Eugene"]
+[Black "Luce, W."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "a94290c8"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. d3 h6 6. Be3 Bb6 7. O-O Nc6 8. Qd2
+Bxe3 9. fxe3 Be6 10. Bb3 O-O 11. Ne2 Bxb3 12. axb3 a6 13. Ng3 Ne7 14. h3 Qd7
+15. Nh4 Rae8 16. Qe2 Qe6 17. Rf2 d5 18. Raf1 Ng6 19. Rxf6 gxf6 20. Nhf5 1-0

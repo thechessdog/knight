@@ -1,0 +1,25 @@
+[Event "Quilmes"]
+[Site "Quilmes"]
+[Date "1945.01.01"]
+[Round "6"]
+[White "Czerniak, Moshe"]
+[Black "Pelikán, Jiří (Jorge)"]
+[Result "1-0"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[HashCode "0cac2e59"]
+[Epoch "Knight"]
+[WhiteCountry "ISR"]
+[BlackCountry "CZE"]
+
+1. d4 d6 2. e4 g6 3. f4 Nf6 4. Nc3 Bg7 5. Nf3 O-O 6. Be2 c5 7. d5 b5 8. e5 dxe5
+9. fxe5 Ng4 10. Bf4 Nd7 11. d6 Ngxe5 12. Nxe5 Nxe5 13. Nxb5 Bb7 14. O-O c4 15.
+dxe7 Qxe7 16. Qd6 Qh4 17. Qc7 Rab8 18. Bxe5 Qe4 19. Bf3 Qe3+ 20. Kh1 Bxe5 21.
+Qxc4 Qh6 22. h3 Rfc8 23. Qg4 Rxc2 24. Bxb7 Rxb7 25. Qe4 Rxg2 26. Qxg2 Rxb5 27.
+Rf2 Qh4 28. Rd1 Rb7 29. Rdf1 Re7 30. Qg4 Qxg4 31. hxg4 h6 32. b4 Rb7 33. b5 Bd4
+34. Rd2 Bb6 35. a4 Re7 36. Ra2 Ba5 37. Rf4 Kg7 38. Kg2 Re3 39. Raf2 Re7 40. Rc4
+Bb6 41. Ra2 Ba5 42. Rc6 Rd7 43. Ra6 Bc3 44. a5 Be5 45. b6 axb6 46. axb6 Rd1 47.
+R6a5 Bd6 48. Rb5 Rd4 49. g5 Rg4+ 50. Kf1 hxg5 51. b7 Rf4+ 52. Rf2 f5 53. Rxf4
+Bxf4 54. b8=Q Bxb8 55. Rxb8 g4 56. Ke2 f4 57. Rb4 g5 58. Rb6 Kf7 59. Kd3 Kg7
+60. Ke4 g3 61. Kf3 Kf7 62. Kg4 Kg7 63. Rb5 Kh6 64. Ra5 1-0

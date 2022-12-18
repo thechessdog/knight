@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1907.01.01"]
+[Round "1"]
+[White "Treybal, Karel"]
+[Black "Moll"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Pillsbury variation"]
+[HashCode "d667b1a1"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8. Nh4
+c6 9. Ba4 Ng6 10. Nxg6 fxg6 11. Bb3+ Kh8 12. f4 Qb6+ 13. Kh1 Ng4 14. Qe1 h6 15.
+Qh4 Kh7 16. h3 Nf6 17. fxe5 dxe5 18. Rxf6 Rxf6 19. Bxf6 gxf6 20. Qxf6 Qc7 21.
+Bf7 1-0

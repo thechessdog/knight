@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Quintana"]
+[Black "Ylisastigui"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "fe620b30"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nf3 dxc4 4. a4 e6 5. e4 b5 6. b3 Bb4+ 7. Bd2 Bxd2+ 8.
+Qxd2 cxb3 9. axb5 Bb7 10. Qb4 Qb6 11. Nbd2 Nf6 12. Nc4 Qc7 13. Nd6+ Kd8 14.
+Ne5 a5 15. bxa6 Bxa6 16. Ndxf7+ 1-0
+

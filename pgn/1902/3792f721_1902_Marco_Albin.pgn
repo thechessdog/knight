@@ -1,0 +1,27 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Albin, Adolf"]
+[Result "1/2-1/2"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "3792f721"]
+[Epoch "Knight"]
+[BlackCountry "ROU"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 d6 6. Bd5 Nge7 7. d4 Nxd5 8.
+exd5 Nxd4 9. Nxd4 exd4 10. Qxd4 Qf6 11. Qxf6 gxf6 12. a4 b4 13. c4 a5 14. Be3
+Rg8 15. Rg1 Bf5 16. Ke2 Kd7 17. Nd2 Bc2 18. Rac1 Bg6 19. Nb3 Bg7 20. Rgd1 f5
+21. Rd2 Rge8 22. Kf1 Re4 23. c5 f4 24. Bd4 Bxd4 25. Nxd4 dxc5 26. Rxc5 Rae8 27.
+f3 Re1+ 28. Kf2 Ra1 29. Ne2 Rxa4 30. Nxf4 Ra2 31. Ne2 a4 32. Rb5 Bd3 33. Rxb4
+Bxe2 34. Rxe2 Rxe2+ 35. Kxe2 a3 36. Kd2 axb2 37. Kc2 b1=Q+ 38. Kxb1 Rxg2 39.
+Rh4 Rf2 40. Rxh7 Rxf3 41. Kc2 Kd6 42. Rh5 f5 43. Rh7 Re3 44. h4 Rh3 45. Kd2 f4
+46. h5 Kxd5 47. Rxc7 Ke4 48. Rc4+ Kf5 49. Ke2 Kg4 50. Kf2 Rh2+ 51. Kg1 Rxh5 52.
+Rc3 Ra5 53. Rb3 Ra2 54. Rc3 Rd2 55. Rb3 Re2 56. Kf1 Rh2 57. Kg1 Rh5 58. Ra3 Rd5
+59. Rb3 Kf5 60. Kf2 Kg4 61. Ra3 Rd2+ 62. Kf1 Rb2 63. Rc3 Rb4 64. Kg2 Rb2+ 65.
+Kf1 Kf5 66. Ra3 Rh2 67. Ra5+ Kg4 68. Ra3 Rd2 69. Rb3 Kf5 70. Ke1 Rd4 71. Ke2
+Ke4 72. Ra3 Rb4 73. Kf1 Kf5 74. Kf2 Kg4 75. Rc3 f3 76. Rc8 Rb2+ 77. Kf1 1/2-1/2

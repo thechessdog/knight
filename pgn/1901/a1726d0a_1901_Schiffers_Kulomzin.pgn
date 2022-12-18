@@ -1,0 +1,20 @@
+[Event "RUS-ch02"]
+[Site "Moscow"]
+[Date "1901.??.??"]
+[Round "14"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Kulomzin, Viacheslav Nikolaev"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "a1726d0a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Bg4 9. Nc3 Bxf3 10. gxf3 Nf6 11. cxd5 Nxd5 12. Be4 Nxc3 13. bxc3 O-O 14. f4 g6
+15. Qf3 Qd7 16. Rb1 Nd8 17. f5 c6 18. Kh1 Kh8 19. Rg1 Rg8 20. Be3 Qd6 21. fxg6
+fxg6 22. Bf4 Qe6 23. Be5+ Rg7 24. Bxg7+ Kxg7 25. Rbe1 Qf6 26. Qg4 Kf7 27. Re3
+Ke8 28. Rgg3 Nf7 29. Bg2 1-0

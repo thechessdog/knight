@@ -1,0 +1,20 @@
+[Event "Firenze"]
+[Site "Firenze"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Monticelli, Mario"]
+[Black "Rosselli del Turco, Stefano"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Balla variation"]
+[HashCode "603e1d47"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+[BlackCountry "ITA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. a4 b4 12. cxb4 cxb4 13. Nbd2 O-O 14. Nb3 Bg4 15.
+Nxa5 Qxa5 16. Bb3 exd4 17. Qxd4 Nd7 18. Bf4 Bxf3 19. gxf3 Ne5 20. Bxe5 dxe5 21.
+Qd5 Qb6 22. Rad1 Qg6+ 23. Kf1 Qh5 24. Ke2 Qxh2 25. Rh1 Qf4 26. Qb7 Bg5 27. Rd7
+Rad8 28. Rhd1 Rxd7 29. Rxd7 h5 30. Qc6 h4 31. Rxf7 Qd2+ 32. Kf1 Qd3+ 0-1

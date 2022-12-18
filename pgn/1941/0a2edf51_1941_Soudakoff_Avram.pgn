@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Soudakoff"]
+[Black "Avram"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "0a2edf51"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bxd3 6. Qxd3 f6 7. c4 Bb4+
+8. Nc3 Nge7 9. O-O g5 10. Bg3 h5 11. h4 g4 12. Nd2 Bxc3 13. bxc3 f5 14. f3
+Qd7 15. cxd5 exd5 16. Rab1 b6 17. c4 O-O 18. Bf4 Ng6 19. fxg4 Nxf4 20. Rxf4
+hxg4 21. cxd5 Qxd5 22. Rb5 Qe6 23. Rbxf5 Rxf5 24. Rxf5 Re8 25. Rg5+ Kf8 26.
+d5 Nb4 27. Qf1+ 1-0
+

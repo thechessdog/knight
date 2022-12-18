@@ -1,0 +1,16 @@
+[Event "Blackpool"]
+[Site "Blackpool"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Hoad, PC."]
+[Black "Rhodes, H."]
+[Result "0-1"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Symmetrical, Keres defence"]
+[HashCode "e3970092"]
+[Epoch "Knight"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 c5 5. O-O Nc6 6. cxd5 Nxd5 7. Nc3 Be7 8. d4
+Nxc3 9. bxc3 O-O 10. Rb1 cxd4 11. Nxd4 Qc7 12. Be3 Rd8 13. Qa4 Bd7 14. Rxb7
+Qxb7 15. Nxc6 Bf6 16. Bd4 e5 17. Qc4 Bxc6 18. Bxc6 Qc7 0-1

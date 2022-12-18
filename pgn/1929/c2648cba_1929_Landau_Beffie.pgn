@@ -1,0 +1,17 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Landau, Salo"]
+[Black "Beffie"]
+[Result "1-0"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[HashCode "c2648cba"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nd7 4. Nc3 e6 5. e4 dxe4 6. Nxe4 Bb4+ 7. Bd2 Qe7 8. c5
+Bxd2+ 9. Qxd2 Ngf6 10. Nd6+ Kf8 11. Ng5 e5 12. O-O-O exd4 13. Re1 Qd8 14. Ndxf7
+Qc7 15. Ne6+ 1-0

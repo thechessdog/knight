@@ -1,0 +1,21 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Adams, Weaver Warren"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack, solid line"]
+[HashCode "1d5454f6"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Qe2 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. h3 Bd7 12. d5 O-O 13. Nbd2 Nh5 14. Nb3 Nxb3 15.
+axb3 g6 16. g4 Ng7 17. Bh6 Rfb8 18. Nd2 a5 19. f4 f6 20. Rf2 a4 21. Raf1 axb3
+22. Nxb3 c4 23. Nc1 b4 24. Kh2 b3 25. Bd1 Ra1 26. Qd2 Rba8 27. Be2 Ne8 28. fxe5
+dxe5 29. d6 Nxd6 30. Qd5+ Kh8 31. g5 Bc6 32. Qe6 Nxe4 33. Qf7 Rg8 34. gxf6 Nxf6
+35. Rxf6 1-0

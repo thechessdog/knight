@@ -1,0 +1,24 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Heinicke, Herbert"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[HashCode "bac7d40b"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+
+1. Nf3 d5 2. c4 d4 3. e3 dxe3 4. fxe3 e5 5. Nc3 Nc6 6. Be2 g5 7. O-O g4 8. Ne1
+h5 9. Nc2 Bd6 10. Ne4 f5 11. Nxd6+ Qxd6 12. d4 h4 13. b3 h3 14. g3 Nf6 15. Ba3
+Qd7 16. dxe5 Ne4 17. Qxd7+ Bxd7 18. Bb2 O-O-O 19. Rad1 Rhe8 20. Nd4 Nxe5 21.
+Nxf5 Nf3+ 22. Bxf3 gxf3 23. Rxf3 Bxf5 24. Rxd8+ Rxd8 25. Rxf5 Rd2 26. Be5 Rg2+
+27. Kf1 Rxh2 28. g4 Rg2 29. Rh5 Nd2+ 30. Ke1 h2 31. Bf4 c6 32. g5 Kd7 33. e4
+Nf3+ 34. Kf1 Rxa2 35. g6 Ke6 36. Be3 Kf6 37. Rh6 b6 38. e5+ Kg7 39. e6 Kf6 40.
+Rh8 Ra1+ 41. Kg2 Rg1+ 42. Kxf3 h1=Q+ 43. Rxh1 Rxh1 44. c5 b5 45. Bd4+ Kxg6 46.
+Ke4 Re1+ 0-1

@@ -1,0 +1,15 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Muhlock"]
+[Black "Kostics"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Blackburne shilling gambit"]
+[HashCode "91fc8b0a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. Rf1 Qxe4+ 7. Be2
+Nf3# 0-1
+

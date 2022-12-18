@@ -1,0 +1,18 @@
+[Event "Los Angeles"]
+[Site "Los Angeles"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Woliston, P."]
+[Result "1-0"]
+[ECO "D09"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, 5.g3"]
+[HashCode "947e9d6c"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Be6 6. Nbd2 Qd7 7. Bg2 Be7 8. O-O
+Bh3 9. Ne4 Bxg2 10. Kxg2 h6 11. a3 O-O-O 12. Qa4 Qe6 13. Rd1 Kb8 14. Rd3 f5 15.
+exf6 Nxf6 16. Nxf6 Bxf6 17. Bd2 Rhg8 18. Rb3 Rd6 19. c5 Rd5 20. Qa6 Nd8 21.
+Rxb7+ 1-0

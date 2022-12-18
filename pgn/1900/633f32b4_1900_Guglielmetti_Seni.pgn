@@ -1,0 +1,18 @@
+[Event "Rome"]
+[Site "Rome"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Guglielmetti"]
+[Black "Seni"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "LaBourdonnais variation"]
+[HashCode "633f32b4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb6 7. O-O Nf6
+8. Nc3 O-O 9. h3 h6 10. Be3 Qe7 11. Qc1 Kh7 12. Bd3 Ng8 13. Nd5 Qe8 14. e5+
+Kh8 15. Nf6 Nxf6 16. exf6 gxf6 17. Bxh6 Rg8 18. Qf4 Qe6 19. Qh4 Rg6 20.
+Bxg6 fxg6 21. Rae1 Qf7 22. Re8+ 1-0
+

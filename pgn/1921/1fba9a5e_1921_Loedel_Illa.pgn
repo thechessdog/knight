@@ -1,0 +1,15 @@
+[Event "Carrasco"]
+[Site "Carrasco"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Loedel, Juan"]
+[Black "Illa, Rolando"]
+[Result "0-1"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "1fba9a5e"]
+[Epoch "Knight"]
+
+1. e4 e5 2. b4 Bxb4 3. Bb2 Nc6 4. f4 d6 5. Qf3 Nf6 6. Bc4 O-O 7. fxe5 Nxe5
+8. Bxf7+ Nxf7 0-1
+

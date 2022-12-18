@@ -1,0 +1,20 @@
+[Event "New York m"]
+[Site "New York"]
+[Date "1930.01.01"]
+[Round "4"]
+[White "Steiner, Lajos"]
+[Black "Kashdan, Isaac"]
+[Result "1-0"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, Bogolyubov variation"]
+[HashCode "0977eb87"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 cxd4 6. Nb5 Bf8 7. Qg4 Nc6 8. Nf3
+a6 9. Nbxd4 Nge7 10. Bd3 Qc7 11. Qg3 Nxd4 12. Nxd4 Ng6 13. Nf3 Bd7 14. h4 Bb5
+15. Bxb5+ axb5 16. h5 Ne7 17. Nd4 Qc4 18. Qd3 Nc6 19. Nxb5 Rxa2 20. Qxc4 Rxa1+
+21. Ke2 Rxh1 22. Qa4 Be7 23. Qa8+ Nd8 24. Nd6+ Bxd6 25. exd6 Rh4 26. Ba5 Kd7
+27. b3 e5 28. Qb8 Nc6 29. Qxb7+ Kxd6 30. Qc7+ Kc5 31. b4+ 1-0

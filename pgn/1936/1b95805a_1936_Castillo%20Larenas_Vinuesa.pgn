@@ -1,0 +1,23 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1936.??.??"]
+[Round "10"]
+[White "Castillo Larenas, Mariano"]
+[Black "Vinuesa, Juan"]
+[Result "0-1"]
+[ECO "E76"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, dynamic line"]
+[HashCode "1b95805a"]
+[Epoch "Knight"]
+[WhiteCountry "CHL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 a6 10. O-O b5 11. h3 b4 12. Ne2 Qb6 13. Be3 Re8 14. Nd2 Nxd5 15. exd5
+Rxe3 16. Nc4 Qa7 17. Nxe3 c4 18. Bxc4 Qxe3+ 19. Kh2 Nd7 20. Qd3 Qxd3 21. Bxd3
+Nc5 22. Bc2 Bb7 23. Rad1 Bxb2 24. f5 a5 25. Rf3 a4 26. fxg6 hxg6 27. Nf4 Be5
+28. g3 b3 29. axb3 a3 30. b4 Nd7 31. Rff1 a2 32. Ra1 Ra3 33. Nd3 Bxa1 34. Rxa1
+Bxd5 35. b5 Bc4 36. Nb4 d5 37. Kg2 Kg7 38. Kf2 Kf6 39. Bd1 Ke5 40. h4 f5 41. g4
+fxg4 42. Bxg4 Nf6 43. Bd1 Ne4+ 44. Kg2 Kd6 45. b6 Ra5 46. b7 Rb5 47. Nxa2 Rxb7
+48. Nc1 Rb2+ 49. Kg1 d4 50. h5 Nf2 51. Be2 Bxe2 52. Nxe2 Rxe2 53. hxg6 Nh3+ 54.
+Kf1 Rf2+ 55. Ke1 Rg2 56. Ra7 Kd5 57. g7 Ke4 58. Rf7 Ke3 0-1

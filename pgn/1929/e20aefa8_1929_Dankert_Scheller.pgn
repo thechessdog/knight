@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Dankert"]
+[Black "Scheller"]
+[Result "1-0"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, 7.Be3"]
+[HashCode "e20aefa8"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+a3 e6 9. Nf3 Bg4 10. Nbd2 Qd7 11. Be2 O-O-O 12. O-O f6 13. b4 fxe5 14. dxe5
+Bxf3 15. Nxf3 Qxd1 16. Raxd1 Nd7 17. Ng5 Ncxe5 18. Nxe6 Re8 19. Nxf8 Rhxf8
+20. Bf2 h6 21. c5 a6 22. a4 Rf4 23. b5 axb5 24. axb5 Ng4 25. c6 Nb8 26.
+cxb7+ Kxb7 27. Bf3+ Kc8 28. b6 c6 29. Bg3 Rc4 30. Ra1 Ne5 31. Rfb1 1-0
+

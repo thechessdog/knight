@@ -1,0 +1,25 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1938.01.01"]
+[Round "15"]
+[White "Nogues Acuna, Alejandro"]
+[Black "Villegas, Benito"]
+[Result "1-0"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "d57062a2"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 Nc6 6. Qb3 a5 7. Ne2 e5 8. O-O
+Be7 9. Re1 d6 10. Bd2 Nb4 11. Bb1 c5 12. a3 Nc6 13. dxc5 dxc5 14. Rd1 Be6 15.
+Be1 Qb8 16. Nd5 Bd8 17. Nec3 Nd7 18. f4 exf4 19. Nxf4 Nd4 20. exd4 Qxf4 21. Bg3
+Qe3+ 22. Bf2 Qh6 23. Nb5 cxd4 24. Bxd4 Rc8 25. Qg3 Be7 26. Be4 Nc5 27. Bd5 a4
+28. Nc7 Nb3 29. Nxe6 fxe6 30. Bxe6+ Kh8 31. Bxc8 Rxc8 32. Be3 Qc6 33. Rab1 Qxc4
+34. h3 Bf6 35. Qf3 b5 36. Qd5 h6 37. Qxc4 bxc4 38. Rd6 c3 39. bxc3 Rxc3 40. Bf2
+Be7 41. Ra6 Rc4 42. Rb2 Bxa3 43. Ra2 Bc5 44. R6xa4 Rc1+ 45. Kh2 Bd6+ 46. Bg3
+Bxg3+ 47. Kxg3 Nc5 48. Rg4 Rc3+ 49. Kh2 Nd7 50. Ra7 Rd3 51. Re4 Nf6 52. Ree7
+Nh5 53. g4 Nf4 54. Rxg7 Rxh3+ 55. Kg1 Ra3 56. Rh7+ Kg8 57. Rag7+ Kf8 58. Rb7
+Kg8 59. Rhe7 Ra8 60. Rg7+ Kh8 61. Rh7+ Kg8 62. Rxh6 Rf8 63. Rhb6 Nd5 64. Rg6+
+Kh8 65. Ra6 Nf6 66. g5 Ne4 67. g6 Kg8 68. Re7 Nf6 69. g7 1-0

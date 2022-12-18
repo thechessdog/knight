@@ -1,0 +1,18 @@
+[Event "Bologna"]
+[Site "Bologna"]
+[Date "1913.01.01"]
+[Round "3"]
+[White "Matteucci, Guido"]
+[Black "Montessori, G."]
+[Result "0-1"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "b5a18af0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Nxe5 d5 5. Bd3 Bd6 6. O-O O-O 7. Qe2 Bxe5 8.
+dxe5 Nc5 9. Nc3 Nc6 10. f4 Nxd3 11. Qxd3 Nb4 12. Qd1 Bf5 13. Rf2 d4 14. Nb5 d3
+15. cxd3 Nxd3 16. Rf3 a6 17. Nc3 Qd4+ 18. Be3 Qc4 19. Qc2 g6 20. Rg3 h5 21. Rg5
+Kh7 22. b3 Qc6 23. Rxf5 Nb4 24. Rxh5+ Kg8 25. Qe2 gxh5 26. Qxh5 Nc2 27. Nd5
+Rfe8 28. Nf6+ Kf8 29. Bc5+ Qxc5+ 0-1

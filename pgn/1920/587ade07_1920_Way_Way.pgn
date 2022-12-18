@@ -1,0 +1,20 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Way"]
+[Black "Way"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "587ade07"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O a6 5. Ba4 b5 6. Bb3 Nxe4 7. d4 Be7 8.
+Re1 d5 9. dxe5 Be6 10. c3 O-O 11. Bc2 f5 12. Nbd2 Nxd2 13. Bxd2 Bc5 14. Bg5
+Qb8 15. Nd4 Nxd4 16. cxd4 Bb6 17. b4 a5 18. Qd3 c6 19. g4 Qa7 20. Qh3 Bxd4
+21. Be3 Bxe3 22. fxe3 g6 23. gxf5 Qf7 24. Qg3 Bxf5 25. Rf1 Qd7 26. Bxf5
+Rxf5 27. Rxf5 Qxf5 28. Rf1 Qd7 29. h4 d4 30. h5 dxe3 31. hxg6 e2 32. Rf4
+axb4 33. Rh4 Qf5 34. gxh7+ Kh8 0-1
+

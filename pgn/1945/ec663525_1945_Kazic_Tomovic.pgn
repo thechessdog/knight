@@ -1,0 +1,25 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "17"]
+[White "Kazic, Bozidar"]
+[Black "Tomovic, Vasilje"]
+[Result "0-1"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[HashCode "ec663525"]
+[Epoch "Knight"]
+[BlackCountry "MNE"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. a4 Qc7 8. Be3
+b6 9. O-O Bb7 10. f3 Nbd7 11. Qe1 d5 12. exd5 Nxd5 13. Nxd5 Bxd5 14. c4 Bb7 15.
+a5 Bc5 16. axb6 Qe5 17. Qf2 O-O 18. f4 Qd6 19. Nc2 Bxb6 20. Rfd1 Bxe3 21. Rxd6
+Bxf2+ 22. Kxf2 Nc5 23. Bf3 Ne4+ 24. Bxe4 Bxe4 25. Nd4 Rfc8 26. b3 a5 27. Rb6 h5
+28. Ra4 Rd8 29. Ke3 Bxg2 30. Rb5 Ra7 31. Raxa5 Rad7 32. Ne2 Rd3+ 33. Kf2 Bc6
+34. Rb6 Rf3+ 35. Ke1 Be4 36. Ra2 Rh3 37. Ng1 Rhd3 38. c5 Rd1+ 39. Kf2 Rc1 40.
+b4 Rd3 41. Rb2 Kh7 42. Rb8 Kg6 43. Rc8 f5 44. b5 Rdd1 45. Ne2 Rf1+ 46. Ke3 Rcd1
+47. Ng3 Rf3+ 48. Ke2 Rg1 49. Nxe4 fxe4 50. Rd2 Rh3 51. f5+ exf5 52. Rd6+ Kg5
+53. Rcd8 Kf4 54. Kd2 e3+ 55. Ke2 Rxh2+ 56. Kd3 Rd2+ 57. Kc3 Rc1+ 58. Kb3 Rxc5
+59. Rxd2 exd2 60. Kb4 Rc2 61. Kb3 Rc8 62. Rxd2 g5 63. Kb4 g4 64. Ka5 Ke3 65.
+Rh2 f4 66. Rxh5 f3 67. Kb6 Re8 68. Ka6 f2 69. Kb7 f1=Q 70. Re5+ Kd4 0-1

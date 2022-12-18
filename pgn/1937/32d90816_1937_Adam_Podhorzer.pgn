@@ -1,0 +1,24 @@
+[Event "Trebitsch mem3738"]
+[Site "Vienna"]
+[Date "1937.12.22"]
+[Round "10"]
+[White "Adam, Hermann"]
+[Black "Podhorzer, David"]
+[Result "0-1"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[HashCode "32d90816"]
+[Epoch "Knight"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. exd5 cxd5 5. h3 Bxf3 6. Qxf3 e6 7. d4 Nc6
+8. Be3 Qb6 9. Rb1 Bb4 10. Rd1 Qa5 11. Bc1 Qxa2 12. Bb5 Qa5 13. O-O Bxc3 14.
+Bxc6+ bxc6 15. bxc3 Ne7 16. Bf4 O-O 17. Ra1 Qd8 18. Rfb1 Qd7 19. Qe2 a5 20.
+Rb6 Ng6 21. Bg3 f5 22. f3 f4 23. Bf2 Ra7 24. Ra6 Rfa8 25. R1xa5 Kf7 26. Qd3
+Qb7 27. Rxa7 Rxa7 28. Rxa7 Qxa7 29. c4 Qa6 30. cxd5 Qxd3 31. dxe6+ Kxe6 32.
+cxd3 Kd5 33. Kf1 Ne7 34. Ke2 Nf5 35. Kd2 Nxd4 36. Kc3 Nf5 37. Kd2 g5 38.
+Ke2 Nh4 39. g3 Ng6 40. g4 c5 41. Be1 Ne5 42. h4 Kd4 43. Bf2+ Kc3 44. Bxc5
+gxh4 45. d4 Kc4 46. Bb6 Nc6 47. Bc7 Nxd4+ 48. Kf2 Ne6 49. Bd6 Kd3 50. Kg2
+Ke2 51. Kh3 Kxf3 52. Kxh4 Kg2 53. Bxf4 Nxf4 54. Kg5 Ng6 55. Kh6 Nf8 56. g5
+Kg3 57. Kh5 Kh3 0-1
+

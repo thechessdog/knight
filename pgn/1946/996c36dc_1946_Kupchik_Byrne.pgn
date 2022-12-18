@@ -1,0 +1,22 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Kupchik, Abraham"]
+[Black "Byrne, Donald"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Delmar variation"]
+[HashCode "996c36dc"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. c3 Be7 6. Qb3 d5 7. exd5 b5 8. Be2 e4
+9. dxc6 exf3 10. cxd7+ Bxd7 11. Bxf3 Rb8 12. O-O Nf6 13. Bf4 Rb6 14. Nd2 O-O
+15. Rfe1 Be6 16. Qc2 Qd7 17. a3 Rc8 18. Ne4 a5 19. Nxf6+ Bxf6 20. Qd2 b4 21.
+axb4 axb4 22. Be5 Bd5 23. Bxd5 Qxd5 24. Bxf6 Rxf6 25. Re5 bxc3 26. bxc3 Qd8 27.
+Rae1 g6 28. c4 Rd6 29. d5 Kg7 30. Qd4 Qb6 31. Qc3 Rf6 32. R5e3 Kg8 33. h3 h5
+34. Re8+ Rxe8 35. Rxe8+ Kh7 36. c5 Qb1+ 37. Qe1 Qb7 38. c6 Qc7 39. Re3 Qf4 40.
+Qc3 1-0

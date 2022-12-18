@@ -1,0 +1,20 @@
+[Event "Hamburg Trostturnier (B-Hauptturnier)"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Gutmayer, Franz"]
+[Black "Schoenmann, Wilhelm"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "16a472e7"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bb4+ 10. c3 Bc5 11. Nd4 O-O 12. Be3 Bg4 13. Qc2 Qe7 14. h3 Bd7 15.
+Nd2 Rae8 16. N2b3 Bd6 17. Ne2 Nh7 18. c5 Be5 19. O-O-O f5 20. g3 g5 21. Rhg1
+Nf6 22. h4 Ng4 23. Qd2 Bf6 24. hxg5 hxg5 25. d6 cxd6 26. Qxd6 Ba4 27. Qd5+ Qe6
+28. Qxe6+ Rxe6 29. Ned4 Bxd4 30. Bxd4 Ne5 31. Bxe5 Rxe5 32. Rd6 Bxb3 33. axb3
+Rxc5 34. Rg6+ Kh7 35. Rxg5 Kh6 36. b4 Re5 37. Rxf5 Rexf5 0-1

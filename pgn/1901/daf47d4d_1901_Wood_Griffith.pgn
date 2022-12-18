@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Wood, Stephen"]
+[Black "Griffith"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "daf47d4d"]
+[Epoch "Knight"]
+[WhiteID "425869"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bc4 Bg4 6. d3 Nd4 7. Nd5 Bxf3 8.
+gxf3 Qh4+ 9. Kd2 c6 10. Nc7+ Kd7 11. Nxa8 Bb4+ 12. Ke3 exf4+ 13. Kxd4 c5+ 14.
+Kd5 Nf6# 0-1

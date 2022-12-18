@@ -1,0 +1,20 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "4"]
+[White "Rethy, Pal"]
+[Black "Lundin, Erik"]
+[Result "0-1"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "63daf551"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+[WhiteCountry "HUN"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Bd6 5. Be2 Nbd7 6. c4 O-O 7. Nc3 b6 8. Qc2
+dxc4 9. bxc4 Bb7 10. Nb5 Be7 11. h4 a6 12. Nc3 Re8 13. h5 Bf8 14. d4 c5 15. Bd3
+cxd4 16. Ne4 Bb4+ 17. Ke2 Bxe4 18. Bxe4 Nc5 19. a3 Ncxe4 20. axb4 d3+ 21. Qxd3
+Qxd3+ 22. Kxd3 Nxf2+ 23. Ke2 Nxh1 24. Rxh1 Ne4 25. Rh4 f5 26. Ne5 a5 27. Ba3
+Red8 28. h6 g5 0-1

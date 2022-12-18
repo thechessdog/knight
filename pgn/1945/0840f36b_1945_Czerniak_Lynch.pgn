@@ -1,0 +1,21 @@
+[Event "CIR"]
+[Site "Buenos Aires"]
+[Date "1945.05.01"]
+[Round "1"]
+[White "Czerniak, Moshe"]
+[Black "Lynch, J."]
+[Result "1-0"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "0840f36b"]
+[Epoch "Knight"]
+[WhiteCountry "ISR"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 Nbd7 5. Nxd5 Nxd5 6. e4 h6 7. Bh4 Ne3 8.
+Qd3 Bxe4 9. fxe4 Nxf1 10. O-O-O g5 11. Bf2 Nxh2 12. Rxh2 e6 13. Ne2 Qf6 14. g4
+Qg6 15. Bg3 Bd6 16. Bxd6 cxd6 17. Ng3 O-O-O 18. Qa3 Kb8 19. Qxd6+ Ka8 20. Qa3
+Nb6 21. Rf2 Rd7 22. Qf3 Rhd8 23. c3 Nc4 24. Qe2 Rc8 25. Rdf1 a6 26. Rf6 Qh7 27.
+Rh1 Qg7 28. Qf2 Rdc7 29. Rfxh6 Qf8 30. Kb1 Qd6 31. Rh8 Qf4 32. Rxc8+ Rxc8 33.
+Qxf4 gxf4 34. Nf1 Rg8 35. Rg1 Rg5 36. e5 b5 37. Kc2 f3 38. b3 Nb6 39. Ne3 Nd5
+40. Nxd5 exd5 41. Kd2 f2 42. Rf1 Rxg4 43. Rxf2 Rg7 44. Ke3 Kb7 45. Rf6 Rg3+ 46.
+Kf4 Rxc3 47. Rxf7+ Kc8 48. e6 1-0

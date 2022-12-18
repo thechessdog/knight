@@ -1,0 +1,17 @@
+[Event "Ostrava"]
+[Site "Ostrava"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Gruenfeld, Ernst"]
+[Black "Nagy, Ervin"]
+[Result "1-0"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld (Kemeri) defence"]
+[HashCode "f5a8ac30"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackID "14913194"]
+[BlackCountry "SVK"]
+
+1. d4 Nf6 2. c4 g6 3. g3 d5 4. cxd5 Qxd5 5. Nf3 Bg7 6. Bg2 O-O 7. Nc3 Qh5 8. h3
+Nc6 9. Ng5 Rd8 10. Bf3 Rxd4 11. Qb3 1-0

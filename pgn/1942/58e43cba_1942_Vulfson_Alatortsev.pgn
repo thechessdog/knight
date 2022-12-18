@@ -1,0 +1,23 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Vulfson, Vladimir"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "1-0"]
+[ECO "D16"]
+[Opening "QGD Slav accepted"]
+[Variation "Alapin variation"]
+[HashCode "58e43cba"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteID "4116283"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 c5 6. d5 Bf5 7. e3 e6 8. Bxc4
+exd5 9. Nxd5 Be4 10. Nc3 Qxd1+ 11. Kxd1 Bg6 12. Nd5 Nxd5 13. Bxd5 Nc6 14. Bxc6+
+bxc6 15. Ne5 Be4 16. f3 f6 17. Nc4 Bd3 18. b3 O-O-O 19. Bd2 Be7 20. Nb2 f5 21.
+Nxd3 Rxd3 22. Kc2 Rhd8 23. Rad1 Bg5 24. f4 Bf6 25. Ba5 Rxd1 26. Rxd1 Rd5 27.
+Be1 Kd7 28. Rd3 Ke6 29. Bc3 Rxd3 30. Kxd3 Bxc3 31. Kxc3 Kd5 32. Kd3 h6 33. g3
+h5 34. h3 h4 35. gxh4 g6 36. h5 gxh5 37. a5 a6 38. h4 Ke6 39. e4 fxe4+ 40. Kxe4
+Kf6 41. f5 Kf7 1-0

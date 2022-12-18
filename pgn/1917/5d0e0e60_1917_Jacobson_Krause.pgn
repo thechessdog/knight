@@ -1,0 +1,22 @@
+[Event "Malmo"]
+[Site "Malmo"]
+[Date "1917.01.01"]
+[Round "1"]
+[White "Jacobson, Ernst"]
+[Black "Krause, Orla"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "5d0e0e60"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Nxe4 Be6 10. Neg5 Qd5 11. Nxf7 Kxf7 12. Ng5+ Kg8 13.
+Nxe6 Re8 14. Nxc7 Rxe1+ 15. Qxe1 Qe5 16. Qxe5 Nxe5 17. Ne6 Nc6 18. Bf4 Be7
+19. Re1 Kf7 20. Be5 Nxe5 21. Rxe5 Rc8 22. Kf1 Rxc2 23. Nxd4 Rxb2 24. Re2
+Rb1+ 25. Re1 Rxe1+ 26. Kxe1 Bc5 27. Nb3 Bb6 28. Ke2 Ke6 29. f3 Kd5 30. Kd3
+Bc7 31. h3 Be5 32. Nd2 Kc5 33. Nb1 b5 34. Nd2 a5 35. g3 g5 36. Ne4+ Kb4 37.
+Kc2 h6 38. h4 gxh4 39. gxh4 a4 40. Nf2 Bg3 41. Ng4 Ka3 42. Kb1 b4 43. Ne3
+b3 44. axb3 Kxb3 45. Nc2 Bxh4 46. Nd4+ Kc4 47. Nf5 Bf6 48. Ka2 h5 49. Ka3
+Kd5 50. f4 Ke6 51. Ng3 h4 52. Nh1 Bd4 0-1
+

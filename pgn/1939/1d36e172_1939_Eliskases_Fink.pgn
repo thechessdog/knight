@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Fink, Al"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[HashCode "1d36e172"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Bf5 4. g3 e6 5. Bg2 Bd6 6. O-O h6 7. d3 Nbd7 8. Nbd2
+Qe7 9. Re1 e5 10. Nh4 Be6 11. e4 d4 12. Nf5 Qf8 13. c3 dxc3 14. Bxc3 O-O-O 15.
+Qf3 Nh7 16. Nc4 Bxc4 17. dxc4 Ng5 18. Qg4 Kb8 19. Rad1 Nf6 20. Qe2 h5 21. b4 g6
+22. Nxd6 cxd6 23. f4 Ngh7 24. fxe5 dxe5 25. Bxe5+ Ka8 26. c5 Qe8 27. Bd6 Qd7
+28. e5 Rhe8 29. c6 bxc6 30. b5 Rc8 31. bxc6 Rxc6 32. Qb5 Rc8 33. exf6 Nxf6 34.
+Re7 1-0

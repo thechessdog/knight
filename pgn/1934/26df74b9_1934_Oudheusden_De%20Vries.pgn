@@ -1,0 +1,15 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Oudheusden"]
+[Black "De Vries, E."]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "26df74b9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. f5 Nf6 6. h3 d5 7. Nxe5 Nxe4 8.
+Nf3 Qh4+ 9. Nxh4 Bf2+ 10. Ke2 Nd4+ 11. Kd3 Nc5# 0-1
+

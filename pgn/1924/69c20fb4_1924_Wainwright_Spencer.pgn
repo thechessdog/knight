@@ -1,0 +1,18 @@
+[Event "Weston"]
+[Site "Weston"]
+[Date "1924.??.??"]
+[Round "1"]
+[White "Wainwright, George"]
+[Black "Spencer, Edmund"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "69c20fb4"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. c4 c5 5. e3 h6 6. Bxf6 Bxf6 7. Nc3 cxd4
+8. Nxd4 O-O 9. Be2 d5 10. cxd5 exd5 11. Bf3 Nc6 12. O-O Nxd4 13. exd4 Be6
+14. Qa4 Qd6 15. Rfd1 Rfc8 16. Qb3 Rc4 17. a3 a6 18. Be2 Rxd4 19. Qxb7 Rb8
+20. Qxa6 Qxa6 21. Bxa6 Rxb2 22. Nb5 Ra4 23. Nc7 Rb3 0-1
+

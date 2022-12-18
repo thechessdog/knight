@@ -1,0 +1,22 @@
+[Event "Stockholm ol"]
+[Site "Stockholm ol"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Ojanen"]
+[Black "Christoffersen"]
+[Result "1-0"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[HashCode "ceaaa095"]
+[Epoch "Knight"]
+
+1. Nf3 e6 2. c4 f5 3. d4 Nf6 4. g3 Bb4+ 5. Nbd2 O-O 6. Bg2 d6 7. O-O Bxd2
+8. Qxd2 Qe8 9. b3 Nbd7 10. Bb2 Ne4 11. Qc2 Ndf6 12. Ne1 Qg6 13. f3 Ng5 14.
+Rd1 Bd7 15. Kh1 Rad8 16. Nd3 Nh5 17. Nf2 Qh6 18. Kg1 Qg6 19. f4 Nf7 20. e4
+Nh6 21. Qe2 Bc8 22. e5 d5 23. Bc1 Qf7 24. Rfe1 c6 25. Ba3 Rfe8 26. Bd6 g6
+27. c5 Kh8 28. Bf3 Rg8 29. a4 Rg7 30. b4 Bd7 31. Rb1 Be8 32. b5 Ng8 33. Rb3
+h6 34. Nd3 Ne7 35. Reb1 cxb5 36. axb5 Nc8 37. Kf2 Kh7 38. Rc1 g5 39. Bxh5
+Qxh5 40. Qxh5 Bxh5 41. c6 bxc6 42. bxc6 Nb6 43. Nc5 gxf4 44. Nxe6 fxg3+ 45.
+hxg3 Rc8 46. Nxg7 Kxg7 47. Ra3 Be8 48. Rxa7+ Kg6 49. Bf8 Nc4 50. Rg7+ Kh5
+51. Rh1# 1-0
+

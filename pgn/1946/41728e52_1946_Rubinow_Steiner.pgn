@@ -1,0 +1,18 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Rubinow, Sol"]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz, Gruber variation"]
+[HashCode "41728e52"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 b5 7. Bf1 Nxd5 8.
+Ne4 Qh4 9. Ng3 Bg4 10. f3 Nf5 11. Bxb5+ Kd8 12. O-O Bc5+ 13. d4 exd4 14. fxg4
+d3+ 15. Rf2 Nxg3 16. hxg3 Qxg3 17. Qf3 Qe5 18. Nd2 Rb8 19. Bc6 Nf4 20. Nf1 Ne2+
+21. Kh1 Bxf2 22. Qxf2 Rb6 23. Bf3 g5 24. Qe3 Rh6+ 0-1

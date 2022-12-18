@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Renyi, A."]
+[Black "Martin, J."]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn game"]
+[HashCode "b8139448"]
+[Epoch "Knight"]
+[BlackID "345279197"]
+[BlackCountry "FID"]
+
+1. d4 d5 2. e3 c5 3. Bd3 Nc6 4. f4 e6 5. c3 Nf6 6. Nd2 Bd6 7. Qf3 cxd4 8. exd4
+O-O 9. Nh3 Qb6 10. Nf2 Qc7 11. Nf1 Re8 12. Be3 Bd7 13. g4 e5 14. fxe5 Bxe5 15.
+Kd1 Ne4 16. Nxe4 dxe4 17. Qxe4 g6 18. dxe5 Nxe5 19. Qf4 Rad8 20. Kc2 Bc6 21.
+Be4 Qd7 22. h3 Nc4 23. Bxc6 Qd3+ 24. Kb3 bxc6 25. Bxa7 Na5+ 26. Ka3 Re4 27. Rd1
+Nc4+ 0-1

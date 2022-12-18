@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Freienhagen"]
+[Black "Fegesak"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "279157a7"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nbd2 Nxd2 12. Qxd2 Qd7 13. Ng5 Bc5 14.
+Qd3 Bf5 15. Qxd5 Qxd5 16. Bxd5 Bd7 17. Be3 Be7 18. e6 fxe6 19. Nxe6 Bxe6
+20. Bxc6 Rad8 21. Bd4 Rd6 22. Rxe6 Rxe6 23. Bd5 1-0
+

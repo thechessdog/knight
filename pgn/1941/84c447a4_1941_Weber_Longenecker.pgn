@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Weber, Leo"]
+[Black "Longenecker, R."]
+[Result "1-0"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "84c447a4"]
+[Epoch "Knight"]
+[WhiteID "4000366"]
+[WhiteCountry "LUX"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. Nc3 Bc5 5. Bc4 Qe7 6. d4 Nxe4 7. O-O Ng5 8.
+Re1 Nxf3+ 9. gxf3 Bxd4+ 10. Kg2 Be5 11. Bxf4 d6 12. Nd5 Qd8 13. Bxe5 dxe5 14.
+Rxe5+ Be6 15. Qe2 O-O 16. Rxe6 fxe6 17. Qxe6+ Kh8 18. Ne7 Nc6 19. Ng6+ 1-0

@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Nielsen, Julius"]
+[Black "Sorensen, Ernst Leismann"]
+[Result "1-0"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[HashCode "457e0f7a"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Qc2 a6 8. cxd5
+exd5 9. Bd3 Re8 10. O-O-O c6 11. h3 Qa5 12. g4 Nf8 13. Rdg1 Be6 14. Bxf6 Bxf6
+15. g5 Be7 16. h4 c5 17. h5 b5 18. g6 fxg6 19. hxg6 h6 20. Rxh6 gxh6 21. g7 Bf6
+22. gxf8=Q+ Kxf8 23. Bf5 Bf7 24. Nxd5 Qd8 25. Qxc5+ Be7 26. Nxe7 Qxe7 27. Qc6
+Be6 28. Ne5 Rac8 29. Ng6+ Kf7 30. Nxe7 Rxc6+ 31. Nxc6 Bxf5 32. Kd2 1-0

@@ -1,0 +1,22 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1921.01.01"]
+[Round "1"]
+[White "Anton"]
+[Black "Doetsch"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "6c835528"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 d5 5. Bxd5 Nf6 6. Bxf7+ Ke7 7. Qxd8+
+Kxd8 8. Nxc3 Bb4 9. Bg5 Ke7 10. Bb3 h6 11. Bxf6+ Kxf6 12. Ne2 Na6 13. O-O
+c6 14. f4 g6 15. e5+ Kg7 16. Ne4 Nc5 17. Nxc5 Bxc5+ 18. Kh1 Bg4 19. Ng3
+Rae8 20. Ne4 Be7 21. Rae1 Rd8 22. Nf2 Bc8 23. Rd1 Rxd1 24. Rxd1 Rf8 25. g3
+g5 26. Nd3 b5 27. Kg2 c5 28. Bd5 c4 29. Ne1 gxf4 30. Bf3 fxg3 31. hxg3 Rd8
+32. Rxd8 Bxd8 33. Bc6 b4 34. Kf3 Be6 35. Nc2 c3 36. bxc3 bxc3 37. a3 Bb6
+38. Be4 Bc5 39. Ke2 Bc4+ 40. Kf3 Bb3 41. Kf4 a5 42. Kf5 Kf7 43. Kf4 Bxc2
+44. Bxc2 Bxa3 45. Kf5 Ke7 46. Kg6 Bc1 47. Kf5 Kd7 48. g4 Kc6 49. Kf6 Bg5+
+50. Kf5 Kd5 51. e6 Kd4 52. Kg6 Ke3 0-1
+

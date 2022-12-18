@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Donisthorpe"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "9700a7e0"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 d6 4. d4 Bg4 5. Be3 f5 6. d5 fxe4 7. Nxe4 Nce7
+8. c4 Nf6 9. Nxf6+ gxf6 10. h3 Bd7 11. Nh4 Ng6 12. Bd3 Nxh4 13. Qh5+ Ng6
+14. Bxg6+ Ke7 15. Qxe5+ 1-0
+

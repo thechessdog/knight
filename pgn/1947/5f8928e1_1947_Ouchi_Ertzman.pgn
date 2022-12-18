@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Ouchi"]
+[Black "Ertzman"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "5f8928e1"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Nbd7 5. Bg5 Bb4 6. e3 c5 7. cxd5 exd5
+8. Bd3 Qc7 9. O-O Bxc3 10. bxc3 O-O 11. c4 Qc6 12. Rc1 b6 13. Nh4 Re8 14.
+Nf5 Bb7 15. f3 Qe6 16. cxd5 Nxd5 17. e4 N5f6 18. e5 Nd5 19. Nd6 Reb8 20.
+Bf5 Ne3 21. Bxe3 Qe7 22. Nxb7 Rxb7 23. Be4 1-0
+

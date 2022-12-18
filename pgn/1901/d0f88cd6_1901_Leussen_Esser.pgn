@@ -1,0 +1,17 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Leussen, Benjamin"]
+[Black "Esser, Johannes"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "d0f88cd6"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 c6 5. f4 b5 6. Bb3 Qb6 7. fxe5 Bxg1 8. Qf3
+Ng4 9. Qxg4 Qf2+ 10. Kd1 Qf1+ 11. Kd2 O-O 12. Qg3 Be3+ 13. Kxe3 Qxh1 14. Kf2
+Kh8 15. Bh6 1-0

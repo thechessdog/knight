@@ -1,0 +1,19 @@
+[Event "Cambridge"]
+[Site "Cambridge"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Alexander, Conel Hugh O'Donel"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "8c223a33"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O d5 8. exd5
+Bg4 9. Re1+ Nge7 10. gxf3 Bh3 11. Bxf4 Rg8+ 12. Bg3 Na5 13. Bb5+ c6 14. Ne4 Bg7
+15. Kh1 Qxd5 16. c4 Qd7 17. d5 Kf8 18. d6 Nf5 19. Nc5 Nxg3+ 20. hxg3 Qf5 21. d7
+Bd4 22. Nxb7 Qh5 23. Re8+ Rxe8 24. dxe8=Q+ Kxe8 25. Qe2+ Kf8 26. Nxa5 Bg4+ 0-1

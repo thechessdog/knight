@@ -1,0 +1,15 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1903.01.01"] ; This cannot be right, Alexande Ostrovsky wasn't born until 1937. 
+[Round "1"]
+[White "Ostrovsky, Alexande"]
+[Black "Smirnov"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "2e38195c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Bc5 6. Qd5 Bxf2+ 7. Kf1
+O-O 8. Qxe4 Bb6 9. Bg5 Qe8 10. Bf6 d5 11. Qh4 dxc4 12. Qg5 1-0
+

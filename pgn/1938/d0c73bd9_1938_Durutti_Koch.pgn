@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Durutti"]
+[Black "Koch"]
+[Result "0-1"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "d0c73bd9"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. e3 c5 7. a3 Bxc3+
+8. bxc3 cxd4 9. cxd4 O-O 10. Nf3 Bd7 11. Bc4 Qh5 12. O-O Rc8 13. Qd3 Nc6
+14. Bb2 Na5 15. Ne5 Nxc4 0-1
+

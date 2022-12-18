@@ -1,0 +1,17 @@
+[Event "The Hague"]
+[Site "The Hague"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Strikwerda, J."]
+[Black "Van der Meer, L."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "95a56ab8"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Qe7 4. Qh5+ g6 5. Nxg6 Qxe4+ 6. Be2 Nf6 7. Qg5
+Rg8 8. d3 Qd4 9. c3 Qb6 10. Be3 Rxg6 11. Qxg6+ hxg6 12. Bxb6 axb6 13. h4 d5
+14. Nd2 c5 15. a3 Nc6 16. O-O-O b5 17. Rde1 b4 18. Bf3+ Kf7 19. cxb4 cxb4
+20. axb4 Nd4 21. Bd1 Ra1+ 22. Nb1 Bh6+ 0-1
+

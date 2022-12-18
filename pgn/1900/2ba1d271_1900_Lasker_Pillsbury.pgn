@@ -1,0 +1,20 @@
+[Event "Augsburg"]
+[Site "Augsburg"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Rubinstein variation"]
+[HashCode "2ba1d271"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Qe2 Bd6 6. d3 O-O 7. dxe4 Re8 8. Bd2
+Nxe4 9. Nxe4 Bf5 10. O-O-O Bxe4 11. Qg4 f5 12. Qg3 Nd7 13. Bc3 Nf6 14. Nh3 Ng4
+15. Be2 Be7 16. Bxg4 Bh4 17. Bxf5 Bxg3 18. Be6+ Rxe6 19. dxe6 Qe8 20. hxg3 Bxg2
+21. Rhe1 Bxh3 22. Rd7 Qg6 23. b3 Re8 24. Re5 Bxe6 25. Rxc7 Qxg3 26. Kb2 h6 27.
+Rxb7 Rc8 28. Bd4 Qg2 29. Rxa7 Rxc2+ 30. Kb1 Qd2 0-1

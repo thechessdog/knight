@@ -1,0 +1,17 @@
+[Event "Heilbronn"]
+[Site "Heilbronn"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Zollner"]
+[Black "Pelzer"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "6f49797b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 bxa4 8.
+dxc6 d6 9. Re1 Nf6 10. c4 Bg4 11. h3 Bh5 12. Nc3 a3 13. b3 Be7 14. Bg5 Qc8
+15. Bxf6 Bxf6 16. Nd5 Bd8 17. Nxe5 Bxd1 18. Nd7+ Be7 19. Nxe7 1-0
+

@@ -1,0 +1,16 @@
+[Event "RUS-ch03"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "12"]
+[White "Levitsky, Stepan M"]
+[Black "Breev, V."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "0ccfff7a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. O-O b5 7. Nxe5 Nxe5 8.
+dxe5 Bb7 9. Bb3 Bc5 10. Bd5 Bxd5 11. Qxd5 O-O 12. Qxe4 1-0

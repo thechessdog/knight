@@ -1,0 +1,21 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Schoenmann, Wilhelm"]
+[Black "Lokvenc, Josef"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "60d09e69"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd6
+8. Nc3 Ne7 9. Be3 Bd7 10. O-O-O O-O-O 11. Nb3 b6 12. Rxd6 cxd6 13. Bxb6 Rde8
+14. Rd1 f5 15. Rxd6 fxe4 16. Nc5 Bf5 17. a4 Kb8 18. a5 Bc8 19. N3xe4 h5 20. Rd3
+Nd5 21. Rb3 Nxb6 22. Rxb6+ Kc7 23. f3 Re5 24. b4 Rd8 25. Nxa6+ Bxa6 26. Rxa6
+Rb8 27. Ra7+ Rb7 28. Rxb7+ Kxb7 29. c4 g5 30. Kd2 g4 31. Ke3 gxf3 32. gxf3 h4
+33. f4 Re7 34. f5 1-0

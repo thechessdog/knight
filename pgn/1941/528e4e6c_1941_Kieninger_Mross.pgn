@@ -1,0 +1,16 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "1"]
+[White "Kieninger, Georg"]
+[Black "Mross, Paul"]
+[Result "1-0"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[HashCode "528e4e6c"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 b5 7. Bg2 Bb7 8. O-O
+Nbd7 9. Re1 e6 10. e5 Bxg2 11. exf6 Bb7 12. fxg7 Bxg7 13. Nf5 Bf8 14. Rxe6+ 1-0

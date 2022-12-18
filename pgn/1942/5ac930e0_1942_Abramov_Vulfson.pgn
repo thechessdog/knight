@@ -1,0 +1,22 @@
+[Event "Kuibyshev"]
+[Site "Kuibyshev"]
+[Date "1942.01.01"]
+[Round "3"]
+[White "Abramov, Lev Yakovlevich"]
+[Black "Vulfson, Vladimir"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[HashCode "5ac930e0"]
+[Epoch "Knight"]
+[BlackID "4116283"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 Ba7 7. Re1 d6 8. d4
+Bd7 9. Bg5 h6 10. Bh4 b5 11. Bb3 O-O 12. Qd3 Qe7 13. Nbd2 Rad8 14. Nf1 Na5 15.
+Ne3 c6 16. Bc2 Rfe8 17. a4 Bb6 18. b4 Nb7 19. axb5 axb5 20. Ra6 Bc7 21. Ra7 Bc8
+22. d5 Bb6 23. dxc6 Bxa7 24. Nd5 Qe6 25. Bxf6 gxf6 26. Qd2 Kh7 27. Nh4 Rg8 28.
+Nf5 Rg6 29. Nde7 Rdg8 30. Nxg8 Kxg8 31. cxb7 Bxb7 32. Qxd6 Qxd6 33. Nxd6 Bc6
+34. Nf5 Kf8 35. Ra1 1-0

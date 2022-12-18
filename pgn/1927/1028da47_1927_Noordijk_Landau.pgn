@@ -1,0 +1,15 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Noordijk"]
+[Black "Landau"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "1028da47"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nf3 d6 4. Bc4 Nb6 5. Bxf7+ Kxf7 6. Ng5+ Kg6 7. Qf3
+Kxg5 8. Qf7 g6 9. d4+ Kh5 10. Qf4 h6 11. h3 g5 12. Qf7+ Kh4 13. g3# 1-0
+

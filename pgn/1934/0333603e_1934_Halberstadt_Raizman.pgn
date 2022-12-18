@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Halberstadt"]
+[Black "Raizman, Maurice"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "0333603e"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nb4 5. Bc4 N4c6 6. O-O d6 7. exd6 e5
+8. d4 cxd4 9. Ng5 Be6 10. Bxe6 fxe6 11. Nxe6 Qxd6 12. Nb5 Qxe6 13. Nc7+ 1-0
+

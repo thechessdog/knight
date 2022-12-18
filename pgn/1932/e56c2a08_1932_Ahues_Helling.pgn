@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Ahues, Carl Oscar"]
+[Black "Helling, Karl"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "e56c2a08"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 h5 5. h3 Nxe5 6. Be3 Bb4+ 7. Nd2 f5 8. a3
+Be7 9. Qb3 Na6 10. O-O-O d6 11. c5 Nxc5 12. Bxc5 dxc5 13. Nc4 Bg5+ 14. Kb1 Qe7
+15. Nxe5 Qxe5 16. Nf3 1-0

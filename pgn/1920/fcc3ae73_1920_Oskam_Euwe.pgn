@@ -1,0 +1,16 @@
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.01.01"]
+[Round "1"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Levitsky attack (Queen's bishop attack)"]
+[HashCode "fcc3ae73"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. d4 d5 2. Bg5 Bf5 3. Nf3 Nf6 4. c4 e6 5. e3 h6 6. Bxf6 Qxf6 7. Qb3 Nc6 8.
+Qxb7 Kd7 9. cxd5 exd5 10. Bb5 1-0

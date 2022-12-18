@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Manko, V."]
+[Black "Yankovich, Boris"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "3d487e31"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 Bc5 3. Ne2 Qf6 4. c3 Nc6 5. g3 Nh6 6. Bg2 Ng4 7. Rf1 Nxh2 8.
+fxe5 Qxf1+ 9. Bxf1 Nf3# 0-1

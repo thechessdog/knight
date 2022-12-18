@@ -1,0 +1,17 @@
+[Event "Eisenach"]
+[Site "Eisenach"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Siegfried"]
+[Black "Blum"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "7942b4a9"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. f4 Ng4 6. f5 Nf2 7. Qh5 O-O 8.
+Nf3 Nxh1 9. Ng5 h6 10. Nxf7 Rxf7 11. Qxf7+ Kh8 12. f6 Bf2+ 13. Kf1 Ng3+ 14.
+hxg3 gxf6 15. Bxh6 1-0
+

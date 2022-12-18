@@ -1,0 +1,19 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[ECO "C16"]
+[Opening "French"]
+[Variation "Winawer, advance variation"]
+[HashCode "eb53f894"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 f6 5. Nf3 c5 6. Bb5+ Kf8 7. dxc5 Qa5 8. Be2
+fxe5 9. O-O Nc6 10. Nxd5 exd5 11. c3 Bxc5 12. b4 Nxb4 13. cxb4 Bxb4 14. Rb1 Bf5
+15. Rxb4 Qxb4 16. Qxd5 Ne7 17. Qxe5 Qe4 18. Qb2 Rc8 19. Bh6 Rg8 20. Qf6+ Ke8
+21. Bb5+ Rc6 22. Bxg7 Bd7 23. Bxc6 Qxc6 24. Re1 Qc5 25. Bh6 Kd8 26. Bf8 1-0

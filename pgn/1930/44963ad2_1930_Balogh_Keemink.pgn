@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Balogh, Janos"]
+[Black "Keemink, John"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "44963ad2"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nf6 9. Nc3 dxc4 10. Bxc4 Bg4 11. d5 Ne5 12. Bb5+ Nfd7 13. Qd4 Bxf3 14. Qxe5 f6
+15. Qe6 Bh5 16. d6 cxd6 17. Ne4 Qc7 18. Re1 Kd8 19. Bf4 Nf8 20. Qd5 1-0

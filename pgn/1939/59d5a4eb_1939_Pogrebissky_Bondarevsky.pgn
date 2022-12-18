@@ -1,0 +1,20 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1939.01.01"]
+[Round "9"]
+[White "Pogrebyssky, Iosif"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower (Makagonov-Bondarevsky) system, 8.cd Nxd5"]
+[HashCode "59d5a4eb"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5
+Nxd5 9. Bg3 c5 10. Be2 Nxc3 11. bxc3 Bb7 12. O-O Nc6 13. e4 cxd4 14. cxd4 Bf6
+15. e5 Be7 16. Bf4 Rc8 17. Rc1 Qd7 18. Bd3 Rfd8 19. Be3 Nb4 20. Bb1 Ba6 21. Re1
+Nd5 22. Qb3 Bb4 23. Bd2 Rxc1 24. Rxc1 Bxd2 25. Nxd2 Nf4 26. Re1 Ne2+ 27. Kh1
+Qxd4 28. Nf3 Qxf2 29. Qc2 g6 30. Qc7 Rd2 0-1

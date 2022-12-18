@@ -1,0 +1,15 @@
+[Event "Lindau"]
+[Site "Lindau"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Diemer, Emil Josef"]
+[Black "Poehlmann, R."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "2410959a"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e4 c5 3. exd5 Qxd5 4. Nc3 Qxd4 5. Qxd4 cxd4 6. Nb5 Na6 7. Nxd4 b6
+8. Bb5+ Kd8 9. Nc6+ Kc7 10. Bf4+ Kb7 11. Nd8# 1-0

@@ -1,0 +1,20 @@
+[Event "Hoogovens"]
+[Site "Beverwijk"]
+[Date "1946.01.01"]
+[Round "2"]
+[White "Vlagsma, Chris"]
+[Black "van Scheltinga, Theo Daniel"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "2439c301"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. d3 O-O 8. c3
+d6 9. Nbd2 Na5 10. Bc2 c5 11. Nf1 Nc6 12. Ng3 Qc7 13. O-O Re8 14. Ne1 d5 15. f4
+exf4 16. Bxf4 Bd6 17. Bxd6 Qxd6 18. Qf2 Be6 19. exd5 Qxd5 20. h3 Ne5 21. a3
+Rad8 22. Rd1 Qc6 23. Nf3 Nxf3+ 24. Qxf3 Qxf3 25. Rxf3 Bd5 26. Rf2 Bc6 27. Rdd2
+a5 28. Rfe2 b4 29. Rxe8+ Rxe8 30. d4 bxc3 31. bxc3 cxd4 32. Rxd4 Kf8 33. Kf2
+Rb8 34. Nf5 Rb2 35. Rd8+ Be8 36. Ne3 Ke7 37. Ra8 Ba4 0-1

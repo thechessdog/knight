@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Nimzowitsch, Aron"]
+[Black "Nielsen, E Verner"]
+[Result "1-0"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[HashCode "e6b6a41f"]
+[Epoch "Knight"]
+[WhiteCountry "DAN"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 8.
+O-O Be7 9. c3 O-O 10. Re1 b6 11. h3 Bb7 12. Bf4 Bxf3 13. Qxf3 cxd4 14. cxd4 Nd5
+15. Be4 N7f6 16. Be5 Nxe4 17. Nxe4 Nf6 18. Rac1 Nxe4 19. Rxe4 Qd5 20. Rc7 Bd6
+21. Rd7 Rad8 22. Rxd6 Rxd6 23. Qf6 gxf6 24. Rg4+ Kh8 25. Bxf6# 1-0

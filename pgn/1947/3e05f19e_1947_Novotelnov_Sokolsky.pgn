@@ -1,0 +1,18 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Sokolsky, Alexey"]
+[Result "1/2-1/2"]
+[ECO "E09"]
+[Opening "Catalan"]
+[Variation "closed, Sokolsky variation"]
+[HashCode "3e05f19e"]
+[Epoch "Knight"]
+[BlackCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Nbd2 c6 7. Qc2 b6 8. O-O
+a5 9. b3 Ba6 10. Bb2 Nbd7 11. Ne5 Rc8 12. e4 c5 13. exd5 exd5 14. Qf5 cxd4 15.
+Nxd7 Qxd7 16. Qxd7 Nxd7 17. Bxd5 Nf6 18. Bg2 Bb4 19. Nf3 b5 20. Nxd4 bxc4 21.
+bxc4 Bxc4 1/2-1/2

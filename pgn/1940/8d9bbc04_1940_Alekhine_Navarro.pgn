@@ -1,0 +1,16 @@
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Navarro"]
+[Result "1-0"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[HashCode "8d9bbc04"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Ne5 Nd7 8.
+Nxg6 fxg6 9. d4 e5 10. Qg4 Qf6 11. Be3 Ne7 12. Ne4 1-0

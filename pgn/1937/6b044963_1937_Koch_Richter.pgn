@@ -1,0 +1,20 @@
+[Event "Berlin BSG"]
+[Site "Berlin"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Koch, Berthold"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Richter variation"]
+[HashCode "6b044963"]
+[Epoch "Knight"]
+[BlackID "4623541"]
+[BlackCountry "GER"]
+[WhiteCountry "DEU"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 g6 4. Bb5+ Bd7 5. Bc4 Bg7 6. Ne2 O-O 7. O-O b5 8.
+Bb3 c6 9. Nf4 cxd5 10. Nxd5 Nxd5 11. Bxd5 Nc6 12. c3 e5 13. Be3 Rc8 14. Bxc6
+Bxc6 15. dxe5 Qe7 16. f4 Rcd8 17. Bd4 f6 18. Nd2 fxe5 19. Qe2 Bxg2 20. Rf2 Ba8
+21. Bxe5 Bxe5 22. fxe5 Qg5+ 23. Kf1 0-1

@@ -1,0 +1,16 @@
+[Event "Arad"]
+[Site "Arad"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Klein, Ernst Ludwig"]
+[Black "Janny"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "8b323d1e"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. Ng5 Ne5 7. Bb3 h6 8. Qh5
+Qf6 9. f4 d3+ 10. Kh1 g6 11. Qd1 hxg5 12. fxe5 Rxh2+ 13. Kxh2 Qh8+ 14. Kg3 Qh4+
+15. Kf3 Qg4# 0-1

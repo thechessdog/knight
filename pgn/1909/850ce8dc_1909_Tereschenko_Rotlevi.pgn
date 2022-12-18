@@ -1,0 +1,18 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Tereshchenko, Nikolay Semenovich"]
+[Black "Rotlewi, Gersz"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "850ce8dc"]
+[Epoch "Knight"]
+[WhiteCountry "UKR"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 Nc6 8.
+Qh4 d5 9. O-O-O Be6 10. Rhe1 h6 11. Bxf6 Bxf6 12. Qh5 Bxc3 13. Rxe6+ Kf8 14.
+Rxd5 Qc8 15. Rxc6 g6 16. Rxg6 fxg6 17. Qxg6 1-0

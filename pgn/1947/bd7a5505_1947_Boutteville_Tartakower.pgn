@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Boutteville, Cesar"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[ECO "C04"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard main line"]
+[HashCode "bd7a5505"]
+[Epoch "Knight"]
+[WhiteID "600962"]
+[WhiteCountry "FRA"]
+[BlackCountry "FRA"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. c3 f6 7. Nh4 g6 8. Qg4
+Be7 9. Qh3 Kf7 10. g3 fxe5 11. dxe5 g5 12. Nhf3 h5 13. g4 hxg4 14. Qxg4 Ndxe5
+15. Qg3 Bf6 16. Nxe5+ Bxe5 17. Qg2 Rg8 18. Be2 Qf6 19. Nb3 b6 20. Be3 Bd7 21.
+O-O-O Ke7 22. Rd2 a5 23. Rg1 a4 24. Nd4 Nxd4 25. Bxd4 Bxd4 26. Rxd4 a3 27. Qf3
+axb2+ 28. Kxb2 Qxf3 29. Bxf3 Raf8 30. Rg3 g4 31. Bg2 Rxf2+ 32. Kb3 c5 33. Rdxg4
+c4+ 0-1

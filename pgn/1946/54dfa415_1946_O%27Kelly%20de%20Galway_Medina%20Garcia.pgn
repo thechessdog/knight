@@ -1,0 +1,20 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "O'Kelly, Albéric de Galway"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "54dfa415"]
+[Epoch "Knight"]
+[BlackCountry "EST"]
+[WhiteCountry "BEL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. c3 Be7 8. a4 b4
+9. a5 O-O 10. d4 Bg4 11. h3 Bh5 12. Be3 Bg6 13. Nbd2 bxc3 14. bxc3 Nxe4 15.
+Nxe4 Bxe4 16. Nd2 Bd3 17. Re1 exd4 18. cxd4 Rb8 19. Nf3 Bb5 20. d5 Nb4 21. Nd4
+Bf6 22. Ra3 Bd7 23. Qd2 Re8 24. Rc1 Rb7 25. Nc6 Bxc6 26. dxc6 Rb5 27. Ba4 Rb8
+28. Rc4 d5 29. Rxb4 Rxb4 30. Qxb4 Be7 31. Bc5 1-0

@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Berman, M."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Allgaier gambit"]
+[HashCode "fe7124f0"]
+[Epoch "Knight"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 h6 7. Nxf7 Kxf7 8.
+Bc4+ Ke8 9. Qxg4 Ne5 10. Qh5+ Ke7 11. Qxe5# 1-0

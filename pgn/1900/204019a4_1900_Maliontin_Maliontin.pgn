@@ -1,0 +1,18 @@
+[Event "Finland"]
+[Site "Finland"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Maliontin, C."]
+[Black "Maliontin, B."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "204019a4"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qh3 Rg8 7. Nxf8
+Qe7 8. Qxf5 d5 9. Qf4 Rg4 10. Qh6 Rxe4+ 11. Be2 Rxe2+ 12. Kd1 Ng4 13. Qh5+
+Kxf8 14. c3 Nxf2+ 15. Kc2 Qe4+ 16. Kb3 Qc4+ 17. Ka3 Qa6+ 18. Kb3 Na5+ 19.
+Ka3 Nc4+ 20. Kb3 Qb5+ 21. Kc2 Ne3# 0-1
+

@@ -1,0 +1,23 @@
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Walter, Max"]
+[Black "Becker, Albert"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "2a3f79ed"]
+[Epoch "Knight"]
+[WhiteID "12931306"]
+[WhiteCountry "GER"]
+[BlackCountry "AUT"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Re8 9. g3 e5 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Rd1 Qe7 13. Bg2 a5 14. O-O
+Qc5 15. Qd3 Be6 16. b4 axb4 17. axb4 Qxc4 18. Bxb7 Ra3 19. Rc1 Qxd3 20. exd3
+Bd5 21. Bxd5 Nxd5 22. Ba1 Rxd3 23. Rfd1 e4 24. b5 Rb8 25. f3 Ne3 26. Re1 exf3
+27. Rxc7 f6 28. h3 Rxb5 29. Bd4 Rbb3 30. Bxe3 Rxe3 31. Rxe3 Rxe3 32. Kf2 Ra3
+33. Re7 h5 34. Re3 Rxe3 35. Kxe3 Kf7 36. Kxf3 Ke6 37. g4 hxg4+ 38. hxg4 Ke5 39.
+Ke3 g5 0-1

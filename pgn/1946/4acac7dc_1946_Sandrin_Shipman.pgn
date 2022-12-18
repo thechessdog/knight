@@ -1,0 +1,24 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Sandrin, Albert"]
+[Black "Shipman, Walter"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "4acac7dc"]
+[Epoch "Knight"]
+[BlackID "2001357"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8.
+Nxe5 Be7 9. d4 Ne6 10. Be3 O-O 11. Nc3 Bd6 12. f4 f6 13. Nd3 Re8 14. Qf3 f5 15.
+Rad1 Nf8 16. Ne5 Qf6 17. Bf2 Be6 18. d5 cxd5 19. Nxd5 Qh6 20. c4 Rad8 21. c5
+Bxe5 22. Rxe5 Rd7 23. g3 c6 24. Ne3 Red8 25. Re1 Qf6 26. g4 fxg4 27. Nxg4 Bxg4
+28. Qxg4 Ng6 29. Re6 Qf7 30. f5 Nf8 31. Bh4 Rd4 32. R6e4 Rxe4 33. Rxe4 Re8 34.
+Rb4 Kh8 35. f6 g6 36. Qd4 Ne6 37. Qc3 Kg8 38. Qb3 Nd8 39. Qd3 Ne6 40. Qd6 Kh8
+41. Re4 Kg8 42. Re2 g5 43. Be1 Qxf6 44. Bc3 Qf4 45. Qd7 Qf7 46. Qd6 Nf4 47. Re5
+Nh3+ 48. Kg2 Qf2+ 49. Kxh3 Qf3# 0-1

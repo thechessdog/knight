@@ -1,0 +1,26 @@
+[Event "Hamburg Hauptturnier-A"]
+[Site "Hamburg"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Gregory, Bernhard"]
+[Black "Busch"]
+[Result "1-0"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Alapin variation"]
+[HashCode "3e3934a3"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nb5 Nb6 8.
+c3 a6 9. Na3 f6 10. Bd3 fxe5 11. Qh5+ Kd8 12. dxe5 g6 13. Bxg6 c5 14. Bc2 Nc6
+15. Nf3 Kc7 16. O-O-O Bd7 17. Rhe1 Rhg8 18. g3 Raf8 19. Re3 Rg7 20. Rd2 Rgf7
+21. Ng5 Rxf2 22. Nxh7 Rxd2 23. Kxd2 d4 24. Re2 dxc3+ 25. bxc3 Rd8 26. Qg5 Be8+
+27. Kc1 Qf7 28. Nf6 c4 29. Rf2 Kb8 30. Qe3 Qe7 31. Nb1 Nd5 32. Qe1 Qc5 33. Ne4
+Qa5 34. Nd6 b5 35. Nxe8 Rxe8 36. Bg6 Re7 37. a3 Nd4 38. Rf8+ Kc7 39. Kb2 Nb6
+40. Qd2 Na4+ 41. Ka2 Rd7 42. cxd4 c3 43. Qd1 Qb6 44. Rf7 Rxf7 45. Bxf7 Qc6 46.
+Bg6 Qc4+ 47. Ka1 a5 48. Bc2 Nb2 49. Qf3 b4 50. Qf7+ Kb6 51. Be4 Qc8 52. Qe7 Na4
+53. Qd6+ Ka7 54. Qe7+ Kb6 55. Bc2 b3 56. Bxb3 c2 57. Bxc2 Qxc2 58. Qxe6+ Kb5
+59. Qa2 Qd3 60. Qd2 Qc4 61. g4 Kc6 62. g5 Kd7 63. h4 Ke7 64. g6 Kf8 65. Qh6+
+Ke7 66. Qf4 Qc2 67. Qd2 Qxg6 68. Qxa5 Qc2 69. Qd2 Qc6 70. h5 Kd7 71. h6 Qg6 72.
+Qb4 1-0

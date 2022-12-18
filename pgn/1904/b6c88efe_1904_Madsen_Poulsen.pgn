@@ -1,0 +1,17 @@
+[Event "Denmark"]
+[Site "Denmark"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Madsen, T."]
+[Black "Poulsen, C."]
+[Result "1-0"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "b6c88efe"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 Be7 9. O-O-O Qc8 10. e5 dxe5 11. Qxe5 Qe6 12. Qxc7 Bd8 13. Rxd8+
+Rxd8 14. Re1 1-0
+

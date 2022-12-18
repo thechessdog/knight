@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1931.01.01"]
+[Round "1"]
+[White "Blum"]
+[Black "Felitsch"]
+[Result "1-0"]
+[ECO "E23"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann, San Remo variation"]
+[HashCode "bf167101"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxc5
+8. Qc2 O-O 9. a3 Bxc3 10. Bxc3 f5 11. b4 Ne4 12. Bb2 b6 13. g4 fxg4 14.
+Qxe4 gxf3 15. Rg1 Rf7 16. O-O-O Qc7 17. e3 d5 18. cxd5 Nxb4+ 19. Bc4 Nxd5
+20. Rxd5 Bb7 21. Qxe6 1-0
+

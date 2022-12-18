@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Lowy, Leopold"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "07ae0772"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Nc6 6. Bd3 f5 7. exf6 Nxf6 8.
+O-O Bc5+ 9. Kh1 O-O 10. Bb5 Ng4 11. Bxc6 bxc6 12. d4 Bd6 13. h3 Ba6 14. hxg4
+Bxf1 15. Qxf1 Rxf3 16. Qe1 Qh4+ 17. Qxh4 Rf1# 0-1

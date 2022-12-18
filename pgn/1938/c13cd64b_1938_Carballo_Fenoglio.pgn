@@ -1,0 +1,27 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1938.01.01"]
+[Round "3"]
+[White "Carballo, F1."]
+[Black "Fenoglio, Virgilio"]
+[Result "0-1"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[HashCode "c13cd64b"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 e6 12. O-O-O Qc7 13. c4 O-O-O 14. Bc3 Be7
+15. Qe2 Rhe8 16. Ne5 Nxe5 17. dxe5 Nd7 18. f4 Nc5 19. Ne4 f5 20. Nxc5 Bxc5 21.
+b4 Bf8 22. Kc2 Rxd1 23. Rxd1 Rd8 24. Rb1 Qd7 25. a4 Be7 26. a5 a6 27. g3 Bf8
+28. Rd1 Qf7 29. Rb1 Qc7 30. Qe3 Qd7 31. Qe2 Qf7 32. Qf3 Kc7 33. Rd1 Rxd1 34.
+Qxd1 Qe8 35. Kb3 c5 36. bxc5 Bxc5 37. Bb4 Qc6 38. Qd3 b6 39. Kc3 Bxb4+ 40. Kxb4
+Qc5+ 41. Kb3 bxa5 42. Qc3 Kd7 43. Ka4 Ke8 44. Kb3 Kf7 45. Ka4 g6 46. Qxa5 Qxc4+
+47. Ka3 gxh5 48. Qd8 Qc5+ 49. Ka4 Qe7 50. Qxe7+ Kxe7 51. Ka5 Kd7 52. Kxa6 Kc6
+53. Ka7 Kd5 54. Kb7 Ke4 55. Kc6 h4 56. gxh4 Kxf4 57. Kd6 Kg4 58. Kxe6 f4 59.
+Kd6 f3 60. e6 f2 61. e7 f1=Q 62. e8=Q Qf4+ 63. Kd5 Kxh4 64. Qe1+ Kg4 65. Qg1+
+Kf5 66. Qb1+ Kg5 67. Qg1+ Kf6 68. Qb6+ Kf5 69. Qb1+ Kg4 70. Qg1+ Qg3 71. Qb1
+Qf3+ 72. Kd6 h5 73. Qg6+ Kh3 74. Ke7 Qd5 75. Qf6 Kg4 76. Qf2 h4 77. Qe2+ Kg5
+78. Qe3+ Kg6 79. Qh3 Kh5 80. Kf8 Qd6+ 81. Kg8 Qg3+ 0-1

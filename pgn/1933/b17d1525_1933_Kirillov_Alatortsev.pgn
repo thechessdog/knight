@@ -1,0 +1,17 @@
+[Event "Leningrad ch-URS"]
+[Site "Leningrad ch-URS"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Kirillov, Vladimir Grigorevic"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "0-1"]
+[ECO "A25"]
+[Opening "English"]
+[Variation "Sicilian reversed"]
+[HashCode "b17d1525"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 Be7 6. d4 d6 7. Nge2 O-O 8. O-O
+Qe8 9. d5 Nd8 10. Bd2 Qh5 11. b4 Nf7 12. Nc1 Ng4 13. h3 Ng5 14. hxg4 fxg4 15.
+Re1 Nf3+ 16. Kf1 Qh2 17. N1e2 h5 0-1

@@ -1,0 +1,18 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Kapsenberg"]
+[Black "Norman"]
+[Result "1-0"]
+[ECO "E80"]
+[Opening "King's Indian"]
+[Variation "Saemisch variation"]
+[HashCode "a394fb61"]
+[Epoch "Knight"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 Nbd7 6. Be3 O-O 7. Bd3 b6 8.
+Nge2 a5 9. g4 c5 10. h4 h5 11. g5 Ne8 12. f4 cxd4 13. Nxd4 e5 14. Nc6 Qc7
+15. Nd5 Qb7 16. Nce7+ Kh7 17. f5 Rh8 18. Qxh5+ gxh5 19. g6+ fxg6 20. fxg6#
+1-0
+

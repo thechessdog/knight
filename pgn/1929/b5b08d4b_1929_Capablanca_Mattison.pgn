@@ -1,0 +1,18 @@
+[Event "Carlsbad"]
+[Site "Carlsbad"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Mattison, A."]
+[Result "1-0"]
+[ECO "E38"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...c5"]
+[HashCode "b5b08d4b"]
+[Epoch "Knight"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bf4 d5 8. e3
+Qa5 9. Be2 Bb4 10. O-O Bxc3 11. bxc3 O-O 12. Rab1 Qa3 13. Rfd1 b6 14. cxd5 Nxd5
+15. Ng5 f5 16. Bf3 Qc5 17. c4 Ndb4 18. Qb3 e5 19. a3 Na6 20. Bxc6 Qxc6 21. c5+
+Kh8 22. Nf7+ Kg8 23. Nh6+ Kh8 24. Qg8+ Rxg8 25. Nf7# 1-0

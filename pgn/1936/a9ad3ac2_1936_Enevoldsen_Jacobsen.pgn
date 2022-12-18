@@ -1,0 +1,21 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Enevoldsen, Harald"]
+[Black "Jacobsen, Bo"]
+[Result "1-0"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[HashCode "a9ad3ac2"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+[BlackID "1400738"]
+[BlackCountry "DEN"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. a3 Be6 10. dxc5 d4 11. Na4 Ne4 12. b4 Bf6 13. Bb2 Nc3 14. Bxc3 dxc3 15.
+Qc2 a5 16. b5 Nb4 17. axb4 axb4 18. Nxc3 Bxc3 19. Rxa8 Qxa8 20. Ng5 g6 21. Nxe6
+fxe6 22. Qe4 Qa2 23. Bh3 e5 24. c6 bxc6 25. bxc6 Qa5 26. Qc4+ Kg7 27. c7 Rxf2
+28. Rxf2 1-0

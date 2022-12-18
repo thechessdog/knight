@@ -1,0 +1,19 @@
+[Event "Argentina"]
+[Site "Argentina"]
+[Date "1931.01.01"]
+[Round "15"]
+[White "Bolbochan, Jacobo"]
+[Black "Ibanez, Enrique"]
+[Result "1-0"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[HashCode "7e4213c3"]
+[Epoch "Knight"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 Nbd7 10. Qe2 Nb6 11. Bb3 Nbd5 12. Bd2 Bd6 13. Ne5 b6 14. Rad1 Bb7
+15. Rfe1 Rc8 16. Qd3 Nxc3 17. bxc3 Bxe5 18. Rxe5 Nd7 19. Rh5 g6 20. Rh3 Qf6 21.
+Qg3 e5 22. Bg5 Qf5 23. Qh4 h5 24. Rg3 exd4 25. cxd4 Rfe8 26. Be7 Kg7 27. d5
+Bxd5 28. Rg5 Qe4 29. Rgxd5 1-0

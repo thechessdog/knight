@@ -1,0 +1,21 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Wagner, Heinrich"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[HashCode "3cbdf2ef"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Nc3 Nf6 10. Re1 Bg4 11. h3 Bh5 12. g4 Bg6 13. Bxg6 fxg6 14. cxd5 Nxd5 15.
+Nxd5 cxd5 16. Qb3 Qc7 17. Qxd5+ Kh8 18. Bd2 Nc6 19. Ng5 Nd8 20. Rac1 Qd7 21.
+Kg2 Nf7 22. Nxf7+ Qxf7 23. Qxf7 Rxf7 24. Re6 Rf6 25. Rce1 Raf8 26. Rxf6 gxf6
+27. Re6 Bc7 28. Re7 Bb6 29. Bc3 Rd8 30. Rxb7 Rd5 31. a4 h5 32. Kf3 hxg4+ 33.
+hxg4 Kg8 34. Ke4 Rd8 35. a5 Re8+ 36. Kf3 Bd8 37. Rxa7 1-0

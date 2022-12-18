@@ -1,0 +1,18 @@
+[Event "Maastricht"]
+[Site "Maastricht"]
+[Date "1946.04.01"]
+[Round "3"]
+[White "Prins, Lodewijk"]
+[Black "Vlagsma, Chris"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "f39d06a1"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxd2 12. Qxd2 f6 13. exf6 Rxf6 14. Qe2 Qd7
+15. Bg5 Rff8 16. Rad1 Bd6 17. a4 Nd8 18. Bxd8 Raxd8 19. Bxh7+ Kxh7 20. Ng5+ Kg8
+21. Qxe6+ 1-0

@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Reggio, Arturo"]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "0ee8e806"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Be7 5. Bd3 Ngf6 6. Be3 O-O 7. h3 c6 8. Qd2
+Qc7 9. g4 a6 10. Ne2 d5 11. Ng3 dxe4 12. Nxe4 Nxe4 13. Bxe4 Nf6 14. Qd3 exd4
+15. Bxd4 Nxe4 16. Qxe4 f5 17. gxf5 Bxf5 18. Qe2 Rae8 19. Qc4+ Kh8 20. O-O-O
+Qf4+ 21. Nd2 Bg6 22. h4 c5 23. Bc3 Qf5 24. Qd3 Qxd3 25. cxd3 Bxd3 26. Nb3 c4
+27. Rhg1 Rf7 28. h5 h6 29. Nd4 Rxf2 30. Ne6 Rc2+ 31. Kb1 Rxc3+ 32. Ka1 Bf6 33.
+Nc7 Re2 34. Nd5 Rc1+ 0-1

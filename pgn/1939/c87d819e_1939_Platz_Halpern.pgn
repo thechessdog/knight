@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Halpern"]
+[Result "1-0"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Alekhine variation"]
+[HashCode "c87d819e"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Ng6 6. Nf3 Bc5 7. Nc3 O-O 8. h4
+Re8 9. h5 Nf8 10. Be2 d6 11. f5 Nc6 12. h6 g6 13. Bg5 f6 14. Qd5+ Kh8 15. Qf7
+1-0

@@ -1,0 +1,15 @@
+[Event "Heidelberg"]
+[Site "Heidelberg"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Heimbach"]
+[Black "Bogoljubov, Efim"]
+[Result "1-0"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky) opening"]
+[HashCode "093a19d1"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 4. c4 Nc6 5. Bb2 O-O 6. e3 d5 7. a3 Ba5 8. Nf3
+Bg4 9. cxd5 Nxd5 10. Be2 f5 11. Qb3 Bb6 12. Bc4 1-0

@@ -1,0 +1,25 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "4"]
+[White "Von Scheve, Theodor"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "e462b050"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 f3 11. d4 Ne4 12. Rxe4 Bh2+ 13. Kxh2 g3+ 14. Kxg3 Qxe4
+15. gxf3 Qg6+ 16. Kf2 Bf5 17. Qe2+ Kd8 18. Bf4 Nd7 19. Na3 Re8 20. Qd2 Rg8 21.
+Bg5+ Kc8 22. Rg1 a6 23. Rg3 Nf6 24. Bf1 Nh5 25. Rg2 Bh3 26. Bd3 Bf5 27. Bf1 Bh3
+28. Bd3 Bf5 29. Bf1 Qd6 30. Nc4 Qxd5 31. Ne3 Qd7 32. Nxf5 Qxf5 33. Bd3 Qd5 34.
+Bxh7 Rg7 35. Qe2 Kb8 36. Be4 Qd6 37. Qe3 f6 38. Bg6 Re7 39. Bxh5 Rxe3 40. Bxe3
+Ka7 41. Bg6 Rg8 42. h5 f5 43. Bxf5 Rxg2+ 44. Kxg2 Qd5 45. Bg6 Qxa2 46. Kg3 Qxb2
+47. h6 Qxc3 48. Kf4 Qb4 49. h7 Qf8+ 50. Kg4 Qg7 51. Kg5 Qe7+ 52. Kg4 Qg7 53.
+Kf5 Qd7+ 54. Kf6 Qd6+ 55. Kf7 Qd7+ 56. Kf6 Qd6+ 57. Kf5 Qd7+ 58. Kg5 Qe7+ 59.
+Kf4 Qg7 1/2-1/2

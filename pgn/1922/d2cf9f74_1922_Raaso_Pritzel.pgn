@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Raaso, B."]
+[Black "Pritzel"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "d2cf9f74"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Qf6 8. Be3 Be7 9. O-O-O Qxd4 10. Bxd4 Bf6 11. e5 dxe5 12. Nxe5 Ne7 13. Nxc6
+Bg5+ 14. Kb1 Nxc6 15. Bxg7 Rg8 16. Rhe1+ Ne7 17. f4 Rxg7 18. fxg5 c6 19.
+Rd2 Rd8 20. Rde2 Rd7 21. Ne4 Kd8 22. Nf6 Rc7 23. Rd2+ Kc8 24. Ne8 Nf5 25.
+g4 Rxg5 26. Nxc7 Rxg4 27. Ne8 1-0
+

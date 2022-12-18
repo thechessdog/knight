@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Demuth"]
+[Black "Mermagen"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, Malkin variation"]
+[HashCode "ad5e3c92"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Qe2 O-O 11. Nbd2 Nxd2 12. Bxd2 Bf5 13. Nd4 Nxd4 14.
+cxd4 c5 15. dxc5 Bxc5 16. Rac1 Qb6 17. Bxd5 Rad8 18. Ba5 Bxf2+ 19. Qxf2
+Qxa5 20. Qc5 Qd2 21. Rcd1 Qg5 22. Bxf7+ Kxf7 23. e6+ Kxe6 24. Rde1+ Kd7 25.
+Rf4 1-0
+

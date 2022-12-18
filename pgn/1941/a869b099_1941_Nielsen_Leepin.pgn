@@ -1,0 +1,21 @@
+[Event "Munchen"]
+[Site "Munchen"]
+[Date "1941.09.01"]
+[Round "4"]
+[White "Nielsen, Bjorn"]
+[Black "Leepin, Peter"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "a869b099"]
+[Epoch "Knight"]
+[WhiteID "1416839"]
+[WhiteCountry "DEN"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. e3 e5 10. dxe5 Nxe5 11. Be2 g6 12. b4 Bf5 13. Qb2 Nfd7 14. Rd1 f6
+15. O-O b6 16. Nd4 Be4 17. f3 Bb7 18. e4 Qf7 19. Rc1 Rfe8 20. Be1 Kg7 21. Bf2
+a5 22. Nb5 Rec8 23. f4 Nc6 24. Nc3 axb4 25. axb4 Ra7 26. Ra1 Rca8 27. Rxa7 Rxa7
+28. Nd5 Bc8 29. Bg4 Ncb8 30. Nxf6 Nxf6 31. Bxc8 Kg8 32. Bd4 Nxe4 33. f5 gxf5
+34. Rxf5 Qxc4 35. Bg7 1-0

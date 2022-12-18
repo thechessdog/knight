@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Rusakov"]
+[Black "Verlinsky, Boris"]
+[Result "0-1"]
+[ECO "C20"]
+[Opening "KP"]
+[Variation "Lopez opening"]
+[HashCode "8cd525ba"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. c3 Nc6 3. d4 Nf6 4. Bg5 h6 5. Bh4 g5 6. Bg3 exd4 7. e5 dxc3 8. exf6
+cxb2 9. Qe2+ Qe7 10. fxe7 Bg7 0-1

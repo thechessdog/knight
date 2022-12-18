@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Vidmar, Milan Sr"]
+[Black "Neumann, Augustin"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "cff30e90"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 Ne7 8. Re1
+Nf6 9. Nxe5 bxa4 10. d6 cxd6 11. Nc4 Qc7 12. Nxd6+ Kd8 13. Bf4 Qc6 14. Qd2 a5
+15. Nxf7+ Ke8 16. Nxh8 g6 17. Nc3 Bg7 18. Bd6 Ng8 19. Rxe7+ Nxe7 20. Re1 Bf6
+21. Qf4 Bb7 22. Rxe7+ Kd8 23. Nf7+ Kc8 24. Re8+ Bd8 25. Rxd8# 1-0

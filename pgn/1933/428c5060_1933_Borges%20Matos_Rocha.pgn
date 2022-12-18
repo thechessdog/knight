@@ -1,0 +1,19 @@
+[Event "Rio de Janeiro"]
+[Site "Rio de Janeiro"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Borges Matos, Juan"]
+[Black "Rocha, Antonio"]
+[Result "1-0"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[HashCode "428c5060"]
+[Epoch "Knight"]
+[WhiteID "3500160"]
+[WhiteCountry "CUB"]
+[BlackID "1901869"]
+[BlackCountry "POR"]
+
+1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bc4
+e6 9. Qe2 Bd6 10. O-O Ngf6 11. Ne5 Bh7 12. Nxf7 Kxf7 13. Qxe6+ Kg6 1-0

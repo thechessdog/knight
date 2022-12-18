@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Kutschenreiter"]
+[Black "Kellner, Narelle"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest defence declined"]
+[HashCode "b548c29b"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. Bg5 exd4 4. Nf3 Bb4+ 5. Nbd2 Nc6 6. a3 Be7 7. Nb3 O-O
+8. Nbxd4 d5 9. e3 Bg4 10. Qc2 Bxf3 11. Nxf3 Re8 12. Rd1 d4 13. Nxd4 Nxd4
+14. Rxd4 Qxd4 15. exd4 Bb4+ 16. Kd1 Re1# 0-1
+

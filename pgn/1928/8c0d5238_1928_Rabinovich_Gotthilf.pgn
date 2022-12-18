@@ -1,0 +1,20 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Gothilf, Solomon Borisovich"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Manhattan variation"]
+[HashCode "8c0d5238"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Bb4 6. cxd5 exd5 7. Qa4 Bxc3+ 8.
+bxc3 O-O 9. Nf3 h6 10. Bh4 Qe7 11. Bd3 Qe6 12. O-O Ne4 13. Qc2 Re8 14. c4 c6
+15. cxd5 Qxd5 16. Ne5 Nd6 17. Rad1 Nf6 18. Rfe1 Be6 19. Re2 Rad8 20. e4 Qa5 21.
+Bxf6 gxf6 22. Nf3 Bg4 23. Re3 f5 24. e5 Nb5 25. Bxb5 Qxb5 26. h3 Bxf3 27. Rxf3
+Qd5 28. Qxf5 Rxe5 29. dxe5 Qxd1+ 30. Kh2 Qd5 31. Qf6 Kh7 32. e6 1-0

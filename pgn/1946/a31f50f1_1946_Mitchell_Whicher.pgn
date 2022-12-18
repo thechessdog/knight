@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Mitchell, G."]
+[Black "Whicher, WH."]
+[Result "1-0"]
+[ECO "D10"]
+[Opening "QGD Slav"]
+[Variation "Winawer counter-gambit"]
+[HashCode "a31f50f1"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. e4 dxe4 6. Bb5+ Bd7 7. dxe5 Nc6
+8. Bf4 Bb4 9. Ne2 Nge7 10. O-O Bxc3 11. Nxc3 Ng6 12. e6 Bxe6 13. Bd6 Qa5
+14. b4 Qb6 15. Bc5 Qc7 16. Nxe4 Rd8 17. Nd6+ Rxd6 18. Bxd6 Qb6 19. Qe2 a6
+20. Ba4 Ne7 21. Rfd1 1-0
+

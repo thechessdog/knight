@@ -1,0 +1,22 @@
+[Event "Australia"]
+[Site "Australia"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Mills"]
+[Black "Purdy, Cecil"]
+[Result "0-1"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[HashCode "ef65ee87"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. a3 cxd4 8.
+exd4 dxc4 9. Bxc4 Be7 10. O-O Nbd7 11. Bg5 h6 12. Bh4 Nb6 13. Ba2 Bd7 14.
+Qd3 Bc6 15. Rad1 Nbd5 16. Bb1 Re8 17. Nxd5 Qxd5 18. Nf4 Qb5 19. Bxf6 Qxd3
+20. Nxd3 Bxf6 21. Ne5 Ba4 22. Rd2 Red8 23. Re1 Rac8 24. f4 Bxe5 25. fxe5
+Rc4 26. b3 Bxb3 27. Rb2 Rc3 28. Be4 b6 29. Rd2 Bd5 30. Rd3 Rxd3 31. Bxd3
+Rc8 32. Re3 g6 33. Be2 Rc2 34. Kf1 Rd2 35. Rc3 Rxd4 36. Rc8+ Kg7 37. Rc7 a5
+38. Bb5 Re4 39. Be8 Kf8 40. Bb5 Rxe5 41. a4 Rf5+ 42. Kg1 e5 43. Rc8+ Kg7
+44. Rd8 e4 45. g4 Re5 46. Rd6 e3 47. Kf1 Bf3 48. Rxb6 Rc5 0-1
+

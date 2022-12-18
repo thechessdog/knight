@@ -1,0 +1,16 @@
+[Event "Panchev"]
+[Site "Panchev"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Marjanovic, Slavoljub"]
+[Black "Zhivanov"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "chameleon variation"]
+[HashCode "8fa99e9b"]
+[Epoch "Knight"]
+[WhiteID "900354"]
+[WhiteCountry "SRB"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 g6 4. d3 Bg7 5. Be3 Nd4 6. g3 Nf3# 0-1

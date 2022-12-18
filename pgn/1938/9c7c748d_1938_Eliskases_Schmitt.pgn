@@ -1,0 +1,23 @@
+[Event "Bad Oeynhausen"]
+[Site "Bad Oeynhausen"]
+[Date "1938.01.01"]
+[Round "7"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Schmitt, Ludwig"]
+[Result "0-1"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[HashCode "9c7c748d"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d6 5. Qc2 Nc6 6. Bg5 h6 7. Bxf6 Qxf6 8. a3
+Bxc3+ 9. Qxc3 O-O 10. e3 e5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Bd3 Bf5 14. Bxf5
+Qxf5 15. O-O Rfd8 16. Rad1 c6 17. Rd2 Rxd2 18. Qxd2 Qe6 19. Qd3 Qe7 20. Rd1 Rc8
+21. h3 g6 22. b4 Kf8 23. e4 a6 24. Qd2 Kg7 25. c5 Rc7 26. Qc3 f6 27. Qd3 Kf7
+28. Qd2 Kg7 29. g4 g5 30. Qd8 Qxd8 31. Rxd8 Kg6 32. Kg2 Kf7 33. Kg3 Re7 34. h4
+Re8 35. Rxe8 Kxe8 36. hxg5 hxg5 37. Kf3 Kd7 38. Ke3 Kc7 39. Kd3 Kb8 40. Kc4 Ka7
+41. Kb3 Ka8 42. Ka4 Kb8 43. Ka5 Kc7 44. a4 Kd7 45. Kb6 Kc8 46. b5 cxb5 47. axb5
+axb5 48. Kxb5 Kc7 49. f3 Kd7 50. Kb6 Kc8 51. c6 0-1

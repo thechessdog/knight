@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Chernev, Irving"]
+[Black "Jackson, Edward"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "ff7d5263"]
+[Epoch "Knight"]
+[BlackID "464635"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 Bd6 5. Nbd2 O-O 6. O-O Nbd7 7. Qe2 c5 8. c3
+e5 9. e4 exd4 10. cxd4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nf6 13. Qh4 cxd4 14. Bg5 h6
+15. Bxh6 gxh6 16. Qxh6 Re8 17. Rae1 Be6 18. Ng5 Bf4 19. Rxe6 Rxe6 20. Bh7+ Nxh7
+21. Qxh7+ Kf8 22. Qxf7# 1-0

@@ -1,0 +1,27 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "3d5d4f1a"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "IRE"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. c3 b6 6. g3 Bb7 7. Bg2 Nbd7 8. Qc2
+Be7 9. Nxe4 Nxe4 10. Bxe4 Bxe4 11. Qxe4 O-O 12. O-O-O Nf6 13. Qg2 a5 14. Bg5 a4
+15. Bxf6 Bxf6 16. f4 a3 17. b3 Qd6 18. Nf3 c5 19. Ne5 cxd4 20. Rxd4 Qc5 21. Rc4
+Qe3+ 22. Qd2 Qxd2+ 23. Kxd2 Ra5 24. Re1 Rd5+ 25. Rd4 Rxd4+ 26. cxd4 Be7 27. Rc1
+f6 28. Nc6 Bd6 29. Kd3 g5 30. Ke4 gxf4 31. gxf4 Ra8 32. Rd1 f5+ 33. Ke3 Rc8 34.
+Rc1 Kf8 35. Rc4 b5 36. Rc2 Ke8 37. Nb4 Rxc2 38. Nxc2 Kd7 39. Ne1 Kc6 40. Nf3 h6
+41. Ne1 Kd5 42. Nd3 Be7 43. Ne1 Bb4 44. Nc2 Bd6 45. h3 Be7 46. Kd3 Bd6 47. Ne3+
+Kc6 48. Ng2 Kd5 49. Ke3 Bb4 50. Kd3 Bd6 51. Ne3+ Kc6 52. Nc2 Bxf4 53. Nxa3 Bd6
+54. Nc2 Be7 55. Ne1 Kd5 56. a4 bxa4 57. bxa4 e5 58. dxe5 Kxe5 59. Ke3 Bg5+ 60.
+Kf3 Kd5 61. Ng2 Kc5 62. Ne3 Kb4 63. Nxf5 Kxa4 64. Kg4 Kb5 65. Kh5 Kc5 66. Nxh6
+Bc1 67. Kg6 Kd5 68. h4 Ke6 69. Nf5 Bf4 70. h5 Bc1 71. Ng3 Ke7 72. Kg7 Ke8 73.
+Ne4 Ke7 74. Ng3 Ke8 75. Nf5 1/2-1/2

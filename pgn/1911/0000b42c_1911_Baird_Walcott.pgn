@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1911.01.01"]
+[Round "1"]
+[White "Baird, D."]
+[Black "Walcott, G."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "0000b42c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Nxe5 Nxe5
+8. d4 Ng6 9. dxc5 O-O 10. Qd4 Re8 11. Bg5 Bb7 12. Nc3 h6 13. Bxf6 Qxf6 14.
+Qxf6 gxf6 15. Rad1 Re7 16. f3 Rae8 17. Rd2 Bc6 18. Bd5 b4 19. Nb1 Bb5 20.
+Rfd1 a5 21. a3 Nf4 22. g3 Nxd5 23. Rxd5 Be2 24. R1d2 Bxf3 25. axb4 axb4 26.
+Rxd7 Bxe4 27. Rxe7 Rxe7 28. Re2 Re5 29. Kf2 f5 30. Nd2 Rxc5 31. Nxe4 fxe4
+32. Ke3 f5 33. Kd4 Rb5 34. g4 fxg4 35. Rxe4 Rg5 36. Re5 Rg7 37. Kc4 Kf7 38.
+Kxb4 Kg6 39. c4 Rf7 40. Re2 h5 41. Kc5 h4 42. Kc6 h3 43. c5 Rf1 44. b4 Rg1
+45. b5 Rg2 46. Re8 Rxh2 47. Kxc7 Rc2 48. Kd6 h2 49. Rh8 Rd2+ 50. Ke6 g3 51.
+b6 g2 52. b7 h1=Q 53. b8=Q Qe1+ 54. Qe5 Qxe5+ 55. Kxe5 Kg7 0-1
+

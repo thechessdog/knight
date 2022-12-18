@@ -1,0 +1,19 @@
+[Event "Cracow"]
+[Site "Cracow"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Kohler, Anton"]
+[Black "Gilg, Karl"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack"]
+[HashCode "0250e877"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Nbd2 Nxd2 11. Bxd2 c5 12. c3 Nxb3 13. axb3 Qb6 14. Be3 b4
+15. Ra4 Bd7 16. Raa1 d4 17. cxd4 Bb5 18. dxc5 Qb7 19. Qc2 Bxf1 20. Rxf1 Rc8 21.
+Rc1 Qc6 22. Nd4 Qd5 23. Nf5 Qxe5 24. Bd4 Qe6 25. Kf1 Kd7 26. Qd3 Kc7 27. c6 f6
+28. Qg3+ 1-0

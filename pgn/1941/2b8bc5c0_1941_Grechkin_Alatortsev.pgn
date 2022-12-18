@@ -1,0 +1,23 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Grechkin, Dmitry Makarovich"]
+[Black "Alatortsev, Vladimir Alexeyevich"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "2b8bc5c0"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 Nxd4 6. Nxd4 cxd4 7. Bd3 Ne7 8.
+O-O Nc6 9. Re1 Qc7 10. Bf4 g6 11. Nd2 Bg7 12. Nf3 Bd7 13. a3 O-O-O 14. b4 Kb8
+15. b5 Na5 16. Bg5 Rc8 17. Qxd4 Nc4 18. a4 h6 19. Bf6 Bxf6 20. exf6 Rhd8 21.
+Bxc4 Qxc4 22. Qxc4 dxc4 23. Ne5 Be8 24. Red1 c3 25. Rd3 Rxd3 26. Nxd3 Kc7 27.
+f4 Kb6 28. Kf2 Rc4 29. Ke3 g5 30. g3 gxf4+ 31. gxf4 a6 32. Ne5 Rb4 33. bxa6
+bxa6 34. Ra3 Bxa4 35. Rxc3 Rb5 36. Rc8 Rc5 37. Rxc5 Kxc5 38. Nxf7 Bxc2 39. Nxh6
+Kd6 40. Nf7+ Kd7 41. Kd2 Bf5 42. Kc3 Ke8 43. Ng5 Bg4 44. Kb4 Kd7 45. h4 Be2 46.
+Ka5 Bd3 47. h5 Be2 48. h6 Bd3 49. h7 Bxh7 50. Nxh7 Ke8 51. Ng5 1-0

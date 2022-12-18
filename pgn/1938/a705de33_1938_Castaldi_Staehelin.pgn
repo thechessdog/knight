@@ -1,0 +1,23 @@
+[Event "Losanna"]
+[Site "Losanna"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Castaldi"]
+[Black "Staehelin"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Alekhine variation"]
+[HashCode "a705de33"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. O-O Bg7
+8. Nb3 O-O 9. Be3 a5 10. a4 Be6 11. Nd4 d5 12. Nxe6 fxe6 13. exd5 exd5 14.
+Bg5 d4 15. Nb5 Qd7 16. c3 e5 17. Qd3 Kh8 18. Rad1 Rad8 19. Bf3 Qf7 20. cxd4
+Nxd4 21. Nxd4 Rxd4 22. Qb5 Rxd1 23. Bxd1 Qc7 24. Be3 Ra8 25. Be2 Ne4 26.
+Rc1 Qe7 27. Bb6 Nd6 28. Qd5 Nf5 29. Bxa5 Nd4 30. Bd1 Nc6 31. Bc3 Rd8 32.
+Qe4 Qc5 33. Bf3 Rd4 34. Qc2 Rc4 35. Bxc6 Qxc6 36. Qd2 h6 37. b3 Rc5 38. Bb2
+Rxc1+ 39. Qxc1 Qd5 40. Qc2 e4 41. Bxg7+ Kxg7 42. Qc3+ Kf8 43. g3 h5 44. b4
+Kg8 45. Qf6 Kh7 46. a5 Kh6 47. h4 Kh7 48. Qe7+ Kg8 49. Qc5 Qd1+ 50. Kh2 Qe1
+51. Qc8+ Kh7 52. Qxb7+ Kg8 53. Qb6 e3 54. Qxg6+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "Lodz"]
+[Site "Lodz"]
+[Date "1935.01.01"]
+[Round "4"]
+[White "Steiner, Lajos"]
+[Black "Opocensky, Karel"]
+[Result "0-1"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Flohr variation"]
+[HashCode "2f1baab9"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "AUT"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 Nd7 7. Nf4 e5 8.
+Nxg6 hxg6 9. dxe5 Qh4 10. e6 fxe6 11. Qe2 O-O-O 12. Bd2 Ngf6 13. O-O-O Bc5 14.
+Be3 Ng4 15. Bxc5 Nxc5 16. c3 Qg5+ 17. Kc2 Rxd1 18. Kxd1 Rf8 19. f4 Rxf4 20. Ke1
+Rf2 21. Qd1 Qe3+ 22. Be2 Rxe2+ 0-1

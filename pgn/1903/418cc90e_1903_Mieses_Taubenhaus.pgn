@@ -1,0 +1,21 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "4"]
+[White "Mieses, Jacques"]
+[Black "Taubenhaus, Jean"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "418cc90e"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 d6 5. f4 Be6 6. Bb3 Nc6 7. f5 Bxb3 8. axb3
+d5 9. exd5 Nxd5 10. Qg4 Nf6 11. Qg3 Nd4 12. Qxe5+ Qe7 13. Qxe7+ Bxe7 14. Kd1
+Ng4 15. Nh3 Nxf5 16. Re1 Kd7 17. Ra4 h5 18. Bf4 Bd6 19. Ng5 Bxf4 20. Rxf4 Nge3+
+21. Kd2 f6 22. Nge4 Nxg2 23. Rxf5 Nxe1 24. Kxe1 Rae8 25. Kf2 b6 26. d4 c6 27.
+Ng3 h4 28. Nh5 Re7 29. Nf4 Rh6 30. Nce2 g5 31. Ng2 Ke6 32. Ne3 Rh8 33. c4 Rd8
+34. d5+ cxd5 35. Nd4+ Kf7 36. Nxd5 Rd6 37. Nb5 Rde6 38. Nxe7 Rxe7 39. Nc3 Kg6
+40. Nd5 Re6 41. Rf3 f5 42. Re3 Rd6 43. b4 f4 44. Re5 1-0

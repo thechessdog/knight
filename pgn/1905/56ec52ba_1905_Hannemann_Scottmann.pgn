@@ -1,0 +1,18 @@
+[Event "Randers"]
+[Site "Randers"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Hannemann, H."]
+[Black "Scottmann & Thorese"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "56ec52ba"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 exf4 4. e5 Qe7 5. Qe2 Ng8 6. Nf3 c6 7. d4 d5 8.
+Bxf4 f6 9. O-O-O g5 10. Bd2 h6 11. Qd3 f5 12. e6 Bxe6 13. Re1 Na6 14. Ne5
+Qf6 15. Nxd5 cxd5 16. Qb5+ Kd8 17. Qxb7 Nc7 18. Ba5 Rc8 19. Nc6+ Kd7 20.
+Bb5 Ne7 21. Nxe7+ Kxe7 22. Bxc7 Qf7 23. Qxc8 Kf6 24. Be5+ Kg6 25. Be8 1-0
+

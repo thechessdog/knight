@@ -1,0 +1,15 @@
+[Event "Halifax"]
+[Site "Halifax"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Wren, F."]
+[Black "Mayfield"]
+[Result "1-0"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[HashCode "5e9406c2"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. Bd3 dxe5 6. dxe5 N8d7 7. e6 Nf6
+8. exf7+ Kxf7 9. Bg6+ hxg6 10. Qxd8 1-0
+

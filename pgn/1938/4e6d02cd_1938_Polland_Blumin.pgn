@@ -1,0 +1,21 @@
+[Event "Boston"]
+[Site "Boston"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Polland, D."]
+[Black "Blumin, Boris"]
+[Result "1-0"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[HashCode "4e6d02cd"]
+[Epoch "Knight"]
+[BlackCountry "CAN"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 Qc8 10. Rd1 h6 11. d5 Bf6 12. Qc2 c6 13. dxe6 dxe6 14. Bf4 c5 15.
+e4 Nc6 16. e5 Be7 17. h4 Qc7 18. Rd2 Rad8 19. Rad1 Rxd2 20. Rxd2 Rd8 21. Qd1
+Rxd2 22. Nxd2 Nd4 23. Ne4 Kf8 24. b4 Bxe4 25. Bxe4 g5 26. hxg5 hxg5 27. Qh5 Ke8
+28. Qh8+ Kd7 29. Be3 Ne2+ 30. Kh2 Nc3 31. Bd3 cxb4 32. Qg7 Nxa2 33. Qxf7 Qxe5
+34. c5 Nc3 35. c6+ Kd8 36. Qg8+ Kc7 37. Qa8 Qd5 38. Qb7+ Kd6 39. Qd7+ Ke5 40.
+f4+ gxf4 41. Qc7+ Qd6 42. Bxf4+ Kd5 43. Bxd6 Bxd6 44. Qd7 1-0

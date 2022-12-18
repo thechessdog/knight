@@ -1,0 +1,21 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Villegas"]
+[Black "Masi Elizalde"]
+[Result "1-0"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[HashCode "151d77f8"]
+[Epoch "Knight"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. e3 Bb4 5. Nd5 Bc5 6. Qc2 d6 7. a3 Nxd5 8.
+cxd5 Ne7 9. Bb5+ c6 10. dxc6 bxc6 11. Ba4 Bf5 12. e4 Bd7 13. O-O Bb6 14.
+Rd1 O-O 15. d4 f6 16. dxe5 dxe5 17. Bb3+ Kh8 18. Be6 Bxe6 19. Rxd8 Rfxd8
+20. Be3 Bd4 21. Bxd4 exd4 22. Qc5 Rd7 23. Nxd4 Rad8 24. f3 Rxd4 25. Qxe7
+Bb3 26. Qxa7 Rd2 27. Qb6 R8d3 28. Qb8+ Bg8 29. b4 Rc2 30. h4 Rdd2 31. Qg3
+h5 32. a4 Bc4 33. a5 Ba6 34. Re1 Bc8 35. e5 f5 36. e6 f4 37. Qg6 Bxe6 38.
+Rxe6 1-0
+

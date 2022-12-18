@@ -1,0 +1,22 @@
+[Event "Buenos Aires ch-ARG"]
+[Site "Buenos Aires ch-ARG"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Martin, Pedro"]
+[Black "Sanguinetti, Renato"]
+[Result "0-1"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[HashCode "cf4772ea"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteID "108383"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. g3 O-O 6. Bg2 c6 7. cxd5 cxd5 8. O-O
+h6 9. Ne5 Nc6 10. Nxc6 bxc6 11. Na4 Bf5 12. b3 Re8 13. Bb2 Nd7 14. Rc1 Rc8 15.
+Kh1 e5 16. dxe5 Bxe5 17. Bxe5 Rxe5 18. Qd2 h5 19. h3 Qe7 20. e3 c5 21. Qa5 c4
+22. Qxa7 Qa3 23. Qd4 Qxa2 24. Nb6 Rce8 25. Nxd7 Bxd7 26. bxc4 Qa4 27. Rcd1 Bc8
+28. cxd5 Qd7 29. Rc1 Bb7 30. Rc5 Kh7 31. Rfc1 Qf5 32. Kg1 Ba8 33. Re1 Qf6 34.
+e4 g5 35. Rb5 g4 0-1

@@ -1,0 +1,24 @@
+[Event "New York m"]
+[Site "New York m"]
+[Date "1916.01.01"]
+[Round "1"]
+[White "Bernstein, Jacob"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "d802f622"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. e3 e6 5. Bxc4 Be7 6. O-O O-O 7. Nc3 c5 8. Ne5
+a6 9. a4 Qc7 10. b3 Nbd7 11. Nxd7 Bxd7 12. dxc5 Bxc5 13. Bb2 Bc6 14. Qe2 Rfd8
+15. Rac1 Qe5 16. Nd5 Qf5 17. Bxf6 gxf6 18. Qg4+ Qxg4 19. Nxf6+ Kh8 20. Nxg4 Rg8
+21. Be2 Ba3 22. Ra1 Bb2 23. g3 Bg7 24. f4 Bxa1 25. Rxa1 Rgd8 26. Ne5 Be8 27.
+Ra2 Rac8 28. Bf3 f6 29. Nc4 b5 30. axb5 axb5 31. Na5 Rc1+ 32. Kf2 Rdc8 33. Be4
+Bg6 34. Kf3 R8c3 35. Bxg6 hxg6 36. Nb7 Re1 37. Nd8 Rexe3+ 38. Kg4 Rc1 39. Nf7+
+Kg7 40. Ra7 Rc2 41. Nh6+ Kf8 42. Rf7+ Ke8 43. Rxf6 Rxh2 44. Rxg6 Kd7 45. Ng8
+Rxb3 46. Nf6+ Ke7 47. Ne4 Re3 48. Ng5 b4 49. Rg7+ Kd6 50. Nf3 Rh1 51. Rb7 b3
+52. Ne5 Kc5 53. Rc7+ Kb5 54. Rb7+ Ka6 55. Rb8 Rg1 56. Nf3 Rg2 57. Kh3 Rf2 58.
+Ne5 Rxf4 59. Nc6 Rf5 0-1

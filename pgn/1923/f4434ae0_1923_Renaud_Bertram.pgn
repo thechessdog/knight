@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Renaud, George"]
+[Black "Bertram, Andreas"]
+[Result "1-0"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[HashCode "f4434ae0"]
+[Epoch "Knight"]
+[BlackID "4636252"]
+[BlackCountry "GER"]
+
+1. d4 e6 2. c4 b6 3. Nc3 Bb7 4. e4 Bb4 5. Bd3 d5 6. cxd5 exd5 7. e5 c5 8. Be3
+Ne7 9. a3 cxd4 10. Bxd4 Bc5 11. Nf3 O-O 12. Bxh7+ Kxh7 13. Ng5+ Kg6 14. Qg4 f5
+15. exf6 Kh6 16. Qh4+ Kg6 17. Qh7+ Kxg5 18. f4+ Kg4 19. Ne2 1-0

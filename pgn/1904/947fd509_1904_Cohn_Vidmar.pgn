@@ -1,0 +1,21 @@
+[Event "Coburg"]
+[Site "Coburg"]
+[Date "1904.01.01"]
+[Round "1"]
+[White "Cohn, Erich"]
+[Black "Vidmar"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "947fd509"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qe2 Bc5 9. b4 Bb6 10. Bb2 O-O 11. Rd1 Qe7 12. c4 c5 13. Nc3 Be6 14. Ne4 cxb4
+15. Nfg5 h6 16. Nf6+ gxf6 17. exf6 Qc5 18. Nxe6 Qxf2+ 19. Qxf2 Bxf2+ 20. Kxf2
+fxe6 21. Rd7 Rf7 22. Rad1 Nd6 23. Re7 Rxe7 24. fxe7 Re8 25. Rd4 Rxe7 26. c5 Nf5
+27. Rxb4 c6 28. Rf4 b5 29. Kf3 Rd7 30. g4 Ng7 31. Ke3 Ne8 32. h4 Nc7 33. Rf2
+Rf7 34. Rxf7 Kxf7 35. Ke4 Na6 36. Bd4 Nb4 37. a3 Nc2 38. Bb2 a5 39. Kd3 Ne1+
+40. Ke4 Nc2 41. Kd3 1/2-1/2

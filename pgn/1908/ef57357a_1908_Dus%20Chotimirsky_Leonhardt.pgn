@@ -1,0 +1,24 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Duz-Khotimirsky, Fedor Ivanovich"]
+[Black "Leonhardt, Paul Saladin"]
+[Result "0-1"]
+[ECO "D62"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Qc2 c5, 8.cd (Rubinstein)"]
+[HashCode "ef57357a"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 g6 12. dxc5 Nxc5 13. O-O Be6 14. Nd4
+Rac8 15. Qd2 Nxd3 16. Qxd3 Rc4 17. Rfd1 Rfc8 18. Rd2 Qb4 19. Ne2 a5 20. h3 a4
+21. a3 Qb6 22. Rad1 R8c5 23. Nc3 Qc6 24. Qe2 b5 25. Na2 Rc2 26. Nb4 Rxd2 27.
+Qxd2 Qc8 28. Qd4 Rc4 29. Qf6 Rc1 30. Rxc1 Qxc1+ 31. Kh2 Qc7+ 32. f4 Qc4 33. Qd4
+h5 34. Qxc4 bxc4 35. Kg3 Kf8 36. Kf3 Ke7 37. e4 Kd6 38. Ke3 Kc5 39. exd5 Bxd5
+40. g3 Be6 41. h4 c3 42. bxc3 Kc4 43. Kd2 Kb3 44. Nc2 Bf5 45. Nd4+ Kxa3 46. Kc1
+Be4 47. Kd2 Kb2 48. Ne2 a3 49. Nc1 a2 50. Nxa2 Kxa2 51. Ke3 Bf5 52. Kd4 Kb3 53.
+c4 Kc2 54. Ke5 Kd3 0-1

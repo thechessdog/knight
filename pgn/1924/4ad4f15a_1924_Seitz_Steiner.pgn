@@ -1,0 +1,21 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Seitz, Jakob Adolf"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[HashCode "4ad4f15a"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. f4 c5 8.
+Be3 Qa5 9. Kf2 O-O 10. Qb3 cxd4 11. cxd4 Nd7 12. Be2 Nc5 13. Qb1 Ne6 14. Nf3 f5
+15. e5 Nc7 16. Rc1 b5 17. Rc5 a6 18. a4 Rb8 19. axb5 Qb6 20. Qa2+ e6 21. d5
+exd5 22. Rxd5 Qb7 23. Rc5+ Kh8 24. bxa6 Qb6 25. Rb5 Qxb5 26. Bxb5 Rxb5 27. Ng5
+Nd5 28. a7 Bb7 29. a8=Q Bxa8 30. Qxa8 h6 31. Nf7+ Kg8 32. Nxh6+ Kh7 33. Qc6
+Rb2+ 34. Kf3 1-0

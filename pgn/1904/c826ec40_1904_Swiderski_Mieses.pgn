@@ -1,0 +1,22 @@
+[Event "Monte Carlo Rice"]
+[Site "Monte Carlo"]
+[Date "1904.01.01"]
+[Round "7"]
+[White "Swiderski, Rudolf"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Rice gambit"]
+[HashCode "c826ec40"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. O-O
+Bxe5 9. Re1 Qe7 10. c3 f3 11. d4 Ne4 12. Rxe4 Bh2+ 13. Kxh2 g3+ 14. Kg1 f2+ 15.
+Kf1 Qxe4 16. Qe2 Qxe2+ 17. Bxe2 Rg8 18. Bf4 Bf5 19. Bxc7 Nd7 20. Nd2 Nf6 21. c4
+Kd7 22. Be5 Ne4 23. Nxe4 Bxe4 24. Rc1 b5 25. c5 Bxd5 26. Bxb5+ Bc6 27. Be2 Rae8
+28. Rc3 Rxe5 29. dxe5 Ke6 30. b4 Kxe5 31. b5 Be4 32. c6 f5 33. a4 f4 34. a5 Kd4
+35. Rc4+ Ke3 36. c7 Bf5 37. Rc3+ Kd2 38. Rc5 f3 39. Rd5+ Ke3 40. Bxf3 Bd3+ 41.
+Rxd3+ Kxd3 42. Bc6 Rc8 43. b6 1-0

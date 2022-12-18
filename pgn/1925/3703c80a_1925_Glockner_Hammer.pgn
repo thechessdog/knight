@@ -1,0 +1,17 @@
+[Event "Bohmen"]
+[Site "Bohmen"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Glockner"]
+[Black "Hammer, Peter"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "3703c80a"]
+[Epoch "Knight"]
+[BlackID "1300466"]
+[BlackCountry "SUI"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Bg5 Bf5 5. Qe2 Nc6 6. O-O-O Nd5 7. Nxe4 Ndb4
+8. d5 Nxa2+ 9. Kb1 Ncb4 10. d6 f6 11. dxc7 Qxd1+ 12. Qxd1 Bxe4 13. Bb5+ Kf7 14.
+Qd8 Rxd8 15. cxd8=Q 1-0

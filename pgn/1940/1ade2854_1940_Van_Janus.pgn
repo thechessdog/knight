@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Van der Heyden"]
+[Black "Janus"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack, Nenarokov variation"]
+[HashCode "1ade2854"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 Ne7 11. Nbd2 Bf5 12. Nd4 Bxd4 13. cxd4 c5 14.
+dxc5 Nxc5 15. Qg3 a5 16. Bd1 O-O 17. Be2 Qd7 18. b3 Ra6 19. Ba3 Rg6 20. Qc3
+Bh3 21. Bxc5 Bxg2 22. Rfc1 d4 23. Bxd4 Nd5 24. Qg3 Rxg3 25. fxg3 Bh3 26.
+Nf3 Qf5 27. Kf2 Bg4 28. Rc5 Qe4 29. Rd1 f6 30. e6 Qxe6 31. Bxb5 Qe4 32. Be2
+Re8 0-1
+

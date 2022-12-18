@@ -1,0 +1,18 @@
+[Event "Scheveningen"]
+[Site "Scheveningen"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Olland, Adolf Georg"]
+[Black "Schelfhout, William"]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, Henneberger variation"]
+[HashCode "ae8cd55b"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. O-O c6 6. Bd3 Bc5 7. Nxe5 b5 8.
+Ne2 Ne6 9. b3 Qb6 10. Bb2 d6 11. Nf3 Nh5 12. Ng3 Nhf4 13. Be2 Qc7 14. d4 Bb6
+15. d5 Nc5 16. Nd4 a6 17. Nxc6 O-O 18. Bg4 Bb7 19. Qf3 Ng6 20. Bxg7 Bxc6 21.
+Bxf8 Rxf8 22. dxc6 Qxc6 23. Nh5 Bd8 24. Qc3 Ne5 25. Bf5 Qc7 26. f4 1-0

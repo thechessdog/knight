@@ -1,0 +1,19 @@
+[Event "Hilversum"]
+[Site "Hilversum"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Meiners"]
+[Black "Schwan, Wilhelm"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "f62bae9f"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Bc5 12. Nbd2 Nxd2 13. Qxd2 O-O 14. Qf4 Qd7
+15. Bc2 g6 16. Re1 Rfe8 17. Nd4 Nxd4 18. cxd4 Bf8 19. h4 c5 20. dxc5 Bxc5 21.
+Qg3 Bf5 22. Bxf5 Qxf5 23. Bg5 Be7 24. Bf4 Qe6 25. h5 Red8 26. hxg6 Qxg6 27. Qb3
+Qg4 28. Bh6 Rb6 29. Bd2 Rg6 30. g3 Bc5 31. Bf4 Qxf4 32. Re2 Rxg3+ 0-1

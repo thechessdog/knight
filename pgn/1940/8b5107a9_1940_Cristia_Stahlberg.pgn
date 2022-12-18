@@ -1,0 +1,25 @@
+[Event "Rosario"]
+[Site "Rosario"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Cristia"]
+[Black "Stahlberg, Gideon"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich variation"]
+[HashCode "8b5107a9"]
+[Epoch "Knight"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 cxd4 5. Bd3 Nc6 6. Nf3 Nge7 7. O-O Bd7 8. c3
+dxc3 9. Nxc3 Ng6 10. Re1 Be7 11. Bd2 O-O 12. h4 Nxh4 13. Bxh7+ Kxh7 14. Ng5+
+Bxg5 15. Bxg5 Nf3+ 16. gxf3 f6 17. exf6 Rxf6 18. Kg2 Kg8 19. Bxf6 Qxf6 20. Nxd5
+Qf7 21. Nc3 e5 22. Qg3 Nd4 23. Ne4 Bc6 24. Ng5 Qg6 25. Rac1 Rf8 26. Rxe5 Nf5
+27. Rxc6 bxc6 28. Qg4 Nh6 29. Qe6+ Qxe6 30. Rxe6 Rf5 31. Re8+ Rf8 32. Re7 Rf5
+33. Re8+ Rf8 34. Rxf8+ Kxf8 35. Ne6+ Ke7 36. Nxg7 Kf6 37. Nh5+ Ke5 38. Kg3 c5
+39. f4+ Ke4 40. Nf6+ Kd4 41. Nd7 a5 42. Ne5 a4 43. b3 axb3 44. axb3 Kc3 45. Nd7
+Kxb3 46. Nxc5+ Kc4 47. Ne6 Kd5 48. Ng5 Kd6 49. Kh4 Ke7 50. Ne4 Nf7 51. Kh5 Nd8
+52. f5 Kf7 53. Kg5 Nc6 54. Nd6+ Ke7 55. Nc4 Kf7 56. f4 Ne7 57. Ne5+ Ke8 58. f6
+Nd5 59. Kf5 Kf8 60. Nc4 Kf7 61. Nd6+ Kf8 62. Ke5 Ne3 63. Ne4 Nc2 64. Ng5 Ke8
+65. Kf5 Nd4+ 66. Kg6 Kd7 67. f7 Ke7 68. Nh7 1-0

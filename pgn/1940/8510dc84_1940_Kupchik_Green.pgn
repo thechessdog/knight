@@ -1,0 +1,27 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Kupchik, Abraham"]
+[Black "Green, M."]
+[Result "1-0"]
+[ECO "D74"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O"]
+[HashCode "8510dc84"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O 6. cxd5 Nxd5 7. O-O c6 8.
+Nbd2 Nd7 9. Nc4 N5b6 10. Qc2 Nxc4 11. Qxc4 Nb6 12. Qd3 Be6 13. Rd1 f6 14. e4
+Qc8 15. b3 Bg4 16. a4 f5 17. e5 f4 18. Re1 Nd5 19. Bd2 Bh6 20. Rac1 Qe6 21. Rf1
+Bh3 22. Ne1 Bxg2 23. Kxg2 f3+ 24. Nxf3 Rxf3 25. Kxf3 Rf8+ 26. Kg2 Bxd2 27. Qxd2
+Nf4+ 28. Kh1 Qxb3 29. Rc3 Qd5+ 30. f3 Ne6 31. Rd3 Rd8 32. Rd1 b5 33. Qb4 Kf7
+34. axb5 cxb5 35. Kg2 Rc8 36. h4 Rc4 37. Qd2 Kg7 38. Qa2 a5 39. Qxa5 Ra4 40.
+Qc3 h5 41. Qc1 b4 42. Qe3 Ra2+ 43. Kg1 Rb2 44. R3d2 Rb3 45. Rd3 Rb2 46. R1d2
+Rb1+ 47. Kg2 b3 48. Rd1 Rxd1 49. Rxd1 b2 50. Qa3 Qb7 51. Rb1 Nxd4 52. Rxb2 Qc7
+53. Qe3 Nf5 54. Qe1 Qc5 55. Re2 Qc6 56. Qd2 Qe6 57. Qc3 Kh7 58. Qc5 Kg7 59. Re4
+Qa2+ 60. Qf2 Qe6 61. Kh2 Kh7 62. Qc2 Kg7 63. Qc4 Qb6 64. Qa2 Qc6 65. e6 Qc3 66.
+Qf2 Qf6 67. Kg2 Nd6 68. Re1 Nf5 69. Re4 Nd6 70. Re1 Nf5 71. Qe2 Nd4 72. Qe4 Nf5
+73. Kh3 Qc3 74. Qe5+ Qxe5 75. Rxe5 Kf6 76. Ra5 Kxe6 77. g4 Ng7 78. Kg3 Kf7 79.
+Kf4 Ne6+ 80. Ke5 Ng7 81. Ra6 hxg4 82. fxg4 Ne8 83. Ra1 Nf6 84. Rf1 Kg7 85. g5
+Ne8 86. Ke6 Nd6 87. Rf4 Kg8 88. Kxe7 Nf5+ 89. Kf6 1-0

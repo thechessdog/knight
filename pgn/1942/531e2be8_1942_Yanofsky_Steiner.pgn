@@ -1,0 +1,20 @@
+[Event "Dallas"]
+[Site "Dallas"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[HashCode "531e2be8"]
+[Epoch "Knight"]
+[WhiteCountry "CAN"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. axb5 axb5 10. Rxa8 Qxa8 11. d3 d6 12. Nc3 b4 13. Nd5 Nxd5 14. Bxd5 Nd8
+15. Bb3 Kh8 16. Bg5 f6 17. Bd2 d5 18. Nh4 g6 19. Qg4 Rf7 20. f4 c6 21. fxe5
+fxe5 22. Nf3 Bc5+ 23. Kh1 Qb8 24. exd5 cxd5 25. d4 exd4 26. Re8+ Rf8 27. Bf4
+Qa8 28. Qd7 Kg8 29. Bh6 Qa1+ 30. Ng1 Nf7 31. Bxf8 Bxf8 32. Qxb7 1-0

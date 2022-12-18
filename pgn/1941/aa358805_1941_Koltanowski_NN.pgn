@@ -1,0 +1,18 @@
+[Event "Dallas rapid transit"]
+[Site "Dallas rapid transit"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Colle system"]
+[HashCode "aa358805"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 c5 5. c3 Nc6 6. Nbd2 Bd6 7. O-O O-O 8. dxc5
+Bxc5 9. e4 dxe4 10. Nxe4 Be7 11. Qe2 Qc7 12. Bg5 Nxe4 13. Qxe4 g6 14. Rfe1 Bxg5
+15. Nxg5 Re8 16. Rad1 Qe7 17. Qh4 h5 18. g4 Kg7 19. Bb5 Bd7 20. gxh5 Rh8 21.
+Bxc6 Bxc6 22. Nxe6+ Qxe6 23. Rxe6 fxe6 24. Qe7+ Kh6 25. Qxe6 Rhg8 26. f4 Rae8
+27. Qf6 Re2 28. Rd3 Rg2+ 29. Kf1 Rxh2 30. Rg3 Rxh5 31. Rxg6+ Rxg6 32. Qh8# 1-0

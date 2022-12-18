@@ -1,0 +1,18 @@
+[Event "Aarhus"]
+[Site "Aarhus"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Christensen, Anthon"]
+[Black "Andersen, Gunnar"]
+[Result "1-0"]
+[ECO "D18"]
+[Opening "QGD Slav"]
+[Variation "Dutch, Lasker variation"]
+[HashCode "42cfd397"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. e3 Na6 7. Bd2 Nb4 8.
+e4 Bg4 9. Bxc4 Bxf3 10. gxf3 Qxd4 11. Qb3 O-O-O 12. O-O-O Nd3+ 13. Bxd3
+Qxd3 14. Be3 Qa6 15. Rxd8+ Kxd8 16. Qxf7 Kc7 17. Bf4+ Kb6 18. Qb3+ Ka5 19.
+Na2 Qe2 20. Bd2+ Ka6 21. Nb4+ Kb6 22. Nd5+ Kc5 23. Qb4# 1-0
+

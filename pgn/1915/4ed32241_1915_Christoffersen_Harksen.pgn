@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Christoffersen"]
+[Black "Harksen"]
+[Result "1-0"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, symmetrical variation"]
+[HashCode "4ed32241"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. Nf3 Nc6 5. e3 Nf6 6. Bd3 Bd6 7. O-O O-O 8.
+a3 cxd4 9. exd4 dxc4 10. Bxc4 Nd5 11. Re1 Nxc3 12. bxc3 Qa5 13. Qc2 e5 14.
+Ng5 g6 15. Nxh7 Kxh7 16. Qd2 Bf5 17. Qh6+ Kg8 18. g4 Qxc3 19. Re3 Qxa1 20.
+Rh3 Qxc1+ 21. Qxc1 Bxg4 22. Qh6 1-0
+

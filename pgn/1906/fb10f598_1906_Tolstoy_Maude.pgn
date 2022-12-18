@@ -1,0 +1,18 @@
+[Event "Jasnaja Poljana"]
+[Site "Jasnaja Poljana"]
+[Date "1906.01.01"]
+[Round "1"]
+[White "Tolstoy, Leo"]
+[Black "Maude"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Salvio gambit"]
+[HashCode "fb10f598"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 d5 7. Bxd5 f3 8.
+gxf3 Qh3+ 9. Ke1 g3 10. d4 g2 11. Rg1 Qh4+ 12. Ke2 Nh6 13. Rxg2 c6 14. Bxh6
+cxd5 15. Bxf8 Kxf8 16. Qe1 Qe7 17. Nc3 f6 18. Nxd5 Qd6 19. Qg3 fxe5 20.
+Qg7+ Ke8 21. Qxh8+ 1-0
+

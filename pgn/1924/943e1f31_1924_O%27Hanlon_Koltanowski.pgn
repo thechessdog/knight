@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "O'Hanlon, John"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "943e1f31"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 Be7 6. Bd3 Nbd7 7. e4 dxe4 8. Nxe4
+Qc7 9. O-O O-O 10. b3 e5 11. Bb2 Nxe4 12. Bxe4 f5 13. Bc2 e4 14. Ne5 Bf6 15. f4
+c5 16. dxc5 Nxe5 17. fxe5 Rd8 18. Qe1 Bxe5 19. Bxe5 Qxc5+ 20. Kh1 Qxe5 21. Qh4
+Be6 22. Rae1 Rd2 23. Bb1 Rf8 24. Qe7 Rd7 25. Qa3 b6 26. Rxe4 Rd1 0-1

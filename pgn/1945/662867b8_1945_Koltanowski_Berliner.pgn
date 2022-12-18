@@ -1,0 +1,21 @@
+[Event "Washington,DC simul"]
+[Site "Washington,DC simul"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Berliner, Hans Jack"]
+[Result "1-0"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[HashCode "662867b8"]
+[Epoch "Knight"]
+[WhiteCountry "BEL"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 Bg4 5. Nbd2 Nc6 6. Qa4 Bd7 7. Qd1 e6 8. Bd3
+Bd6 9. O-O cxd4 10. exd4 Qc7 11. Re1 O-O-O 12. Qe2 Be8 13. Ne5 Nd7 14. f4 f6
+15. Nxc6 bxc6 16. Qxe6 Bxf4 17. Nf1 Bd6 18. Be3 Kb8 19. Bf2 Nf8 20. Qxe8 Rxe8
+21. Rxe8+ Kb7 22. Rae1 g6 23. Bg3 h5 24. Bxd6 Qxd6 25. R1e7+ Kb6 26. Rf7 g5 27.
+Ree7 Qb8 28. a4 Qc8 29. Rxa7 c5 30. a5+ Kc6 31. Ra6+ Qxa6 32. Bxa6 cxd4 33.
+cxd4 Nd7 34. Bb7+ Kxb7 35. Rxd7+ Kc6 36. Rf7 Rb8 37. Rxf6+ Kd7 38. Rb6 Ra8 39.
+b4 1-0

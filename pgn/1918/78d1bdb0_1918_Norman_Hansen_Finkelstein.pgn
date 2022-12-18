@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1918.01.01"]
+[Round "1"]
+[White "Norman Hansen, Holger"]
+[Black "Finkelstein"]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[HashCode "78d1bdb0"]
+[Epoch "Knight"]
+[WhiteCountry "DNK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 cxd2+
+8. Bxd2 Qxf6 9. O-O Be7 10. Bc3 Qg5 11. Re1 Qxb5 12. Bxg7 Rg8 13. Qd4 d6 14.
+Rxe7+ Kxe7 15. Qf6+ Kd7 16. Qxf7+ Kc6 17. Qxg8 Qd5 18. Qe8+ Kb6 19. Qe3+ Kc6
+20. c4 Qf5 21. Qe8+ Kb6 22. b4 a6 23. Qd8 Qg4 24. c5+ Ka7 25. Qxc7 dxc5 26.
+bxc5 Qg6 27. Bd4 Qc6 28. Qb6+ 1-0

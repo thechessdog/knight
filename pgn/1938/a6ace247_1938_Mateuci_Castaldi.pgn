@@ -1,0 +1,16 @@
+[Event "Milan"]
+[Site "Milan"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Mateuci"]
+[Black "Castaldi, Vincenzo"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "a6ace247"]
+[Epoch "Knight"]
+[BlackCountry "ITA"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qd2 Bd7 7. Nf3 Rc8 8. Bd3
+cxd4 9. cxd4 Nb4 10. b3 Rc1+ 0-1

@@ -1,0 +1,17 @@
+[Event "Cottbus"]
+[Site "Cottbus"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Muller, Hans P"]
+[Black "Werra"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "3c5bf096"]
+[Epoch "Knight"]
+[WhiteID "3223167"]
+[WhiteCountry "AUS"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. Bxf7+ Kxf7 7. Ng5+ Kg8
+8. Qxg4 Bb4+ 9. c3 dxc3 10. Qc4+ 1-0

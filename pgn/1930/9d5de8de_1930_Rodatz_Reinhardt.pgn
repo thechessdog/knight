@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Rodatz"]
+[Black "Reinhardt, Enrique Heinrich"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "9d5de8de"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb7 5. e3 Bb4 6. Bd2 O-O 7. Bd3 d6 8. a3
+Bxc3 9. Bxc3 Ne4 10. Qc2 f5 11. O-O Rf6 12. Nd2 Rh6 13. Bxe4 fxe4 14. g3 Qg5
+15. f4 exf3 16. Rae1 Rxh2 17. Kxh2 Qh5+ 0-1

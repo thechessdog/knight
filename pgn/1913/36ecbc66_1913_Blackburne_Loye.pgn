@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Loye"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[HashCode "36ecbc66"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 d6 5. Nge2 Bd7 6. d4 cxd4 7. Nxd4 Nge7 8.
+Ndb5 Nc8 9. Bf4 e5 10. Nd5 Qa5+ 11. Bd2 1-0

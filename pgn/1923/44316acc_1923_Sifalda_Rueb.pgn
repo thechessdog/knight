@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Sifalda"]
+[Black "Rueb, Alexander"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "44316acc"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. bxc3 Be7 7. d4 c5
+8. Bb5+ Nc6 9. Ne2 O-O 10. O-O f6 11. Bxc6 bxc6 12. exf6 Bxf6 13. Qd3 Qa5
+14. Rf3 Ba6 15. Qd1 Rae8 16. Ng3 Bxd4+ 17. Kh1 Rxf3 18. gxf3 Qxc3 19. Bb2
+Re1+ 0-1
+

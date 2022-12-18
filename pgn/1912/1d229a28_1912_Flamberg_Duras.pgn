@@ -1,0 +1,18 @@
+[Event "Abbazia"]
+[Site "Abbazia"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Důras, Oldřich"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Maurian defence"]
+[HashCode "1d229a28"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. d4 Nf6 5. e5 d5 6. Be2 Ne4 7. Bxf4 f6 8. Nf3
+fxe5 9. Nxe5 Nxe5 10. Bxe5 Bb4+ 11. c3 O-O 12. Bf3 Qg5 13. Nd2 Rxf3 14. gxf3
+Qh4+ 15. Ke2 Qf2+ 16. Kd3 Nxd2 17. cxb4 Nc4 0-1

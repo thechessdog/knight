@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Lexandrovitch"]
+[Black "Witulski"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "179bfc62"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 Nxe4 7. Qd4
+Bxc3+ 8. bxc3 Nf6 9. Ba3 Nc6 10. Qf4 e5 11. Nd6+ Kf8 12. Qc4 Qe7 13. Nb5
+1-0
+

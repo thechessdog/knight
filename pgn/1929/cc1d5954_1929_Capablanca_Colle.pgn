@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Capablanca, José Raúl"]
+[Black "Colle, Edgard"]
+[Result "1-0"]
+[ECO "E22"]
+[Opening "Nimzo-Indian"]
+[Variation "Spielmann variation"]
+[HashCode "cc1d5954"]
+[Epoch "Knight"]
+[BlackCountry "BEL"]
+[WhiteCountry "CUB"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 Bxc3+ 5. Qxc3 Ne4 6. Qc2 d5 7. Nf3 O-O 8.
+e3 Bd7 9. Be2 Re8 10. O-O e5 11. cxd5 1-0

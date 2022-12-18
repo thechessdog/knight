@@ -1,0 +1,25 @@
+[Event "Belo Horizonte"]
+[Site "Belo Horizonte"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Cruz, Walter Oswaldo"]
+[Black "Moses, J."]
+[Result "0-1"]
+[ECO "D01"]
+[Opening "Richter-Veresov attack, Richter variation"]
+[HashCode "870a57ad"]
+[Epoch "Knight"]
+[WhiteCountry "BRA"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. f3 h6 5. Bh4 c6 6. e3 Nbd7 7. f4 Qa5 8. Bd3
+Ne4 9. Bxe4 Bxe4 10. Qd2 Bg6 11. Nf3 e6 12. O-O Bb4 13. a3 Bxc3 14. bxc3 Nf6
+15. Bxf6 gxf6 16. f5 Bxf5 17. Nh4 Be4 18. Rxf6 Ke7 19. Raf1 Raf8 20. Qf2 Rh7
+21. Ng6+ Bxg6 22. Rxg6 Qxc3 23. Qf4 Kd7 24. Rxh6 Rxh6 25. Qxh6 Qxa3 26. h4 f5
+27. Rf3 Re8 28. Rg3 a5 29. h5 a4 30. Qf6 Re7 31. h6 Qd6 32. Rg7 a3 33. h7 a2
+34. h8=Q a1=Q+ 35. Kf2 Qb2 36. Rxe7+ Qxe7 37. Qxe7+ Kxe7 38. Qg7+ Kd8 39. Qf8+
+Kc7 40. Qe7+ Kb6 41. Qc5+ Ka6 42. Kf3 e5 43. c3 exd4 44. exd4 Qc1 45. g3 Qg5
+46. Kf2 Qf6 47. Kf3 b6 48. Qb4 Qe6 49. Kf4 Kb7 50. Qa3 Qe4+ 51. Kg5 Qg4+ 52.
+Kf6 Qxg3 53. Kxf5 Qe3 54. Qb4 c5 55. Qb2 cxd4 56. cxd4 Qe4+ 57. Kf6 Qe1 58. Kf5
+Qe4+ 59. Kf6 Qe8 60. Qb4 b5 61. Kf5 Qe2 62. Qc5 Qc4 63. Qe7+ Qc7 64. Qb4 Kb6
+65. Ke6 Qc4 66. Qd2 b4 67. Ke5 b3 68. Qh6+ Kb5 69. Qf8 Ka4 70. Qb8 Ka3 71. Qa8+
+Kb4 72. Qb7+ Kc3 73. Qa7 b2 0-1

@@ -1,0 +1,19 @@
+[Event "Moscow-ch"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kamishov, Mikhail Pavlovich"]
+[Black "Zagoriansky, Evgeny"]
+[Result "1-0"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "71afa84a"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. c3 Nf5 7. Qe2 Qe7 8.
+O-O Nd6 9. d3 g6 10. Re1 Nd7 11. f4 Bg7 12. d4 e4 13. Nxe4 O-O 14. Nxd6 Qxd6
+15. b3 c5 16. dxc6 bxc6 17. Ba3 Bxd4+ 18. cxd4 Qxd4+ 19. Qf2 Qxa1 20. Bb2 Qxa2
+21. Qd4 1-0

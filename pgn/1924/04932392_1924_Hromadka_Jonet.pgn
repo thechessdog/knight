@@ -1,0 +1,17 @@
+[Event "Paris prel-1"]
+[Site "Paris"]
+[Date "1924.01.01"]
+[Round "1"]
+[White "Hromadka, Karel"]
+[Black "Jonet, F."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "04932392"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Nc6 4. fxe5 Nxe5 5. d4 Nc6 6. e5 Ng8 7. Nf3 d5 8. Bd3
+Bb4 9. O-O Bg4 10. Ne2 f6 11. c3 fxe5 12. cxb4 e4 13. b5 Nb4 14. Bb1 exf3 15.
+gxf3 Bh3 16. Rf2 a6 17. Nf4 Bd7 18. Qe1+ Qe7 19. Re2 1-0

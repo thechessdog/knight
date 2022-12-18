@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Copenhagen"]
+[Black "Amsterdam"]
+[Result "1-0"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, exchange variation"]
+[HashCode "ba9179f6"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Qd4 f6 7. Be3 Nh6
+8. Be2 Nf7 9. Nc3 Bg7 10. f4 O-O 11. f5 gxf5 12. exf5 d5 13. O-O e5 14.
+fxe6 Bxe6 15. Rf3 Ne5 16. Rg3 Ng6 17. Qc5 Qd7 18. Bh5 Bf5 19. Rd1 Rfc8 20.
+Ne2 Bf8 21. Qd4 Bxc2 22. Nf4 Bxd1 23. Qxd1 Bg7 24. Nxg6 hxg6 25. Bxg6 Re8
+26. Qh5 Rxe3 27. Rxe3 a5 28. Bf5 Qa7 29. Be6+ Kf8 30. Kf1 Ke7 31. Re2 Kd6
+32. Qg4 Qb7 33. Bxd5 cxd5 34. Qg3+ Kc5 35. Rc2+ Kb5 36. Rc7 1-0
+

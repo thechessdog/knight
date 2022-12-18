@@ -1,0 +1,19 @@
+[Event "Hampstead"]
+[Site "Hampstead"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Greig, E."]
+[Black "*"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "a78c8bd7"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bg4 7. Qd4 f5 8.
+Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 Nxc3 11. cxb7+ Nxb5+ 12. Bd2 Nxd4 13. Bxa5
+Nxf3+ 14. Kf2 Bc5+ 15. Kg3 Nd4 16. Rhe1+ Kf7 17. bxa8=Q Ndc6 18. Qb7+ Kf6
+19. Bc3+ Bd4 20. Bxd4+ Nxd4 21. Qe7+ Kg6 22. Re6+ Nxe6 23. Qxe6+ Kh5 24. h3
+1-0
+

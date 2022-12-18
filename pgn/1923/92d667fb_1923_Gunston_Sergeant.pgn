@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Gunston, William"]
+[Black "Sergeant"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "92d667fb"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Nxe5 Be7 9. d4 Ne6 10. c3 O-O 11. f4 Re8 12. Nd2 Nf8 13. Ndf3 Bf6
+14. Be3 g6 15. Qb3 Ne6 16. Rad1 Bg7 17. g4 Qf6 18. Rf1 Qe7 19. f5 gxf5 20.
+gxf5 Nf8 21. Ng5 Bxe5 22. dxe5 c5 23. f6 c4 24. Qxc4 Be6 25. Qh4 1-0
+

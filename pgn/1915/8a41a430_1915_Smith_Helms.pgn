@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1915.01.01"]
+[Round "1"]
+[White "Smith, Stephen"]
+[Black "Helms, Hermann"]
+[Result "0-1"]
+[ECO "A80"]
+[Opening "Dutch"]
+[HashCode "8a41a430"]
+[Epoch "Knight"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 e6 4. Nc3 b6 5. e3 Bb7 6. Bd3 Bd6 7. a3 a5 8. O-O
+O-O 9. Qc2 Nc6 10. e4 fxe4 11. Nxe4 Nxe4 12. Bxe4 Nxd4 13. Bxh7+ Kh8 14.
+Nxd4 Qh4 15. g3 Qxd4 16. Bd3 Rf3 17. Be3 Qe5 18. Rae1 Raf8 19. Bxb6 Qh5 20.
+Be3 Qh3 21. Be4 R8f5 22. Bxf5 Qg2+ 23. Kxg2 Rxg3# 0-1
+

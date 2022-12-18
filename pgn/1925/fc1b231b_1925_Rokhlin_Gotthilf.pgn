@@ -1,0 +1,21 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Rokhlin, Yakov Geraisimovich"]
+[Black "Gothilf, Solomon Borisovich"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Rochlin variation"]
+[HashCode "fc1b231b"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. Rc1 Qa5 7. Bd2 Qb6 8. Qc2
+Bb4 9. e3 O-O 10. Bd3 dxc4 11. Bxc4 c5 12. O-O cxd4 13. exd4 a6 14. Bd3 Qd8 15.
+Bg5 Be7 16. Rfe1 Re8 17. Bf4 Nf8 18. Ne4 Nd5 19. Neg5 g6 20. Bd2 Nb4 21. Qb3
+Nxd3 22. Qxd3 Bd7 23. Qe4 Bc6 24. Qf4 f6 25. Nxe6 Nxe6 26. Rxe6 Bd5 27. Re3
+Bxa2 28. b3 Qd5 29. Rce1 Qf7 30. d5 Bc5 31. Rxe8+ Rxe8 32. Rxe8+ Qxe8 33. Qxf6
+Qe7 34. Qc3 a5 35. h4 b5 36. d6 Qe2 37. d7 Qxf2+ 38. Kh2 Bd6+ 39. Kh1 Qf1+ 40.
+Ng1 1-0

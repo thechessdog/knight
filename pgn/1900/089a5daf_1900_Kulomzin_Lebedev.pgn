@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Kulomzin, Viacheslav Nikolaev"]
+[Black "Lebedev, Sergey"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov three knights game"]
+[HashCode "089a5daf"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Nxe5 Bd6 6. Nxf7 Qe7+ 7. Qe2 Nxc3
+8. Nxd6+ cxd6 9. Qxe7+ Kxe7 10. dxc3 Nc6 11. Bg5+ Kf7 12. O-O-O Be6 13. Rxd6
+Ne5 14. Be2 Nc4 15. Rxe6 Kxe6 16. Bxc4+ Kf5 17. Be3 Rhd8 18. Rd1 Rxd1+ 19. Kxd1
+1-0

@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Tseitlin, Mark D"]
+[Result "1-0"]
+[ECO "D51"]
+[Opening "QGD"]
+[HashCode "1ba4b952"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackID "2800128"]
+[BlackCountry "ISR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 c6 7. Qc2 O-O 8.
+O-O-O dxc4 9. Bxc4 Nd5 10. h4 Nxc3 11. bxc3 Re8 12. g4 Qb6 13. Bd3 Nf8 14. Bxe7
+Rxe7 15. Ng5 h6 16. f4 hxg5 17. hxg5 f5 18. gxf6 gxf6 19. Rh6 f5 20. gxf5 exf5
+21. Bc4+ Be6 22. Qxf5 Bxc4 23. Rg1+ Rg7 24. Rxg7+ Kxg7 25. Qf6+ Kg8 26. Rh8#
+1-0

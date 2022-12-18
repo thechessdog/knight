@@ -1,0 +1,18 @@
+[Event "Ansbach"]
+[Site "Ansbach"]
+[Date "1931.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Mevel, Alberic"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "fc21d705"]
+[Epoch "Knight"]
+[BlackID "602574"]
+[BlackCountry "FRA"]
+
+1. b3 d5 2. Bb2 Bg4 3. h3 Bh5 4. Qc1 Nd7 5. e3 e5 6. Be2 Ngf6 7. Bxh5 Nxh5 8.
+Qd1 g6 9. f4 Qh4+ 10. Ke2 Ng3+ 11. Kd3 Nc5+ 12. Kc3 Nge4+ 13. Kb4 Nd3+ 14. Ka4
+b5+ 15. Ka5 Bb4+ 16. Ka6 Qf6+ 17. Kb7 Qb6+ 18. Kxa8 O-O# 0-1

@@ -1,0 +1,20 @@
+[Event "Froslev"]
+[Site "Froslev"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Weidekamp, G."]
+[Black "Toft, Jens"]
+[Result "0-1"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "7389c0d2"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d6 4. Bc4 e6 5. e5 dxe5 6. Nxe5 Qc7 7. d4 a6 8.
+Bf4 Bd6 9. Bb5+ Bd7 10. Bxd7+ Nbxd7 11. Nxd7 Nxd7 12. Be3 O-O 13. f4 Bxf4
+14. Bxf4 Qxf4 15. dxc5 Nxc5 16. Qf3 Qe5+ 17. Qe2 Qxe2+ 18. Nxe2 Rad8 19.
+O-O Rd2 20. b4 Rxe2 21. bxc5 Rxc2 22. Rfc1 Rxc1+ 23. Rxc1 Rc8 24. Kf2 b6
+25. c6 Kf8 26. Ke3 Ke7 27. Ke4 Kd6 28. Rd1+ Kxc6 29. Ke5 b5 30. Rc1+ Kd7
+31. Rd1+ Ke7 32. Rb1 Rc4 33. Rb3 f6# 0-1
+

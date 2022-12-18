@@ -1,0 +1,18 @@
+[Event "Trieste-ch"]
+[Site "Trieste"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Daveglia, Gastone"]
+[Black "Hellmann, Ernesto"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "cdc7e97b"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. O-O Bb6 6. d4 exd4 7. cxd4 d5
+8. exd5 Nxd5 9. Re1+ Be6 10. Bxc6+ bxc6 11. Qc2 Qd6 12. Nbd2 Nb4 13. Qc3
+O-O 14. Ne4 Qd5 15. Bg5 Ba5 16. Nc5 Rfb8 17. Re5 Qc4 18. Nxe6 Qxc3 19. bxc3
+Nd5 20. Nd8 Bxc3 21. Re8# 1-0
+

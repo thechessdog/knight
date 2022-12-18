@@ -1,0 +1,18 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1942.01.01"]
+[Round "1"]
+[White "Samelius, C."]
+[Black "Van den Hoek, Arnoldus"]
+[Result "0-1"]
+[ECO "E24"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[HashCode "78886832"]
+[Epoch "Knight"]
+[BlackCountry "NLD"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. f3 d5 7. e3 O-O 8. Qc2
+Nc6 9. cxd5 Nxd5 10. Bd3 cxd4 11. cxd4 e5 12. Ne2 exd4 13. exd4 Qh4+ 14. Kf1
+Nxd4 15. Qc4 Nxf3 16. Ng3 Be6 17. Kf2 Nd4 18. Re1 Rac8 19. Qa4 Rxc1 20. Raxc1
+Qf4+ 21. Kg1 Nf3+ 0-1

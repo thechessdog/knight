@@ -1,0 +1,19 @@
+[Event "Montevideo"]
+[Site "Montevideo"]
+[Date "1938.09.01"]
+[Round "13"]
+[White "Olivera, Alfredo"]
+[Black "Guimard, Carlos E"]
+[Result "0-1"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "ff58bdb2"]
+[Epoch "Knight"]
+[BlackCountry "ARG"]
+[WhiteCountry "URY"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. Nf3
+cxd4 9. exd4 Nbd7 10. O-O a6 11. a4 Nb6 12. Ba2 Nbd5 13. Bxf6 Nxf6 14. d5 exd5
+15. Nxd5 Nxd5 16. Bxd5 Qb6 17. Ne5 Bf6 18. Nc4 Qb4 19. Re1 Bd7 20. Nd6 Bg4 21.
+Bxf7+ Kh8 22. f3 Bd4+ 23. Kh1 Qxd6 24. Re4 Rad8 0-1

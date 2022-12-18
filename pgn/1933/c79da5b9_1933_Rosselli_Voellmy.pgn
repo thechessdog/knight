@@ -1,0 +1,18 @@
+[Event "Firenze"]
+[Site "Firenze"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Rosselli del Turco, Stefano"]
+[Black "Voellmy, Erwin"]
+[Result "1-0"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[HashCode "c79da5b9"]
+[Epoch "Knight"]
+[WhiteCountry "ITA"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. Bg5 dxc4 6. Nf3 b5 7. e4 Bb7 8. e5
+h6 9. exf6 hxg5 10. fxg7 Rg8 11. Qh7 Ke7 12. O-O-O Bxc3 13. bxc3 Nc6 14. d5
+exd5 15. Bxc4 bxc4 16. Rhe1+ Kd6 17. Qf5 Kc5 18. Nxg5 Bc8 19. Ne4+ Kb6 20. Qxf7
+Qe7 21. Qxe7 Nxe7 22. Nf6 Rxg7 23. Rxe7 1-0

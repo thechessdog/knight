@@ -1,0 +1,20 @@
+[Event "Brooklyn"]
+[Site "Brooklyn"]
+[Date "1914.01.01"]
+[Round "1"]
+[White "Whitaker, Norman Tweed"]
+[Black "Black, Roy Turnbull"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "24a951c8"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxd4 12. cxd4 c5 13. f3 Ng5 14. h4 Nh3+ 15.
+gxh3 Bxh4 16. Re2 c4 17. Bc2 Bg3 18. f4 Bxh3 19. Re3 Qh4 20. Qd2 Qxf4 21. Qe2
+Qg5 22. Nc3 Bf4+ 23. Kh1 Bg4 24. Qf2 f6 25. e6 Bxe3 26. Bxe3 Qh5+ 27. Kg1 Rae8
+28. Bf4 Rxe6 29. Qg3 Rfe8 30. Rf1 Bh3 31. Rd1 f5 0-1

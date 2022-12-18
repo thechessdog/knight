@@ -1,0 +1,17 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Balparda, Julio Cesar"]
+[Black "Anfruns"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Schlechter variation"]
+[HashCode "3db58453"]
+[Epoch "Knight"]
+[WhiteCountry "URY"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 c5 5. Be3 Nf6 6. Bf3 Qb6 7. b3 Nc6 8. Ne2
+e5 9. dxc5 Bxc5 10. Bxc5 Qxc5 11. Bxc6+ Qxc6 12. O-O O-O 13. c4 b6 14. Nbc3 Bb7
+15. f3 Rad8 16. Qc2 Ng4 17. Rab1 Qc5+ 18. Kh1 Nf2+ 19. Kg1 Rd2 20. Na4 Nh3+ 0-1

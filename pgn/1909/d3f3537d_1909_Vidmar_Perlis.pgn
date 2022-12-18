@@ -1,0 +1,16 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Vidmar, Milan Sr"]
+[Black "Perlis, Julius"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation, Steinitz counter-gambit"]
+[HashCode "d3f3537d"]
+[Epoch "Knight"]
+[WhiteCountry "SVN"]
+[BlackCountry "AUT"]
+
+1. d4 d5 2. Bf4 c5 3. e4 dxe4 4. d5 Nf6 5. Nc3 a6 6. a4 e6 7. Bc4 exd5 8. Bxd5
+Be7 9. Bxe4 Qxd1+ 10. Rxd1 Nxe4 11. Nxe4 O-O 12. Ne2 Nc6 13. O-O 1/2-1/2

@@ -1,0 +1,18 @@
+[Event "cable"]
+[Site "cable"]
+[Date "1930.01.01"]
+[Round "1"]
+[White "Whitaker, Norman Tweed"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit declined, Lange variation"]
+[HashCode "9bfd8128"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. b5 Na5 6. Nxe5 Nh6 7. d4 d6 8. Bxh6
+dxe5 9. Bxg7 Rg8 10. Bxf7+ Kxf7 11. Bxe5 Bg4 12. Qd3 c5 13. Nc3 cxd4 14. Nd5
+Qe8 15. Qg3 Nc4 16. Qf4+ Ke6 17. h3 Ba5+ 18. c3 Bxc3+ 19. Kf1 Nd2+ 20. Qxd2
+Qxb5+ 21. Kg1 Bxd2 22. Nc7+ Kxe5 23. Nxb5 Bf3 0-1

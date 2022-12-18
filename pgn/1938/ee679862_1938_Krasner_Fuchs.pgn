@@ -1,0 +1,18 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1938.09.10"]
+[Round "9"]
+[White "Krasner, M."]
+[Black "Fuchs, Georges"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "ee679862"]
+[Epoch "Knight"]
+[BlackID "20688717"]
+[BlackCountry "FRA"]
+
+1. f4 e6 2. d3 d5 3. c3 Nc6 4. Nf3 Bd6 5. e4 dxe4 6. dxe4 Be7 7. Bd3 Nf6 8. Qe2
+Nd7 9. Be3 e5 10. f5 a6 11. Nbd2 O-O 12. Bc2 b5 13. h4 Bc5 14. Bxc5 Nxc5 15. g4
+g6 16. Qe3 Na4 17. Qh6 Qf6 18. h5 Qg7 19. hxg6 fxg6 20. Bb3+ Kh8 21. Ng5 Na5
+22. Qxh7+ Qxh7 23. Rxh7# 1-0

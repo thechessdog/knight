@@ -1,0 +1,21 @@
+[Event "match"]
+[Site "match"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Purdy, C."]
+[Black "Crowl, F."]
+[Result "1-0"]
+[ECO "C61"]
+[Opening "Ruy Lopez"]
+[Variation "Bird's defence"]
+[HashCode "75047a68"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3 Qh4 7. Nd2 Ne7
+8. c3 dxc3 9. bxc3 O-O 10. Nf3 Qh5 11. d4 Bb6 12. Be2 d6 13. Re1 f6 14.
+Qb3+ Kh8 15. Ng5 Qe8 16. Ne6 Bxe6 17. Qxe6 Ng6 18. Qd5 Qc6 19. Qxc6 bxc6
+20. a4 Ba5 21. Bd2 Rfe8 22. Bh5 Rab8 23. Rab1 Rb6 24. Rxb6 axb6 25. f4 Re7
+26. Kf2 Nf8 27. Ke3 f5 28. Kd3 fxe4+ 29. Rxe4 Rxe4 30. Kxe4 Nd7 31. Kd3 Nf6
+32. Bf7 g6 33. Be6 Kg7 34. g4 d5 35. h4 Kf8 36. g5 Ke7 37. f5 Ne4 38. Bg8
+gxf5 39. Bxh7 Nxd2 40. Kxd2 f4 41. h5 f3 42. h6 f2 43. Ke2 Bxc3 44. g6 1-0
+

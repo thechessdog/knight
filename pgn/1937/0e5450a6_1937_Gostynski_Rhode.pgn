@@ -1,0 +1,20 @@
+[Event "Poznan ch"]
+[Site "Poznan ch"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Gostynski, R."]
+[Black "Rhode, A."]
+[Result "1-0"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "0e5450a6"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 exd4 7. Nxd4 Bd7
+8. c3 Be7 9. Re1 b5 10. Bc2 O-O 11. f4 Ne8 12. Nd2 g6 13. N2f3 Bf6 14. e5
+dxe5 15. fxe5 Nxd4 16. cxd4 Be7 17. d5 Bg4 18. Bh6 Bc5+ 19. Kh1 Ng7 20. h3
+Bxf3 21. Qxf3 Qh4 22. Bxg7 Kxg7 23. Rad1 Rad8 24. Re4 Qf2 25. Qd3 Rfe8 26.
+b4 Bb6 27. Bb3 Re7 28. Rf1 Qb2 29. Qf3 Rde8 30. d6 Rxe5 31. Qf6+ Kg8 32.
+Qxf7+ Kh8 33. Qf6# 1-0
+

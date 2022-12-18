@@ -1,0 +1,21 @@
+[Event "Fursten"]
+[Site "Fursten"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Keller, Dieter"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "4d40fc5d"]
+[Epoch "Knight"]
+[WhiteID "1300156"]
+[WhiteCountry "SUI"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. Nxe6 fxe6 13. g4 Qe5 14. Bg5
+Rd7 15. fxg7 Rg8 16. Qf3 Rdxg7 17. h4 Bd6 18. Nf6 Qh2+ 19. Kf1 Ne5 20. Rxe5
+Bxe5 21. Nxg8 Rxg8 22. Ke2 Bd6 23. Re1 Rf8 24. Bf6 Be7 25. Rh1 Qd6 26. g5 Bxf6
+27. gxf6 Qe5+ 28. Kd1 Rxf6 29. Qg4 Qf5 30. Qxd4 Qf3+ 0-1

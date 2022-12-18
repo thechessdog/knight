@@ -1,0 +1,18 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Dobropistsev, J."]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "C98"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin, 12...Nc6"]
+[HashCode "bbd446fe"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Nd8 14. Nf1 c4 15. N3h2
+Nb7 16. f4 exf4 17. Bxf4 Nd7 18. Qh5 Ne5 19. Re3 Bf6 20. Ng4 Bxg4 21. hxg4 g6
+22. Qh3 Nc5 23. g5 Bh8 24. Nh2 Ncd3 25. Bxe5 Nxe5 26. Ng4 Nxg4 27. Qxg4 Qc5 0-1

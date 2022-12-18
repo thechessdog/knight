@@ -1,0 +1,18 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1900.01.01"]
+[Round "1"]
+[White "Iglesias"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "01f9edd5"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 Qe7 6. O-O O-O 7. Bg5 h6 8. Bh4
+d6 9. Nbd2 Kh8 10. Qc2 g5 11. Bxc6 gxh4 12. Ba4 Rg8 13. Kh1 Nh5 14. d4 Bb6 15.
+Nc4 Bg4 16. Ne1 Qg5 17. Nxb6 axb6 18. Bb3 Rg7 19. Bc4 Rag8 20. Qc1 Nf4 21. Qe3
+Bh3 22. Rg1 Bxg2+ 23. Nxg2 h3 0-1

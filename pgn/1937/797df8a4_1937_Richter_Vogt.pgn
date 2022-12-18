@@ -1,0 +1,27 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Vogt, Lothar"]
+[Result "1-0"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[HashCode "797df8a4"]
+[Epoch "Knight"]
+[WhiteID "4623541"]
+[BlackID "4611292"]
+[WhiteCountry "GER"]
+[BlackCountry "GER"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Bd3 Nd7 6. Nf3 Ngf6 7. Nxf6+ Nxf6
+8. O-O Bg4 9. Be3 e6 10. c4 Be7 11. h3 Bh5 12. b4 O-O 13. Rb1 e5 14. dxe5 Bxf3
+15. gxf3 Nh5 16. f4 g6 17. Be2 Ng7 18. Qxd8 Raxd8 19. Rfd1 Nf5 20. Bxa7 Ra8 21.
+Bb6 Rxa2 22. Bg4 Rc2 23. Rd7 Bh4 24. Bxf5 gxf5 25. Bd4 Re8 26. Kh1 Bxf2 27. e6
+fxe6 28. Rg7+ Kf8 29. Rg2 Bxd4 30. Rxc2 Be3 31. Rf1 e5 32. fxe5 Rxe5 33. Kg2
+Ke7 34. Kf3 f4 35. Rg2 Rh5 36. Rg7+ Ke6 37. Rxb7 Ke5 38. Kg4 Rh6 39. Rg7 Kd4
+40. c5 Kc4 41. Rd1 Rf6 42. Rd6 h5+ 43. Kf3 Rf8 44. Rxc6 Kxb4 45. Rg5 Re8 46.
+Rb6+ Kc4 47. Rf6 Bd2 48. c6 Re3+ 49. Kf2 Rc3 50. c7 Be3+ 51. Ke2 Kd4 52. Rxh5
+Rxc7 53. Kf3 Rg7 54. Rd6+ Kc4 55. Ke4 Re7+ 56. Re5 Rh7 57. Rc6+ Kb4 58. Re8 Kb5
+59. Rc2 Kb6 60. Rb8+ 1-0

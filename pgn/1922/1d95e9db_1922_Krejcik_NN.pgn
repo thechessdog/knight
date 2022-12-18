@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1922.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Hamppe-Allgaier gambit"]
+[HashCode "1d95e9db"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 h6 7. Nxf7 Kxf7 8.
+Qxg4 Bd6 9. Bc4+ Kf8 10. d4 Nxd4 11. Bxf4 Nxc2+ 12. Kd2 Nxa1 13. Bxd6+ cxd6
+14. Rf1+ Nf6 15. Qg6 1-0
+

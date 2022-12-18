@@ -1,0 +1,23 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Gudmundsson, Gudbjartur"]
+[Black "Kinnmark, Ove"]
+[Result "1-0"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto variation"]
+[HashCode "feac4b90"]
+[Epoch "Knight"]
+[WhiteID "2305119"]
+[WhiteCountry "ISL"]
+[BlackCountry "SWE"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. g3 Nbd7 6. Bg2 c5 7. d5 O-O 8. O-O
+Nb6 9. Qd3 a5 10. e4 Ng4 11. h3 Nf6 12. Nd2 Nh5 13. f4 Bd4+ 14. Kh2 e5 15. f5
+g5 16. Nb5 f6 17. Bf3 Ng7 18. h4 h6 19. Rh1 gxh4 20. g4 Ne8 21. Kg2 Kg7 22.
+Rxh4 Bd7 23. a4 Rh8 24. Nf1 Bxb5 25. axb5 a4 26. Be2 a3 27. Rxa3 Rxa3 28. bxa3
+Nd7 29. Qh3 Qa5 30. Bxh6+ Kg8 31. Bd2 Rxh4 32. Bxa5 Rxh3 33. Kxh3 Nf8 34. a4
+Nh7 35. Bd3 Kf8 36. Bd2 Ke7 37. a5 Kd7 38. Nh2 Ng5+ 39. Kh4 Bg1 40. Bxg5 fxg5+
+41. Kxg5 Bxh2 42. f6 Bg3 43. f7 1-0

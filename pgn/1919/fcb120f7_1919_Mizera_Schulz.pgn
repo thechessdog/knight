@@ -1,0 +1,16 @@
+[Event "UJCS-4.Kongress"]
+[Site "Prague"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Mizera, T."]
+[Black "Schulz, Jan Sr"]
+[Result "0-1"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "fcb120f7"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. a3 Be7 7. Bf4 Bd7 8. Nf3
+Bc6 9. c5 Ne4 0-1

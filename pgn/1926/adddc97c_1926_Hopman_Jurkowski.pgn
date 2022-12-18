@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Hopman"]
+[Black "Jurkowski"]
+[Result "1-0"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[HashCode "adddc97c"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 Qb6
+8. Qb3 Qxb3 9. axb3 Bc2 10. Bb5 e6 11. Ne5 Nd7 12. Nxc6 bxc6 13. Bxc6 Rd8
+14. Rxa7 Bb4 15. Bc7 Bxc3+ 16. bxc3 Rc8 17. Kd2 Bg6 18. Rha1 Ke7 19. R1a6
+Nf6 20. Bd6+ 1-0
+

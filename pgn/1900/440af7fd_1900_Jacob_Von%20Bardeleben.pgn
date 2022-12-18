@@ -1,0 +1,18 @@
+[Event "DSB-12.Kongress"]
+[Site "Munich"]
+[Date "1900.01.01"]
+[Round "5"]
+[White "Jacob, Franz"]
+[Black "Von Bardeleben, Curt"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical variation"]
+[HashCode "440af7fd"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bxc6 bxc6 8.
+Ne2 Nh5 9. c3 Bc5 10. d4 exd4 11. Nfxd4 Qh4 12. Qd3 Re8 13. f3 a5 14. Be3 Ba6
+15. Qd2 d5 16. Bg5 Rxe4 17. Bxh4 1-0

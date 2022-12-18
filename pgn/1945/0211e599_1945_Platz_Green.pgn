@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Platz, Joseph"]
+[Black "Green, Matthew R"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "0211e599"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. g4 Nxe4 6. Bg2 Nf6 7. g5 Ng8 8. c4
+Nc6 9. Nc3 Nxd4 10. Qxd4 Ne7 11. Bf4 Nc6 12. Qd2 Be7 13. O-O-O Qa5 14. h4 Bb4
+15. Bd6 Bxd6 16. Qxd6 Qe5 17. Nb5 Qxd6 18. Nxd6+ Ke7 19. f4 h6 20. c5 Rb8 21.
+f5 f6 22. gxf6+ gxf6 23. Rhg1 Ne5 24. Bh3 b6 25. fxe6 dxe6 26. Rg7+ Kf8 27.
+Rxa7 Bd7 28. Nc4 Nxc4 29. Rdxd7 Ne5 30. Rdc7 bxc5 31. Bxe6 h5 32. a4 Rh6 33.
+Bf5 Rh8 34. Bh7 c4 35. Kc2 Ke8 36. a5 Kd8 37. a6 Nd3 38. Rd7+ Ke8 39. Bg6+ Kf8
+40. Rf7+ Kg8 41. Rg7+ Kf8 42. Raf7+ Ke8 43. Rb7+ Kf8 44. Rgf7+ Kg8 45. Rxb8#
+1-0

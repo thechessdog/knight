@@ -1,0 +1,25 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Mortimer, James"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game, Max Lange defence"]
+[HashCode "47599837"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Bc5 4. Qg4 g6 5. Qg3 d6 6. d3 Nd4 7. Bb3 Be6 8. Bg5
+Qd7 9. O-O-O Bxb3 10. axb3 f6 11. Bd2 a6 12. Nge2 Ne7 13. Nxd4 Bxd4 14. f4
+O-O-O 15. fxe5 dxe5 16. Rhf1 f5 17. Bg5 Rdf8 18. Bxe7 Qxe7 19. Nd5 Qe6 20. Qh3
+Kb8 21. Rf3 c6 22. Nc3 Qc8 23. Ne2 Bb6 24. Qh6 f4 25. Rdf1 Be3+ 26. Kb1 Qd8 27.
+h4 Bc5 28. Qg7 Qe7 29. Qxe7 Bxe7 30. d4 exd4 31. Nxd4 Bxh4 32. Rxf4 Be7 33. Rf7
+Rxf7 34. Rxf7 Bd6 35. Rd7 Bg3 36. Ne6 Bf2 37. Ng5 h6 38. Nf7 Rf8 39. Nxh6 Bc5
+40. Rg7 Rf1+ 41. Ka2 Rf2 42. Rxg6 Rxc2 43. Nf5 Re2 44. Rg4 Bb4 45. Nd4 Rf2 46.
+Rg3 c5 47. Ne6 Re2 48. Rg4 b6 49. Rg8+ Kb7 50. Rg7+ Kc6 51. Rg6 Kd7 52. Nf4
+Rxe4 53. Nd5 Re6 54. Nxb6+ Kd6 55. Rxe6+ Kxe6 56. Kb1 Kf5 57. Kc2 Kg4 58. Nd5
+Ba5 59. Kd3 Kg3 60. Ne3 Bd8 61. Nd5 Bg5 62. Nc3 Be7 63. Kc4 Kxg2 64. Ne4 Kf3
+65. Nxc5 Ke3 66. b4 Bf8 67. Nxa6 Ke4 68. b5 Ke5 69. b6 1-0

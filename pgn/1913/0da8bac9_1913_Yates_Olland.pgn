@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Yates"]
+[Black "Olland"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[HashCode "0da8bac9"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Bxf6 gxf6 6. Nxe4 f5 7. Nc3 Bg7
+8. Nf3 O-O 9. Bc4 b6 10. Qd3 Bb7 11. O-O-O Nd7 12. Rhe1 Qf6 13. Kb1 Rad8
+14. Qe3 c5 15. d5 e5 16. g4 fxg4 17. Ng5 Bh6 18. Nce4 Qg6 19. f4 exf4 20.
+Qxf4 1-0
+

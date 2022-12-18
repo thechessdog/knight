@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Haave, Einar"]
+[Black "Gudmundsson, Jon Jorundur"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Abrahams variation"]
+[HashCode "274fd1ec"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 a5 8. Ne5 Nf6
+9. Qf3 Bxc3 10. bxc3 Qd5 11. Qg3 O-O 12. f3 Nbd7 13. Nxd7 Bxd7 14. e4 Qh5 15.
+h4 Qg6 16. Qd6 Rfd8 17. Qc5 Qg3+ 18. Ke2 Nxe4 19. fxe4 e5 20. Be3 exd4 21. cxd4
+Bg4+ 22. Kd2 f5 23. Ra3 b4 24. Qxc4+ Kh8 25. Rb3 c5 26. Qxc5 f4 27. Qg5 fxe3+
+28. Qxe3 Rxd4+ 29. Qxd4 Qxb3 30. Bd3 Qa2+ 31. Ke3 Qxg2 32. Rc1 Qg3+ 33. Kd2
+Qxh4 0-1

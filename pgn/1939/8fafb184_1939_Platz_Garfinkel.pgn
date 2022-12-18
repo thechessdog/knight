@@ -1,0 +1,17 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Platz"]
+[Black "Garfinkel, B."]
+[Result "1-0"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[HashCode "8fafb184"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f6 8.
+Nf3 Nc6 9. Bd3 fxe5 10. Bxh7 Nf6 11. Bg6+ Ke7 12. Qg3 Qa5 13. O-O exd4 14.
+Bf4 Qd8 15. Rfe1 dxc3 16. Ng5 Rf8 17. Bc7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1913.01.01"]
+[Round "1"]
+[White "Pokorny, Zdenek"]
+[Black "Mitovsky"]
+[Result "1-0"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "dcb26955"]
+[Epoch "Knight"]
+[WhiteID "300799"]
+[WhiteCountry "CZE"]
+
+1. e4 c6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Bc4 Nf6 6. Nf3 Bg4 7. Bd2 e6 8.
+Ne2 Qc7 9. Ne5 Bf5 10. Ng3 Bg6 11. O-O Bd6 12. f4 Nbd7 13. f5 exf5 14. Nxf5
+O-O-O 15. Nxd6+ Qxd6 16. Bf4 Qb4 17. Nxc6 bxc6 18. Ba6+ 1-0

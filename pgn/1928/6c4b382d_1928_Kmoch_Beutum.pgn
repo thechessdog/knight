@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1928.01.01"]
+[Round "1"]
+[White "Kmoch, Hans"]
+[Black "Beutum, Sigmund"]
+[Result "1-0"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Capablanca-Duras variation"]
+[HashCode "6c4b382d"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 h6 5. Bxf6 gxf6 6. Nc3 c6 7. e3 Rg8 8. g3
+Nd7 9. cxd5 exd5 10. Bd3 Nb6 11. Qc2 Bg4 12. Nh4 Nc8 13. f3 Be6 14. O-O-O Nd6
+15. e4 Qa5 16. Kb1 dxe4 17. fxe4 O-O-O 18. d5 cxd5 19. Nxd5+ Kb8 20. b4 1-0

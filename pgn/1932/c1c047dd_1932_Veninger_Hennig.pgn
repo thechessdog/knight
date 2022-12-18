@@ -1,0 +1,16 @@
+[Event "Ems"]
+[Site "Ems"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Veninger"]
+[Black "Hennig, V."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "c1c047dd"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d4 Nf6 5. c4 Be7 6. Ne2 O-O 7. Ng3 c6 8.
+dxc6 Nxc6 9. d5 Nb4 10. Be2 Re8 11. O-O Bc5+ 1-0
+

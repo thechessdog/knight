@@ -1,0 +1,17 @@
+[Event "Weston"]
+[Site "Weston"]
+[Date "1924.??.??"]
+[Round "9"]
+[White "Mackenzie, Arthur John"]
+[Black "Drewitt, John Arthur"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, 7...Be7"]
+[HashCode "c2a4f28b"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. Nc3 Nf6 6. g3 Nc6 7. Bg2 Be7 8. O-O
+Be6 9. dxc5 Bxc5 10. Qa4 O-O 11. Bg5 h6 12. Bf4 Qb6 13. Qb5 Ne4 14. Qxb6 Bxb6
+15. Nxe4 dxe4 16. Ne5 Nd4 17. Bxe4 Nxe2+ 18. Kg2 Nxf4+ 19. gxf4 Bd4 1/2-1/2

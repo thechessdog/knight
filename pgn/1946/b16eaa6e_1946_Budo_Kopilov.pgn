@@ -1,0 +1,19 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Budo, Alexander Semenovich"]
+[Black "Kopilov"]
+[Result "0-1"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "Ekstrom variation"]
+[HashCode "b16eaa6e"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. exf6 gxh4 10. Ne5 Qxf6 11. Be2 Nd7 12. Nxc6 Bb7 13. Bf3 a6 14. O-O Bg7 15.
+g3 Bxc6 16. Bxc6 Rd8 17. Ne4 Qxd4 18. Qg4 O-O 19. Bxd7 h5 20. Qf3 Qxd7 21. Rad1
+Qe7 22. Qxh5 Rd5 23. Rxd5 exd5 24. Qxd5 Rd8 25. Qf5 Qe5 26. Qxe5 Bxe5 27. a4
+Bxb2 28. axb5 axb5 29. Rb1 h3 30. Kf1 c3 0-1

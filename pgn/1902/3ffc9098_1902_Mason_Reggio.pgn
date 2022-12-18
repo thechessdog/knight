@@ -1,0 +1,23 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Mason, James"]
+[Black "Reggio, Arturo"]
+[Result "1-0"]
+[ECO "A22"]
+[Opening "English opening"]
+[HashCode "3ffc9098"]
+[Epoch "Knight"]
+[WhiteCountry "IRE"]
+[BlackCountry "ITA"]
+
+1. c4 e5 2. Nc3 Nf6 3. e3 d5 4. cxd5 Nxd5 5. Nf3 Nxc3 6. bxc3 Bd6 7. d4 exd4 8.
+exd4 O-O 9. Be2 Nc6 10. O-O Ne7 11. Bd3 Bf5 12. Bxf5 Nxf5 13. Qd3 Qd7 14. Bb2
+c5 15. c4 cxd4 16. Nxd4 Be5 17. Qxf5 Qxf5 18. Nxf5 Bxb2 19. Rab1 Ba3 20. Rxb7
+Rfc8 21. Ne3 a5 22. Rd1 Rab8 23. Rdd7 Rxb7 24. Rxb7 Kf8 25. Kf1 Bc5 26. Nd5 g6
+27. Rb2 a4 28. Ke2 a3 29. Rc2 Rb8 30. Kd3 f5 31. Re2 Kf7 32. f4 Rb7 33. g3 h5
+34. Nc3 Rd7+ 35. Kc2 Rd4 36. Kb3 Rd3 37. Rc2 h4 38. Ka4 hxg3 39. hxg3 Rxg3 40.
+Kb5 Bd6 41. Nd5 Rg1 42. Kc6 Bf8 43. c5 Rb1 44. Rc3 Rb8 45. Nb6 Bh6 46. Nd5 Bf8
+47. Nb6 Bh6 48. Rc4 Re8 49. Kb5 Re4 50. Nd5 Ke6 51. c6 Rxc4 52. Kxc4 g5 53. c7
+Kd7 54. Kb5 Bf8 55. Kb6 Bd6 56. fxg5 f4 57. g6 Bxc7+ 58. Nxc7 Ke7 59. Nd5+ 1-0

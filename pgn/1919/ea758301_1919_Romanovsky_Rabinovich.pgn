@@ -1,0 +1,18 @@
+[Event "Petrograd"]
+[Site "Petrograd"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "ea758301"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bb4 6. Qe2 Bxc3 7. bxc3 O-O 8.
+c4 c6 9. cxd5 cxd5 10. Bb2 Nc6 11. O-O-O Qb6 12. Re1 Bf5 13. Qe3 Nf2 14. Rg1
+Rfc8 15. Qxb6 axb6 16. Nh4 Be4 17. d3 Nb4 18. dxe4 Rxc2+ 19. Kb1 Rxa2 20. Bd4
+Nxe4 21. Rxe4 dxe4 22. g4 e3 23. Bxe3 Ra3 24. Rg2 Rb3+ 25. Ka1 Rxe3 0-1

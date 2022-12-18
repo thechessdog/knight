@@ -1,0 +1,17 @@
+[Event "Nice"]
+[Site "Nice"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Gaudin"]
+[Black "Lazard, Frederic"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Fritz variation"]
+[HashCode "c393b17a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. Nc3 h6 7. Nge4 Nxe4
+8. Nxe4 Qh4 9. d3 Bg4 10. Qd2 Bf3 11. Bb5+ c6 12. dxc6 O-O-O 13. cxb7+ Kb8
+14. Ba6 Bxg2 0-1
+

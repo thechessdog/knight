@@ -1,0 +1,19 @@
+[Event "Zlin"]
+[Site "Zlin"]
+[Date "1943.01.01"]
+[Round "11"]
+[White "Vasicek, X."]
+[Black "Stulik, Vlastimil"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "04278a0f"]
+[Epoch "Knight"]
+[BlackCountry "CZE"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. g3 Bc5 5. e3 Qe7 6. Nf3 Nc6 7. Qd5 f5 8. exf6
+Nxf6 9. Qd1 d6 10. Bg2 Ne4 11. a3 a5 12. O-O Bg4 13. Qc2 O-O 14. Nd4 Ng5 15.
+Nxc6 bxc6 16. Bxc6 Rad8 17. Bg2 Nh3+ 18. Kh1 Rf3 19. Nc3 Qf7 20. Nd1 Re8 21. b3
+Re6 22. Ra2 Qh5 23. e4 g5 24. Bxh3 Qxh3 25. Rg1 Rf4 26. Qd3 Qxh2+ 27. Kxh2 Rh6+
+28. Kg2 Bh3+ 29. Kh1 Bf1# 0-1

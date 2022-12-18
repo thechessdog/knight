@@ -1,0 +1,41 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Erdy"]
+[Black "Csanady"]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch"]
+[Variation "Staunton gambit deferred"]
+[HashCode "8dd7cdc6"]
+[Epoch "Knight"]
+
+1. d4 e6 2. c4 f5 3. e4 fxe4 4. Nc3 Nf6 5. Bg5 Bb4 6. f3 exf3 7. Nxf3 b6 8.
+Bd3 Bb7 9. O-O Bxc3 10. bxc3 O-O 11. Ne5 d6 12. Bxh7+ Kxh7 13. Rxf6 Rxf6
+14. Qh5+ Kg8 15. Bxf6 Qxf6 16. Rf1 Qxf1+ 17. Kxf1 dxe5 18. Qxe5 Nc6 19.
+Qxe6+ Kh8 20. Qh3+ Kg8 21. Qe6+ Kh8 22. g4 Na5 23. g5 Ba6 24. Qh3+ Kg8 25.
+Qe6+ Kh8 26. Kg1 Bxc4 27. Qh3+ Kg8 28. g6 Re8 29. Qh7+ Kf8 30. Qh8+ Bg8 31.
+Qh4 Re7 32. Qg4 Be6 33. Qf4+ Ke8 34. h4 Nc4 35. Qf3 Rd7 36. Qe4 Ke7 37. Qf4
+Bd5 38. h5 Rd6 39. Qg5+ Kd7 40. Qf5+ Kc6 41. Qf8 Rd7 42. h6 gxh6 43. g7 Kb7
+44. g8=Q Bxg8 45. Qxg8 Nd6 46. Qe6 Rg7+ 47. Kh2 h5 48. Qd5+ Kb8 49. Qxh5
+Rf7 50. Qd5 b5 51. Kg2 a6 52. Qc6 Ka7 53. Kg3 Nf5+ 54. Kg4 Nd6 55. a4 Rg7+
+56. Kh5 Re7 57. Kg5 Rg7+ 58. Kf6 Rh7 59. Kg6 Re7 60. d5 Rf7 61. a5 Re7 62.
+Qc5+ Kb7 63. Kh6 Rf7 64. Kg6 Re7 65. Qc6+ Ka7 66. Qc5+ Kb7 67. Kh6 Rf7 68.
+Kg6 Re7 69. Kh5 Rh7+ 70. Kg4 Re7 71. Qc6+ Ka7 72. Kg5 Rg7+ 73. Kf6 Rf7+ 74.
+Ke6 Rh7 75. Qc5+ Kb7 76. Qc6+ Ka7 77. Qc5+ Kb7 78. Qf2 Rh6+ 79. Ke7 Nc4 80.
+Qa2 Rd6 81. Ke8 Rxd5 82. Qg2 c6 83. Qg7+ Kb8 84. Qg1 c5 85. Qg3+ Rd6 86.
+Qf2 Rc6 87. Qh2+ Kb7 88. Qh7+ Rc7 89. Qh1+ Kb8 90. Qa1 Rc6 91. Qa2 Kc7 92.
+Qh2+ Kc8 93. Qa2 Re6+ 94. Kf7 Rd6 95. Qg2 Nxa5 96. Ke7 Kc7 97. Qg3 Nb7 98.
+Qh2 Kb6 99. Qg2 a5 100. Qb2 a4 101. Qc2 Ka5 102. Qe4 Rb6 103. Kd7 b4 104.
+cxb4+ cxb4 105. Qe5+ Ka6 106. Qe2+ Rb5 107. Kc6 Na5+ 108. Kc7 Nb3 109. Qe6+
+Ka7 110. Qe3+ Rc5+ 111. Kd6 Kb6 112. Qe4 Kb5 113. Qe8+ Ka5 114. Qa8+ Kb5
+115. Qe8+ Ka5 116. Qa8+ Kb5 117. Qe8+ Kc4 118. Qxa4 Rd5+ 119. Ke7 Kc3 120.
+Qc6+ Rc5 121. Qf6+ Nd4 122. Qf1 b3 123. Kd6 Rf5 124. Qe1+ Kc2 125. Qe4+ Kc3
+126. Qe1+ Kc4 127. Qc1+ Nc2 128. Ke6 Rf3 129. Qb2 Rf2 130. Kd6 Rd2+ 131.
+Kc7 Rd4 132. Kb6 Kb4 133. Kc6 Rd3 134. Kb7 Rc3 135. Qc1 Na3 136. Qf4+ Nc4
+137. Qf8+ Ka4 138. Qh8 Rc2 139. Qa1+ Kb4 140. Qe1+ Rd2 141. Qe7+ Kc3 142.
+Qf6+ Kb4 143. Qe7+ Nd6+ 144. Ka8 b2 145. Qe1 Nc4 146. Qe7+ Kb3 147. Qb7+
+Ka2 148. Qa6+ Kb3 149. Qb7+ Kc3 150. Qg7+ Kc2 151. Qh7+ Rd3 152. Qh2+ Kb3
+153. Qb8+ Ka2 0-1
+

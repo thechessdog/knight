@@ -1,0 +1,20 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1905.01.01"]
+[Round "1"]
+[White "Izbinsky, Stefan"]
+[Black "Duz-Khotimirsky, Fedor Ivanovich"]
+[Result "0-1"]
+[ECO "D60"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Botvinnik variation"]
+[HashCode "294cd1e1"]
+[Epoch "Knight"]
+[WhiteCountry "UKR"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Rc1 Ne4 10. Bxe7 Qxe7 11. cxd5 exd5 12. Ne2 c5 13. Bb5 Ndf6 14. Ng3 Rfd8
+15. Ne5 Rac8 16. Qe2 c4 17. f3 Nxg3 18. hxg3 Qb4 19. Bxc4 dxc4 20. Rxc4 Rxc4
+21. Nxc4 Ba6 22. b3 Rc8 23. Qd3 Bxc4 24. bxc4 Qxc4 25. Qf5 Qe6 26. Qg5 Qxa2 27.
+Qf5 Qe6 28. Qg5 h6 0-1

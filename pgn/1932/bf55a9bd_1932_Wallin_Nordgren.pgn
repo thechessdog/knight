@@ -1,0 +1,16 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Wallin"]
+[Black "Nordgren"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Steinitz variation"]
+[HashCode "bf55a9bd"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O Bc5 6. e5 Ng4 7. h3 Ngxe5
+8. Nxe5 Nxe5 9. Re1 d6 10. f4 d3+ 11. Kh1 Qh4 12. cxd3 Bf2 13. Re4 Bxh3 0-1
+

@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1903.01.01"]
+[Round "1"]
+[White "Lorch"]
+[Black "Michell, Reginald Pryce"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "299979be"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. f4 Nc6 5. Nf3 f6 6. e4 fxe5 7. fxe5 Bg4 8. Bf4
+Bb4+ 9. Nbd2 Nge7 10. a3 O-O 11. Bg3 Bxd2+ 12. Kxd2 Ng6 13. Be2 d3 14. Bxd3
+Ngxe5 15. Qc2 Bxf3 16. gxf3 Rxf3 0-1

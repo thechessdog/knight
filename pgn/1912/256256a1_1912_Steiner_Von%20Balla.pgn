@@ -1,0 +1,23 @@
+[Event "Temesvary"]
+[Site "Temesvary"]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Steiner, Bruno"]
+[Black "Von Balla, Zoltan"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "256256a1"]
+[Epoch "Knight"]
+[WhiteID "1602411"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 Be7 7. Nxf6+ Nxf6
+8. Bd3 b6 9. Qe2 Bb7 10. O-O O-O 11. Rad1 Kh8 12. c3 h6 13. Be3 Qd5 14. Bb1 Qh5
+15. Bf4 Bd6 16. Bg3 Rad8 17. Rfe1 Bxf3 18. Qxf3 Qxf3 19. gxf3 g5 20. Kg2 Kg7
+21. Rh1 Rh8 22. h4 Nh5 23. hxg5 hxg5 24. Rdg1 f5 25. Bxd6 cxd6 26. Kf1 Kf6 27.
+Ke2 Nf4+ 28. Kd2 e5 29. Bd3 Ng6 30. d5 Rh4 31. Ra1 Rdh8 32. Rhf1 Rh3 33. Be2
+Nh4 34. a4 Nxf3+ 35. Bxf3 Rxf3 36. Ke2 Rfh3 37. a5 b5 38. a6 R3h7 39. Ra5 Rb8
+40. b3 e4 41. Ke3 Ke5 42. c4 bxc4 43. bxc4 Rh3+ 44. Kd2 Kd4 0-1

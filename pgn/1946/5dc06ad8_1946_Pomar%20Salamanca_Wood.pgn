@@ -1,0 +1,23 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1946.01.01"]
+[Round "10"]
+[White "Pomar Salamanca, Arturo"]
+[Black "Wood, Gabriel"]
+[Result "0-1"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox, 7...Nbd7"]
+[HashCode "5dc06ad8"]
+[Epoch "Knight"]
+[WhiteCountry "EST"]
+[BlackCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 Nbd7 6. Be2 O-O 7. O-O e5 8. d5
+Nc5 9. Qc2 a5 10. Be3 Ng4 11. Bxc5 dxc5 12. h3 Nh6 13. Rad1 Ra6 14. Rd2 f5 15.
+Rfd1 Nf7 16. Ne1 Rf6 17. Nd3 Bh6 18. f4 Bxf4 19. Nxf4 exf4 20. Rf1 g5 21. Bd3
+Ne5 22. Re2 f3 23. gxf3 f4 24. Rh2 Rh6 25. Kg2 g4 26. fxg4 Qh4 27. Kh1 Qg3 28.
+Be2 Rxh3 29. Bd1 f3 30. Rg1 Rxh2+ 31. Qxh2 Qxh2+ 32. Kxh2 Bxg4 33. Kg3 h5 34.
+b3 Kg7 35. Rf1 Kg6 36. Nb5 Rf7 37. Kf2 Kg5 38. Ke3 h4 39. Nc3 h3 40. Nb1 Kh4
+41. Nd2 h2 42. Kf2 Bh3 43. Rh1 Ng4+ 44. Ke1 f2+ 45. Ke2 f1=Q+ 46. Nxf1 Rxf1 47.
+e5 Rxh1 48. d6 Rxd1 49. dxc7 h1=Q 0-1

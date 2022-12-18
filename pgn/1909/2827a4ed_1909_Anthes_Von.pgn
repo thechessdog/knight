@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1909.01.01"]
+[Round "1"]
+[White "Anthes"]
+[Black "Von Alten"]
+[Result "1-0"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "2827a4ed"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. dxc5 Bxc5 5. Qg4 Qf6 6. Nf3 Nc6 7. Bg5 Ne5
+8. Bb5+ Kf8 9. Qg3 Nxf3+ 10. gxf3 Qg6 11. Rg1 Nf6 12. Qc7 Be7 13. e5 h6 14.
+Bxf6 Qxg1+ 15. Ke2 Qxa1 16. Qxe7+ Kg8 17. Qe8+ Kh7 18. Bd3+ g6 19. Qxf7#
+1-0
+

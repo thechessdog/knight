@@ -1,0 +1,19 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Lundin, Erik"]
+[Black "Kinnmark, Olof"]
+[Result "1-0"]
+[ECO "A38"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "fabb72db"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+
+1. c4 Nf6 2. g3 c5 3. Bg2 Nc6 4. Nc3 g6 5. Nf3 Bg7 6. O-O d6 7. d4 Bg4 8. d5
+Bxf3 9. Bxf3 Ne5 10. Bg2 a6 11. Qb3 Rb8 12. a4 h5 13. f4 Neg4 14. h3 Nh6 15. e4
+h4 16. Ne2 hxg3 17. Qxg3 b5 18. cxb5 axb5 19. axb5 Rxb5 20. f5 Nh5 21. Qd3 Rb4
+22. fxg6 fxg6 23. e5 Nf5 24. Rxf5 gxf5 25. Qxf5 Bxe5 26. Qg6+ Kd7 27. Bd2 Rxb2
+28. Qe6+ Ke8 29. Be4 Kf8 30. Bg6 Rh7 31. Bh6+ 1-0

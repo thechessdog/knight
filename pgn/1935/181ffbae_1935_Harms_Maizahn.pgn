@@ -1,0 +1,15 @@
+[Event "Luneburg"]
+[Site "Luneburg"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Harms, Peter"]
+[Black "Maizahn"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "181ffbae"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. Be3 Bb4 7. Bd3 Nge7 8.
+f4 d5 9. e5 Nxd4 10. Bxd4 Nc6 11. Be2 Qa5 12. O-O Nxd4 13. Qxd4 Bc5 0-1

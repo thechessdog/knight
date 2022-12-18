@@ -1,0 +1,21 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Johansson, Martin"]
+[Black "Bergkvist, Nils"]
+[Result "0-1"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "f1c02422"]
+[Epoch "Knight"]
+[WhiteCountry "SWE"]
+[BlackCountry "SWE"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8. O-O
+Qb6 9. Nf3 Nf8 10. h4 Bd7 11. h5 h6 12. a4 Nh7 13. dxc5 Bxc5 14. b4 Be7 15.
+Ned4 Ng5 16. Be3 Qc7 17. Nb5 Qb8 18. Nxg5 hxg5 19. f4 gxf4 20. Bxf4 a6 21. Qg4
+axb5 22. Qxg7 Qa7+ 23. Kh2 Rxh5+ 24. Kg3 Bf8 25. Qg8 Ne7 26. Qg4 Rh8 27. axb5
+Qb8 28. Rxa8 Qxa8 29. Bg5 Qb8 30. Qf4 Nf5+ 31. Kf3 Qc7 32. Ke2 Qxc3 33. g4 Rh3
+0-1

@@ -1,0 +1,22 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Korning, Peter"]
+[Black "Enevoldsen, Harald"]
+[Result "0-1"]
+[ECO "D63"]
+[Opening "QGD"]
+[Variation "Orthodox defence, 7.Rc1"]
+[HashCode "9d3a14cd"]
+[Epoch "Knight"]
+[BlackCountry "DNK"]
+[WhiteID "1723332"]
+[WhiteCountry "SWE"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 h6 8. Bh4
+c6 9. Bd3 dxc4 10. Bxc4 Nd5 11. Bg3 N7f6 12. O-O Nh5 13. Bd3 Nxg3 14. hxg3 Qa5
+15. Bb1 Rd8 16. Qd3 Nf6 17. e4 Nd7 18. e5 Nf8 19. Ne4 b6 20. Qe3 Bb7 21. Nh2
+Qd5 22. Rfd1 c5 23. Ng4 Nh7 24. Qf3 Ng5 25. Nxg5 Bxg5 26. Qxd5 Bxd5 27. f4 Be7
+28. dxc5 Bxc5+ 29. Kh1 h5 30. Nh2 Be3 31. Re1 Bxc1 32. Rxc1 Rac8 33. Re1 Rc5
+34. Nf3 Bxf3 35. gxf3 Rdc8 36. Be4 Rc1 0-1

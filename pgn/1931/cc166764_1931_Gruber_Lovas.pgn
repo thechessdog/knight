@@ -1,0 +1,27 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1931.01.01"]
+[Round "2"]
+[White "Gruber, Sandor"]
+[Black "Lovas, Gyula"]
+[Result "0-1"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[HashCode "cc166764"]
+[Epoch "Knight"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. e4 e6 7. Be2 Be7 8. O-O
+O-O 9. Kh1 a6 10. f4 Qc7 11. Nb3 Bd7 12. Be3 Be8 13. Qe1 Rc8 14. Qf2 Nd7 15.
+Rad1 Na5 16. Nxa5 Qxa5 17. Bd4 f6 18. f5 e5 19. Nd5 Bd8 20. Bc3 Qa4 21. Bd3 Nc5
+22. b3 Qc6 23. Bc2 a5 24. Rd2 b6 25. Qf3 Bf7 26. Ne3 b5 27. cxb5 Qxb5 28. Nd5
+Qa6 29. Rfd1 Kh8 30. Bd3 Nxd3 31. Rxd3 Rc6 32. g4 Qc8 33. Bd2 Bg8 34. Qh3 Rc5
+35. Nc3 Qc6 36. Be1 Bc7 37. Bf2 Rxc3 38. Rxc3 Qxe4+ 39. Qf3 Qxf3+ 40. Rxf3 d5
+41. Rc3 Bd6 42. Rc6 Bb4 43. Bc5 Ra8 44. Kg1 Bc3 45. Bd6 d4 46. g5 Re8 47. gxf6
+gxf6 48. Rc7 Bb4 49. Bxb4 axb4 50. Rd7 Rc8 51. Kf2 Rc2+ 52. Kf3 Rxa2 53. Rd8
+Ra7 54. Rg1 Rg7 55. Rg3 Rxg3+ 56. hxg3 Kg7 57. Rb8 Bxb3 58. Rxb4 Bd1+ 59. Kf2
+h5 60. Rb7+ Kh6 61. Rd7 Kg5 62. Rd8 Kxf5 63. Rd6 Bg4 64. Ke1 Kg5 65. Kf2 f5 66.
+Rd5 Kf6 67. Rd6+ Ke7 68. Rd5 Ke6 69. Rd8 Bd1 70. Ke1 Bf3 71. Re8+ Kd5 72. Kd2
+Bg4 73. Ra8 Ke4 74. Re8 f4 75. gxf4 Kxf4 76. Rf8+ Bf5 77. Rh8 Kg5 78. Rg8+ Bg6
+79. Rd8 h4 80. Ke2 h3 81. Kf2 Kf4 82. Rd6 Bf5 83. Rd8 d3 84. Rh8 e4 85. Re8 h2
+86. Rh8 e3+ 87. Kg2 h1=Q+ 88. Kxh1 d2 0-1

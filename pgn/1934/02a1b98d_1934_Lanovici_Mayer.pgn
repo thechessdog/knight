@@ -1,0 +1,15 @@
+[Event "Bucharest"]
+[Site "Bucharest"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Lanovici"]
+[Black "Mayer"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Centre game"]
+[HashCode "02a1b98d"]
+[Epoch "Knight"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Qf6 4. c3 dxc3 5. Nxc3 Bc5 6. Nf3 Ne7 7. O-O d6
+8. e5 dxe5 9. Ne4 Qf5 10. Nxc5 e4 11. Nxe4 Qxe4 12. Bxf7+ Kf8 13. Ng5 1-0
+

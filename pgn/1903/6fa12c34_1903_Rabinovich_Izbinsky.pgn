@@ -1,0 +1,20 @@
+[Event "RUS-ch03"]
+[Site "Kiev"]
+[Date "1903.09.01"]
+[Round "11"]
+[White "Rabinovich, Abram"]
+[Black "Izbinsky, Stefan"]
+[Result "0-1"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[HashCode "6fa12c34"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "UKR"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. f4 e6 5. Nf3 c5 6. c3 Nc6 7. Bb5 Qb6 8. Bxc6+
+bxc6 9. O-O cxd4 10. cxd4 Ne7 11. Nc3 Ng6 12. h3 Be7 13. Kh2 h5 14. b3 Bg4 15.
+Na4 Qb5 16. Be3 Bxf3 17. Rxf3 Nh4 18. Rf1 Nf5 19. Bg1 g5 20. fxg5 Bxg5 21. Rxf5
+exf5 22. Qc2 f4 23. Qf5 Rg8 24. Nc5 Qe2 25. e6 Bf6 26. Bf2 Qxf2 27. exf7+ Kxf7
+28. Qe6+ Kg7 29. Nd7 Bxd4 30. Qf5 Kh6 0-1

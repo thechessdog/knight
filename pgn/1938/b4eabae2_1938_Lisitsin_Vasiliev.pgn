@@ -1,0 +1,26 @@
+[Event "Leningrad"]
+[Site "Leningrad"]
+[Date "1938.01.01"]
+[Round "1"]
+[White "Lisitsin, Georgy"]
+[Black "Vasiliev, Victor Andreevich"]
+[Result "0-1"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer, fingerslip variation"]
+[HashCode "b4eabae2"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 c5 5. exd5 exd5 6. a3 Bxc3 7. Bxc3 c4 8.
+Nf3 Nf6 9. Bd2 O-O 10. Be2 Nc6 11. O-O Qb6 12. Bc3 Ne4 13. Ne5 Re8 14. Bf3 Nxc3
+15. bxc3 Nxe5 16. dxe5 Rxe5 17. Bxd5 Be6 18. Bf3 Rd8 19. Qc1 Qa5 20. Rd1 Rxd1+
+21. Qxd1 Bd5 22. Rb1 g6 23. h3 b6 24. Bxd5 Qxd5 25. Qf1 Qc5 26. Rd1 b5 27. Ra1
+Qe7 28. Qd1 Re6 29. Kf1 Qc7 30. Kg1 Qe5 31. Qd8+ Kg7 32. Qa5 Qc5 33. Qb4 Qf5
+34. a4 Re2 35. Rf1 a6 36. Qd6 bxa4 37. Qd4+ Qf6 38. Qxc4 Rxc2 39. Qxa4 Rxc3 40.
+Ra1 Rc2 41. Rf1 Rb2 42. Qa5 Rb5 43. Qa4 Qb6 44. Qa1+ Qf6 45. Qa3 Rb2 46. Qa5
+Re2 47. Qc5 Qe5 48. Qxe5+ Rxe5 49. Ra1 a5 50. f4 Rc5 51. Kf2 Kf6 52. Kf3 h5 53.
+Ra2 Ke6 54. g4 hxg4+ 55. hxg4 Kd6 56. Ke4 Rc4+ 57. Kf3 a4 58. Rd2+ Kc7 59. f5
+gxf5 60. gxf5 a3 61. Ke3 Ra4 62. Ra2 Kd6 63. Kd3 Ke5 64. Kc3 Kxf5 65. Kb3 Ra7
+66. Rf2+ Ke4 0-1

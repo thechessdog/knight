@@ -1,0 +1,18 @@
+[Event "Londen"]
+[Site "Londen"]
+[Date "1922.07.01"]
+[Round "5"]
+[White "Marotti, Davide"]
+[Black "Yates, Frederick Dewhirst"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Breyer variation"]
+[HashCode "b9609cd9"]
+[Epoch "Knight"]
+[BlackCountry "ENG"]
+[WhiteCountry "ITA"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Be7 6. Qe2 Nc5 7. d3 O-O 8.
+Bd2 Nc6 9. O-O-O Bg4 10. h3 Bh5 11. g4 Bg6 12. Qh2 d4 13. Nb1 Qd5 14. c4 Qxf3
+15. Bf4 Nb4 16. Bd2 Ncxd3+ 17. Bxd3 Nxd3+ 0-1

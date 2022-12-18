@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1937.01.01"]
+[Round "1"]
+[White "Engels, Ludwig"]
+[Black "Heinrich"]
+[Result "1-0"]
+[ECO "B29"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rubinstein variation"]
+[HashCode "19e91579"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nc7 5. d4 cxd4 6. Qxd4 Nc6 7. Qh4 Ne6 8.
+Be3 Qa5 9. O-O-O Nxe5 10. Nxe5 Qxe5 11. Bb5 f5 12. Rhe1 f4 13. Bd4 Qg5 14. Qh3
+f3+ 15. Be3 Nf4 16. Qxf3 1-0

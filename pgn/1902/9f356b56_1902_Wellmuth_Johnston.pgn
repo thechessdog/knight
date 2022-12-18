@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1902.01.01"]
+[Round "1"]
+[White "Wellmuth, F."]
+[Black "Johnston, S."]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "MacDonnell gambit"]
+[HashCode "9f356b56"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Nc3 gxf3 6. O-O fxg2 7. Rxf4 f6
+8. Qh5+ Ke7 9. Qf7+ Kd6 10. Nb5+ Kc5 11. b4+ Kxb4 12. Rb1+ Ka5 13. Nc3 Bc5+
+14. Kxg2 Nh6 15. Rb5+ Ka6 16. Rxc5+ Kb6 17. Na4# 1-0
+

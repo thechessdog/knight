@@ -1,0 +1,25 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1935.01.01"]
+[Round "1"]
+[White "Hage, Poul"]
+[Black "Desler, Arne"]
+[Result "1-0"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[HashCode "ebdaac52"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. e4 Bxc3+ 6. bxc3 d6 7. Bd3 Nbd7
+8. Ne2 e5 9. O-O h6 10. f4 O-O 11. Ng3 Re8 12. Bd2 Nf8 13. Rae1 Ng6 14. f5
+Nf8 15. Qd1 N8h7 16. Re3 Bb7 17. d5 Kh8 18. Nh5 Rg8 19. Rh3 Nxh5 20. Qxh5
+f6 21. Rff3 Qe7 22. g4 Raf8 23. Rhg3 Qe8 24. Qxe8 Rxe8 25. h4 Rgf8 26. g5
+fxg5 27. hxg5 Nxg5 28. Bxg5 hxg5 29. Rxg5 Rf6 30. Rh3+ Rh6 31. Rhg3 Re7 32.
+Be2 a5 33. Kg2 Bc8 34. Bg4 Ba6 35. Be2 Kh7 36. Kf3 Bc8 37. Ke3 Bd7 38. Bh5
+Kg8 39. Rf3 Kf8 40. Bg6 Be8 41. Bxe8 Kxe8 42. Rfg3 Kf8 43. Rg6 Rh8 44. Kd3
+Rf7 45. Kc2 Rh7 46. Kb3 Ke8 47. Ka4 Kd7 48. Kb5 Re7 49. a4 Rf7 50. Ka6 Kc8
+51. R3g4 Rd7 52. Re6 Rh8 53. c5 bxc5 54. Reg6 Rh7 55. Kxa5 Kb7 56. Kb5 Rf7
+57. a5 Rh1 58. Rg1 Rh2 59. R6g2 Rh3 60. Rxg7 Rxg7 61. Rxg7 Rxc3 62. a6+ Kb8
+63. Kc6 Ra3 64. Rxc7 c4 65. f6 Rf3 66. a7+ Ka8 67. f7 c3 68. Kb6 1-0
+

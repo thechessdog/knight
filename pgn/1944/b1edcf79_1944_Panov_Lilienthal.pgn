@@ -1,0 +1,19 @@
+[Event "Baku"]
+[Site "Baku"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Panov, Vasily"]
+[Black "Lilienthal, Andor Arnoldovich"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "b1edcf79"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Bd7 7. Nbd2 g6 8. Nf1
+Bg7 9. Ng3 O-O 10. O-O h6 11. h3 b5 12. Bc2 d5 13. Be3 Be6 14. d4 dxe4 15. Nxe5
+Qd5 16. Bf4 Na5 17. Re1 Bf5 18. f3 exf3 19. Bxf5 gxf5 20. Nxf5 Rfe8 21. Bxh6
+f2+ 22. Kxf2 Ne4+ 23. Kg1 Bxe5 24. Qg4+ Kh7 25. Bg7 f6 26. Qh5+ Kg8 27. Qg6 1-0

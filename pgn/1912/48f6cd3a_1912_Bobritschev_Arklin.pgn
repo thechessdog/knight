@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1912.01.01"]
+[Round "1"]
+[White "Bobritschev & Pushk"]
+[Black "Arklin"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "48f6cd3a"]
+[Epoch "Knight"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3 Bg7 7. d4 Ne7
+8. Qd3 Nbc6 9. Bxc6+ bxc6 10. Nf3 Qh5 11. d5 O-O 12. dxc6 Bg4 13. Nd5 Nxc6
+14. c3 Rad8 15. h4 h6 16. Bd2 Rfe8 17. Be1 f5 18. Qc4 Qf7 19. Qxc6 fxe4 20.
+hxg5 Rxd5 21. g6 Qe6 22. Qxe6+ Rxe6 23. Nh2 Bf5 24. Ke2 Rxg6 25. Rg1 Be5
+26. Nf1 Bg4+ 27. Kf2 e3+ 0-1
+

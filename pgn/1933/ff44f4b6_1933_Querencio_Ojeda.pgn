@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1933.01.01"]
+[Round "1"]
+[White "Querencio"]
+[Black "Ojeda"]
+[Result "1-0"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Steinitz variation"]
+[HashCode "ff44f4b6"]
+[Epoch "Knight"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. c3 Nf6 6. d4 cxd4 7. cxd4 d6 8.
+O-O O-O 9. Nbc3 Qb6 10. Rb1 Bd7 11. h3 Rac8 12. Be3 Qa6 13. Qd2 Rfd8 14. f4
+Na5 15. b3 d5 16. e5 Ne4 17. Nxe4 dxe4 18. Kh2 Bb5 19. Rf2 Bd3 20. Rc1 Rxc1
+21. Nxc1 Nc6 22. Nxd3 Qxd3 23. Qxd3 exd3 24. Bxc6 bxc6 25. Rd2 Rd5 26. Rxd3
+c5 27. Rd2 cxd4 28. Rxd4 Ra5 29. a4 Bf8 30. Rd7 f6 31. exf6 exf6 32. Bxa7
+Ra6 33. Bf2 Rc6 34. a5 Rc2 35. Kg1 Rc1+ 36. Kg2 Rc2 37. Kf1 Rc1+ 38. Ke2
+Rc2+ 39. Rd2 Rxd2+ 40. Kxd2 Bb4+ 41. Kd3 Bxa5 42. Kc4 Kf7 43. b4 Bc7 44.
+Kd5 1-0
+

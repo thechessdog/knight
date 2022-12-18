@@ -1,0 +1,24 @@
+[Event "Trieste"]
+[Site "Trieste"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Asztalos, Lajos"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "5dde073f"]
+[Epoch "Knight"]
+[BlackCountry "CHE"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Be7 6. c3 d6 7. d3 O-O 8. O-O
+b5 9. Bb3 Na5 10. Bc2 c5 11. Rd1 Qc7 12. Nbd2 Nc6 13. Nf1 d5 14. Bg5 d4 15.
+cxd4 cxd4 16. Bb3 Qd6 17. Ng3 Na5 18. Bxf6 Bxf6 19. Bd5 Rb8 20. Rac1 Bd7 21.
+Rc2 Rfc8 22. Rdc1 g6 23. Qd2 Nc6 24. a3 b4 25. axb4 Nxb4 26. Rxc8+ Rxc8 27.
+Rxc8+ Bxc8 28. Bc4 Bd7 29. Ne1 a5 30. Nc2 Nxc2 31. Qxc2 Qb4 32. Kf1 Bg5 33. Ne2
+Kf8 34. h3 Ke7 35. Nc1 a4 36. Ke2 f5 37. Na2 Qa5 38. Bd5 Kd6 39. f3 Bb5 40. g3
+Bd7 41. h4 Be3 42. Nc1 Qc5 43. Qxc5+ Kxc5 44. Na2 fxe4 45. fxe4 g5 46. hxg5
+Bg4+ 47. Ke1 Bxg5 48. Bf7 Bd8 49. Kd2 Ba5+ 50. Kc2 Be1 51. Be8 Bxg3 52. Bxa4 h5
+0-1

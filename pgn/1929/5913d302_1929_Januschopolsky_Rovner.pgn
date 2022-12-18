@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Januschopolsky"]
+[Black "Rovner, Dmitry Osipovich"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "wing gambit, Marienbad variation"]
+[HashCode "5913d302"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Bb2 e5 6. axb4 Bxb4 7. f4 Nc6 8.
+fxe5 Nxe5 9. Qe2 f6 10. c3 Be7 11. d4 Bg4 12. Qe3 Nh6 13. Nd2 Nd7 14. Ne2 Qe6
+15. Qf2 Nf5 16. c4 Ne3 17. Rc1 Bb4 18. d5 Nc5 19. Nf4 Nc2# 0-1

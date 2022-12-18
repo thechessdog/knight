@@ -1,0 +1,16 @@
+[Event "USSR"]
+[Site "USSR"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Rudnev, N."]
+[Black "Kopylov, Nikolai G"]
+[Result "0-1"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[HashCode "a530d987"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nb4 5. Qa4+ N8c6 6. d4 Bd7 7. Bb5 Nxd4
+8. Kf1 Nxb5 9. Qxb4 e5 10. Qc4 Nxc3 11. bxc3 a6 12. a4 Bb5 0-1

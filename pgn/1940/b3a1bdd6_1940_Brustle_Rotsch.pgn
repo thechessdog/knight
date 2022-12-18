@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Brustle"]
+[Black "Rotsch"]
+[Result "1-0"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[HashCode "b3a1bdd6"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 c6 4. Nf3 Bf5 5. cxd5 cxd5 6. Qb3 b6 7. e3 e6 8.
+Bb5+ Nbd7 9. Qa4 Bd6 10. Ne5 Qc7 11. Bxd7+ Nxd7 12. Nb5 Qb8 13. Nc6 1-0
+

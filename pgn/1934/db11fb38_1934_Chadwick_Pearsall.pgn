@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Chadwick"]
+[Black "Pearsall"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "db11fb38"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 Bc5 6. d3 d6 7. O-O O-O 8.
+Be3 b5 9. Bb3 Bg4 10. c3 Ne7 11. Bxc5 dxc5 12. Nbd2 Nh5 13. Qe3 Ng6 14.
+Qxc5 Qxd3 15. Rad1 Nhf4 16. Nc4 Ne2+ 17. Kh1 Qxf3 18. Nxe5 Nxe5 19. Qxe5
+Nf4 20. Rg1 Qxf2 0-1
+

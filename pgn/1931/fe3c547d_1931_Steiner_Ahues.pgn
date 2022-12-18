@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1931.01.01"]
+[Round "2"]
+[White "Steiner, Lajos"]
+[Black "Ahues, Carl Oscar"]
+[Result "1-0"]
+[ECO "C86"]
+[Opening "Ruy Lopez"]
+[Variation "Worrall attack"]
+[HashCode "fe3c547d"]
+[Epoch "Knight"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 d6 7. c3 Bd7 8. d4
+O-O 9. Rd1 Nxd4 10. cxd4 Bxa4 11. b3 Bc6 12. dxe5 Nxe4 13. Nd4 Qd7 14. Ba3 d5
+15. Nxc6 Bxa3 16. Nxa3 Qxc6 17. Rac1 Nc3 18. Qd3 d4 19. Nb1 Qb6 20. Nxc3 dxc3
+21. Rxc3 Rfe8 22. Qd7 Rac8 23. h4 Kf8 24. Rd6 Qa5 25. e6 fxe6 26. Rf3+ Kg8 27.
+Rxe6 Qb5 28. Rxe8+ 1-0

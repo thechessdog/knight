@@ -1,0 +1,25 @@
+[Event "England"]
+[Site "England"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Yates, Frederick Dewhirst"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "7c42305d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 O-O 11. Nd4 Nxd4 12. cxd4 f5 13. Nxe4 fxe4 14. Be3 c6
+15. f3 exf3 16. Rxf3 Qd7 17. Bc2 Rxf3 18. Qxf3 Bg4 19. Qg3 Qe6 20. Rf1 Rf8 21.
+Rxf8+ Bxf8 22. Qf4 g6 23. h3 Bf5 24. Bd1 Qf7 25. Qh4 Be7 26. Qg3 Be6 27. Qe1
+Bd8 28. Qc3 Qc7 29. Bf3 Be7 30. a3 a5 31. b4 a4 32. Qd2 Qd8 33. Qc1 Qe8 34. Bg5
+Bf8 35. Qf4 Qf7 36. Bf6 Bg7 37. Kh2 h6 38. h4 Kh7 39. g4 Bf8 40. Bd1 Bd7 41. h5
+Kg8 42. Bc2 gxh5 43. g5 Qe6 44. gxh6 Qh3+ 45. Kg1 Bxh6 46. Qxh6 Qg3+ 47. Kf1
+Bh3+ 48. Ke2 Qg2+ 49. Ke1 Qg1+ 50. Kd2 Qxd4+ 51. Bd3 Qb2+ 52. Ke1 Qa1+ 53. Kf2
+Qd4+ 54. Qe3 Qxe3+ 55. Kxe3 Kf7 56. Kd4 Ke6 57. Bg6 Kd7 58. Bxh5 Be6 59. Bh4
+Kc7 60. Be8 Kb6 61. Bd8+ Kb7 62. Kc5 1-0

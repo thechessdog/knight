@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1929.01.01"]
+[Round "1"]
+[White "Dyckhoff, Eduard"]
+[Black "Privonitz, R."]
+[Result "1-0"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[HashCode "ec71d106"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bxc3+ 6. bxc3 Bb7 7. e3 d6
+8. Bxf6 gxf6 9. Nh4 Ke7 10. Bd3 Qg8 11. f4 h5 12. Qe2 Qg4 13. Qf2 Nc6 14.
+d5 1-0
+

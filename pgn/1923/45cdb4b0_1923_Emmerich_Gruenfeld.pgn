@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Emmerich, K"]
+[Black "Gruenfeld, Ernst"]
+[Result "0-1"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Balla variation"]
+[HashCode "45cdb4b0"]
+[Epoch "Knight"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d4 Qc7 11. a4 b4 12. cxb4 cxb4 13. h3 Nd7 14. b3 Bb7 15. Bb2
+Rc8 16. Bd3 Bf6 17. Nbd2 Nb6 18. Rc1 Qe7 19. Rxc8+ Bxc8 20. Qe2 Qa7 21. dxe5
+dxe5 22. Bxe5 Bxe5 23. Nxe5 O-O 24. Rc1 Be6 25. Bxa6 Nxb3 26. Nxb3 Bxb3 27. a5
+Na4 28. Nc6 Qc7 29. Qe3 Be6 30. Qd4 Nc3 31. Qc5 Qf4 32. Ne7+ Kh8 33. Rf1 Rb8
+34. Nc6 Qc7 35. f3 f6 36. e5 Bd5 37. exf6 gxf6 38. Qe7 Qxc6 39. Bd3 Bg8 40. a6
+Nd5 41. Qa7 Re8 42. Qb7 Qb6+ 43. Qxb6 Nxb6 0-1

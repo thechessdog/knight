@@ -1,0 +1,18 @@
+[Event "Pan American"]
+[Site "Hollywood"]
+[Date "1945.01.01"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Broderman, J."]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack, Wagner gambit"]
+[HashCode "e8184925"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4 Qa5+ 5. Qd2 Qxd2+ 6. Nbxd2 cxd4 7. Nxd4 a6
+8. e5 Ng8 9. Nc4 Nc6 10. Nxc6 dxc6 11. O-O-O f6 12. exf6 gxf6 13. Bh4 Bc5 14.
+Be2 b5 15. Bh5+ Ke7 16. Ne5 Bd6 17. Nf7 Bf4+ 18. Kb1 Bd7 19. Nxh8 Rf8 20. Bg3
+Be5 21. Nf7 Bxg3 22. hxg3 Be8 23. Nd6 Bxh5 24. Rxh5 h6 25. Ne4 1-0

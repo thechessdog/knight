@@ -1,0 +1,23 @@
+[Event "Baarn"]
+[Site "Baarn"]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Van den Bosch, Johannes"]
+[Black "Kmoch, Hans"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "428d77e1"]
+[Epoch "Knight"]
+[WhiteCountry "NLD"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. d4 Be7 8. d5
+Nb8 9. Bc2 O-O 10. c4 Bg4 11. Nc3 Nbd7 12. h3 Bh5 13. g4 Bg6 14. Qe2 h5 15. Nh4
+hxg4 16. hxg4 Nh7 17. Nf5 Bg5 18. Kg2 Bxc1 19. Raxc1 Qg5 20. Rh1 Bxf5 21. exf5
+g6 22. f4 exf4 23. Ne4 Rae8 24. Qf3 Rxe4 25. Bxe4 Nhf6 26. Qh3 Kg7 27. Bf3 Ne5
+28. Qh4 Qxh4 29. Rxh4 g5 30. Rhh1 Nfxg4 31. Bxg4 Nxg4 32. c5 Kf6 33. cxd6 cxd6
+34. Rc7 Ne3+ 35. Kf2 Nxd5 36. Rxb7 Kxf5 37. Ra7 g4 38. Rxa6 Rc8 39. Rh5+ Ke6
+40. Ra4 Rc2+ 41. Kg1 f5 42. Ra8 Ne3 43. Ra5 d5 44. Rh8 g3 45. Ra6+ Ke5 46. Re8+
+Kd4 47. Ra4+ Kd3 0-1

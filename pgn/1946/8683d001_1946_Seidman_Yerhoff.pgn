@@ -1,0 +1,18 @@
+[Event "Pittsburgh"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Seidman, Herbert"]
+[Black "Yerhoff, F."]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "8683d001"]
+[Epoch "Knight"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. a4 Bg4 8. c3
+Be7 9. h3 Bd7 10. Qe2 O-O 11. d4 Na5 12. Bc2 exd4 13. cxd4 Ne8 14. Nc3 c6 15.
+Bf4 Nc7 16. Rad1 Re8 17. Rfe1 b4 18. Nb1 Ne6 19. Bh2 d5 20. exd5 cxd5 21. Ne5
+Nf8 22. Nd2 Rc8 23. Nf1 b3 24. Bb1 Bb4 25. Qh5 Bxe1 26. Bxh7+ 1-0

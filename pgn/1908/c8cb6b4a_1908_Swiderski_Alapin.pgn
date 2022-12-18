@@ -1,0 +1,26 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1908.01.01"]
+[Round "1"]
+[White "Swiderski, Rudolf"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "1-0"]
+[ECO "D46"]
+[Opening "QGD semi-Slav"]
+[Variation "Bogolyubov variation"]
+[HashCode "c8cb6b4a"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Nc3 Nd7 5. e3 Ngf6 6. Bd3 Be7 7. O-O O-O 8. Re1
+dxc4 9. Bxc4 b5 10. Bd3 b4 11. Ne4 c5 12. Nxf6+ Nxf6 13. e4 Bb7 14. dxc5 Bxc5
+15. Bg5 Be7 16. Qe2 Qa5 17. e5 Bxf3 18. Qxf3 Nd5 19. Qh3 g6 20. Bxe7 Nxe7 21.
+Qh6 Rfd8 22. Re3 Rxd3 23. Rxd3 Qxe5 24. Rad1 Nd5 25. Qd2 a5 26. Rc1 Kg7 27. g3
+Qf5 28. Rd4 h5 29. Rdc4 Qf6 30. h4 Ra7 31. Rc8 Rd7 32. Rb8 Qf3 33. Re1 Nf6 34.
+Qe2 Qxe2 35. Rxe2 Rd1+ 36. Kg2 Ra1 37. Rb7 Rxa2 38. Rxe6 Ng4 39. Ree7 Nh6 40.
+Re2 a4 41. Rxb4 a3 42. Kf3 axb2 43. Rbxb2 Ra1 44. Kf4 Rc1 45. Re4 Rd1 46. Rb7
+Rc1 47. Kf3 Rc3+ 48. Kg2 Rc2 49. Rf4 Ra2 50. Kh3 Ra1 51. Rb3 Nf5 52. Rb5 Nh6
+53. Rb2 Ra3 54. Rfb4 Rc3 55. R4b3 Rc4 56. Rb4 Rc3 57. R2b3 Rc1 58. Rb1 Rc3 59.
+R4b3 Rc4 60. Rg1 Nf5 61. f3 Nd4 62. Rd3 Ne6 63. Ra1 g5 64. hxg5 h4 65. Ra5 Kg6
+66. Rd6 hxg3 67. Kxg3 Kh5 68. Rf5 1-0

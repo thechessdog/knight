@@ -1,0 +1,19 @@
+[Event "Novi Sad"]
+[Site "Novi Sad"]
+[Date "1945.01.01"]
+[Round "6"]
+[White "Poljakov, Djordje"]
+[Black "Milic, Borislav"]
+[Result "1-0"]
+[ECO "D13"]
+[Opening "QGD Slav"]
+[Variation "exchange variation"]
+[HashCode "232b86ca"]
+[Epoch "Knight"]
+[BlackCountry "SRB"]
+[WhiteCountry "SRB"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. e3 e6 8. Rc1
+Be7 9. Bd3 O-O 10. Ne5 Bd7 11. O-O Rc8 12. Qf3 b5 13. Qh3 g6 14. Bh6 Re8 15. f4
+Bf8 16. Bg5 Be7 17. Rf3 Nxe5 18. fxe5 Ne4 19. Bxe4 dxe4 20. Rxf7 h5 21. Rxe7 b4
+22. Rg7+ Kxg7 23. Bxd8 bxc3 24. Bf6+ 1-0

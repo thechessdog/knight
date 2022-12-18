@@ -1,0 +1,18 @@
+[Event "New York ch-USA"]
+[Site "New York ch-USA"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Rothman, A."]
+[Black "Decker, Arnold Sheldon"]
+[Result "0-1"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "wing gambit deferred"]
+[HashCode "2064463c"]
+[Epoch "Knight"]
+[BlackCountry "USA"]
+
+1. e4 c5 2. Nf3 d6 3. b4 cxb4 4. d4 d5 5. exd5 Qxd5 6. c4 bxc3 7. Nxc3 Qd8 8.
+Bc4 Nf6 9. O-O e6 10. d5 exd5 11. Re1+ Be7 12. Ba3 Nc6 13. Qe2 dxc4 14. Rad1
+Bd7 15. Bxe7 Qxe7 16. Qxc4 Be6 17. Rxe6 fxe6 18. Re1 O-O 19. Rxe6 Na5 20. Qe2
+Qc5 21. Re7 Rae8 0-1

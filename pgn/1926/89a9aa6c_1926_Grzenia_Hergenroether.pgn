@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1926.01.01"]
+[Round "1"]
+[White "Grzenia"]
+[Black "Hergenroether"]
+[Result "0-1"]
+[ECO "C56"]
+[Opening "two knights defence"]
+[Variation "Canal variation"]
+[HashCode "89a9aa6c"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Nc3 Be6
+8. Bxd5 Bxd5 9. Nxe4 Be7 10. Bg5 O-O 11. Bxe7 Qxe7 12. Qd3 Qb4 13. a3 Qc4
+14. Rad1 Qxd3 15. Rxd3 Rfe8 16. Ned2 Bxf3 17. Nxf3 Rxe1+ 18. Nxe1 f6 19.
+Nf3 Rd8 20. Kf1 Kf7 21. Rd2 Ke6 22. Ke2 Kd5 23. Kd3 b5 24. Re2 Ne5+ 25.
+Nxe5 fxe5 26. f3 c5 27. b3 c4+ 28. Kd2 cxb3 29. cxb3 Rc8 30. Kd1 Rc3 31.
+Rb2 d3 32. Kd2 Kd4 33. a4 b4 34. h4 g6 35. g4 h6 0-1
+

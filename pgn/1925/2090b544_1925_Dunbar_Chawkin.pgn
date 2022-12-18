@@ -1,0 +1,15 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Dunbar"]
+[Black "Chawkin"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "2090b544"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 d6 6. Nxc6 bxc6 7. Bxc5
+dxc5 8. Qxd8+ Kxd8 9. c4 Rb8 10. Nc3 Rxb2 11. O-O-O+ 1-0
+

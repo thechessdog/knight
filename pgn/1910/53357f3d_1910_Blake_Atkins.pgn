@@ -1,0 +1,18 @@
+[Event "Bradford"]
+[Site "Bradford"]
+[Date "1910.01.01"]
+[Round "1"]
+[White "Blake, Joseph Henry"]
+[Black "Atkins, Henry Ernest"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Bardeleben variation"]
+[HashCode "53357f3d"]
+[Epoch "Knight"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 f5 6. Nh3 Nc6 7. Bb5 Qh4+ 8.
+Kf1 Bc5 9. d3 O-O 10. Bxc6 bxc6 11. Ne2 g5 12. d4 f4 13. Nhxf4 Bg4 14. Qe3 gxf4
+15. Nxf4 Rxf4+ 16. Qxf4 Rf8 0-1

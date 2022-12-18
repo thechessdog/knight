@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Mosonyi, K."]
+[Black "Monostori, L."]
+[Result "1-0"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Alapin variation"]
+[HashCode "7f24ce35"]
+[Epoch "Knight"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. Nbd2 Bg4 6. g3 Qe7 7. Bg2 O-O-O
+8. O-O d3 9. exd3 Nxe5 10. Re1 f6 11. Qb3 Bxf3 12. Bxf3 c6 13. Bg2 g5 14.
+Kf1 Qd7 15. Nf3 Qxd3+ 16. Qxd3 Nxd3 17. Bh3+ Kc7 18. Rd1 Bc5 19. Bf5 Nxc1
+20. Rxd8 Kxd8 21. Rxc1 Ne7 22. Rd1+ Kc7 23. Rd7+ Kb6 24. Bc2 Ng6 25. Nd2
+Ne5 26. Rxh7 Rxh7 27. Bxh7 Bb4 28. Ke2 Bxd2 29. Kxd2 Nxc4+ 30. Kd3 Nxb2+
+31. Ke4 Nd1 32. h4 Nxf2+ 33. Kf5 gxh4 34. gxh4 Kc7 35. Kxf6 Ng4+ 36. Kg7
+Kd8 37. Bf5 Ne3 38. Bh3 Ke7 39. h5 Nd5 40. h6 Nf6 41. Bc8 c5 42. Bxb7 c4
+43. Bd5 c3 44. Bb3 Ne8+ 45. Kg6 Nf6 46. Kf5 1-0
+

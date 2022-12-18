@@ -1,0 +1,25 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1940.01.01"]
+[Round "1"]
+[White "Grau, Roberto"]
+[Black "Luckis, Marcos"]
+[Result "0-1"]
+[ECO "E41"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5"]
+[HashCode "abff4858"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 d5 6. Nf3 Nc6 7. O-O dxc4 8. Bxc4
+O-O 9. a3 Ba5 10. Ne2 cxd4 11. Nexd4 Nxd4 12. exd4 Qd6 13. Qe2 Bd7 14. Ne5 Bc6
+15. Nxc6 Qxc6 16. Bg5 Nd5 17. Rac1 Bd8 18. Be3 Qd6 19. Qf3 Bb6 20. Qg4 f5 21.
+Qh4 f4 22. Bxd5 fxe3 23. Bxb7 exf2+ 24. Kh1 Rf4 25. Qh3 Raf8 26. Rc6 Qxd4 27.
+Qxe6+ Kh8 28. Rc2 Qd3 29. Qe2 Qd7 30. Bc6 Qd6 31. g3 R4f5 32. Bg2 Re5 33. Qc4
+Re1 34. b4 Qd1 35. Rc1 Rxf1+ 36. Qxf1 Qb3 37. Qa6 Re8 38. Rf1 h6 39. Bc6 Qc3
+40. Qb7 Rd8 41. Bb5 Qxa3 42. Qe4 Qb3 43. Kg2 Qd5 44. Qxd5 Rxd5 45. Bc4 Re5 46.
+b5 Re1 47. h4 g6 48. Kf3 Kg7 49. Be2 Kf6 50. Bc4 Ke7 51. Kg2 Kd6 52. Bd3 g5 53.
+hxg5 hxg5 54. Bf5 Bd4 55. Bg4 Kc5 56. Bd7 Kb6 57. Rxf2 Bxf2 58. Kxf2 Re7 59.
+Bf5 Rf7 60. g4 Kxb5 0-1

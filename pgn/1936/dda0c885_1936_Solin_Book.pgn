@@ -1,0 +1,20 @@
+[Event "Helsinki"]
+[Site "Helsinki"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Solin, Ilmari"]
+[Black "Book, Eero"]
+[Result "0-1"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[HashCode "dda0c885"]
+[Epoch "Knight"]
+[BlackCountry "FIN"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8. O-O
+Be7 9. b3 O-O 10. Bb2 b6 11. Qe2 Bb7 12. Rfd1 cxd4 13. Nxd4 Nxd4 14. exd4 Re8
+15. Bd3 Bb4 16. Rac1 Nd5 17. Be4 Rc8 18. Na2 Bd6 19. g3 Qd7 20. Rxc8 Rxc8 21.
+Rc1 Rxc1+ 22. Nxc1 Nf6 23. Bxb7 Qxb7 24. f3 h5 25. Qd3 h4 26. Ne2 Qc7 27. Kf2
+hxg3+ 28. hxg3 Nh5 29. g4 Nf6 30. Qxa6 Qc2 31. Qxb6 Bf4 32. Ba3 Be3+ 33. Kg3
+Qxe2 0-1

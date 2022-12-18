@@ -1,0 +1,18 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1901.01.01"]
+[Round "1"]
+[White "Ehlert, J."]
+[Black "Bohl, P."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Morphy defence"]
+[HashCode "bb04a555"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8.
+Nxd4 Nc5 9. Nf5 h5 10. Nxg7+ Kf8 11. Nxh5 Nxe5 12. Nc3 d6 13. h3 Nxa4 14.
+Nxa4 Bxh3 15. Nf4 Bg4 16. f3 Bd7 17. Nc3 Bh4 18. Ne4 Bb5 19. Ne2 d5 20.
+N4c3 Qd6 21. Nxb5 axb5 22. Bf4 Ra4 23. Be3 Ng4 24. fxg4 Qh2+ 0-1
+

@@ -1,0 +1,26 @@
+[Event "Mar del Plata"]
+[Site "Mar del Plata"]
+[Date "1944.03.01"]
+[Round "7"]
+[White "Garcia Vera, Romeo"]
+[Black "Luckis, Marcos"]
+[Result "1-0"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[HashCode "9cbdca2e"]
+[Epoch "Knight"]
+[BlackCountry "LTU"]
+[WhiteCountry "ARG"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 Nc6 5. Qb3 d5 6. Nf3 O-O 7. Bd3 dxc4 8.
+Bxc4 Bd6 9. Nb5 Na5 10. Qa4 Nxc4 11. Qxc4 Bd7 12. O-O Bc6 13. Qe2 Ng4 14. e4
+Qe8 15. Nc3 e5 16. d5 Bd7 17. h3 Nf6 18. Nh4 b5 19. a3 a5 20. Qf3 b4 21. axb4
+axb4 22. Rxa8 Qxa8 23. Nd1 c6 24. Bg5 Ne8 25. dxc6 Bxc6 26. Re1 f6 27. Bd2 g6
+28. Bxb4 Rf7 29. Bxd6 Nxd6 30. Nc3 f5 31. Qg3 fxe4 32. Qxe5 Nc4 33. Qd4 e3 34.
+fxe3 Nxb2 35. e4 Qa5 36. Nf3 Na4 37. Rc1 Rxf3 38. Nxa4 Bxa4 39. Ra1 Qg5 40.
+Qc4+ Kg7 41. Qxa4 Qe3+ 42. Kh1 Rf7 43. Qb4 Qd3 44. Qb2+ Kh6 45. Qe5 Rf1+ 46.
+Rxf1 Qxf1+ 47. Kh2 Qf2 48. Qg3 Qe2 49. Qf3 Qe1 50. Qf4+ Kg7 51. e5 Kg8 52. Qc4+
+Kg7 53. Qc7+ Kh6 54. Qd6 Qe3 55. Qf8+ Kg5 56. Qf6+ Kh6 57. h4 Qd4 58. Qg5+ Kg7
+59. h5 Qd7 60. h6+ Kg8 61. Qf6 Qc7 62. Kh3 Qc3+ 63. g3 Qc7 64. e6 g5 65. Qxg5+
+Kh8 66. Qf4 Qd8 67. Qe5+ Kg8 68. Qg7# 1-0

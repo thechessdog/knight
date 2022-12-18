@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1925.01.01"]
+[Round "1"]
+[White "Guenthner, Oliver"]
+[Black "Heinicke, Herbert"]
+[Result "0-1"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[HashCode "d3917988"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+[WhiteID "4602960"]
+[WhiteCountry "GER"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Bb4 6. Bd3 O-O 7. Qc2 d5 8. O-O
+Nbd7 9. Ne5 c5 10. f3 Rc8 11. Bd2 cxd4 12. exd4 Nxe5 13. dxe5 dxc4 14. Bxc4
+Qd4+ 15. Kh1 Qxe5 16. Rae1 Qh5 17. Be2 Rfd8 18. Rd1 Bd6 19. f4 Qxe2 0-1

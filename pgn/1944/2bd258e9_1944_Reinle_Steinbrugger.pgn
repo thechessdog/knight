@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1944.01.01"]
+[Round "1"]
+[White "Reinle, Hans"]
+[Black "Steinbrugger"]
+[Result "1-0"]
+[ECO "C05"]
+[Opening "French"]
+[Variation "Tarrasch, closed variation"]
+[HashCode "2bd258e9"]
+[Epoch "Knight"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8.
+Nf3 Be7 9. O-O O-O 10. Nf4 Kh8 11. Be2 Rg8 12. Qd3 Nf8 13. dxc5 Bxc5 14.
+Ng5 Nxe5 15. Qxh7+ Nxh7 16. Nxf7+ Nxf7 17. Ng6# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Petrograd"]
+[Site "Petrograd"]
+[Date "1919.01.01"]
+[Round "1"]
+[White "Travin"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "5d605299"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. e4 c5 6. c3 Nc6 7. e5 Qf4 8. Bb5
+b6 9. Bxc6 dxc6 10. O-O Bb7 11. dxc5 Bxc5 12. Nbd2 O-O 13. Qe2 Rfd8 14. Rfd1 a5
+15. Qe4 Bxf2+ 16. Kh1 Qe3 17. Qc2 c5 18. Rf1 Qe2 19. Rae1 Bxe1 20. Rxe1 Qd3 21.
+Qxd3 Rxd3 22. Nc4 Rad8 23. Nxb6 Rd1 24. Rxd1 Rxd1+ 25. Ng1 Rd2 26. Nf3 Rxb2 27.
+Na4 Rxa2 28. Nxc5 Ra1+ 29. Ng1 Bd5 0-1

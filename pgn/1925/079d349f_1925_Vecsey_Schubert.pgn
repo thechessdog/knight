@@ -1,0 +1,22 @@
+[Event "Kautsky mem2"]
+[Site "Prague"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Vecsey, Zoltan"]
+[Black "Schubert, F."]
+[Result "0-1"]
+[ECO "B02"]
+[Opening "Alekhine's defence"]
+[Variation "Saemisch attack"]
+[HashCode "079d349f"]
+[Epoch "Knight"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5
+8. Bd3 Qd7 9. Bxf5 Qxf5 10. Nf3 Nb4 11. Rc1 Nc4 12. Bf2 O-O-O 13. Qe2 Nb6
+14. O-O Qh5 15. a3 N4d5 16. Nxd5 Nxd5 17. Qe4 f5 18. Qe1 e6 19. c4 Nf4 20.
+Qe3 g5 21. Bg3 Nxg2 22. Qxg5 Qh3 23. Qd2 Rg8 24. Qxg2 Qh5 25. Ne1 Bh6 26.
+Rc3 Rxd4 27. Rb3 c6 28. Rd3 Rxc4 29. Qf2 f4 30. Qxa7 Qxe5 31. Ng2 fxg3 32.
+hxg3 Qc5+ 33. Qxc5 Rxc5 34. Rf7 Rg7 35. Rf6 Bc1 36. Rxe6 Rc2 37. Re8+ Kc7
+38. b4 Ra2 39. Ra8 Re7 40. Kf1 Ree2 41. Nh4 Be3 42. Rf8 Rh2 43. Rf7+ Kb6
+44. Ke1 0-1
+

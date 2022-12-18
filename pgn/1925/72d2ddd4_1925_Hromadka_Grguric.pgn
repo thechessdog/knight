@@ -1,0 +1,18 @@
+[Event "Kautsky mem2"]
+[Site "Prague"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Hromadka, Karel"]
+[Black "Grguric, Viktor"]
+[Result "1-0"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "72d2ddd4"]
+[Epoch "Knight"]
+[WhiteCountry "CZE"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. e3 c5 5. Bd3 c4 6. Be2 Qb6 7. O-O Qxb2 8. Nbd2
+Nc6 9. Bxf6 gxf6 10. e4 Nxd4 11. exd5 exd5 12. Nxc4 Nxf3+ 13. Bxf3 dxc4 14.
+Re1+ Be7 15. Rb1 Qa3 16. Bxb7 Bxb7 17. Rxb7 Rd8 18. Qe2 Rd7 19. Qxc4 Qd6 20.
+Qb5 1-0

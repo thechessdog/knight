@@ -1,0 +1,18 @@
+[Event "Leningrad-ch"]
+[Site "Leningrad"]
+[Date "1932.01.01"]
+[Round "1"]
+[White "Goldberg, Grigory Abramovich"]
+[Black "Miasoedov, Grigory"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "eae54d9b"]
+[Epoch "Knight"]
+[WhiteCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d5 6. Bd2 O-O 7. e3 Re8 8.
+O-O-O Bd7 9. h3 Bf8 10. a3 a5 11. g4 dxc4 12. g5 Nh5 13. Be2 f5 14. gxf6 Nxf6
+15. Ng5 b5 16. Rdg1 Re7 17. Nce4 Kh8 18. Bc3 Be8 19. Nxf6 gxf6 20. d5 Ne5 21.
+Nxe6 Qxd5 22. Nxf8 Rf7 23. Bxe5 Qxe5 24. Ng6+ hxg6 25. Qxg6 1-0

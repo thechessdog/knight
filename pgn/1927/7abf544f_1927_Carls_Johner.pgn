@@ -1,0 +1,20 @@
+[Event "London olm"]
+[Site "London"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Carls, Carl Johan Margot"]
+[Black "Johner, Hans"]
+[Result "1-0"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls variation"]
+[HashCode "7abf544f"]
+[Epoch "Knight"]
+[WhiteCountry "DEU"]
+[BlackCountry "CHE"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 Bb4 4. e5 Ng8 5. Qg4 Bf8 6. d4 d6 7. Bg5 Qd7 8. Nf3
+Nc6 9. Rd1 Nge7 10. Bd3 b6 11. O-O h6 12. Bxe7 Qxe7 13. exd6 cxd6 14. Rfe1 Bd7
+15. d5 e5 16. Bf5 Nb8 17. Nxe5 dxe5 18. d6 Bxf5 19. Qxf5 Qd7 20. Qxe5+ Kd8 21.
+b4 Nc6 22. Qe4 Rb8 23. c5 bxc5 24. bxc5 g6 25. Nd5 f5 26. Qa4 Qb7 27. Nc7 Rh7
+28. Qc4 1-0

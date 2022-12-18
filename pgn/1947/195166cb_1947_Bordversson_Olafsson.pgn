@@ -1,0 +1,16 @@
+[Event "Iceland"]
+[Site "Iceland"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Bordversson"]
+[Black "Olafsson, Fridrik"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "195166cb"]
+[Epoch "Knight"]
+[BlackID "2300052"]
+[BlackCountry "ISL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nc6 5. h3 Bg3# 0-1

@@ -1,0 +1,20 @@
+[Event "Magdeburg"]
+[Site "Magdeburg"]
+[Date "1927.01.01"]
+[Round "1"]
+[White "Schonmann"]
+[Black "Brinckmann, Alfred"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "cf4d4479"]
+[Epoch "Knight"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 Qc7 8. Qe2
+O-O 9. Bb3 b6 10. h3 Bb7 11. Bg5 Rfe8 12. Qc4 exd4 13. Nb5 Qd8 14. Qxf7+ Kh8
+15. Nbxd4 Rf8 16. Ne6 Rxf7 17. Nxd8 Bxd8 18. Bxf7 Nxe4 19. Bxd8 Rxd8 20. Be6
+Ndc5 21. Bf5 a5 22. Rfe1 d5 23. Nd4 g6 24. Bxe4 dxe4 25. c3 Re8 26. Re3 Nd3 27.
+b3 c5 28. Nb5 Bc6 29. Rd1 Ne5 30. Rd6 Re7 31. f4 Bxb5 32. fxe5 Bd3 33. e6 Kg7
+34. Rxb6 Kf6 35. Kf2 Ke5 36. Re1 g5 37. Ke3 g4 38. hxg4 h5 39. Rh1 1-0

@@ -1,0 +1,17 @@
+[Event "New England"]
+[Site "New England"]
+[Date "1947.01.01"]
+[Round "1"]
+[White "Reinsch"]
+[Black "Hand"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "a8768377"]
+[Epoch "Knight"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be3 Bb4 7. Nxc6
+bxc6 8. e5 Nd5 9. Bd2 Qb6 10. Qf3 Bb7 11. a3 Be7 12. b3 Qd4 13. Qg3 f5 14.
+exf6 Bxf6 15. Qd6 Be5 0-1
+

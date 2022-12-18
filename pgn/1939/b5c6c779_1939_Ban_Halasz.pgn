@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1939.01.01"]
+[Round "1"]
+[White "Ban"]
+[Black "Halasz"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "b5c6c779"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Nf6 5. Re1 Bg4 6. d4 exd4 7. e5 dxe5
+8. Nxe5 Bxd1 9. Nxc6+ 1-0
+

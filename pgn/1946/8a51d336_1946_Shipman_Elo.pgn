@@ -1,0 +1,21 @@
+[Event "Pittsburgh op"]
+[Site "Pittsburgh"]
+[Date "1946.01.01"]
+[Round "1"]
+[White "Shipman, Walter"]
+[Black "Elo, Arpad"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Urusov attack"]
+[HashCode "8a51d336"]
+[Epoch "Knight"]
+[WhiteID "2001357"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Bc4+ d5 8.
+Bxd5+ Kg7 9. d4 Nf6 10. Bxf4 Nxd5 11. exd5 Bd6 12. Be5+ Bxe5 13. dxe5 Re8 14.
+O-O Rxe5 15. Nc3 c5 16. Qd2 Qxh4 17. Qf4 Qe7 18. d6 Qe6 19. Qf8+ Kg6 20. Nd5
+Rxd5 21. Rae1 Re5 22. Rxe5 Qxe5 23. Qxc8 Qd4+ 24. Kh1 Nd7 25. Qxd7 g3 26. Qf7+
+Kg5 27. Rf5+ 1-0

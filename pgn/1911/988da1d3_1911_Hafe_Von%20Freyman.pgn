@@ -1,0 +1,17 @@
+[Event "Cologne-A"]
+[Site "Cologne"]
+[Date "1911.??.??"]
+[Round "4"]
+[White "Hafe"]
+[Black "Von Freyman, Sergey"]
+[Result "0-1"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "neo-Meran (Lundin variation)"]
+[HashCode "988da1d3"]
+[Epoch "Knight"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+b4 9. Ne4 c5 10. Qa4 cxd4 11. Nxd4 Bb7 12. Nxf6+ gxf6 13. Bd2 Qb6 14. Bb5 O-O-O
+15. Rc1+ Nc5 16. Bxb4 Kb8 17. Bxc5 Bxc5 18. Nc6+ Bxc6 19. Bxc6 Bxe3 0-1

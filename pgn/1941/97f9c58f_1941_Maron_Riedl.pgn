@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1941.01.01"]
+[Round "1"]
+[White "Maron"]
+[Black "Riedl"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Richter variation"]
+[HashCode "97f9c58f"]
+[Epoch "Knight"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. d5 Ne7 8.
+Bb3 a5 9. Nxe5 a4 10. Nxf7 Kxf7 11. d6+ 1-0
+

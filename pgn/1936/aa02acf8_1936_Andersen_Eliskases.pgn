@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1936.01.01"]
+[Round "1"]
+[White "Andersen & Nielsen"]
+[Black "Eliskases & Norman_"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, 4...Nc6"]
+[HashCode "aa02acf8"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 e5 6. dxe5 Nxe5 7. Nf3 Nxf3+
+8. gxf3 O-O 9. Bd2 c6 10. O-O-O d5 11. Rg1 Be6 12. e4 Rc8 13. e5 Ne8 14.
+Bd3 g6 15. Bh6 Ng7 16. f4 f5 17. exf6 Qxf6 18. Bxg6 Kh8 19. Bxg7+ Qxg7 20.
+Bd3 Qh6 21. Ne2 dxc4 22. Be4 Rcd8 23. Kb1 Bg8 24. f5 Rd2 25. Rxd2 Qxd2 26.
+Rd1 Qxc2+ 27. Kxc2 Ba5 28. Nf4 Rd8 29. Ne6 Rxd1 30. Kxd1 Bf7 1/2-1/2
+

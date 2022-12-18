@@ -1,0 +1,19 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1934.01.01"]
+[Round "1"]
+[White "Andersen, Erik"]
+[Black "Bauer, A."]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Krause variation"]
+[HashCode "b2da88f6"]
+[Epoch "Knight"]
+[WhiteID "1429361"]
+[WhiteCountry "DEN"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. e3 Nf6 5. Nc3 Nc6 6. Bd3 Bd6 7. O-O b6 8. b3 O-O
+9. Bb2 Qe7 10. Qe2 Nb4 11. Bb1 Bb7 12. a3 Nc6 13. Bc2 Rad8 14. Rad1 Bb8 15. Rd2
+a6 16. Rfd1 dxc4 17. bxc4 Qc7 18. d5 Ne5 19. Nxe5 Qxe5 20. f4 Qc7 21. d6 Qd7
+22. e4 Ba7 23. e5 Ne8 24. Ba4 Bc6 25. Bxc6 Qxc6 26. f5 Rd7 27. Rf1 exf5 28.
+Rxf5 g6 29. Rf1 Rd8 30. e6 Nxd6 31. e7 Rfe8 32. Nd5 f5 33. Qe5 1-0

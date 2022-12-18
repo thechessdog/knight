@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1943.01.01"]
+[Round "1"]
+[White "Lundgren, A."]
+[Black "Bang Christensen, J"]
+[Result "0-1"]
+[ECO "A51"]
+[Opening "Budapest"]
+[Variation "Fajarowicz variation"]
+[HashCode "acb878b6"]
+[Epoch "Knight"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. a3 a5 7. Qc2 d6 8.
+exd6 Bxd6 9. e3 O-O 10. Be2 Qf6 11. O-O Bf5 12. e4 Rfe8 13. Bd3 Nxd3 14.
+Qxd3 Rad8 15. Qc2 Bg6 16. Re1 Ne5 17. Nxe5 Qxe5 18. g3 Qh5 19. b3 Bc5 20.
+Bb2 Bxf2+ 21. Kxf2 Qxh2+ 22. Ke3 Rxd2 23. Qxd2 Rxe4+ 24. Kd3 Qxg3+ 0-1
+

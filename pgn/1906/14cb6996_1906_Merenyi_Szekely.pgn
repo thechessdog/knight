@@ -1,0 +1,17 @@
+[Event "Gyor"]
+[Site "Gyor"]
+[Date "1906.??.??"]
+[Round "3"]
+[White "Merenyi, Lajos"]
+[Black "Szekely, Jeno"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit"]
+[HashCode "14cb6996"]
+[Epoch "Knight"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. f4 Bg4 5. Qb3 Nc6 6. Nf3 Nh6 7. e4 dxe3 8. Bxe3
+Bxf3 9. gxf3 Qh4+ 10. Ke2 O-O-O 11. Nc3 Nf5 12. Qa4 Nfd4+ 13. Bxd4 Nxd4+ 14.
+Ke3 Nc2+ 15. Qxc2 Bc5+ 16. Ke4 Rd4+ 17. Ke3 Rd6+ 18. Ke4 f5+ 19. Kxf5 Rf8+ 0-1

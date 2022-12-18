@@ -1,0 +1,21 @@
+[Event "Hilversum zt"]
+[Site "Hilversum zt"]
+[Date "1947.07.01"]
+[Round "1"]
+[White "Plater, Kazimierz"]
+[Black "Cvetkov, A."]
+[Result "1-0"]
+[ECO "E77"]
+[Opening "King's Indian"]
+[Variation "Four pawns attack, 6.Be2"]
+[HashCode "9f4cbec2"]
+[Epoch "Knight"]
+[WhiteCountry "POL"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Be2 c6 7. Nf3 Nbd7 8. O-O
+Qb6 9. Na4 Qc7 10. Qd3 e5 11. Kh1 exd4 12. Nxd4 Re8 13. Bf3 Qa5 14. Nc3 Nc5 15.
+Qc2 Nfxe4 16. Nxe4 Nxe4 17. Nxc6 Qf5 18. Nb4 h5 19. Bd2 a5 20. Bxe4 Qxe4 21.
+Rae1 Qxe1 22. Bxe1 axb4 23. Bxb4 Bf5 24. Qd2 Re4 25. Bc3 Bxc3 26. Qxc3 Rae8 27.
+h3 Re2 28. Qd4 R8e4 29. Qb6 Rxc4 30. Rf2 Rxf2 31. Qxf2 Be4 32. Qb6 Rc2 33. Kg1
+Rxg2+ 34. Kf1 Rg3 35. Qxd6 Rxh3 36. Ke2 h4 37. Qd8+ Kh7 38. Qd7 Rh2+ 39. Ke3
+Bc6 40. Qxf7+ Kh6 41. Qf6 h3 42. Qh8# 1-0

@@ -1,0 +1,20 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1903.01.01"]
+[Round "6"]
+[White "Albin, Adolf"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "5218bee7"]
+[Epoch "Knight"]
+[WhiteCountry "ROU"]
+[BlackCountry "ENG"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 Bg4 4. h3 Bxf3 5. Qxf3 Nbd7 6. d4 Ne4 7. Bd3 f5 8.
+Nd2 e6 9. g3 Qf6 10. Nf1 O-O-O 11. h4 h6 12. Bd2 g5 13. O-O-O gxf4 14. gxf4 Rg8
+15. Be1 Bd6 16. c4 c5 17. cxd5 exd5 18. Ba5 Nb6 19. dxc5 Bxc5 20. Kb1 Kb8 21.
+Rc1 Na4 22. Qe2 Bb6 23. Bxe4 dxe4 24. Bb4 Rc8 25. Rc2 Rgd8 26. Ba3 Nc5 27. Nd2
+Rd3 28. Rhc1 Rcd8 29. Bxc5 Bxc5 30. Rxc5 b6 31. R5c2 Qxh4 32. Nc4 Qg3 33. Ne5
+Ka8 34. Rc7 Qxe3 35. Qxe3 Rxe3 36. Nc6 1-0

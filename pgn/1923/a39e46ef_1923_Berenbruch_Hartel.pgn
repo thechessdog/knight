@@ -1,0 +1,20 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1923.01.01"]
+[Round "1"]
+[White "Berenbruch"]
+[Black "Hartel"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[HashCode "a39e46ef"]
+[Epoch "Knight"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 a6 7. a3 h6 8. Bh4
+Ng4 9. Bxe7 Nxe7 10. h3 Nf6 11. c5 Nc6 12. Bd3 Qe7 13. O-O O-O 14. b4 b5
+15. Qb3 Bd7 16. a4 Na7 17. axb5 Nxb5 18. Nxb5 Bxb5 19. Ra3 c6 20. Bxb5 axb5
+21. Rfa1 Qb7 22. Ne5 Rxa3 23. Qxa3 Nd7 24. Nd3 f6 25. Qa7 Qc8 26. Qa3 Kf7
+27. Qb2 Qb7 28. Qa3 Rb8 29. Qa6 Ke7 30. Qxb7 Rxb7 31. Ra5 e5 32. Nc1 Nb8
+33. Nb3 Kd7 34. Ra8 Kc8 35. Na5 Rc7 36. Kf1 exd4 37. exd4 h5 38. f3 f5 39.
+f4 h4 40. Kf2 Rd7 41. Nxc6 Kb7 42. Nxb8 Rd8 43. Ra5 Kxb8 44. Rxb5+ 1-0
+
